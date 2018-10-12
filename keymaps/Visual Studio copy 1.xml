@@ -90,6 +90,9 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl t" />
@@ -196,6 +199,9 @@
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="context_menu" />
     <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="ShowSettingsAndFindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
