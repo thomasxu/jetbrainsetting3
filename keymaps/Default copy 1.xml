@@ -1,0 +1,21 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorUnSelectWord" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="NextTab" />
+  <action id="ParameterInfo" />
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="PreviousTab" />
+  <action id="Runner.CloseAllUnpinnedViews">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+</keymap>
