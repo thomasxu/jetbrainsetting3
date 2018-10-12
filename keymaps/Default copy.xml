@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+</keymap>
