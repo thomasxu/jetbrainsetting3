@@ -23,10 +23,17 @@
     <keyboard-shortcut first-keystroke="ctrl f7" />
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="Refresh">
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
