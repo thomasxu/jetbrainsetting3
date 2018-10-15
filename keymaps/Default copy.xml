@@ -19,6 +19,12 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="shift end" />
   </action>
@@ -29,6 +35,7 @@
   <action id="HighlightUsagesInFile">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="NextTab" />
   <action id="ParameterInfo" />
   <action id="PinActiveTab">
