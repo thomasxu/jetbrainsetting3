@@ -238,4 +238,8 @@
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
+  <action id="XDebugger.AttachToProcess">
+    <keyboard-shortcut first-keystroke="ctrl alt f5" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
 </keymap>
