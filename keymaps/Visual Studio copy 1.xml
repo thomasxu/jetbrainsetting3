@@ -19,6 +19,11 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="CallHierarchy" />
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="ClassNameCompletion">
     <keyboard-shortcut first-keystroke="shift space" />
@@ -199,6 +204,7 @@
   <action id="RiderUnitTestSessionRerunFailedTestsAction">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
+  <action id="SaveAll" />
   <action id="SearchEverywhere" />
   <action id="SelectAllOccurrences" />
   <action id="ShelvedChanges.Rename">
