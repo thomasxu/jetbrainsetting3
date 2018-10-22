@@ -48,6 +48,7 @@
   </action>
   <action id="Console.Execute" />
   <action id="Console.History.Browse" />
+  <action id="Console.Open" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -147,6 +148,10 @@
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
+  <action id="JumpToStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -207,6 +212,7 @@
   <action id="SaveAll" />
   <action id="SearchEverywhere" />
   <action id="SelectAllOccurrences" />
+  <action id="SetNextStatement" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
