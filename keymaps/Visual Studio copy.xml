@@ -84,6 +84,10 @@
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
   <action id="Print" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="shift ctrl f1" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
