@@ -13,6 +13,7 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -28,6 +29,7 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="shift alt right" />
@@ -72,12 +74,16 @@
   </action>
   <action id="NextEditorTab" />
   <action id="NextTab" />
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="PopupHector" />
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
+  <action id="Print" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
@@ -94,6 +100,10 @@
   <action id="SetNextStatement" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="context_menu" />
+    <keyboard-shortcut first-keystroke="shift f10" />
   </action>
   <action id="ToggleBreakpointEnabled" />
   <action id="UML.ActualSize">
