@@ -75,6 +75,7 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="GotoCustomRegion" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
@@ -179,6 +180,7 @@
   </action>
   <action id="Vcs.Show.Log">
     <keyboard-shortcut first-keystroke="alt 9" />
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
   <action id="Vcs.ShowHistoryForBlock">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
