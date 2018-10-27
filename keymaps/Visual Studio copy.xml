@@ -62,10 +62,16 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="v" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="ctrl alt v" />
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
@@ -98,10 +104,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
-  <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="shift ctrl r" />
-    <keyboard-shortcut first-keystroke="ctrl alt a" />
-  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
@@ -123,12 +125,12 @@
     <keyboard-shortcut first-keystroke="context_menu" />
     <keyboard-shortcut first-keystroke="shift f10" />
   </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="ToggleBreakpointEnabled" />
   <action id="UML.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
-  </action>
-  <action id="Vcs.Show.Local.Changes">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="Vcs.Show.Log">
     <keyboard-shortcut first-keystroke="alt 9" />
