@@ -11,8 +11,8 @@
   <action id="ActivateWebToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
-    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
+  <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -21,6 +21,7 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="Console.Open" />
+  <action id="Diagram.DeselectAll" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="EditorUnSelectWord">
@@ -66,6 +67,10 @@
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
   <action id="JumpToStatement">
     <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
@@ -92,6 +97,10 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
     <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
