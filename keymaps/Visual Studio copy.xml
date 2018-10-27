@@ -12,13 +12,18 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="CallHierarchy" />
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChangesView.ShelveSilently" />
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="Compare.LastVersion">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
   <action id="Console.Open" />
   <action id="Diagram.DeselectAll" />
@@ -136,6 +141,9 @@
   <action id="ToggleBreakpointEnabled" />
   <action id="UML.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
   <action id="Vcs.Show.Log">
     <keyboard-shortcut first-keystroke="alt 9" />
