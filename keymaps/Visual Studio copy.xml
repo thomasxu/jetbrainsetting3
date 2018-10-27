@@ -27,6 +27,11 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="m" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl m" />
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
