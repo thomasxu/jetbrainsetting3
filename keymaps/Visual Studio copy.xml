@@ -122,6 +122,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
+  <action id="Move">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="o" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
