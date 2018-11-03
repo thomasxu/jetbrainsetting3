@@ -30,6 +30,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCleanup" />
+  <action id="CodeInspection.OnEditor" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
@@ -175,6 +176,14 @@
   <action id="JumpToStatement">
     <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
+  </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="shift alt i" />
   </action>
   <action id="Move">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="o" />
