@@ -133,6 +133,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="alt end" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="shift alt i" />
+  </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="shift ctrl alt n" />
@@ -177,14 +186,6 @@
   <action id="JumpToStatement">
     <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
-  </action>
-  <action id="MethodDown">
-    <keyboard-shortcut first-keystroke="alt down" />
-    <keyboard-shortcut first-keystroke="shift alt k" />
-  </action>
-  <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="alt up" />
-    <keyboard-shortcut first-keystroke="shift alt i" />
   </action>
   <action id="Move">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="o" />
