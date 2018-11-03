@@ -20,6 +20,7 @@
   <action id="CallHierarchy" />
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChangesView.Move" />
   <action id="ChangesView.ShelveSilently" />
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -40,7 +41,6 @@
   <action id="Diagram.DeselectAll" />
   <action id="Diff.ApplyLeftSide">
     <keyboard-shortcut first-keystroke="shift alt left" />
-    <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
   <action id="Diff.ApplyRightSide">
     <keyboard-shortcut first-keystroke="shift alt right" />
@@ -50,11 +50,22 @@
   </action>
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="shift alt left" />
-    <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="shift k" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="shift j" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="shift l" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -64,6 +75,10 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="shift i" />
   </action>
   <action id="ExportToTextFile" />
   <action id="ExtractMethod">
@@ -84,6 +99,10 @@
     <keyboard-shortcut first-keystroke="alt f3" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift f12" />
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -101,6 +120,12 @@
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="GotoCustomRegion" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
@@ -138,10 +163,14 @@
     <keyboard-shortcut first-keystroke="ctrl alt v" />
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
+  <action id="Jdbc.OpenEditor.DDL">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
     <keyboard-shortcut first-keystroke="shift alt left" />
-    <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
   <action id="JumpToStatement">
     <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
@@ -161,6 +190,10 @@
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="NextEditorTab" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="shift alt l" />
+  </action>
   <action id="NextTab" />
   <action id="PerforceDirect.Edit" />
   <action id="PinActiveTab">
@@ -169,9 +202,12 @@
   <action id="PopupHector" />
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="alt left" />
-    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="PreviousEditorTab" />
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
   <action id="PreviousTab" />
   <action id="Print" />
   <action id="QuickJavaDoc">
@@ -223,6 +259,7 @@
   </action>
   <action id="Unscramble" />
   <action id="UnselectPreviousOccurrence" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
