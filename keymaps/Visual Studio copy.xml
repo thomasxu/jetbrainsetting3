@@ -60,10 +60,6 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="shift k" />
   </action>
-  <action id="EditorLeft">
-    <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="shift j" />
-  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="shift l" />
@@ -76,10 +72,6 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <keyboard-shortcut first-keystroke="alt u" />
-  </action>
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="shift i" />
   </action>
   <action id="ExportToTextFile" />
   <action id="ExtractMethod">
