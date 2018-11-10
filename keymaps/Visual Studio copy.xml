@@ -1,6 +1,5 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
   <action id="AceAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
     <keyboard-shortcut first-keystroke="alt semicolon" />
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
@@ -59,15 +58,17 @@
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="shift k" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="shift j" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="shift l" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -81,6 +82,7 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="shift i" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt i" />
   </action>
   <action id="ExportToTextFile" />
   <action id="ExtractMethod">
@@ -193,6 +195,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl o" />
     <keyboard-shortcut first-keystroke="f6" />
   </action>
+  <action id="MoveElementLeft" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -227,6 +230,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="ReSharperMoveStatementLeft" />
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -251,6 +255,7 @@
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="ctrl l" />
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
+  <action id="RunInspection" />
   <action id="Runner.CloseAllUnpinnedViews">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -263,6 +268,7 @@
     <keyboard-shortcut first-keystroke="context_menu" />
     <keyboard-shortcut first-keystroke="shift f10" />
   </action>
+  <action id="ShowReformatFileDialog" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
