@@ -73,7 +73,6 @@
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="shift j" />
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
@@ -92,7 +91,6 @@
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="shift i" />
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
   </action>
   <action id="ExportToTextFile" />
@@ -317,6 +315,10 @@
   <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker" />
   <action id="ViewBreakpoints" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="XDebugger.AttachToProcess">
     <keyboard-shortcut first-keystroke="ctrl alt f5" />
     <keyboard-shortcut first-keystroke="ctrl alt p" />
