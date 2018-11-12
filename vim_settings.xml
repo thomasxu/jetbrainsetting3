@@ -9,13 +9,21 @@
         <mark key="." line="36" column="39" />
         <mark key="^" line="36" column="39" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" timestamp="1542054789900">
-        <mark key="'" line="218" column="39" />
-        <mark key="[" line="259" column="8" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" timestamp="1542055205338">
+        <mark key="'" line="143" column="39" />
+        <mark key="[" line="226" column="16" />
         <mark key="m" line="57" column="33" />
-        <mark key="]" line="261" column="11" />
-        <mark key="^" line="261" column="11" />
-        <mark key="." line="261" column="11" />
+        <mark key="]" line="226" column="16" />
+        <mark key="^" line="226" column="16" />
+        <mark key="." line="226" column="16" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" timestamp="1542060134427">
+        <mark key="'" line="68" column="16" />
+        <mark key="[" line="73" column="30" />
+        <mark key="]" line="74" column="14" />
+        <mark key="m" line="55" column="11" />
+        <mark key="." line="74" column="14" />
+        <mark key="^" line="74" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -26,22 +34,54 @@
       <jump line="59" column="43" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="142" column="46" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="218" column="39" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
+      <jump line="143" column="39" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
+      <jump line="64" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="75" column="33" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="70" column="169" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="29" column="21" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="46" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="62" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="50" column="136" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="71" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="45" column="44" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="184" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="0" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="55" column="11" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="68" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="0" type="2">
+        <text encoding="base64">X2lzSGVhZGluZyBBbnlBbnlBbnl2YWx1ZXMuQW55CiAgICAgICAgICAgIHJldHVybiBhd2FpdCBQcm9jZXNzQXN5bmModXNlcklkLCB0cmFkZVBhY2thZ2VJZCwgdmFsdWVzLCBza2lwTWFudWFsVG90YWxSZW1vdmFsQ2hlY2ssIGNhY2hlZFF1b3RlSWRzKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgQW55QW55QW55dmFsdWVzLkFueQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRzYWZkc2Fmc2RhCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">X2lzSGVhZGluZyBBbnlBbnlBbnl2YWx1ZXMuQW55CiAgICAgICAgICAgIHJldHVybiBhd2FpdCBQcm9jZXNzQXN5bmModXNlcklkLCB0cmFkZVBhY2thZ2VJZCwgdmFsdWVzLCBza2lwTWFudWFsVG90YWxSZW1vdmFsQ2hlY2ssIGNhY2hlZFF1b3RlSWRzKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgQW55QW55QW55dmFsdWVzLkFueQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zY1F1b3RhYXNkZklBbW91bnRzRGljdGlvbmFyeSA9IGF3YWl0IFF1b3RlQW1vdW50UmVwb3NpdG9yeS5HZXRRdW90ZUFtb3VudHNXaXRoUXVvdGVEaWN0aW9uYXJ5QXN5bmMoX3NyY1F1b3RlSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYmFzZS5uaXQocXVvdGVzSWQpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLy8gTG9hZCB0aGUgZGF0YSBuZWNlc3NhcnkgdG8gcm9jZXNzIHRoZSByZXF1ZXN0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLlNlbGVjdChwYWlyID0+IHBhaXJhYWEuVmFsdWUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzXD4=</text>
+        <text encoding="base64">XDxfaXNIZWFkaW5nXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzXD4=</last-search>
+      <last-search encoding="base64">XDxfaXNIZWFkaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfaXNIZWFkaW5nXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -49,6 +89,8 @@
       <history-search>
         <entry>process</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
+        <entry encoding="base64">XDxfc3JjUXVvdGVBbW91bnRzRGljdGlvbmFyeVw+</entry>
+        <entry encoding="base64">XDxfaXNIZWFkaW5nXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -63,6 +105,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
