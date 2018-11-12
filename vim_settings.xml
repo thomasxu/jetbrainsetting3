@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/SaveQuoteAmountUpdater.cs" timestamp="1541914641397">
@@ -9,8 +9,24 @@
         <mark key="." line="36" column="39" />
         <mark key="^" line="36" column="39" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" timestamp="1542054789900">
+        <mark key="'" line="218" column="39" />
+        <mark key="[" line="259" column="8" />
+        <mark key="m" line="57" column="33" />
+        <mark key="]" line="261" column="11" />
+        <mark key="^" line="261" column="11" />
+        <mark key="." line="261" column="11" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="60" column="33" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
+      <jump line="73" column="63" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
+      <jump line="140" column="58" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
+      <jump line="260" column="45" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
+      <jump line="59" column="43" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
+      <jump line="142" column="46" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
+      <jump line="218" column="39" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>s</text>
@@ -18,13 +34,22 @@
       <register name="-" type="4">
         <text>s</text>
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxwcm9jZXNzXD4=</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxwcm9jZXNzXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxwcm9jZXNzXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>process</entry>
+        <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
@@ -35,6 +60,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
