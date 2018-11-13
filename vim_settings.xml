@@ -9,6 +9,13 @@
         <mark key="." line="36" column="39" />
         <mark key="^" line="36" column="39" />
       </file>
+      <file name="$USER_HOME$/Desktop/TradePackageLifecycle.txt" timestamp="1542070124946">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" timestamp="1542055205338">
         <mark key="m" line="57" column="33" />
       </file>
@@ -43,6 +50,7 @@
       <jump line="0" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
       <jump line="55" column="11" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
       <jump line="68" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
+      <jump line="5" column="2" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -51,8 +59,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRzYWZkc2Fmc2RhCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">X2lzSGVhZGluZyBBbnlBbnlBbnl2YWx1ZXMuQW55CiAgICAgICAgICAgIHJldHVybiBhd2FpdCBQcm9jZXNzQXN5bmModXNlcklkLCB0cmFkZVBhY2thZ2VJZCwgdmFsdWVzLCBza2lwTWFudWFsVG90YWxSZW1vdmFsQ2hlY2ssIGNhY2hlZFF1b3RlSWRzKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgQW55QW55QW55dmFsdWVzLkFueQo=</text>
+      <register name="&quot;" type="4">
+        <text>sdfj</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIF9zY1F1b3RhYXNkZklBbW91bnRzRGljdGlvbmFyeSA9IGF3YWl0IFF1b3RlQW1vdW50UmVwb3NpdG9yeS5HZXRRdW90ZUFtb3VudHNXaXRoUXVvdGVEaWN0aW9uYXJ5QXN5bmMoX3NyY1F1b3RlSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
@@ -66,8 +74,11 @@
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLlNlbGVjdChwYWlyID0+IHBhaXJhYWEuVmFsdWUpCg==</text>
       </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
       <register name="-" type="4">
-        <text />
+        <text>sdfj</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaXNIZWFkaW5nXD4=</text>
@@ -87,7 +98,9 @@
         <entry encoding="base64">XDxfc3JjUXVvdGVBbW91bnRzRGljdGlvbmFyeVw+</entry>
         <entry encoding="base64">XDxfaXNIZWFkaW5nXD4=</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -112,6 +125,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
