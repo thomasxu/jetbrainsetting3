@@ -10,12 +10,12 @@
         <mark key="^" line="36" column="39" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1542080882375" />
-      <file name="$USER_HOME$/Desktop/TradePackageLifecycle.txt" timestamp="1542077289268">
+      <file name="$USER_HOME$/Desktop/TradePackageLifecycle.txt" timestamp="1542083383999">
         <mark key="'" line="4" column="2" />
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="8" />
-        <mark key="^" line="7" column="8" />
-        <mark key="." line="7" column="8" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+        <mark key="^" line="23" column="2" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmountRepositoryTest.cs" timestamp="1542080849235" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.Integration.config" timestamp="1542080904958" />
@@ -57,47 +57,55 @@
       <jump line="5" column="2" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxhZGQgbmFtZT0iQmFydGVuZGVyQ29udGV4dFB1Ymxpc2giIGNvbm5lY3Rpb25TdHJpbmc9InNlcnZlcj0xOTIuMTY4Ljk5LjEwMDtwb3J0PTMzMzM7dXNlciBpZD1iYXJ0ZW5kZXJQdWJsaXNoO3Bhc3N3b3JkPTAwMDA7cGVyc2lzdHNlY3VyaXR5aW5mbz1UcnVlO2FsbG93IHVzZXIgdmFyaWFibGVzPXRydWU7ZGF0YWJhc2U9YmFydGVuZGVyIiBwcm92aWRlck5hbWU9Ik15U3FsLkRhdGEuTXlTcWxDbGllbnQiIC8+CiAgICA8YWRkIG5hbWU9IkJhcnRlbmRlckNvbnRleHQiIGNvbm5lY3Rpb25TdHJpbmc9InNlcnZlcj0xOTIuMTY4Ljk5LjEwMDtwb3J0PTMzMzM7dXNlciBpZD1iYXJ0ZW5kZXI7cGFzc3dvcmQ9MDAwMDtwZXJzaXN0c2VjdXJpdHlpbmZvPVRydWU7YWxsb3cgdXNlciB2YXJpYWJsZXM9dHJ1ZTtkYXRhYmFzZT1iYXJ0ZW5kZXIiIHByb3ZpZGVyTmFtZT0iTXlTcWwuRGF0YS5NeVNxbENsaWVudCIgLz4K</text>
-      </register>
-      <register name="1" type="8">
-        <text>=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxhZGQgbmFtZT0iQmFydGVuZGVyQ29udGV4dFB1Ymxpc2giIGNvbm5lY3Rpb25TdHJpbmc9InNlcnZlcj0xOTIuMTY4Ljk5LjEwMDtwb3J0PTMzMzM7dXNlciBpZD1iYXJ0ZW5kZXJQdWJsaXNoO3Bhc3N3b3JkPTAwMDA7cGVyc2lzdHNlY3VyaXR5aW5mbz1UcnVlO2FsbG93IHVzZXIgdmFyaWFibGVzPXRydWU7ZGF0YWJhc2U9YmFydGVuZGVyIiBwcm92aWRlck5hbWU9Ik15U3FsLkRhdGEuTXlTcWxDbGllbnQiIC8+CiAgICA8YWRkIG5hbWU9IkJhcnRlbmRlckNvbnRleHQiIGNvbm5lY3Rpb25TdHJpbmc9InNlcnZlcj0xOTIuMTY4Ljk5LjEwMDtwb3J0PTMzMzM7dXNlciBpZD1iYXJ0ZW5kZXI7cGFzc3dvcmQ9MDAwMDtwZXJzaXN0c2VjdXJpdHlpbmZvPVRydWU7YWxsb3cgdXNlciB2YXJpYWJsZXM9dHJ1ZTtkYXRhYmFzZT1iYXJ0ZW5kZXIiIHByb3ZpZGVyTmFtZT0iTXlTcWwuRGF0YS5NeVNxbENsaWVudCIgLz4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Pz9Tb250YWN0SWQsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRzYWZkc2Fmc2RhCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zY1F1b3RhYXNkZklBbW91bnRzRGljdGlvbmFyeSA9IGF3YWl0IFF1b3RlQW1vdW50UmVwb3NpdG9yeS5HZXRRdW90ZUFtb3VudHNXaXRoUXVvdGVEaWN0aW9uYXJ5QXN5bmMoX3NyY1F1b3RlSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYmFzZS5uaXQocXVvdGVzSWQpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gTG9hZCB0aGUgZGF0YSBuZWNlc3NhcnkgdG8gcm9jZXNzIHRoZSByZXF1ZXN0Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLlNlbGVjdChwYWlyID0+IHBhaXJhYWEuVmFsdWUpCg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="&quot;" type="4">
+        <text>uoting,</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>uoting,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaXNIZWFkaW5nXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxhZGQgbmFtZT0iQmFydGVuZGVyQ29udGV4dFB1Ymxpc2giIGNvbm5lY3Rpb25TdHJpbmc9InNlcnZlcj0xOTIuMTY4Ljk5LjEwMDtwb3J0PTMzMzM7dXNlciBpZD1iYXJ0ZW5kZXJQdWJsaXNoO3Bhc3N3b3JkPTAwMDA7cGVyc2lzdHNlY3VyaXR5aW5mbz1UcnVlO2FsbG93IHVzZXIgdmFyaWFibGVzPXRydWU7ZGF0YWJhc2U9YmFydGVuZGVyIiBwcm92aWRlck5hbWU9Ik15U3FsLkRhdGEuTXlTcWxDbGllbnQiIC8+CiAgICA8YWRkIG5hbWU9IkJhcnRlbmRlckNvbnRleHQiIGNvbm5lY3Rpb25TdHJpbmc9InNlcnZlcj0xOTIuMTY4Ljk5LjEwMDtwb3J0PTMzMzM7dXNlciBpZD1iYXJ0ZW5kZXI7cGFzc3dvcmQ9MDAwMDtwZXJzaXN0c2VjdXJpdHlpbmZvPVRydWU7YWxsb3cgdXNlciB2YXJpYWJsZXM9dHJ1ZTtkYXRhYmFzZT1iYXJ0ZW5kZXIiIHByb3ZpZGVyTmFtZT0iTXlTcWwuRGF0YS5NeVNxbENsaWVudCIgLz4K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="8">
+        <text>=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pz9Tb250YWN0SWQsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRzYWZkc2Fmc2RhCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zY1F1b3RhYXNkZklBbW91bnRzRGljdGlvbmFyeSA9IGF3YWl0IFF1b3RlQW1vdW50UmVwb3NpdG9yeS5HZXRRdW90ZUFtb3VudHNXaXRoUXVvdGVEaWN0aW9uYXJ5QXN5bmMoX3NyY1F1b3RlSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYmFzZS5uaXQocXVvdGVzSWQpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLy8gTG9hZCB0aGUgZGF0YSBuZWNlc3NhcnkgdG8gcm9jZXNzIHRoZSByZXF1ZXN0Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
       <last-search encoding="base64">XDxfaXNIZWFkaW5nXD4=</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxfaXNIZWFkaW5nXD4=</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxfaXNIZWFkaW5nXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -144,6 +152,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
