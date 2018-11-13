@@ -19,8 +19,11 @@
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmountRepositoryTest.cs" timestamp="1542080849235" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.Integration.config" timestamp="1542080904958" />
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" timestamp="1542055205338">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" timestamp="1542099198059">
+        <mark key="[" line="221" column="0" />
         <mark key="m" line="57" column="33" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" timestamp="1542064655048">
         <mark key="'" line="68" column="16" />
@@ -65,8 +68,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIFF1b3RlQW1vdW50c0dyb3VwZWRCeVBhcmVudElkID0gbmV3IERpY3Rpb25hcnk8KGludCBwYXJlbnRUcmFkZVBhY2thZ2VJdGVtSWQsIGludCBxdW90ZUlkKSwgTGlzdDxRdW90ZUFtb3VudEVudGl0eT4+KCk7CgogICAgICAgICAgICBmb3JlYWNoICh2YXIgcXVvdGVBbW91bnQgaW4gUXVvdGVBbW91bnRzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBxdW90ZUFtb3VudC5RdW90ZSA9IHF1b3Rlc1txdW90ZUFtb3VudC5RdW90ZUlkXTsKICAgICAgICAgICAgICAgIHF1b3RlQW1vdW50LlRyYWRlUGFja2FnZUl0ZW0gPSBUcmFkZVBhY2thZ2VJdGVtTWFwcGluZ0J5SWRbcXVvdGVBbW91bnQuVHJhZGVQYWNrYWdlSXRlbUlkXTsKCiAgICAgICAgICAgICAgICB2YXIgcGFyZW50SWQgPSBxdW90ZUFtb3VudC5UcmFkZVBhY2thZ2VJdGVtLlBhcmVudElkOwogICAgICAgICAgICAgICAgdmFyIHF1b3RlSWQgPSBxdW90ZUFtb3VudC5RdW90ZUlkOwo=</text>
       </register>
       <register name="-" type="4">
         <text>t,</text>
@@ -78,31 +81,31 @@
         <text encoding="base64">ICAgIDxhZGQgbmFtZT0iQmFydGVuZGVyQ29udGV4dFB1Ymxpc2giIGNvbm5lY3Rpb25TdHJpbmc9InNlcnZlcj0xOTIuMTY4Ljk5LjEwMDtwb3J0PTMzMzM7dXNlciBpZD1iYXJ0ZW5kZXJQdWJsaXNoO3Bhc3N3b3JkPTAwMDA7cGVyc2lzdHNlY3VyaXR5aW5mbz1UcnVlO2FsbG93IHVzZXIgdmFyaWFibGVzPXRydWU7ZGF0YWJhc2U9YmFydGVuZGVyIiBwcm92aWRlck5hbWU9Ik15U3FsLkRhdGEuTXlTcWxDbGllbnQiIC8+CiAgICA8YWRkIG5hbWU9IkJhcnRlbmRlckNvbnRleHQiIGNvbm5lY3Rpb25TdHJpbmc9InNlcnZlcj0xOTIuMTY4Ljk5LjEwMDtwb3J0PTMzMzM7dXNlciBpZD1iYXJ0ZW5kZXI7cGFzc3dvcmQ9MDAwMDtwZXJzaXN0c2VjdXJpdHlpbmZvPVRydWU7YWxsb3cgdXNlciB2YXJpYWJsZXM9dHJ1ZTtkYXRhYmFzZT1iYXJ0ZW5kZXIiIHByb3ZpZGVyTmFtZT0iTXlTcWwuRGF0YS5NeVNxbENsaWVudCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIFF1b3RlQW1vdW50c0dyb3VwZWRCeVBhcmVudElkID0gbmV3IERpY3Rpb25hcnk8KGludCBwYXJlbnRUcmFkZVBhY2thZ2VJdGVtSWQsIGludCBxdW90ZUlkKSwgTGlzdDxRdW90ZUFtb3VudEVudGl0eT4+KCk7CgogICAgICAgICAgICBmb3JlYWNoICh2YXIgcXVvdGVBbW91bnQgaW4gUXVvdGVBbW91bnRzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBxdW90ZUFtb3VudC5RdW90ZSA9IHF1b3Rlc1txdW90ZUFtb3VudC5RdW90ZUlkXTsKICAgICAgICAgICAgICAgIHF1b3RlQW1vdW50LlRyYWRlUGFja2FnZUl0ZW0gPSBUcmFkZVBhY2thZ2VJdGVtTWFwcGluZ0J5SWRbcXVvdGVBbW91bnQuVHJhZGVQYWNrYWdlSXRlbUlkXTsKCiAgICAgICAgICAgICAgICB2YXIgcGFyZW50SWQgPSBxdW90ZUFtb3VudC5UcmFkZVBhY2thZ2VJdGVtLlBhcmVudElkOwogICAgICAgICAgICAgICAgdmFyIHF1b3RlSWQgPSBxdW90ZUFtb3VudC5RdW90ZUlkOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUXVvdGVBbW91bnRzID0gYXdhaXQgUXVvdGVBbW91bnRSZXBvc2l0b3J5LkdldFF1b3RlQW1vdW50c1dpdGhQbHVnc0FzeW5jKHF1b3Rlc0lkKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CgogICAgICAgICAgICBUcmFkZVBhY2thZ2VJdGVtTWFwcGluZ0J5SWQgPSBhd2FpdCBUcmFkZVBhY2thZ2VJdGVtUmVwb3NpdG9yeS5HZXREaWN0aW9uYXJ5QXN5bmMoVHJhZGVQYWNrYWdlSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKCiAgICAgICAgICAgIHZhciBxdW90ZXMgPSBhd2FpdCBRdW90ZVJlcG9zaXRvcnkuR2V0RGljdGlvbmFyeUFzeW5jKHF1b3Rlc0lkKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHJhZGVQYWNrYWdlID0gYXdhaXQgVHJhZGVQYWNrYWdlUmVwb3NpdG9yeS5HZXRBc3luYyhUcmFkZVBhY2thZ2VJZCkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBpaUlJSUlJSUlJSUlJSUlJaWlpewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IFRyYWRlUGFja2FnZUxpZmVjeWNsZSB7CiAgICBJTGlzdDxRdW90ZUxpZmVjeWNsZT4gcXVvdGVMaWZlY3ljbGUsCiAgICBJTGlzdDxUcmFkZUNhdGVnb3J5PiB0cmFkZUNhdGVnb3J5LAogICAgRGF0ZVRpbWUgRHVlRGF0ZSwK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IFRyYWRlUGFja2FnZUxpZmVjeWNsZSB7CiAgICBJTGlzdDxRdW90ZUxpZmVjeWNsZT4gcXVvdGVMaWZlY3ljbGUsCiAgICBJTGlzdDxUcmFkZUNhdGVnb3J5PiB0cmFkZUNhdGVnb3J5LAogICAgRGF0ZVRpbWUgRHVlRGF0ZSwK</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IAogVHJhZGVQYWNrYWdlTGlmZWN5Y2xlIHsKICAgIElMaXN0PFF1b3RlTGlmZWN5Y2xlPiBxdW90ZUxpZmVjeWNsZSwKICAgIElMaXN0PFRyYWRlQ2F0ZWdvcnk+IHRyYWRlQ2F0ZWdvcnks</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwaS92MS9xdW90ZS9saWZlY3ljbGUKICAgIAoKCiBhcGkvdjEK</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ewogICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">IFRyYWRlUGFja2FnZUxpZmVjeWNsZSB7CiAgICBJTGlzdDxRdW90ZUxpZmVjeWNsZT4gcXVvdGVMaWZlY3ljbGUsCiAgICBJTGlzdDxUcmFkZUNhdGVnb3J5PiB0cmFkZUNhdGVnb3J5LAogICAgRGF0ZVRpbWUgRHVlRGF0ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
