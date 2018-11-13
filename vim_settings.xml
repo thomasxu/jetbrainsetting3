@@ -10,12 +10,12 @@
         <mark key="^" line="36" column="39" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1542080882375" />
-      <file name="$USER_HOME$/Desktop/TradePackageLifecycle.txt" timestamp="1542086853302">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="32" column="32" />
-        <mark key="]" line="32" column="31" />
-        <mark key="." line="32" column="31" />
-        <mark key="^" line="32" column="24" />
+      <file name="$USER_HOME$/Desktop/TradePackageLifecycle.txt" timestamp="1542089357066">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="52" />
+        <mark key="]" line="37" column="81" />
+        <mark key="." line="37" column="81" />
+        <mark key="^" line="37" column="81" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmountRepositoryTest.cs" timestamp="1542080849235" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.Integration.config" timestamp="1542080904958" />
@@ -58,13 +58,18 @@
       <jump line="15" column="20" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
       <jump line="25" column="10" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
       <jump line="31" column="0" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
+      <jump line="34" column="11" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
+      <jump line="2" column="3" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
+      <jump line="27" column="21" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
+      <jump line="28" column="0" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>?trade</text>
@@ -72,32 +77,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxhZGQgbmFtZT0iQmFydGVuZGVyQ29udGV4dFB1Ymxpc2giIGNvbm5lY3Rpb25TdHJpbmc9InNlcnZlcj0xOTIuMTY4Ljk5LjEwMDtwb3J0PTMzMzM7dXNlciBpZD1iYXJ0ZW5kZXJQdWJsaXNoO3Bhc3N3b3JkPTAwMDA7cGVyc2lzdHNlY3VyaXR5aW5mbz1UcnVlO2FsbG93IHVzZXIgdmFyaWFibGVzPXRydWU7ZGF0YWJhc2U9YmFydGVuZGVyIiBwcm92aWRlck5hbWU9Ik15U3FsLkRhdGEuTXlTcWxDbGllbnQiIC8+CiAgICA8YWRkIG5hbWU9IkJhcnRlbmRlckNvbnRleHQiIGNvbm5lY3Rpb25TdHJpbmc9InNlcnZlcj0xOTIuMTY4Ljk5LjEwMDtwb3J0PTMzMzM7dXNlciBpZD1iYXJ0ZW5kZXI7cGFzc3dvcmQ9MDAwMDtwZXJzaXN0c2VjdXJpdHlpbmZvPVRydWU7YWxsb3cgdXNlciB2YXJpYWJsZXM9dHJ1ZTtkYXRhYmFzZT1iYXJ0ZW5kZXIiIHByb3ZpZGVyTmFtZT0iTXlTcWwuRGF0YS5NeVNxbENsaWVudCIgLz4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ewogICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBJbnZpdGF0aW9uRGVjbGluZWQsCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBDb21wbGV0ZWQsCiAgUGlja2VkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBDb21wbGV0ZWQsCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBDb21wbGV0ZWQsCiAgUGlja2VkCg==</text>
+        <text encoding="base64">IFRyYWRlUGFja2FnZUxpZmVjeWNsZSB7CiAgICBJTGlzdDxRdW90ZUxpZmVjeWNsZT4gcXVvdGVMaWZlY3ljbGUsCiAgICBJTGlzdDxUcmFkZUNhdGVnb3J5PiB0cmFkZUNhdGVnb3J5LAogICAgRGF0ZVRpbWUgRHVlRGF0ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IFRyYWRlUGFja2FnZUxpZmVjeWNsZSB7CiAgICBJTGlzdDxRdW90ZUxpZmVjeWNsZT4gcXVvdGVMaWZlY3ljbGUsCiAgICBJTGlzdDxUcmFkZUNhdGVnb3J5PiB0cmFkZUNhdGVnb3J5LAogICAgRGF0ZVRpbWUgRHVlRGF0ZSwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IAogVHJhZGVQYWNrYWdlTGlmZWN5Y2xlIHsKICAgIElMaXN0PFF1b3RlTGlmZWN5Y2xlPiBxdW90ZUxpZmVjeWNsZSwKICAgIElMaXN0PFRyYWRlQ2F0ZWdvcnk+IHRyYWRlQ2F0ZWdvcnks</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGFwaS92MS9xdW90ZS9saWZlY3ljbGUKICAgIAoKCiBhcGkvdjEK</text>
       </register>
-      <register name="9" type="8">
-        <text>=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ewogICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
