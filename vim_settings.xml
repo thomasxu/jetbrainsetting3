@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/QuoteLifecycle.cs" timestamp="1542109339014">
@@ -10,13 +10,13 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" timestamp="1542280424967">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" timestamp="1542281297846">
         <mark key="'" line="73" column="122" />
-        <mark key="[" line="71" column="50" />
-        <mark key="]" line="71" column="50" />
+        <mark key="[" line="96" column="19" />
+        <mark key="]" line="96" column="20" />
         <mark key="m" line="73" column="13" />
-        <mark key="." line="71" column="50" />
-        <mark key="^" line="71" column="53" />
+        <mark key="." line="96" column="20" />
+        <mark key="^" line="93" column="47" />
       </file>
       <file name="/Dummy.txt" timestamp="1542102683119">
         <mark key="[" line="0" column="0" />
@@ -31,6 +31,12 @@
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" timestamp="1542280038624">
         <mark key="'" line="56" column="24" />
         <mark key="[" line="209" column="71" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/UpdateTradePackageRequest.cs" timestamp="1542281565833">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/BartenderContext.cs" timestamp="1542104357075">
         <mark key="[" line="99" column="89" />
@@ -137,16 +143,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>quoteLifecycle</text>
+        <text>TradeCategory</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>TradeCategory</text>
       </register>
       <register name="/" type="4">
         <text>?trade</text>
       </register>
       <register name="0" type="4">
-        <text>quoteLifecycle</text>
+        <text>TradePackageId</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW1JvdXRlKCJ7dHJhZGVQYWNrYWdlSWQ6aW50fSIpXQogICAgICAgIFtIdHRwUG9zdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxHZW5lcmljUmVzcG9uc2U8VHJhZGVQYWNrYWdlVXBkYXRlUmVzcG9uc2U+PiBVcGRhdGVUcmFkZVBhY2thZ2UoaW50IHZlcnNpb24sIFRyYWRlUGFja2FnZVVwZGF0ZVJlcXVlc3QgcmVxdWVzdCkKICAgICAgICB7CiAgICAgICAgICAgIFZhbGlkYXRlQXBpVmVyc2lvbkFuZFN0YXRlKHZlcnNpb24pOwogICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBhd2FpdCBfdHJhZGVQYWNrYWdlU2VydmljZS5VcGRhdGVUcmFkZVBhY2thZ2VBc3luYyhyZXF1ZXN0KS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgIHJldHVybiBHZW5lcmljUmVzcG9uc2U8VHJhZGVQYWNrYWdlVXBkYXRlUmVzcG9uc2U+LkNyZWF0ZVJlc3BvbnNlKHJlc3BvbnNlKTsKICAgICAgICB9Cg==</text>
