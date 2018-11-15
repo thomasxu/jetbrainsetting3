@@ -23,6 +23,7 @@
   </action>
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="ctrl b" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
   <action id="CallHierarchy" />
   <action id="ChangesView.AddUnversioned" />
@@ -119,6 +120,7 @@
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
@@ -249,9 +251,6 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="ReSharperMoveStatementLeft" />
-  <action id="RebuildSolutionAction">
-    <keyboard-shortcut first-keystroke="shift ctrl b" />
-  </action>
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -324,10 +323,6 @@
   <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker" />
   <action id="ViewBreakpoints" />
-  <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="ctrl alt v" />
-    <keyboard-shortcut first-keystroke="alt m" />
-  </action>
   <action id="XDebugger.AttachToProcess">
     <keyboard-shortcut first-keystroke="ctrl alt f5" />
     <keyboard-shortcut first-keystroke="ctrl alt p" />
