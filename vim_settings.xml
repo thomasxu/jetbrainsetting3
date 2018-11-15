@@ -1,8 +1,18 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks />
+    <globalmarks>
+      <mark key="M" line="34" column="57" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" protocol="file" />
+    </globalmarks>
+    <filemarks>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1542321046574">
+        <mark key="'" line="47" column="24" />
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="18" />
+        <mark key="." line="56" column="18" />
+        <mark key="^" line="56" column="18" />
+      </file>
+    </filemarks>
     <jumps>
       <jump line="26" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="59" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
@@ -12,21 +22,28 @@
       <jump line="7" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="15" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="22" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
-      <jump line="29" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="54" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="51" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="55" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
+      <jump line="34" column="58" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
+      <jump line="29" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
+      <jump line="48" column="20" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
+      <jump line="9" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
+      <jump line="66" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
+      <jump line="27" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
+      <jump line="47" column="24" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>;
-
-            _tradePackageLifecycleRepository.CreateQuoteLifecycle(request);
-        }
-    }
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbWJpbmVkUmVzcG9uc2UgPSAoZnJvbSB0cCBpbiB0cmFkZVBhY2thZ2VzQnlQYWNrYWdlSWQK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWFwcGVyLk1hcChyZXF1ZXN0LCBxdW90ZUxpZmVjeWNsZSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
+        <text>quoteLifecycle</text>
+      </register>
+      <register name="2" type="4">
         <text>;
 
             _tradePackageLifecycleRepository.CreateQuoteLifecycle(request);
@@ -35,7 +52,7 @@
 }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIHZhciBxdW90ZXNMaWZlY3ljbGVCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VMaWZlY3ljbGVSZXBvc2l0b3J5LkdldFF1b3Rlc0xpZmVjeWNsZUJ5Sm9iSWRBc3luYyhqb2JJZCkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOw==</text>
+        <text>quoteLifecycle</text>
       </register>
     </registers>
     <search>
