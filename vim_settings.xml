@@ -5,12 +5,12 @@
       <mark key="M" line="34" column="57" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1542327550389">
-        <mark key="'" line="52" column="49" />
-        <mark key="[" line="28" column="113" />
-        <mark key="]" line="28" column="113" />
-        <mark key="^" line="28" column="112" />
-        <mark key="." line="28" column="113" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1542328188457">
+        <mark key="'" line="27" column="84" />
+        <mark key="[" line="27" column="84" />
+        <mark key="]" line="27" column="83" />
+        <mark key="^" line="27" column="83" />
+        <mark key="." line="27" column="83" />
       </file>
     </filemarks>
     <jumps>
@@ -23,7 +23,6 @@
       <jump line="34" column="58" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="9" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="66" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
-      <jump line="27" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="47" column="24" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="61" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="59" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
@@ -38,27 +37,38 @@
       <jump line="24" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="29" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="52" column="49" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
+      <jump line="28" column="116" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
+      <jump line="27" column="84" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRhY3QgPSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZXNCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LkdldFRyYWRlUGFja2FnZXNCeUpvYklkQXN5bmMoam9iSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlQ2F0ZWdvcmllc0J5UGFja2FnZUlkID0gYXdhaXQgX3RyYWRlUGFja2FnZVJlcG9zaXRvcnkuR2V0VHJhZGVDYXRlZ29yaWVzQnlKb2JJZEFzeW5jKGpvYklkKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ConfigureAwait(false)</text>
+        <text>GetQuotesLifecycleByJobIdAsync</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZXNCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LkdldFRyYWRlUGFja2FnZXNCeUpvYklkQXN5bmMoam9iSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlQ2F0ZWdvcmllc0J5UGFja2FnZUlkID0gYXdhaXQgX3RyYWRlUGFja2FnZVJlcG9zaXRvcnkuR2V0VHJhZGVDYXRlZ29yaWVzQnlKb2JJZEFzeW5jKGpvYklkKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZXNCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LkdldFRyYWRlUGFja2FnZXNCeUpvYklkQXN5bmMoam9iSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlQ2F0ZWdvcmllc0J5UGFja2FnZUlkID0gYXdhaXQgX3RyYWRlUGFja2FnZVJlcG9zaXRvcnkuR2V0VHJhZGVDYXRlZ29yaWVzQnlKb2JJZEFzeW5jKGpvYklkKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZXNCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LkdldFRyYWRlUGFja2FnZXNCeUpvYklkQXN5bmMoam9iSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZXNCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LkdldFRyYWRlUGFja2FnZXNCeUpvYklkQXN5bmMoam9iSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZXNCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LkdldFRyYWRlUGFja2FnZXNCeUpvYklkQXN5bmMoam9iSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhZGVDYXRlZ29yaWVzID0gCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>from tp in tradePackagesByPackageId
                     join tc in tradeCategoriesByPackageId
                         on tp.Key equals tc.Key into mtc
@@ -71,7 +81,7 @@
 DueDate = DateTime.MaxValue,
                     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>from tp in tradePackagesByPackageId
                     join tc in tradeCategoriesByPackageId
                         on tp.Key equals tc.Key into mtc
@@ -84,17 +94,8 @@ DueDate = DateTime.MaxValue,
 
                     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRHVlRGF0ZSA9IHRwLlZhbHVlLkR1ZURhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZUlkID0gdHAuVmFsdWUuSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZU5hbWUgPSB0cC5WYWx1ZS5OYW1lLAogICAgICAgICAgICAgICAgICAgICAgICBzdHJpbmcgYWJzID0gTWFwcGVyLk1hcDxJTGlzdDxUcmFkZUNhdGVnb3J5Pj4ocWwpLAogICAgICAgICAgICAgICAgICAgICAgICBUcmFkZUNhdGVnb3JpZXMgPSBNYXBwZXIuTWFwPElMaXN0PFRyYWRlQ2F0ZWdvcnlSZXNwb25zZT4+KHRjKQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZnJvbSB0cCBpbiB0cmFkZVBhY2thZ2VzQnlQYWNrYWdlSWQKICAgICAgICAgICAgICAgICAgICBqb2luIHRjIGluIHRyYWRlQ2F0ZWdvcmllc0J5UGFja2FnZUlkCiAgICAgICAgICAgICAgICAgICAgICAgIG9uIHRwLktleSBlcXVhbHMgdGMuS2V5IGludG8gbXRjCiAgICAgICAgICAgICAgICAgICAgZnJvbSB0YyBpbiBtdGMuRGVmYXVsdElmRW1wdHkoKQogICAgICAgICAgICAgICAgICAgIGpvaW4gcWwgaW4gcXVvdGVzTGlmZWN5Y2xlQnlQYWNrYWdlSWQKICAgICAgICAgICAgICAgICAgICAgICAgb24gdHAuS2V5IGVxdWFscyBxbC5LZXkgaW50byBtcWwKICAgICAgICAgICAgICAgICAgICBmcm9tIHFsIGluIG1xbC5EZWZhdWx0SWZFbXB0eSgpCiAgICAgICAgICAgICAgICAgICAgc2VsZWN0IG5ldyBUcmFkZVBhY2thZ2VMaWZlY3ljbGVSZXNwb25zZQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgRHVlRGF0ZSA9IHRwLlZhbHVlLkR1ZURhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZUlkID0gdHAuVmFsdWUuSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZU5hbWUgPSB0cC5WYWx1ZS5OYW1lLAogICAgICAgICAgICAgICAgICAgICAgICBzdHJpbmcgYWJzID0gTWFwcGVyLk1hcDxJTGlzdDxUcmFkZUNhdGVnb3J5Pj4ocWwpLAogICAgICAgICAgICAgICAgICAgICAgICBUcmFkZUNhdGVnb3JpZXMgPSBNYXBwZXIuTWFwPElMaXN0PFRyYWRlQ2F0ZWdvcnlSZXNwb25zZT4+KHRjKQogICAgICAgICAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRHVlRGF0ZSA9IHRwLlZhbHVlLkR1ZURhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZUlkID0gdHAuVmFsdWUuSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZU5hbWUgPSB0cC5WYWx1ZS5OYW1lLAogICAgICAgICAgICAgICAgICAgICAgICBzdHJpbmcgYWJzID0gTWFwcGVyLk1hcDxJTGlzdDxUcmFkZUNhdGVnb3J5Pj4ocWwpLAogICAgICAgICAgICAgICAgICAgICAgICBUcmFkZUNhdGVnb3JpZXMgPSBNYXBwZXIuTWFwPElMaXN0PFRyYWRlQ2F0ZWdvcnlSZXNwb25zZT4+KHRjKQo=</text>
-      </register>
       <register name="-" type="4">
-        <text>ConfigureAwait(false)</text>
+        <text>GetQuotesLifecycleByJobIdAsync</text>
       </register>
     </registers>
     <search>
