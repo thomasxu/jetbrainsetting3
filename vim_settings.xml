@@ -5,12 +5,12 @@
       <mark key="M" line="34" column="57" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1542325894968">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1542327550389">
         <mark key="'" line="52" column="49" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="28" column="113" />
+        <mark key="]" line="28" column="113" />
+        <mark key="^" line="28" column="112" />
+        <mark key="." line="28" column="113" />
       </file>
     </filemarks>
     <jumps>
@@ -41,40 +41,60 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhZGVDYXRlZ29yaWVzID0gTWFwcGVyLk1hcDxJTGlzdDxUcmFkZUNhdGVnb3J5UmVzcG9uc2U+Pih0YyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRhY3QgPSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZXNCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LkdldFRyYWRlUGFja2FnZXNCeUpvYklkQXN5bmMoam9iSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ConfigureAwait(false)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5Db250YWN0SWQgPSBjb250YWN0Py5JZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZXNCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LkdldFRyYWRlUGFja2FnZXNCeUpvYklkQXN5bmMoam9iSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZXNCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LkdldFRyYWRlUGFja2FnZXNCeUpvYklkQXN5bmMoam9iSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXNkZlF1b3RlTGlmZWN5Y2xlID0gTWFwcGVyLk1hcDxJTGlzdDxRdW90ZUxpZmVjeWNsZVJlc3BvbnM+PihxbCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhZGVDYXRlZ29yaWVzID0gCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ZnJvbSB0cCBpbiB0cmFkZVBhY2thZ2VzQnlQYWNrYWdlSWQKICAgICAgICAgICAgICAgICAgICBqb2luIHRjIGluIHRyYWRlQ2F0ZWdvcmllc0J5UGFja2FnZUlkCiAgICAgICAgICAgICAgICAgICAgICAgIG9uIHRwLktleSBlcXVhbHMgdGMuS2V5IGludG8gbXRjCiAgICAgICAgICAgICAgICAgICAgZnJvbSB0YyBpbiBtdGMuRGVmYXVsdElmRW1wdHkoKQogICAgICAgICAgICAgICAgICAgIGpvaW4gcWwgaW4gcXVvdGVzTGlmZWN5Y2xlQnlQYWNrYWdlSWQKICAgICAgICAgICAgICAgICAgICAgICAgb24gdHAuS2V5IGVxdWFscyBxbC5LZXkgaW50byBtcWwKICAgICAgICAgICAgICAgICAgICBmcm9tIHFsIGluIG1xbC5EZWZhdWx0SWZFbXB0eSgpCiAgICAgICAgICAgICAgICAgICAgc2VsZWN0IG5ldyBUcmFkZVBhY2thZ2VMaWZlY3ljbGVSZXNwb25zZQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgRHVlRGF0ZSA9IHRwLlZhbHVlLkR1ZURhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZUlkID0gdHAuVmFsdWUuSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZU5hbWUgPSB0cC5WYWx1ZS5OYW1lLAogICAgICAgICAgICAgICAgICAgICAgICBRdW90ZUxpZmVjeWNsZXMgPSBNYXBwZXIuTWFwPElMaXN0PFF1b3RlTGlmZWN5Y2xlUmVzcG9ucz4+KHFsKSwKICAgICAgICAgICAgICAgICAgICAgICAgVHJhZGVDYXRlZ29yaWVzID0gTWFwcGVyLk1hcDxJTGlzdDxUcmFkZUNhdGVnb3J5UmVzcG9uc2U+Pih0YykKICAgICAgICAgICAgICAgICAgICB9</text>
+        <text>from tp in tradePackagesByPackageId
+                    join tc in tradeCategoriesByPackageId
+                        on tp.Key equals tc.Key into mtc
+                    from tc in mtc.DefaultIfEmpty()
+                    join ql in quotesLifecycleByPackageId
+                        on tp.Key equals ql.Key into mql
+                    from ql in mql.DefaultIfEmpty()
+                    select new TradePackageLifecycleResponse
+                    {
+DueDate = DateTime.MaxValue,
+                    }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHF1b3RlTGlmZWN5Y2xlUmVzcG9uczsK</text>
+      <register name="6" type="4">
+        <text>from tp in tradePackagesByPackageId
+                    join tc in tradeCategoriesByPackageId
+                        on tp.Key equals tc.Key into mtc
+                    from tc in mtc.DefaultIfEmpty()
+                    join ql in quotesLifecycleByPackageId
+                        on tp.Key equals ql.Key into mql
+                    from ql in mql.DefaultIfEmpty()
+                    select new TradePackageLifecycleResponse
+                    {
+
+                    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHF1b3RlTGlmZWN5Y2xlUmVzcG9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRHVlRGF0ZSA9IHRwLlZhbHVlLkR1ZURhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZUlkID0gdHAuVmFsdWUuSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZU5hbWUgPSB0cC5WYWx1ZS5OYW1lLAogICAgICAgICAgICAgICAgICAgICAgICBzdHJpbmcgYWJzID0gTWFwcGVyLk1hcDxJTGlzdDxUcmFkZUNhdGVnb3J5Pj4ocWwpLAogICAgICAgICAgICAgICAgICAgICAgICBUcmFkZUNhdGVnb3JpZXMgPSBNYXBwZXIuTWFwPElMaXN0PFRyYWRlQ2F0ZWdvcnlSZXNwb25zZT4+KHRjKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXIK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZnJvbSB0cCBpbiB0cmFkZVBhY2thZ2VzQnlQYWNrYWdlSWQKICAgICAgICAgICAgICAgICAgICBqb2luIHRjIGluIHRyYWRlQ2F0ZWdvcmllc0J5UGFja2FnZUlkCiAgICAgICAgICAgICAgICAgICAgICAgIG9uIHRwLktleSBlcXVhbHMgdGMuS2V5IGludG8gbXRjCiAgICAgICAgICAgICAgICAgICAgZnJvbSB0YyBpbiBtdGMuRGVmYXVsdElmRW1wdHkoKQogICAgICAgICAgICAgICAgICAgIGpvaW4gcWwgaW4gcXVvdGVzTGlmZWN5Y2xlQnlQYWNrYWdlSWQKICAgICAgICAgICAgICAgICAgICAgICAgb24gdHAuS2V5IGVxdWFscyBxbC5LZXkgaW50byBtcWwKICAgICAgICAgICAgICAgICAgICBmcm9tIHFsIGluIG1xbC5EZWZhdWx0SWZFbXB0eSgpCiAgICAgICAgICAgICAgICAgICAgc2VsZWN0IG5ldyBUcmFkZVBhY2thZ2VMaWZlY3ljbGVSZXNwb25zZQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgRHVlRGF0ZSA9IHRwLlZhbHVlLkR1ZURhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZUlkID0gdHAuVmFsdWUuSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZU5hbWUgPSB0cC5WYWx1ZS5OYW1lLAogICAgICAgICAgICAgICAgICAgICAgICBzdHJpbmcgYWJzID0gTWFwcGVyLk1hcDxJTGlzdDxUcmFkZUNhdGVnb3J5Pj4ocWwpLAogICAgICAgICAgICAgICAgICAgICAgICBUcmFkZUNhdGVnb3JpZXMgPSBNYXBwZXIuTWFwPElMaXN0PFRyYWRlQ2F0ZWdvcnlSZXNwb25zZT4+KHRjKQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHF1b3RlTGlmZWN5Y2xlUmVzcG9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRHVlRGF0ZSA9IHRwLlZhbHVlLkR1ZURhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZUlkID0gdHAuVmFsdWUuSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZU5hbWUgPSB0cC5WYWx1ZS5OYW1lLAogICAgICAgICAgICAgICAgICAgICAgICBzdHJpbmcgYWJzID0gTWFwcGVyLk1hcDxJTGlzdDxUcmFkZUNhdGVnb3J5Pj4ocWwpLAogICAgICAgICAgICAgICAgICAgICAgICBUcmFkZUNhdGVnb3JpZXMgPSBNYXBwZXIuTWFwPElMaXN0PFRyYWRlQ2F0ZWdvcnlSZXNwb25zZT4+KHRjKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>ConfigureAwait(false)</text>
       </register>
     </registers>
     <search>
@@ -96,6 +116,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
