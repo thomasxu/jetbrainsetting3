@@ -39,6 +39,13 @@
         <mark key="." line="32" column="37" />
         <mark key="^" line="32" column="37" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" timestamp="1542347307853">
+        <mark key="'" line="213" column="83" />
+        <mark key="[" line="644" column="64" />
+        <mark key="]" line="644" column="16" />
+        <mark key="." line="644" column="16" />
+        <mark key="^" line="644" column="16" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="26" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
@@ -94,13 +101,14 @@
       <jump line="119" column="26" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/QuoteAmountController.CommandTest.cs" />
       <jump line="118" column="26" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/QuoteAmountController.CommandTest.cs" />
       <jump line="113" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/QuoteAmountController.CommandTest.cs" />
+      <jump line="213" column="83" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpbnRpY29udHIgCg==</text>
+      <register name="&quot;" type="4">
+        <text>UpdateSummary</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>UpdateSummary</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdEVtcHR5Q2hpbGRRdW90ZUFtb3VudFJlc3BvbnNlXD4=</text>
@@ -172,6 +180,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
