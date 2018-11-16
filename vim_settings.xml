@@ -12,7 +12,12 @@
         <mark key="^" line="44" column="87" />
         <mark key="." line="44" column="87" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/QuoteController.CommandTest.cs" timestamp="1542337771328" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/QuoteController.CommandTest.cs" timestamp="1542338317045">
+        <mark key="[" line="86" column="21" />
+        <mark key="]" line="86" column="22" />
+        <mark key="." line="86" column="16" />
+        <mark key="^" line="86" column="15" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1542328188457">
         <mark key="'" line="27" column="84" />
         <mark key="[" line="27" column="84" />
@@ -65,13 +70,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pickRequest</text>
+        <text>result</text>
       </register>
       <register name="-" type="4">
         <text>pickRequest</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbSWdub3JlKCJVc2VkIHN0b3JlZCBwcm9jZWR1cmUiKV0K</text>
+      <register name="0" type="4">
+        <text>result</text>
       </register>
       <register name="1" type="4">
         <text>2, pickRequest);
