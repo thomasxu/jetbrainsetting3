@@ -5,6 +5,13 @@
       <mark key="M" line="34" column="57" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" timestamp="1542330092773">
+        <mark key="'" line="44" column="104" />
+        <mark key="[" line="44" column="88" />
+        <mark key="]" line="44" column="87" />
+        <mark key="^" line="44" column="87" />
+        <mark key="." line="44" column="87" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1542328188457">
         <mark key="'" line="27" column="84" />
         <mark key="[" line="27" column="84" />
@@ -39,63 +46,51 @@
       <jump line="52" column="49" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="28" column="116" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="27" column="84" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
+      <jump line="87" column="59" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
+      <jump line="35" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
+      <jump line="37" column="74" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
+      <jump line="34" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
+      <jump line="20" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
+      <jump line="0" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
+      <jump line="99" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
+      <jump line="44" column="104" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRhY3QgPSAK</text>
+        <text encoding="base64">dGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlQ2F0ZWdvcmllc0J5UGFja2FnZUlkID0gYXdhaXQgX3RyYWRlUGFja2FnZVJlcG9zaXRvcnkuR2V0VHJhZGVDYXRlZ29yaWVzQnlKb2JJZEFzeW5jKGpvYklkKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmFsaWRhdGVBcGlWZXJzaW9uQW5kU3RhdGUodmVyc2lvbik7CiAgICAgICAgICAgcmV0dXJuIF90cmFkZVBhY2thZ2VzTGlmZWN5Y2xlU2VydmljZS5HZXRCeUpvYklkKGpvYklkKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>GetQuotesLifecycleByJobIdAsync</text>
+        <text>version</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlQ2F0ZWdvcmllc0J5UGFja2FnZUlkID0gYXdhaXQgX3RyYWRlUGFja2FnZVJlcG9zaXRvcnkuR2V0VHJhZGVDYXRlZ29yaWVzQnlKb2JJZEFzeW5jKGpvYklkKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgX3RyYWRlUGFja2FnZVN1bW1hcnlTZXJ2aWNlID0gdHJhZGVQYWNrYWdlU3VtbWFyeVNlcnZpY2U7CiAgICAgICAgICAgIF90cmFkZVBhY2thZ2VTZXJ2aWNlID0gdHJhZGVQYWNrYWdlU2VydmljZTsKICAgICAgICAgICAgX3RyYWRlUGFja2FnZXNMaWZlY3ljbGVTZXJ2aWNlID0gdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2U7</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlQ2F0ZWdvcmllc0J5UGFja2FnZUlkID0gYXdhaXQgX3RyYWRlUGFja2FnZVJlcG9zaXRvcnkuR2V0VHJhZGVDYXRlZ29yaWVzQnlKb2JJZEFzeW5jKGpvYklkKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgX3RyYWRlUGFja2FnZVN1bW1hcnlTZXJ2aWNlID0gdHJhZGVQYWNrYWdlU3VtbWFyeVNlcnZpY2U7CiAgICAgICAgICAgIF90cmFkZVBhY2thZ2VTZXJ2aWNlID0gdHJhZGVQYWNrYWdlU2VydmljZTsKICAgICAgICAgICAgX3RyYWRlUGFja2FnZXNMaWZlY3ljbGVTZXJ2aWNlID0gdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2U7</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZXNCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LkdldFRyYWRlUGFja2FnZXNCeUpvYklkQXN5bmMoam9iSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgX3RyYWRlUGFja2FnZVN1bW1hcnlTZXJ2aWNlID0gdHJhZGVQYWNrYWdlU3VtbWFyeVNlcnZpY2U7CiAgICAgICAgICAgIF90cmFkZVBhY2thZ2VTZXJ2aWNlID0gdHJhZGVQYWNrYWdlU2VydmljZTsKICAgICAgICAgICAgX3RyYWRlUGFja2FnZXNMaWZlY3ljbGVTZXJ2aWNlID0gdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2U7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZXNCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LkdldFRyYWRlUGFja2FnZXNCeUpvYklkQXN5bmMoam9iSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3RyYWRlUGFja2FnZVN1bW1hcnlTZXJ2aWNlID0gdHJhZGVQYWNrYWdlU3VtbWFyeVNlcnZpY2U7CiAgICAgICAgICAgIF90cmFkZVBhY2thZ2VTZXJ2aWNlID0gdHJhZGVQYWNrYWdlU2VydmljZTsKICAgICAgICAgICAgX3RyYWRlUGFja2FnZXNMaWZlY3ljbGVTZXJ2aWNlID0gdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2U7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZXNCeVBhY2thZ2VJZCA9IGF3YWl0IF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LkdldFRyYWRlUGFja2FnZXNCeUpvYklkQXN5bmMoam9iSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgLy8vIDxzdW1tYXJ5PgogICAgLy8vIFVzZSB0aGlzIGNsYXNzIGZvciBhbGwgYWN0aW9ucyByZWxhdGVkIHRvIHRoZSBUcmFkZSBQYWNrYWdlCiAgICAvLy8gPC9zdW1tYXJ5PgogICAgW0F1dGhvcml6ZShSb2xlcyA9ICJBY2NvdW50TWFuYWdlciwgQWNjb3VudEFkbWluLCBBY2NvdW50VXNlciwgQWNjb3VudFRydXN0ZWRVc2VyIildCiAgICBbUm91dGVQcmVmaXgoInRyYWRlcGFja2FnZXMiKV0KICAgIHB1YmxpYyBwYXJ0aWFsIGNsYXNzIFRyYWRlUGFja2FnZUNvbnRyb2xsZXIgOiBCYXNlQ29udHJvbGxlcgogICAgewogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSVRyYWRlUGFja2FnZVN1bW1hcnlTZXJ2aWNlIF90cmFkZVBhY2thZ2VTdW1tYXJ5U2VydmljZTsKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElUcmFkZVBhY2thZ2VTZXJ2aWNlIF90cmFkZVBhY2thZ2VTZXJ2aWNlOwogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSVRyYWRlUGFja2FnZUxpZmVjeWNsZVNlcnZpY2UgX3RyYWRlUGFja2FnZXNMaWZlY3ljbGVTZXJ2aWNlOwoKICAgICAgICBwdWJsaWMgVHJhZGVQYWNrYWdlQ29udHJvbGxlcihJQmFydGVuZGVyQ29udGV4dCA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhZGVDYXRlZ29yaWVzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElUcmFkZVBhY2thZ2VTdW1tYXJ5U2VydmljZSBfdHJhZGVQYWNrYWdlU3VtbWFyeVNlcnZpY2U7CiAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJVHJhZGVQYWNrYWdlU2VydmljZSBfdHJhZGVQYWNrYWdlU2VydmljZTsKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElUcmFkZVBhY2thZ2VMaWZlY3ljbGVTZXJ2aWNlIF90cmFkZVBhY2thZ2VzTGlmZWN5Y2xlU2VydmljZTsKCiAgICAgICAgcHVibGljIFRyYWRlUGFja2FnZUNvbnRyb2xsZXIoSUJhcnRlbmRlckNvbnRleHQgY29udGV4dCwgSVRyYWRlUGFja2FnZVN1bW1hcnlTZXJ2aWNlIHRyYWRlUGFja2FnZVN1bW1hcnlTZXJ2aWNlLAogICAgICAgICAgICBJVHJhZGVQYWNrYWdlU2VydmljZSB0cmFkZVBhY2thZ2VTZXJ2aWNlLCBJVHJhZGVQYWNrYWdlTGlmZWN5Y2xlU2VydmljZSB0cmFkZVBhY2thZ2VzTGlmZWN5Y2xlU2VydmljZSkgOiBiYXNlKGNvbnRleHQpCiAgICAgICAgewogICAgICAgICAgICBfdHJhZGVQYWNrYWdlU3VtbWFyeVNlcnZpY2UgPSB0cmFkZVBhY2thZ2VTdW1tYXJ5U2VydmljZTsKICAgICAgICAgICAgX3RyYWRlUGFja2FnZVNlcnZpY2UgPSB0cmFkZVBhY2thZ2VTZXJ2aWNlOwogICAgICAgICAgICBfdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2UgPSB0cmFkZVBhY2thZ2VzTGlmZWN5Y2xlU2VydmljZTsKICAgICAgICB9CgogICAgICAgIFtSb3V0ZSgie3RyYWRlUGFja2FnZUlkOmludH0iKV0KICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8R2VuZXJpY1Jlc3BvbnNlPFRyYWRlUGFja2FnZVVwZGF0ZVJlc3BvbnNlPj4gVXBkYXRlVHJhZGVQYWNrYWdlKGludCB2ZXJzaW9uLAogICAgICAgICAgICBUcmFkZVBhY2thZ2VVcGRhdGVSZXF1ZXN0IHJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICBWYWxpZGF0ZUFwaVZlcnNpb25BbmRTdGF0ZSh2ZXJzaW9uKTsKICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gYXdhaXQgX3RyYWRlUGFja2FnZVNlcnZpY2UuVXBkYXRlVHJhZGVQYWNrYWdlQXN5bmMocmVxdWVzdCkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwogICAgICAgICAgICByZXR1cm4gR2VuZXJpY1Jlc3BvbnNlPFRyYWRlUGFja2FnZVVwZGF0ZVJlc3BvbnNlPi5DcmVhdGVSZXNwb25zZShyZXNwb25zZSk7CiAgICAgICAgfQoKCiAgICAgICAgW1JvdXRlKCJsaWZlY3ljbGUve2pvYklkOmludH0iKV0KICAgICAgICBbSHR0cEdldF0KICAgICAgICBwdWJsaWMgVGFzazxJTGlzdDxUcmFkZVBhY2thZ2VMaWZlY3ljbGVSZXNwb25zZT4+IEdldFRyYWRlUGFja2FnZXNMaWZlY3ljbGUoaW50IHZlcnNpb24sIGludCBqb2JJZCkKICAgICAgICB7CiAgICAgICAgICAgIFZhbGlkYXRlQXBpVmVyc2lvbkFuZFN0YXRlKHZlcnNpb24pOwogICAgICAgICAgICByZXR1cm4gX3RyYWRlUGFja2FnZXNMaWZlY3ljbGVTZXJ2aWNlLkdldEJ5Sm9iSWQoam9iSWQpOwogICAgICAgIH0KCiAgICAgICAgW1JvdXRlKCJsaWZlY3ljbGUiKV0KICAgICAgICBbSHR0cFBvc3RdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8UXVvdGVMaWZlY3ljbGVSZXNwb25zPiBBZGRRdW90ZUxpZmVjeWNsZShpbnQgdmVyc2lvbiwgQ3JlYXRlUXVvdGVMaWZlY3ljbGVSZXF1ZXN0IHJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICBWYWxpZGF0ZUFwaVZlcnNpb25BbmRTdGF0ZSh2ZXJzaW9uKTsKICAgICAgICAgICAgcmVxdWVzdC5Vc2VySWQgPSBVc2VySWQ7CiAgICAgICAgICAgIHZhciBxdW90ZUxpZmVjeWNsZSA9CiAgICAgICAgICAgICAgICBhd2FpdCBfdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2UuQ3JlYXRlUXVvdGVMaWZlY3ljbGUocmVxdWVzdCkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwogICAgICAgICAgICBDb250ZXh0LlNhdmVDaGFuZ2VzKCk7CiAgICAgICAgICAgIHJldHVybiBxdW90ZUxpZmVjeWNsZTsKICAgICAgICB9CgogICAgICAgIFtSb3V0ZSgibGlmZWN5Y2xlL3F1b3RlL3txdW90ZUxpZmVjeWNsZUlkOmludH0iKV0KICAgICAgICBbSHR0cFBhdGNoXQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPEdlbmVyaWNSZXNwb25zZTxRdW90ZUxpZmVjeWNsZVJlc3BvbnM+PiBVcGRhdGVRdW90ZUxpZmVjeWNsZShpbnQgdmVyc2lvbiwgaW50IHF1b3RlTGlmZWN5Y2xlSWQsIFtGcm9tQm9keV0gVXBkYXRlUXVvdGVMaWZlY3ljbGVSZXF1ZXN0IHJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICAgICAgVmFsaWRhdGVBcGlWZXJzaW9uQW5kU3RhdGUodmVyc2lvbik7CiAgICAgICAgICAgICAgICByZXF1ZXN0LklkID0gcXVvdGVMaWZlY3ljbGVJZDsKICAgICAgICAgICAgICAgIHJlcXVlc3QuVXNlcklkID0gVXNlcklkOwoKICAgICAgICAgICAgdmFyIHVwZGF0ZVF1b3RlTGlmZWN5Y2xlUmVzcG9uc2UgPSBhd2FpdCBfdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2UuVXBkYXRlUXVvdGVMaWZlY3ljbGUocmVxdWVzdCkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwogICAgICAgICAgICBDb250ZXh0LlNhdmVDaGFuZ2VzKCk7CgogICAgICAgICAgICByZXR1cm4gR2VuZXJpY1Jlc3BvbnNlPFF1b3RlTGlmZWN5Y2xlUmVzcG9ucz4uQ3JlYXRlUmVzcG9uc2UodXBkYXRlUXVvdGVMaWZlY3ljbGVSZXNwb25zZSk7CiAgICAgICAgfQoKICAgICAgICBbUm91dGUoImxpZmVjeWNsZS97dHJhZGVwYWNrYWdlaWQ6aW50fSIpXQogICAgICAgIFtIdHRwUGF0Y2hdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8T2tSZXN1bHQ+IFVwZGF0ZVRyYWRlUGFja2FnZShpbnQgdmVyc2lvbiwgaW50IHRyYWRlUGFja2FnZUlkLCBbRnJvbUJvZHldIFVwZGF0ZVRyYWRlUGFja2FnZVJlcXVlc3QgcmVxdWVzdCkKICAgICAgICB7CiAgICAgICAgICAgIFZhbGlkYXRlQXBpVmVyc2lvbkFuZFN0YXRlKHZlcnNpb24pOwogICAgICAgICAgICByZXF1ZXN0LlRyYWRlUGFja2FnZUlkID0gdHJhZGVQYWNrYWdlSWQ7CiAgICAgICAgICAgIHJlcXVlc3QuVXNlcklkID0gVXNlcklkOwoKICAgICAgICAgICAgYXdhaXQgX3RyYWRlUGFja2FnZXNMaWZlY3ljbGVTZXJ2aWNlLlVwZGF0ZVRyYWRlUGFja2FnZShyZXF1ZXN0KS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgIENvbnRleHQuU2F2ZUNoYW5nZXMoKTsKCiAgICAgICAgICAgIHJldHVybiBPaygpOwogICAgICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text>from tp in tradePackagesByPackageId
-                    join tc in tradeCategoriesByPackageId
-                        on tp.Key equals tc.Key into mtc
-                    from tc in mtc.DefaultIfEmpty()
-                    join ql in quotesLifecycleByPackageId
-                        on tp.Key equals ql.Key into mql
-                    from ql in mql.DefaultIfEmpty()
-                    select new TradePackageLifecycleResponse
-                    {
-DueDate = DateTime.MaxValue,
-                    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX3RyYWRlUGFja2FnZVN1bW1hcnlTZXJ2aWNlID0gdHJhZGVQYWNrYWdlU3VtbWFyeVNlcnZpY2U7CiAgICAgICAgICAgIF90cmFkZVBhY2thZ2VTZXJ2aWNlID0gdHJhZGVQYWNrYWdlU2VydmljZTsKICAgICAgICAgICAgX3RyYWRlUGFja2FnZXNMaWZlY3ljbGVTZXJ2aWNlID0gdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2U7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>from tp in tradePackagesByPackageId
-                    join tc in tradeCategoriesByPackageId
-                        on tp.Key equals tc.Key into mtc
-                    from tc in mtc.DefaultIfEmpty()
-                    join ql in quotesLifecycleByPackageId
-                        on tp.Key equals ql.Key into mql
-                    from ql in mql.DefaultIfEmpty()
-                    select new TradePackageLifecycleResponse
-                    {
-
-                    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX3RyYWRlUGFja2FnZVN1bW1hcnlTZXJ2aWNlID0gdHJhZGVQYWNrYWdlU3VtbWFyeVNlcnZpY2U7CiAgICAgICAgICAgIF90cmFkZVBhY2thZ2VTZXJ2aWNlID0gdHJhZGVQYWNrYWdlU2VydmljZTsKICAgICAgICAgICAgX3RyYWRlUGFja2FnZXNMaWZlY3ljbGVTZXJ2aWNlID0gdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2U7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>GetQuotesLifecycleByJobIdAsync</text>
+        <text>version</text>
       </register>
     </registers>
     <search>
