@@ -2,9 +2,13 @@
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
+  <action id="AceLineAction" />
   <action id="AceTargetAction">
     <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
     <keyboard-shortcut first-keystroke="shift alt semicolon" />
+  </action>
+  <action id="AceWordAction">
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
   <action id="AceWordBackwardsAction">
     <keyboard-shortcut first-keystroke="shift alt n" />
@@ -85,17 +89,11 @@
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="shift space" />
-  </action>
-  <action id="EditorLeft">
-    <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -113,7 +111,6 @@
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt i" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="ExportToTextFile" />
@@ -168,13 +165,13 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="alt end" />
     <mouse-shortcut keystroke="control alt button1" />
-    <keyboard-shortcut first-keystroke="shift alt k" />
+    <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
   <action id="GotoNextBookmark" />
   <action id="GotoPreviousBookmark" />
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="alt home" />
-    <keyboard-shortcut first-keystroke="shift alt i" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
@@ -221,10 +218,14 @@
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="shift alt o" />
+    <keyboard-shortcut first-keystroke="shift alt j" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
   </action>
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="shift alt u" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
   </action>
   <action id="Move">
     <keyboard-shortcut first-keystroke="f6" />
@@ -308,6 +309,7 @@
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="alt delete" />
   </action>
+  <action id="SelectAllOccurrences" />
   <action id="SelectNextOccurrence" />
   <action id="SetNextStatement" />
   <action id="ShelvedChanges.Rename">
