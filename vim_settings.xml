@@ -28,12 +28,12 @@
         <mark key="." line="38" column="38" />
         <mark key="^" line="38" column="36" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" timestamp="1542514119323">
-        <mark key="'" line="12" column="11" />
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="24" column="12" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" timestamp="1542516258641">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="19" column="92" />
+        <mark key="]" line="19" column="88" />
+        <mark key="." line="19" column="88" />
+        <mark key="^" line="19" column="88" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" timestamp="1542280038624">
         <mark key="'" line="56" column="24" />
@@ -185,14 +185,16 @@
       <jump line="112" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="28" column="11" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="16" column="30" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="12" column="11" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
+      <jump line="24" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
+      <jump line="12" column="4" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
+      <jump line="98" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>radePackage</text>
+        <text encoding="base64">YyA9PiBjLg==</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -201,7 +203,7 @@
         <text>tradePackageItem</text>
       </register>
       <register name="-" type="4">
-        <text>radePackag</text>
+        <text encoding="base64">YyA9PiBjLg==</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -213,34 +215,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJhZGVQYWNrYWcK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxzdHJpbmc+IEdldEJveEZvbGRlcklkQXN5bmMoaW50IHRyYWRlUGFja2FnZUlkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCmkgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCmkgICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dmF0ZSByZWFkb25seSBJQmFydGVuZGVyQ29udGV4dCBfY29udGV4dDsKCiAgICAgICAgcHVibGljIFRyYWRlUGFja2FnZVJlcG9zaXRvcnkoSUJhcnRlbmRlckNvbnRleHQgY29udGV4dCkKICAgICAgICB7CiAgICAgICAgICAgIF9jb250ZXh0ID0gY29udGV4dDsKICAgICAgICB9Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX3RyYWRlUGFja2FnZVJlcG9zaXRvcnkuR2V0SXRlbXNBc3luYyhpKTsK</text>
       </register>
       <register name="t" type="4">
         <text>radePackage</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NvbnRleHQgPSBjb250ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3RyYWRlUGFja2FnZVJlcG9zaXRvcnkuZwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">OwoKCiAgICAgICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">OwoKCiAgICAgICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJhZGVQYWNrYWcK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCmkgICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">OwoKCiAgICAgICAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgCmkgICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
@@ -333,6 +338,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

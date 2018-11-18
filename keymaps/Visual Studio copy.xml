@@ -39,6 +39,9 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCleanup" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
   <action id="CodeInspection.OnEditor" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -49,6 +52,7 @@
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
   <action id="Console.TableResult.SelectRow" />
+  <action id="Debugger.MarkObject" />
   <action id="Diagram.DeselectAll" />
   <action id="Diff.ApplyLeftSide">
     <keyboard-shortcut first-keystroke="shift alt left" />
@@ -73,6 +77,7 @@
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
@@ -100,6 +105,7 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="ExportToTextFile" />
   <action id="ExtractMethod">
@@ -137,7 +143,6 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="GotoCustomRegion" />
@@ -157,6 +162,8 @@
     <mouse-shortcut keystroke="control alt button1" />
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
+  <action id="GotoNextBookmark" />
+  <action id="GotoPreviousBookmark" />
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="shift alt i" />
@@ -261,6 +268,9 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -309,6 +319,7 @@
     <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
   <action id="TableResult.UnselectPreviousOccurrence" />
+  <action id="ToggleBookmark" />
   <action id="ToggleBreakpointEnabled" />
   <action id="TypeHierarchy" />
   <action id="UML.ActualSize">
@@ -317,6 +328,9 @@
   <action id="Unscramble" />
   <action id="UnselectPreviousOccurrence" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
