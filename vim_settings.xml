@@ -18,19 +18,19 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="29" column="19" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1542328188457">
-        <mark key="'" line="27" column="84" />
-        <mark key="[" line="27" column="84" />
-        <mark key="]" line="27" column="83" />
-        <mark key="^" line="27" column="83" />
-        <mark key="." line="27" column="83" />
-      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/AuthenticationController.CommandTest.cs" timestamp="1542345393876">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1542328188457">
+        <mark key="'" line="27" column="84" />
+        <mark key="[" line="27" column="84" />
+        <mark key="]" line="27" column="83" />
+        <mark key="^" line="27" column="83" />
+        <mark key="." line="27" column="83" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/LastActiveFilter.cs" timestamp="1542344895362">
         <mark key="'" line="23" column="27" />
@@ -39,12 +39,18 @@
         <mark key="." line="32" column="37" />
         <mark key="^" line="32" column="37" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" timestamp="1542347307853">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Account/AccountController.Query.cs" timestamp="1542579217345">
+        <mark key="[" line="53" column="45" />
+        <mark key="]" line="53" column="67" />
+        <mark key="^" line="53" column="67" />
+        <mark key="." line="53" column="67" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" timestamp="1542578914321">
         <mark key="'" line="213" column="83" />
-        <mark key="[" line="644" column="64" />
-        <mark key="]" line="644" column="16" />
-        <mark key="." line="644" column="16" />
-        <mark key="^" line="644" column="16" />
+        <mark key="[" line="617" column="26" />
+        <mark key="]" line="617" column="25" />
+        <mark key="." line="617" column="25" />
+        <mark key="^" line="617" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -105,16 +111,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UpdateSummary</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>UpdateSummary</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdEVtcHR5Q2hpbGRRdW90ZUFtb3VudFJlc3BvbnNlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>result</text>
+        <text encoding="base64">CiAgICAgICAgW1JvdXRlKCJ7YWNjb3VudElkOmludH0vdXNlcnMiKV0KICAgICAgICBbSHR0cEdldF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxHZW5lcmljUmVzcG9uc2U8VXNlclJlc3BvbnNlW10+PiBHZXRVc2Vyc0Zyb21BY2NvdW50KGludCBhY2NvdW50SWQsIGludCB2ZXJzaW9uKQogICAgICAgIHsKICAgICAgICAgICAgVmFsaWRhdGVBcGlWZXJzaW9uQW5kU3RhdGUodmVyc2lvbik7CgogICAgICAgICAgICB2YXIgdXNlcnMgPSBhd2FpdCBfdXNlclNlcnZpY2UuR2V0VXNlcnNXaXRoUm9sZXNBbmRUZWFtc0FzeW5jKGFjY291bnRJZCkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwoKICAgICAgICAgICAgcmV0dXJuIEdlbmVyaWNSZXNwb25zZTxVc2VyUmVzcG9uc2VbXT4uQ3JlYXRlUmVzcG9uc2UodXNlcnMpOwogICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICBpbnRpY29udHIgCg==</text>
@@ -183,6 +189,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
