@@ -28,11 +28,12 @@
         <mark key="." line="38" column="38" />
         <mark key="^" line="38" column="36" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" timestamp="1542508687422">
-        <mark key="'" line="14" column="17" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="52" />
-        <mark key="." line="109" column="47" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" timestamp="1542509742878">
+        <mark key="'" line="12" column="11" />
+        <mark key="[" line="23" column="95" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="68" />
+        <mark key="^" line="24" column="11" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" timestamp="1542280038624">
         <mark key="'" line="56" column="24" />
@@ -170,7 +171,6 @@
       <jump line="70" column="96" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="86" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="84" column="62" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="112" column="20" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="109" column="46" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="126" column="34" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="8" column="35" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
@@ -182,42 +182,46 @@
       <jump line="67" column="41" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="83" column="54" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="95" column="184" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="12" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="14" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
+      <jump line="14" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
+      <jump line="112" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
+      <jump line="12" column="11" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElCYXJ0ZW5kZXJDb250ZXh0IF9jb250ZXh0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>.TradePackages.RemoveRange(_context</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>.TradePackages.RemoveRange(_context</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElCYXJ0ZW5kZXJDb250ZXh0IF9jb250ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZSA9IGF3YWl0IF9jb250ZXh0LlRyYWRlUGFja2FnZXMuU2VsZWN0KHRwID0+IG5ldyB7dHAuSWQsIHRwLkdsb2JhbElkfSkuRmlyc3RBc3luYyh0cCA9PiB0cC5JZCA9PSBpZCkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwo=</text>
+      </register>
+      <register name="p" type="4">
+        <text>public</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">OwoKCiAgICAgICAgICAgIA==</text>
+        <text encoding="base64">dmF0ZSByZWFkb25seSBJQmFydGVuZGVyQ29udGV4dCBfY29udGV4dDsKCiAgICAgICAgcHVibGljIFRyYWRlUGFja2FnZVJlcG9zaXRvcnkoSUJhcnRlbmRlckNvbnRleHQgY29udGV4dCkKICAgICAgICB7CiAgICAgICAgICAgIF9jb250ZXh0ID0gY29udGV4dDsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">OwoKCiAgICAgICAgICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2NvbnRleHQgPSBjb250ZXh0Owo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+        <text encoding="base64">OwoKCiAgICAgICAgICAgIA==</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">OwoKCiAgICAgICAgICAgIA==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">OwoKCiAgICAgICAgICAgIA==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">OwoKCiAgICAgICAgICAgIA==</text>
@@ -240,7 +244,7 @@
       <last-offset />
       <last-pattern>class</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxhd2FpdFw+</last-substitute>
+      <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
