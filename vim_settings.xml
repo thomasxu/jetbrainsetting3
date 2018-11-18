@@ -28,12 +28,12 @@
         <mark key="." line="38" column="38" />
         <mark key="^" line="38" column="36" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" timestamp="1542509742878">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" timestamp="1542511032602">
         <mark key="'" line="12" column="11" />
-        <mark key="[" line="23" column="95" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="68" />
-        <mark key="^" line="24" column="11" />
+        <mark key="[" line="29" column="58" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="33" />
+        <mark key="^" line="29" column="33" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" timestamp="1542280038624">
         <mark key="'" line="56" column="24" />
@@ -191,19 +191,22 @@
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.TradePackages.RemoveRange(_context</text>
+        <text>tradePackageItem</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
       </register>
+      <register name="i" type="4">
+        <text>tradePackageItem</text>
+      </register>
       <register name="-" type="4">
-        <text>.TradePackages.RemoveRange(_context</text>
+        <text>wge</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRyYWRlUGFja2FnZSA9IGF3YWl0IF9jb250ZXh0LlRyYWRlUGFja2FnZXMuU2VsZWN0KHRwID0+IG5ldyB7dHAuSWQsIHRwLkdsb2JhbElkfSkuRmlyc3RBc3luYyh0cCA9PiB0cC5JZCA9PSBpZCkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwo=</text>
+      <register name="0" type="4">
+        <text>tradePackageId</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
@@ -219,6 +222,9 @@
       </register>
       <register name="4" type="4">
         <text encoding="base64">OwoKCiAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="t" type="4">
+        <text>TradePackage</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIA==</text>
