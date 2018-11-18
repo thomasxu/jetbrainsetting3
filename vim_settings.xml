@@ -80,8 +80,12 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/AuthenticationController.CommandTest.cs" timestamp="1542523838147">
-        <mark key="[" line="297" column="82" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/AuthenticationController.CommandTest.cs" timestamp="1542525218776">
+        <mark key="'" line="304" column="53" />
+        <mark key="[" line="308" column="40" />
+        <mark key="]" line="308" column="40" />
+        <mark key="^" line="303" column="70" />
+        <mark key="." line="308" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/TradePackageLifecycle.txt" timestamp="1542231232746">
         <mark key="'" line="5" column="9" />
@@ -211,13 +215,14 @@
       <jump line="22" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="87" column="36" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="93" column="62" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
+      <jump line="304" column="53" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/AuthenticationController.CommandTest.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>quoteLifecycleId</text>
+        <text>ForgotPasswor</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -229,7 +234,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>FromBody</text>
+        <text>ForgotPasswor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVcGRhdGVUcmFkZVBhY2thZ2VcPg==</text>
@@ -374,6 +379,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
