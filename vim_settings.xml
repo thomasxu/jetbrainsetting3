@@ -11,10 +11,10 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="29" column="19" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1542756933620">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1542757534872">
         <mark key="'" line="30" column="143" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
+        <mark key="[" line="56" column="70" />
+        <mark key="]" line="56" column="96" />
         <mark key="." line="59" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" timestamp="1542522258945">
@@ -57,11 +57,17 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/UpdateQuoteLifecycleRequest.cs" timestamp="1542757136728">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/UpdateQuoteLifecycleRequest.cs" timestamp="1542758671380">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="43" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" timestamp="1542756520561" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" timestamp="1542758870916">
+        <mark key="'" line="56" column="24" />
+        <mark key="[" line="213" column="49" />
+        <mark key="]" line="213" column="66" />
+        <mark key="^" line="213" column="66" />
+        <mark key="." line="213" column="66" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/UpdateTradePackageRequest.cs" timestamp="1542281565833">
         <mark key="[" line="11" column="21" />
         <mark key="]" line="11" column="23" />
@@ -105,6 +111,9 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="34" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/AutofacRegister.cs" timestamp="1542758732517">
+        <mark key="'" line="25" column="24" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/QuoteAmountController.CommandTest.cs" timestamp="1542584557083">
         <mark key="[" line="313" column="0" />
         <mark key="]" line="313" column="0" />
@@ -118,8 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="33" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
-      <jump line="73" column="63" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="140" column="58" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="260" column="45" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="59" column="43" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
@@ -169,7 +176,6 @@
       <jump line="49" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="56" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="73" column="122" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
-      <jump line="56" column="24" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" />
       <jump line="34" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="68" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="30" column="143" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
@@ -216,13 +222,18 @@
       <jump line="32" column="44" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Integration/IntegrationController.Command.cs" />
       <jump line="49" column="42" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" />
       <jump line="29" column="28" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" />
+      <jump line="82" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/AutofacRegister.cs" />
+      <jump line="85" column="28" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/AutofacRegister.cs" />
+      <jump line="87" column="20" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/AutofacRegister.cs" />
+      <jump line="25" column="24" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/AutofacRegister.cs" />
+      <jump line="56" column="24" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>UpdateQuoteLifecycleRequest</text>
+        <text>CreateMe</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -234,10 +245,10 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Id</text>
+        <text>CreateMe</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVcGRhdGVUcmFkZVBhY2thZ2VcPg==</text>
+        <text>UpdateQuoteLifecycleRequest</text>
       </register>
       <register name="0" type="4">
         <text>UpdateQuoteLifecycleRequest</text>
@@ -266,6 +277,9 @@
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
+      <register name="u" type="4">
+        <text>UpdateQuoteLifecycleRequest</text>
+      </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuRm9yTWVtYmVyKGRzdCA9PiBkc3QuQykK</text>
       </register>
@@ -282,13 +296,13 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcXVlc3QuU3RhdHVzICE9IG51bGwgJiYgcmVxdWVzdC5TdGF0dXMgPCBxdW90ZUxpZmVjeWNsZS5TdGF0dXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBCdXNpbmVzc0V4Y2VwdGlvbigiSW52YWxpZCBzdGF0dXMiLCAiU3RhdHVzIGNhbiBub3QgYmUgc2V0IHRvIHRoZSBwcmV2aW91cyBzdGVwLiIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nnoremap S diw&quot;0P</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVcGRhdGVUcmFkZVBhY2thZ2VcPg==</last-search>
+      <last-search>UpdateQuoteLifecycleRequest</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVcGRhdGVUcmFkZVBhY2thZ2VcPg==</last-pattern>
+      <last-pattern>UpdateQuoteLifecycleRequest</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
@@ -300,9 +314,18 @@
         <entry encoding="base64">XDxTYXZlUXVvdGVBbW91bnRDYXNlc1w+</entry>
         <entry encoding="base64">XDxzaW1wbGVIZWFkZXJWYWx1ZVw+</entry>
         <entry encoding="base64">XDxmaXJzdEVtcHR5Q2hpbGRRdW90ZUFtb3VudFJlc3BvbnNlXD4=</entry>
+        <entry>Ilog</entry>
+        <entry>Auto</entry>
+        <entry>conifg</entry>
+        <entry>Register</entry>
+        <entry>UpdateQuoteLifecycleRequest</entry>
       </history-search>
       <history-cmd>
         <entry>nnoremap S diw&quot;0P</entry>
+        <entry>/Ilog</entry>
+        <entry>\request</entry>
+        <entry>/Auto</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
