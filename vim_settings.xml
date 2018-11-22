@@ -1,9 +1,17 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="M" line="34" column="57" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" protocol="file" />
+    </globalmarks>
     <filemarks>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" timestamp="1542539919202">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/QuoteController.CommandTest.cs" timestamp="1542339908382">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="29" column="19" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" timestamp="1542929861250">
         <mark key="'" line="88" column="7" />
         <mark key="[" line="102" column="1" />
         <mark key="m" line="74" column="13" />
@@ -11,24 +19,14 @@
         <mark key="." line="75" column="69" />
         <mark key="^" line="75" column="69" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1542538581515">
-        <mark key="'" line="31" column="143" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" timestamp="1542539065413">
         <mark key="'" line="120" column="26" />
+        <mark key="[" line="29" column="59" />
         <mark key="]" line="122" column="1" />
         <mark key="." line="122" column="0" />
+        <mark key="^" line="29" column="62" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/AccountCanViewOwnSupplierFilter.cs" timestamp="1542864110947" />
-      <file name="C:/dev/keys.reg" timestamp="1542436886549">
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="37" />
-        <mark key="." line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Migrations/201811010027496_SCP-3130 Add Job Preference SCP-2577 Ability to attach document to quote.cs" timestamp="1542927495584" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/AuthenticationController.CommandTest.cs" timestamp="1542526689037">
         <mark key="'" line="304" column="53" />
         <mark key="[" line="312" column="37" />
@@ -36,13 +34,26 @@
         <mark key="^" line="303" column="70" />
         <mark key="." line="308" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/TradePackageLifecycle.txt" timestamp="1542231232746">
-        <mark key="'" line="5" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="C:/dev/keys.reg" timestamp="1542436886549">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="3" column="37" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Migrations/201811210221435_SCP-3232 Create quotelifecycle and package duedate.cs" timestamp="1542767642329">
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/LastActiveFilter.cs" timestamp="1542864063674">
+        <mark key="'" line="23" column="27" />
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="32" column="37" />
+        <mark key="^" line="32" column="37" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Integration/IntegrationController.Query.cs" timestamp="1542927704090" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/QuoteLifecycleRespons.cs" timestamp="1542435036132">
         <mark key="[" line="5" column="4" />
       </file>
@@ -52,6 +63,14 @@
         <mark key="^" line="12" column="66" />
         <mark key="." line="12" column="66" />
       </file>
+      <file name="$USER_HOME$/Desktop/TradePackageLifecycle.txt" timestamp="1542231232746">
+        <mark key="'" line="5" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.cs" timestamp="1542928023201" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/QuoteLifecycle.cs" timestamp="1542109339014">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="10" column="7" />
@@ -60,14 +79,23 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1542541427506">
+        <mark key="s" line="0" column="83" />
+        <mark key="i" line="0" column="84" />
         <mark key="[" line="0" column="54" />
+        <mark key="m" line="0" column="80" />
+        <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="27" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/UpdateQuoteLifecycleRequest.cs" timestamp="1542539892137">
         <mark key="[" line="7" column="36" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" timestamp="1542539158023">
-        <mark key="'" line="56" column="24" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Extensions/BaseEntityTrackableExtention.cs" timestamp="1542761000303">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="21" column="47" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/UpdateTradePackageRequest.cs" timestamp="1542281565833">
         <mark key="[" line="11" column="21" />
@@ -77,9 +105,14 @@
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" timestamp="1542887841479">
         <mark key="'" line="263" column="78" />
+        <mark key="j" line="177" column="47" />
         <mark key="[" line="326" column="0" />
+        <mark key="m" line="177" column="47" />
         <mark key="]" line="326" column="8" />
         <mark key="." line="326" column="8" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" timestamp="1542539158023">
+        <mark key="'" line="56" column="24" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/BartenderContext.cs" timestamp="1542526629668">
         <mark key="[" line="178" column="9" />
@@ -98,17 +131,21 @@
         <mark key="^" line="16" column="41" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" timestamp="1542540051537">
-        <mark key="[" line="50" column="17" />
-        <mark key="]" line="50" column="28" />
-        <mark key="." line="50" column="28" />
-        <mark key="^" line="50" column="28" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" timestamp="1542928479831">
+        <mark key="'" line="29" column="28" />
+        <mark key="[" line="65" column="34" />
+        <mark key="]" line="66" column="33" />
+        <mark key="." line="66" column="33" />
+        <mark key="^" line="66" column="33" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Quote/Services/QuoteService.cs" timestamp="1542541732562">
-        <mark key="[" line="97" column="103" />
-        <mark key="]" line="97" column="54" />
-        <mark key="^" line="97" column="54" />
-        <mark key="." line="97" column="54" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/ITradePackageLifecycleRepository.cs" timestamp="1542928298991">
+        <mark key="[" line="11" column="12" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Quote/Services/QuoteService.cs" timestamp="1542928757349">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="104" column="73" />
+        <mark key="^" line="101" column="37" />
+        <mark key="." line="101" column="37" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/SaveQuoteAmountUpdater.cs" timestamp="1541914641397">
         <mark key="[" line="36" column="40" />
@@ -128,11 +165,32 @@
         <mark key="." line="68" column="68" />
         <mark key="^" line="68" column="68" />
       </file>
+      <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1542923525810">
+        <mark key="'" line="25" column="14" />
+        <mark key="[" line="415" column="58" />
+        <mark key="]" line="415" column="133" />
+        <mark key="^" line="415" column="57" />
+        <mark key="." line="415" column="58" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/TradePackagesLifecycle/TradePackageLifeStyle.cs" timestamp="1542108800097">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="34" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/AutofacRegister.cs" timestamp="1542758732517">
+        <mark key="'" line="25" column="24" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Account/AccountController.Query.cs" timestamp="1542761500358">
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+        <mark key="^" line="22" column="8" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/QuoteAmountController.CommandTest.cs" timestamp="1542584557083">
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="313" column="0" />
+        <mark key="." line="313" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Authentication/AuthenticationController.Command.cs" timestamp="1542526671797">
         <mark key="[" line="40" column="29" />
@@ -249,8 +307,8 @@
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>signlc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBxdW90ZUxpZmVjeWNsZSA9IGF3YWl0IF90cmFkZVBhY2thZ2VMaWZlY3ljbGVSZXBvc2l0b3J5LkdldFF1b3RlTGlmZWN5Y2xlQnlRdW90ZUlkQXN5bmMocXVvdGUuVHJhZGVQYWNrYWdlSWQsCiAgICAgICAgICAgICAgICAgICAgcXVvdGUuU3VwcGxpZXJJZCk7CiAgICAgICAgICAgICAgICBpZiAocXVvdGVMaWZlY3ljbGUgIT0gbnVsbCAmJiBxdW90ZUxpZmVjeWNsZS5TdGF0dXMgPCBRdW90ZUxpZmVjeWNsZVN0YXR1cy5RdW90aW5nKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHF1b3RlTGlmZWN5Y2xlLlN0YXR1cyA9IFF1b3RlTGlmZWN5Y2xlU3RhdHVzLlF1b3Rpbmc7Cg==</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -262,49 +320,55 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>signlc</text>
+        <text>Picked</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQaWNrZWRRdW90ZUFtb3VudFJlc3BvbnNlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IFtSb3V0ZSgibGlmZWN5Y2xlL3t0cmFkZXBhY2thZ2VpZDppbnR9IildCiAgICAgICAgW0h0dHBQYXRjaF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxPa1Jlc3VsdD4gVXBkYXRlVHJhZGVQYWNrYWdlKGludCB2ZXJzaW9uLCBpbnQgdHJhZGVQYWNrYWdlSWQsIFtGcm9tQm9keV0gVXBkYXRlVHJhZGVQYWNrYWdlUmVxdWVzdCByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgVmFsaWRhdGVBcGlWZXJzaW9uQW5kU3RhdGUodmVyc2lvbik7CiAgICAgICAgICAgIHJlcXVlc3QuVHJhZGVQYWNrYWdlSWQgPSB0cmFkZVBhY2thZ2VJZDsKICAgICAgICAgICAgcmVxdWVzdC5Vc2VySWQgPSBVc2VySWQ7CgogICAgICAgICAgICBhd2FpdCBfdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2UuVXBkYXRlVHJhZGVQYWNrYWdlKHJlcXVlc3QpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKICAgICAgICAgICAgQ29udGV4dC5TYXZlQ2hhbmdlcygpOwoKICAgICAgICAgICAgcmV0dXJuIE9rKCk7CiAgICAgICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBxdW90ZUxpZmVjeWNsZSA9IGF3YWl0IF90cmFkZVBhY2thZ2VMaWZlY3ljbGVSZXBvc2l0b3J5LkdldFF1b3RlTGlmZWN5Y2xlQnlRdW90ZUlkQXN5bmMocXVvdGUuVHJhZGVQYWNrYWdlSWQsCiAgICAgICAgICAgICAgICAgICAgcXVvdGUuU3VwcGxpZXJJZCk7CiAgICAgICAgICAgICAgICBpZiAocXVvdGVMaWZlY3ljbGUgIT0gbnVsbCAmJiBxdW90ZUxpZmVjeWNsZS5TdGF0dXMgPCBRdW90ZUxpZmVjeWNsZVN0YXR1cy5RdW90aW5nKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHF1b3RlTGlmZWN5Y2xlLlN0YXR1cyA9IFF1b3RlTGlmZWN5Y2xlU3RhdHVzLlF1b3Rpbmc7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgW1JvdXRlKCJsaWZlY3ljbGUve3RyYWRlcGFja2FnZWlkOmludH0iKV0KICAgICAgICBbSHR0cFBhdGNoXQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPE9rUmVzdWx0PiBVcGRhdGVEdWVEYXRlKGludCB2ZXJzaW9uLCBpbnQgdHJhZGVQYWNrYWdlSWQsIFtGcm9tQm9keV0gVXBkYXRlVHJhZGVQYWNrYWdlUmVxdWVzdCByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgVmFsaWRhdGVBcGlWZXJzaW9uQW5kU3RhdGUodmVyc2lvbik7CiAgICAgICAgICAgIHJlcXVlc3QuVHJhZGVQYWNrYWdlSWQgPSB0cmFkZVBhY2thZ2VJZDsKICAgICAgICAgICAgcmVxdWVzdC5Vc2VySWQgPSBVc2VySWQ7CgogICAgICAgICAgICBhd2FpdCBfdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2UuVXBkYXRlVHJhZGVQYWNrYWdlKHJlcXVlc3QpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKICAgICAgICAgICAgQ29udGV4dC5TYXZlQ2hhbmdlcygpOwoKICAgICAgICAgICAgcmV0dXJuIE9rKCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgW1JvdXRlKCJsaWZlY3ljbGUve3RyYWRlcGFja2FnZWlkOmludH0iKV0KICAgICAgICBbSHR0cFBhdGNoXQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPE9rUmVzdWx0PiBVcGRhdGVEdWVEYXRlKGludCB2ZXJzaW9uLCBpbnQgdHJhZGVQYWNrYWdlSWQsIFtGcm9tQm9keV0gVXBkYXRlVHJhZGVQYWNrYWdlUmVxdWVzdCByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgVmFsaWRhdGVBcGlWZXJzaW9uQW5kU3RhdGUodmVyc2lvbik7CiAgICAgICAgICAgIHJlcXVlc3QuVHJhZGVQYWNrYWdlSWQgPSB0cmFkZVBhY2thZ2VJZDsKICAgICAgICAgICAgcmVxdWVzdC5Vc2VySWQgPSBVc2VySWQ7CgogICAgICAgICAgICBhd2FpdCBfdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2UuVXBkYXRlVHJhZGVQYWNrYWdlKHJlcXVlc3QpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKICAgICAgICAgICAgQ29udGV4dC5TYXZlQ2hhbmdlcygpOwoKICAgICAgICAgICAgcmV0dXJuIE9rKCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcXVlc3QudHJhZGVDYXRlZ29yeUlkcyAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="u" type="4">
+        <text>UpdateQuoteLifecycleRequest</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcXVlc3QudHJhZGVDYXRlZ29yeUlkcyAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcXVlc3QudHJhZGVDYXRlZ29yeUlkcyAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
@@ -321,25 +385,21 @@
     </search>
     <history>
       <history-search>
-        <entry>process</entry>
-        <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
-        <entry encoding="base64">XDxfc3JjUXVvdGVBbW91bnRzRGljdGlvbmFyeVw+</entry>
-        <entry encoding="base64">XDxfaXNIZWFkaW5nXD4=</entry>
-        <entry>?trade</entry>
-        <entry encoding="base64">XDxhd2FpdFw+</entry>
-        <entry encoding="base64">XDx0cFw+</entry>
-        <entry encoding="base64">XDxPcmRlckJ5XD4=</entry>
-        <entry encoding="base64">XDxJZFw+</entry>
-        <entry encoding="base64">XDxUcmFkZVBhY2thZ2VzXD4=</entry>
-        <entry>clas</entry>
         <entry>class</entry>
-        <entry encoding="base64">XDxVcGRhdGVUcmFkZVBhY2thZ2VcPg==</entry>
-        <entry encoding="base64">XDxQaWNrZWRRdW90ZUFtb3VudFJlc3BvbnNlXD4=</entry>
+        <entry encoding="base64">XDxTYXZlUXVvdGVBbW91bnRDYXNlc1w+</entry>
+        <entry encoding="base64">XDxzaW1wbGVIZWFkZXJWYWx1ZVw+</entry>
+        <entry encoding="base64">XDxmaXJzdEVtcHR5Q2hpbGRRdW90ZUFtb3VudFJlc3BvbnNlXD4=</entry>
+        <entry>Ilog</entry>
+        <entry>Auto</entry>
+        <entry>conifg</entry>
+        <entry>Register</entry>
+        <entry>UpdateQuoteLifecycleRequest</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
-        <entry>register</entry>
         <entry>nnoremap S diw&quot;0P</entry>
+        <entry>/Ilog</entry>
+        <entry>\request</entry>
+        <entry>/Auto</entry>
         <entry>reg</entry>
       </history-cmd>
       <history-expr />
@@ -347,13 +407,31 @@
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
@@ -364,17 +442,8 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
@@ -386,19 +455,10 @@
         <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
