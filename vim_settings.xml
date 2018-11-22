@@ -75,7 +75,8 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" timestamp="1542869652480">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" timestamp="1542869828077">
+        <mark key="'" line="263" column="78" />
         <mark key="[" line="326" column="0" />
         <mark key="]" line="326" column="8" />
         <mark key="." line="326" column="8" />
@@ -240,6 +241,9 @@
       <jump line="120" column="26" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="9" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/TradePackage.cs" />
       <jump line="85" column="7" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
+      <jump line="257" column="61" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
+      <jump line="256" column="74" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
+      <jump line="263" column="78" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -261,7 +265,7 @@
         <text>signlc</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVcGRhdGVUcmFkZVBhY2thZ2VcPg==</text>
+        <text encoding="base64">XDxQaWNrZWRRdW90ZUFtb3VudFJlc3BvbnNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFtSb3V0ZSgibGlmZWN5Y2xlL3t0cmFkZXBhY2thZ2VpZDppbnR9IildCiAgICAgICAgW0h0dHBQYXRjaF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxPa1Jlc3VsdD4gVXBkYXRlVHJhZGVQYWNrYWdlKGludCB2ZXJzaW9uLCBpbnQgdHJhZGVQYWNrYWdlSWQsIFtGcm9tQm9keV0gVXBkYXRlVHJhZGVQYWNrYWdlUmVxdWVzdCByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgVmFsaWRhdGVBcGlWZXJzaW9uQW5kU3RhdGUodmVyc2lvbik7CiAgICAgICAgICAgIHJlcXVlc3QuVHJhZGVQYWNrYWdlSWQgPSB0cmFkZVBhY2thZ2VJZDsKICAgICAgICAgICAgcmVxdWVzdC5Vc2VySWQgPSBVc2VySWQ7CgogICAgICAgICAgICBhd2FpdCBfdHJhZGVQYWNrYWdlc0xpZmVjeWNsZVNlcnZpY2UuVXBkYXRlVHJhZGVQYWNrYWdlKHJlcXVlc3QpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKICAgICAgICAgICAgQ29udGV4dC5TYXZlQ2hhbmdlcygpOwoKICAgICAgICAgICAgcmV0dXJuIE9rKCk7CiAgICAgICAgfQ==</text>
@@ -307,11 +311,11 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVcGRhdGVUcmFkZVBhY2thZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxQaWNrZWRRdW90ZUFtb3VudFJlc3BvbnNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVcGRhdGVUcmFkZVBhY2thZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQaWNrZWRRdW90ZUFtb3VudFJlc3BvbnNlXD4=</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>class</last-substitute>
+      <last-substitute encoding="base64">XDxQaWNrZWRRdW90ZUFtb3VudFJlc3BvbnNlXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -330,6 +334,7 @@
         <entry>clas</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxVcGRhdGVUcmFkZVBhY2thZ2VcPg==</entry>
+        <entry encoding="base64">XDxQaWNrZWRRdW90ZUFtb3VudFJlc3BvbnNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
