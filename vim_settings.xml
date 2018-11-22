@@ -38,7 +38,7 @@
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/LastActiveFilter.cs" timestamp="1542585718350">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/LastActiveFilter.cs" timestamp="1542864063674">
         <mark key="'" line="23" column="27" />
         <mark key="[" line="31" column="9" />
         <mark key="]" line="32" column="37" />
@@ -125,6 +125,13 @@
         <mark key="[" line="67" column="25" />
         <mark key="]" line="67" column="26" />
         <mark key="." line="67" column="19" />
+      </file>
+      <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1542864454729">
+        <mark key="'" line="25" column="14" />
+        <mark key="[" line="415" column="58" />
+        <mark key="]" line="415" column="133" />
+        <mark key="^" line="415" column="57" />
+        <mark key="." line="415" column="58" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/TradePackagesLifecycle/TradePackageLifeStyle.cs" timestamp="1542108800097">
         <mark key="[" line="12" column="37" />
@@ -248,13 +255,14 @@
       <jump line="87" column="36" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="93" column="62" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="304" column="53" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/AuthenticationController.CommandTest.cs" />
+      <jump line="25" column="14" filename="C:/dev/git/bartender/Bartender.ApiHost/Web.config" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgInZlcnNpb24iOiAiNi4wLjMiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>server=online-apps-st.cluster-cvr4op3kuefl.ap-southeast-2.rds.amazonaws.com</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -266,13 +274,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>more</text>
+        <text encoding="base64">Y29ubmVjdGlvblN0cmluZz0iICAgIDxhZGQgbmFtZT0iQmFydGVuZGVyQ29udGV4dFB1Ymxpc2gi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVcGRhdGVUcmFkZVBhY2thZ2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>Process</text>
+        <text>server=online-apps-st.cluster-cvr4op3kuefl.ap-southeast-2.rds.amazonaws.com</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
