@@ -74,9 +74,12 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" timestamp="1543065980672">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" timestamp="1543066748855">
         <mark key="'" line="82" column="38" />
+        <mark key="[" line="45" column="71" />
+        <mark key="]" line="45" column="71" />
         <mark key="^" line="62" column="11" />
+        <mark key="." line="45" column="71" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/BartenderContext.cs" timestamp="1542526629668">
         <mark key="[" line="178" column="9" />
@@ -248,8 +251,8 @@
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgUHVsbGVkT24gICAgICAgICAgPSBqLlB1bGxlZE9uLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdsb2JhbElkICAgICAgICAgID0gai5HbG9iYWxJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb2RlICAgICAgICAgICAgICA9IGouQ29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBWaWV3SWQgICAgICAgICAgICA9IGouVmlld0lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZUNvdW50ID0gai5UcmFkZVBhY2thZ2VzLkNvdW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVtcHR5UXVhbnRpdHlUeXBlID0gai5FbXB0eVF1YW50aXR5VHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBFc3RpbWF0ZVRvdGFsICAgICA9IGouRXN0aW1hdGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSGFzaENvZGUgICAgICAgICAgPSBqLkhhc2hDb2RlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLlNpbmdsZU9yRGVmYXVsdCgpOwogICAgICAgICAgICAKICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>countId</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -261,7 +264,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>countId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
