@@ -19,6 +19,7 @@
         <mark key="." line="75" column="69" />
         <mark key="^" line="75" column="69" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1543184174401" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" timestamp="1542539065413">
         <mark key="'" line="120" column="26" />
         <mark key="[" line="29" column="59" />
@@ -26,7 +27,6 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="29" column="62" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Migrations/201811010027496_SCP-3130 Add Job Preference SCP-2577 Ability to attach document to quote.cs" timestamp="1542927495584" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/AuthenticationController.CommandTest.cs" timestamp="1542526689037">
         <mark key="'" line="304" column="53" />
         <mark key="[" line="312" column="37" />
@@ -53,7 +53,6 @@
         <mark key="." line="32" column="37" />
         <mark key="^" line="32" column="37" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Integration/IntegrationController.Query.cs" timestamp="1542927704090" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/QuoteLifecycleRespons.cs" timestamp="1542435036132">
         <mark key="[" line="5" column="4" />
       </file>
@@ -70,7 +69,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.cs" timestamp="1542928023201" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Quote/QuoteController.Command.cs" timestamp="1542949647607">
         <mark key="'" line="73" column="12" />
       </file>
@@ -81,10 +79,10 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542541427506">
+      <file name="/Dummy.txt" timestamp="1543184539297">
         <mark key="s" line="0" column="83" />
         <mark key="i" line="0" column="84" />
-        <mark key="[" line="0" column="54" />
+        <mark key="[" line="0" column="0" />
         <mark key="m" line="0" column="80" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="27" />
@@ -127,6 +125,9 @@
         <mark key="[" line="23" column="70" />
         <mark key="]" line="23" column="70" />
         <mark key="." line="23" column="70" />
+      </file>
+      <file name="/QuoteService.cs" timestamp="1543184503779">
+        <mark key="'" line="49" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Common/Response/S3ClientResponse.cs" timestamp="1542520856775">
         <mark key="[" line="12" column="1" />
@@ -199,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="169" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
-      <jump line="29" column="21" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
       <jump line="46" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
       <jump line="62" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
       <jump line="50" column="136" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
@@ -299,6 +298,8 @@
       <jump line="113" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Quote/QuoteController.Command.cs" />
       <jump line="93" column="20" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Quote/QuoteController.Command.cs" />
       <jump line="73" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Quote/QuoteController.Command.cs" />
+      <jump line="14" column="0" filename="/QuoteService.cs" />
+      <jump line="49" column="0" filename="/QuoteService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
