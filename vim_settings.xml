@@ -368,7 +368,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>set number</text>
       </register>
     </registers>
     <search>
@@ -398,6 +398,8 @@
         <entry>\request</entry>
         <entry>/Auto</entry>
         <entry>reg</entry>
+        <entry>set relativenumber</entry>
+        <entry>set number</entry>
       </history-cmd>
       <history-expr />
       <history-input />
