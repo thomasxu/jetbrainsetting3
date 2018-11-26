@@ -1,4 +1,8 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
@@ -96,6 +100,10 @@
     <keyboard-shortcut first-keystroke="ctrl asterisk" />
   </action>
   <action id="EditorCodeBlockStart" />
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -103,6 +111,7 @@
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -306,6 +315,7 @@
   <action id="RiderUnitTestRunSolutionAction">
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
+  <action id="RiderUnitTestRunSolutionTwAction" />
   <action id="RiderUnitTestSessionAbortAction" />
   <action id="RiderUnitTestSessionRerunFailedTestsAction" />
   <action id="RunInspection" />
@@ -320,6 +330,9 @@
   <action id="SetNextStatement" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ShowExecutionPoint">
+    <keyboard-shortcut first-keystroke="alt multiply" />
   </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="context_menu" />
