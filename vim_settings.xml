@@ -42,8 +42,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/QuoteLifecycleRespons.cs" timestamp="1542435036132">
-        <mark key="[" line="5" column="4" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/QuoteLifecycleRespons.cs" timestamp="1543201560578">
+        <mark key="'" line="10" column="19" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="24" />
+        <mark key="^" line="32" column="36" />
+        <mark key="." line="28" column="24" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/ITradePackageLifecycleService.cs" timestamp="1542278962526">
         <mark key="[" line="12" column="66" />
@@ -51,12 +55,11 @@
         <mark key="^" line="12" column="66" />
         <mark key="." line="12" column="66" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/QuoteLifecycle.cs" timestamp="1542109339014">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/QuoteLifecycle.cs" timestamp="1543201891051">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="9" column="55" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1543142881802">
         <mark key="[" line="0" column="0" />
@@ -97,6 +100,11 @@
         <mark key="]" line="21" column="14" />
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="7" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Enums/QuoteLifecycleStatus.cs" timestamp="1543201764073">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Quote/Services/QuoteService.cs" timestamp="1542541732562">
         <mark key="[" line="97" column="103" />
@@ -139,8 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="43" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
-      <jump line="142" column="46" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="218" column="39" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="143" column="39" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="64" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" />
@@ -239,13 +245,15 @@
       <jump line="61" column="68" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
       <jump line="81" column="38" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
       <jump line="53" column="38" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
+      <jump line="19" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/QuoteLifecycleRespons.cs" />
+      <jump line="10" column="19" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/QuoteLifecycleRespons.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJZCAgICAgICAgICAgICAgICA9IGouSWQsCg==</text>
+        <text encoding="base64">ICAgICAgICBOb25lID0gMCwKICAgICAgICBJbnZpdGVkID0gMSwKICAgICAgICBJbnZpdGF0aW9uRGVjbGluZWQgPSAyLAogICAgICAgIFF1b3RpbmcgPSAzLAogICAgICAgIFF1b3RlRGVjbGluZWQgPSA0LAogICAgICAgIFN1Ym1pdHRlZCA9IDUsCiAgICAgICAgQ29tcGxldGVkID0gNgo=</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -257,52 +265,52 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>asde</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>Id</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJZCAgICAgICAgICAgICAgICA9IGouSWQsCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">SW52aXRlZCA=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJZCAgICAgICAgICAgICAgICA9IGouSWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTmFtZSAgICAgICAgICAgICAgPSBqLk5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3JlYXRlZE9uICAgICAgICAgPSBqLkNyZWF0ZWRPbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNb2RpZmllZE9uICAgICAgICA9IGouTW9kaWZpZWRPbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQdWxsZWRPbiAgICAgICAgICA9IGouUHVsbGVkT24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgR2xvYmFsSWQgICAgICAgICAgPSBqLkdsb2JhbElkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvZGUgICAgICAgICAgICAgID0gai5Db2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZpZXdJZCAgICAgICAgICAgID0gai5WaWV3SWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVHJhZGVQYWNrYWdlQ291bnQgPSBqLlRyYWRlUGFja2FnZXMuQ291bnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRW1wdHlRdWFudGl0eVR5cGUgPSBqLkVtcHR5UXVhbnRpdHlUeXBlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVzdGltYXRlVG90YWwgICAgID0gai5Fc3RpbWF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIYXNoQ29kZSAgICAgICAgICA9IGouSGFzaENvZGUK</text>
+        <text encoding="base64">ICAgICAgICBOb25lID0gMCwKICAgICAgICBJbnZpdGVkID0gMSwKICAgICAgICBJbnZpdGF0aW9uRGVjbGluZWQgPSAyLAogICAgICAgIFF1b3RpbmcgPSAzLAogICAgICAgIFF1b3RlRGVjbGluZWQgPSA0LAogICAgICAgIFN1Ym1pdHRlZCA9IDUsCiAgICAgICAgQ29tcGxldGVkID0gNgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJZCAgICAgICAgICAgICAgICA9IGouSWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTmFtZSAgICAgICAgICAgICAgPSBqLk5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3JlYXRlZE9uICAgICAgICAgPSBqLkNyZWF0ZWRPbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNb2RpZmllZE9uICAgICAgICA9IGouTW9kaWZpZWRPbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQdWxsZWRPbiAgICAgICAgICA9IGouUHVsbGVkT24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgR2xvYmFsSWQgICAgICAgICAgPSBqLkdsb2JhbElkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvZGUgICAgICAgICAgICAgID0gai5Db2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZpZXdJZCAgICAgICAgICAgID0gai5WaWV3SWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVHJhZGVQYWNrYWdlQ291bnQgPSBqLlRyYWRlUGFja2FnZXMuQ291bnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRW1wdHlRdWFudGl0eVR5cGUgPSBqLkVtcHR5UXVhbnRpdHlUeXBlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVzdGltYXRlVG90YWwgICAgID0gai5Fc3RpbWF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIYXNoQ29kZSAgICAgICAgICA9IGouSGFzaENvZGU=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgUHVsbGVkT24gICAgICAgICAgPSBqLlB1bGxlZE9uLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdsb2JhbElkICAgICAgICAgID0gai5HbG9iYWxJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb2RlICAgICAgICAgICAgICA9IGouQ29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBWaWV3SWQgICAgICAgICAgICA9IGouVmlld0lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZUNvdW50ID0gai5UcmFkZVBhY2thZ2VzLkNvdW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVtcHR5UXVhbnRpdHlUeXBlID0gai5FbXB0eVF1YW50aXR5VHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBFc3RpbWF0ZVRvdGFsICAgICA9IGouRXN0aW1hdGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSGFzaENvZGUgICAgICAgICAgPSBqLkhhc2hDb2RlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLlNpbmdsZU9yRGVmYXVsdCgpOwogICAgICAgICAgICAKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWU/IFBpY2tlZE9uIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVzdGltYXRlVG90YWwgICAgID0gai5Fc3RpbWF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIYXNoQ29kZSAgICAgICAgICA9IGouSGFzaENvZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuU2luZ2xlT3JEZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWU/IFF1b3RlUmZpT24geyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVzdGltYXRlVG90YWwgICAgID0gai5Fc3RpbWF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIYXNoQ29kZSAgICAgICAgICA9IGouSGFzaENvZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuU2luZ2xlT3JEZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVzdGltYXRlVG90YWwgICAgID0gai5Fc3RpbWF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIYXNoQ29kZSAgICAgICAgICA9IGouSGFzaENvZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuU2luZ2xlT3JEZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQaWNrZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVzdGltYXRlVG90YWwgICAgID0gai5Fc3RpbWF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIYXNoQ29kZSAgICAgICAgICA9IGouSGFzaENvZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuU2luZ2xlT3JEZWZhdWx0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBOb25lID0gMCwKICAgICAgICBJbnZpdGVkLAogICAgICAgIEludml0YXRpb25EZWNsaW5lZCwKICAgICAgICBRdW90aW5nLAogICAgICAgIFF1b3RlUkZJLAogICAgICAgIFF1b3RlRGVjbGluZWQsCiAgICAgICAgU3VibWl0dGVkLAogICAgICAgIFN1Ym1pc3Npb25JbmNvbXBsZXRlLAogICAgICAgIENvbXBsZXRlZCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJZCAgICAgICAgICAgICAgICA9IGouSWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTmFtZSAgICAgICAgICAgICAgPSBqLk5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3JlYXRlZE9uICAgICAgICAgPSBqLkNyZWF0ZWRPbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNb2RpZmllZE9uICAgICAgICA9IGouTW9kaWZpZWRPbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQdWxsZWRPbiAgICAgICAgICA9IGouUHVsbGVkT24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgR2xvYmFsSWQgICAgICAgICAgPSBqLkdsb2JhbElkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvZGUgICAgICAgICAgICAgID0gai5Db2RlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZpZXdJZCAgICAgICAgICAgID0gai5WaWV3SWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVHJhZGVQYWNrYWdlQ291bnQgPSBqLlRyYWRlUGFja2FnZXMuQ291bnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRW1wdHlRdWFudGl0eVR5cGUgPSBqLkVtcHR5UXVhbnRpdHlUeXBlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVzdGltYXRlVG90YWwgICAgID0gai5Fc3RpbWF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIYXNoQ29kZSAgICAgICAgICA9IGouSGFzaENvZGUK</text>
+        <text encoding="base64">ICAgICAgICBOb25lID0gMCwKICAgICAgICBJbnZpdGVkLAogICAgICAgIEludml0YXRpb25EZWNsaW5lZCwKICAgICAgICBRdW90aW5nLAogICAgICAgIFF1b3RlUkZJLAogICAgICAgIFF1b3RlRGVjbGluZWQsCiAgICAgICAgU3VibWl0dGVkLAogICAgICAgIFN1Ym1pc3Npb25JbmNvbXBsZXRlLAogICAgICAgIENvbXBsZXRlZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIElkICAgICAgICAgICAgICAgID0gai5JZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOYW1lICAgICAgICAgICAgICA9IGouTmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDcmVhdGVkT24gICAgICAgICA9IGouQ3JlYXRlZE9uLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1vZGlmaWVkT24gICAgICAgID0gai5Nb2RpZmllZE9uLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFB1bGxlZE9uICAgICAgICAgID0gai5QdWxsZWRPbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBHbG9iYWxJZCAgICAgICAgICA9IGouR2xvYmFsSWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29kZSAgICAgICAgICAgICAgPSBqLkNvZGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVmlld0lkICAgICAgICAgICAgPSBqLlZpZXdJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUcmFkZVBhY2thZ2VDb3VudCA9IGouVHJhZGVQYWNrYWdlcy5Db3VudCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBFbXB0eVF1YW50aXR5VHlwZSA9IGouRW1wdHlRdWFudGl0eVR5cGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRXN0aW1hdGVUb3RhbCAgICAgPSBqLkVzdGltYXRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEhhc2hDb2RlICAgICAgICAgID0gai5IYXNoQ29kZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBQaWNrZWQKICAgIH0KfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>51,56s/Id/Id1/gc</text>
+        <text>set relativenumber</text>
       </register>
     </registers>
     <search>
@@ -336,7 +344,6 @@
       <history-cmd>
         <entry>w</entry>
         <entry>register</entry>
-        <entry>nnoremap S diw&quot;0P</entry>
         <entry>set rnu</entry>
         <entry>show ln</entry>
         <entry>set ;m</entry>
@@ -349,9 +356,11 @@
         <entry>set showmode</entry>
         <entry>reg</entry>
         <entry>-16,-8 co.</entry>
-        <entry>set relativenumber</entry>
         <entry>set number</entry>
         <entry>51,56s/Id/Id1/gc</entry>
+        <entry encoding="base64">bWFwIA==</entry>
+        <entry>nnoremap S diw&quot;0P</entry>
+        <entry>set relativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
