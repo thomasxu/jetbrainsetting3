@@ -11,11 +11,12 @@
         <mark key="." line="57" column="99" />
         <mark key="^" line="57" column="99" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1543209973319">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1543393408617">
         <mark key="'" line="31" column="143" />
-        <mark key="[" line="29" column="64" />
-        <mark key="]" line="29" column="65" />
-        <mark key="." line="29" column="65" />
+        <mark key="[" line="83" column="27" />
+        <mark key="]" line="83" column="43" />
+        <mark key="^" line="83" column="43" />
+        <mark key="." line="83" column="43" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" timestamp="1542539065413">
         <mark key="'" line="120" column="26" />
@@ -141,14 +142,31 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="34" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/CreateQuoteLifecycleRequest.cs" timestamp="1543392844633">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Authentication/AuthenticationController.Command.cs" timestamp="1542526671797">
         <mark key="[" line="40" column="29" />
         <mark key="]" line="40" column="50" />
         <mark key="^" line="40" column="11" />
         <mark key="." line="40" column="29" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/SupplierContactRepository.cs" timestamp="1543392422830">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="105" />
+        <mark key="." line="67" column="7" />
+        <mark key="^" line="67" column="7" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/TradePackage.cs" timestamp="1542539213208">
         <mark key="'" line="9" column="17" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/ISupplierContactRepository.cs" timestamp="1543392468344">
+        <mark key="[" line="17" column="98" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="17" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -257,8 +275,8 @@
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBbXQo=</text>
+      <register name="&quot;" type="4">
+        <text>ContactId</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -270,52 +288,52 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>NotMapped</text>
+        <text>ContactId</text>
       </register>
       <register name="/" type="4">
         <text>Id</text>
       </register>
       <register name="0" type="4">
-        <text>TradeCategories</text>
+        <text>supplierContact</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5Db250YWN0SWQgPSBjb250YWN0LklkOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRhY3QgPT0gbnVsbCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEJ1c2luZXNzRXhjZXB0aW9uKCJDb250YWN0IGlzIG51bGwiKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBOb25lID0gMCwKICAgICAgICBJbnZpdGVkID0gMSwKICAgICAgICBJbnZpdGF0aW9uRGVjbGluZWQgPSAyLAogICAgICAgIFF1b3RpbmcgPSAzLAogICAgICAgIFF1b3RlRGVjbGluZWQgPSA0LAogICAgICAgIFN1Ym1pdHRlZCA9IDUsCiAgICAgICAgQ29tcGxldGVkID0gNgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIElDb250YWN0UmVwb3NpdG9yeSBfY29udGFjdFJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWU/IFBpY2tlZE9uIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NvbnRhY3RSZXBvc2l0b3J5ID0gY29udGFjdFJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWU/IFF1b3RlUmZpT24geyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBbXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set relativenumber</text>
       </register>
     </registers>
     <search>
@@ -347,7 +365,6 @@
         <entry>Id</entry>
       </history-search>
       <history-cmd>
-        <entry>register</entry>
         <entry>set rnu</entry>
         <entry>show ln</entry>
         <entry>set ;m</entry>
@@ -364,9 +381,10 @@
         <entry>51,56s/Id/Id1/gc</entry>
         <entry encoding="base64">bWFwIA==</entry>
         <entry>nnoremap S diw&quot;0P</entry>
-        <entry>set relativenumber</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>set showrelativenumber</entry>
+        <entry>set relativenumber</entry>
       </history-cmd>
       <history-expr />
       <history-input />
