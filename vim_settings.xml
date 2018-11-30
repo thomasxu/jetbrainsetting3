@@ -45,7 +45,6 @@
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Supplier/Services/SupplierService.cs" timestamp="1543399841671">
         <mark key="'" line="103" column="16" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Job/JobService.cs" timestamp="1543539693887" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackageLifecycle/TradePackageLifecycleController.Command.cs" timestamp="1543545865962">
         <mark key="'" line="27" column="81" />
         <mark key="[" line="15" column="0" />
@@ -67,11 +66,11 @@
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="43" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/UserViewOwnJobFilter.cs" timestamp="1543545442963">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/UserViewOwnJobFilter.cs" timestamp="1543583602351">
         <mark key="'" line="109" column="12" />
-        <mark key="[" line="88" column="12" />
-        <mark key="]" line="88" column="12" />
-        <mark key="." line="88" column="12" />
+        <mark key="[" line="43" column="57" />
+        <mark key="]" line="43" column="57" />
+        <mark key="." line="43" column="57" />
         <mark key="^" line="147" column="100" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Extensions/HttpActionContext.cs" timestamp="1543544761027">
@@ -85,7 +84,6 @@
         <mark key="]" line="23" column="70" />
         <mark key="." line="23" column="70" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/ISupplierRepository.cs" timestamp="1543547028451" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" timestamp="1543401093458">
         <mark key="[" line="73" column="101" />
         <mark key="]" line="73" column="101" />
@@ -104,6 +102,9 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="C:/AutoHotkey/ArrowKeyToCtrlHjkl.ahk" timestamp="1543617251804">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/TradePackageLifecycleResponse.cs" timestamp="1543394140208">
         <mark key="[" line="17" column="35" />
@@ -239,7 +240,7 @@
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>[]</text>
+        <text>==</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -254,7 +255,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bmlxdWVHbG9iYWxJZHNcPg==</text>
