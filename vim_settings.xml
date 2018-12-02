@@ -10,12 +10,12 @@
         <mark key="^" line="144" column="8" />
         <mark key="." line="144" column="8" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1543754427461">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1543786033566">
         <mark key="'" line="74" column="23" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="136" column="54" />
-        <mark key="^" line="130" column="19" />
-        <mark key="." line="130" column="0" />
+        <mark key="[" line="146" column="22" />
+        <mark key="]" line="146" column="30" />
+        <mark key="^" line="146" column="30" />
+        <mark key="." line="146" column="30" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/AccountCanViewOwnSupplierFilter.cs" timestamp="1543546594378">
         <mark key="'" line="34" column="95" />
@@ -277,8 +277,8 @@
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUXVvdGVMaWZlY3ljbGVTdGF0dXMuUXVvdGVEZWNsaW5lZDoKICAgICAgICAgICAgICAgICAgICBxdW90ZUxpZmVjeWNsZS5JbnZpdGVkT24gPSBudWxsOwogICAgICAgICAgICAgICAgICAgIHF1b3RlTGlmZWN5Y2xlLkludml0YXRpb25EZWNsaW5lZE9uID0gbnVsbDsKICAgICAgICAgICAgICAgICAgICBxdW90ZUxpZmVjeWNsZS5RdW90aW5nT24gPSBudWxsOwogICAgICAgICAgICAgICAgICAgIHF1b3RlTGlmZWN5Y2xlLlF1b3RlRGVjbGluZWRPbiA9IERhdGVUaW1lLk5vdzsKICAgICAgICAgICAgICAgICAgICBxdW90ZUxpZmVjeWNsZS5TdWJtaXR0ZWRPbiA9IG51bGw7CiAgICAgICAgICAgICAgICAgICAgcXVvdGVMaWZlY3ljbGUuQ29tcGxldGVkT24gPSBudWxsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>invited</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -293,13 +293,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Invited</text>
+        <text>invited</text>
       </register>
       <register name="/" type="4">
         <text>ContactResponse</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUXVvdGVMaWZlY3ljbGVTdGF0dXMuUXVvdGVEZWNsaW5lZDoKICAgICAgICAgICAgICAgICAgICBxdW90ZUxpZmVjeWNsZS5JbnZpdGVkT24gPSBudWxsOwogICAgICAgICAgICAgICAgICAgIHF1b3RlTGlmZWN5Y2xlLkludml0YXRpb25EZWNsaW5lZE9uID0gbnVsbDsKICAgICAgICAgICAgICAgICAgICBxdW90ZUxpZmVjeWNsZS5RdW90aW5nT24gPSBudWxsOwogICAgICAgICAgICAgICAgICAgIHF1b3RlTGlmZWN5Y2xlLlF1b3RlRGVjbGluZWRPbiA9IERhdGVUaW1lLk5vdzsKICAgICAgICAgICAgICAgICAgICBxdW90ZUxpZmVjeWNsZS5TdWJtaXR0ZWRPbiA9IG51bGw7CiAgICAgICAgICAgICAgICAgICAgcXVvdGVMaWZlY3ljbGUuQ29tcGxldGVkT24gPSBudWxsOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ID0gbnVsbA==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
