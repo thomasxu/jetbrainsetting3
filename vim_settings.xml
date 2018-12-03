@@ -46,12 +46,12 @@
         <mark key="[" line="10" column="37" />
         <mark key="]" line="10" column="56" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackageLifecycle/TradePackageLifecycleController.Command.cs" timestamp="1543747939821">
-        <mark key="'" line="27" column="81" />
-        <mark key="[" line="49" column="53" />
-        <mark key="]" line="49" column="72" />
-        <mark key="^" line="14" column="40" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackageLifecycle/TradePackageLifecycleController.Command.cs" timestamp="1543799358067">
+        <mark key="'" line="49" column="53" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="84" column="9" />
+        <mark key="^" line="71" column="21" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/QuoteLifecycle.cs" timestamp="1543788956645">
         <mark key="[" line="40" column="0" />
@@ -64,12 +64,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="15" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543790441765">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1543799047237">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Migrations/201811270028361_SCP-3232 Add quote lifecycle.cs" timestamp="1543797616822">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Migrations/201811270028361_SCP-3232 Add quote lifecycle.cs" timestamp="1543798981095">
         <mark key="[" line="38" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/UpdateQuoteLifecycleRequest.cs" timestamp="1543540563039">
@@ -146,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="39" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="47" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="49" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
@@ -246,13 +245,14 @@
       <jump line="59" column="24" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" />
       <jump line="6" column="57" filename="C:/dev/git/bartender/Buildsoft.Bartender.Core/Extensions/DateTime.cs" />
       <jump line="96" column="62" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
+      <jump line="49" column="53" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackageLifecycle/TradePackageLifecycleController.Command.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBbUm91dGUoInt0cmFkZVBhY2thZ2VJZH0iKV0KICAgICAgICBbSHR0cFBhdGNoXQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPE9rUmVzdWx0PiBVcGRhdGVUcmFkZVBhY2thZ2VMaWZlY3ljbGUoaW50IHZlcnNpb24sIGludCB0cmFkZVBhY2thZ2VJZCwKICAgICAgICAgICAgW0Zyb21Cb2R5XSBVcGRhdGVUcmFkZVBhY2thZ2VMaWZlY3ljbGVSZXF1ZXN0IGxpZmVjeWNsZVJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICBWYWxpZGF0ZUFwaVZlcnNpb25BbmRTdGF0ZSh2ZXJzaW9uKTsKICAgICAgICAgICAgbGlmZWN5Y2xlUmVxdWVzdC5UcmFkZVBhY2thZ2VJZCA9IHRyYWRlUGFja2FnZUlkOwogICAgICAgICAgICBsaWZlY3ljbGVSZXF1ZXN0LlVzZXJJZCA9IFVzZXJJZDsKCiAgICAgICAgICAgIGF3YWl0IF90cmFkZVBhY2thZ2VzTGlmZWN5Y2xlU2VydmljZS5VcGRhdGVUcmFkZVBhY2thZ2UobGlmZWN5Y2xlUmVxdWVzdCkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwogICAgICAgICAgICBDb250ZXh0LlNhdmVDaGFuZ2VzKCk7CgogICAgICAgICAgICByZXR1cm4gT2soKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -267,13 +267,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>support for change the lifecycle date and fix a couple of issues</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBbUm91dGUoInt0cmFkZVBhY2thZ2VJZH0iKV0KICAgICAgICBbSHR0cFBhdGNoXQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPE9rUmVzdWx0PiBVcGRhdGVUcmFkZVBhY2thZ2VMaWZlY3ljbGUoaW50IHZlcnNpb24sIGludCB0cmFkZVBhY2thZ2VJZCwKICAgICAgICAgICAgW0Zyb21Cb2R5XSBVcGRhdGVUcmFkZVBhY2thZ2VMaWZlY3ljbGVSZXF1ZXN0IGxpZmVjeWNsZVJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICBWYWxpZGF0ZUFwaVZlcnNpb25BbmRTdGF0ZSh2ZXJzaW9uKTsKICAgICAgICAgICAgbGlmZWN5Y2xlUmVxdWVzdC5UcmFkZVBhY2thZ2VJZCA9IHRyYWRlUGFja2FnZUlkOwogICAgICAgICAgICBsaWZlY3ljbGVSZXF1ZXN0LlVzZXJJZCA9IFVzZXJJZDsKCiAgICAgICAgICAgIGF3YWl0IF90cmFkZVBhY2thZ2VzTGlmZWN5Y2xlU2VydmljZS5VcGRhdGVUcmFkZVBhY2thZ2UobGlmZWN5Y2xlUmVxdWVzdCkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwogICAgICAgICAgICBDb250ZXh0LlNhdmVDaGFuZ2VzKCk7CgogICAgICAgICAgICByZXR1cm4gT2soKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
