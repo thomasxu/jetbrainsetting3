@@ -46,6 +46,12 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="C:/dev/selfExperiment/IisLoggerExtractor/IisLoggerExtractor/Program.cs" timestamp="1543883279395">
+        <mark key="'" line="26" column="62" />
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="61" />
+        <mark key="." line="26" column="61" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackageLifecycle/TradePackageLifecycleController.Command.cs" timestamp="1543545865962">
         <mark key="'" line="27" column="81" />
         <mark key="[" line="15" column="0" />
@@ -125,7 +131,6 @@
         <mark key="]" line="35" column="80" />
         <mark key="." line="35" column="67" />
       </file>
-      <file name="C:/dev/IisLogExtractor/Solution2/Solution2.sln" timestamp="1543881091810" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/BusinessExceptionFilter.cs" timestamp="1543876114195">
         <mark key="'" line="55" column="12" />
       </file>
@@ -158,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
       <jump line="5" column="9" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
       <jump line="34" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="44" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
@@ -258,13 +262,14 @@
       <jump line="46" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Email/EmailService.cs" />
       <jump line="18" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Email/EmailService.cs" />
       <jump line="55" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/BusinessExceptionFilter.cs" />
+      <jump line="27" column="62" filename="C:/dev/selfExperiment/IisLoggerExtractor/IisLoggerExtractor/Program.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UmV0dXJuCg==</text>
+      <register name="&quot;" type="4">
+        <text>];</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -279,7 +284,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Up</text>
+        <text>];</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -417,7 +422,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
