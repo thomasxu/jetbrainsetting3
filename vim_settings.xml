@@ -23,6 +23,12 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/TradePackageTradeCategory.cs" timestamp="1543964966122">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="19" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/ITradePackageLifecycleService.cs" timestamp="1543799748286">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="11" />
@@ -42,7 +48,7 @@
         <mark key="." line="77" column="86" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Quote/QuoteController.Command.cs" timestamp="1543964042307" />
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/QuoteLifecycle.cs" timestamp="1543831440603">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/QuoteLifecycle.cs" timestamp="1543964767049">
         <mark key="[" line="52" column="73" />
         <mark key="]" line="52" column="73" />
         <mark key="." line="52" column="73" />
@@ -57,9 +63,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
-      </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Migrations/201811270028361_SCP-3232 Add quote lifecycle.cs" timestamp="1543798981095">
-        <mark key="[" line="38" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/ConcurrentLoggingAttribute.cs" timestamp="1543866872926" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/UpdateQuoteLifecycleRequest.cs" timestamp="1543805137257">
@@ -130,6 +133,11 @@
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TeamRepository.cs" timestamp="1543801242826">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="93" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/TradePackage.cs" timestamp="1543964877088">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -239,7 +247,7 @@
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>N</text>
+        <text>PackageGlobalId</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -254,7 +262,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>PackageGlobalId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdW90ZUxpZmVjeWNsZUlkXD4=</text>
