@@ -43,11 +43,12 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="C:/dev/selfExperiment/IisLoggerExtractor/IisLoggerExtractor/Program.cs" timestamp="1543893679083">
-        <mark key="[" line="40" column="52" />
-        <mark key="]" line="40" column="49" />
-        <mark key="." line="40" column="49" />
-        <mark key="^" line="40" column="49" />
+      <file name="C:/dev/selfExperiment/IisLoggerExtractor/IisLoggerExtractor/Program.cs" timestamp="1543895224743">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="53" column="41" />
+        <mark key="]" line="53" column="42" />
+        <mark key="." line="53" column="42" />
+        <mark key="^" line="27" column="15" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackageLifecycle/TradePackageLifecycleController.Command.cs" timestamp="1543545865962">
         <mark key="'" line="27" column="81" />
@@ -160,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="9" filename="$USER_HOME$/Desktop/TradePackageLifecycle.txt" />
       <jump line="34" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="44" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="32" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
@@ -260,13 +260,14 @@
       <jump line="18" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Email/EmailService.cs" />
       <jump line="55" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/BusinessExceptionFilter.cs" />
       <jump line="27" column="62" filename="C:/dev/selfExperiment/IisLoggerExtractor/IisLoggerExtractor/Program.cs" />
+      <jump line="67" column="0" filename="C:/dev/selfExperiment/IisLoggerExtractor/IisLoggerExtractor/Program.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHM=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmdWxsRmlsZVBhdGggPSBQYXRoLkNvbWJpbmUoQCJjOlxMb2dQYXJzZXJSZXN1bHQiLCAkInt0aW1lU3RhbXB9LnR4dCIpOwo=</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -281,7 +282,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHM=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -292,46 +293,46 @@
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">OwoKICAgICAgICAgICAgcmV0dXJuIEdlbmVyaWNSZXNwb25zZTxKb2JMaXN0UmVzcG9uc2U+LkNyZWF0ZVJlc3BvbnNlKHJlc3BvbnNlKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmdWxsRmlsZVBhdGggPSBQYXRoLkNvbWJpbmUoQCJjOlxMb2dQYXJzZXJSZXN1bHQiLCAkInt0aW1lU3RhbXB9LnR4dCIpOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>;
-
-            var response = await _jobStatisticsService.GetJobListWithStatistics(CurrentAccountId, UserId, jobListRequest).ConfigureAwait(false)</text>
+        <text encoding="base64">OwoKICAgICAgICAgICAgcmV0dXJuIEdlbmVyaWNSZXNwb25zZTxKb2JMaXN0UmVzcG9uc2U+LkNyZWF0ZVJlc3BvbnNlKHJlc3BvbnNlKQ==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="4">
         <text>;
+
+            var response = await _jobStatisticsService.GetJobListWithStatistics(CurrentAccountId, UserId, jobListRequest).ConfigureAwait(false)</text>
+      </register>
+      <register name="4" type="4">
+        <text>;
             }
 
             ValidateApiVersionAndState(version)</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">OwoKICAgICAgICAgICAgaWYgKGlzQWNjb3VudFVzZXIgJiYgKGpvYkxpc3RSZXF1ZXN0LlVzZXJJZCA9PSAwIHx8IGpvYkxpc3RSZXF1ZXN0LlVzZXJJZCAhPSBVc2VySWQpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgVW5hdXRob3JpemVkQWNjZXNzRXhjZXB0aW9uKCJVc2VycyBjYW4gb25seSBhY2Nlc3MgdGhlaXIgb3duIEpvYnMuIik=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">OwoKICAgICAgICAgICAgaWYgKGlzQWNjb3VudFVzZXIgJiYgKGpvYkxpc3RSZXF1ZXN0LlVzZXJJZCA9PSAwIHx8IGpvYkxpc3RSZXF1ZXN0LlVzZXJJZCAhPSBVc2VySWQpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgVW5hdXRob3JpemVkQWNjZXNzRXhjZXB0aW9uKCJVc2VycyBjYW4gb25seSBhY2Nlc3MgdGhlaXIgb3duIEpvYnMuIik=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">Y2xhc3MgSm9iQ29udHJvbGxlcgogICAgewogICAgICAgIFtIdHRwUG9zdF0KICAgICAgICBbQXV0aG9yaXplKFJvbGVzID0gIkFjY291bnRBZG1pbiwgQWNjb3VudE1hbmFnZXIsIEFjY291bnRVc2VyLCBBY2NvdW50VHJ1c3RlZFVzZXIiKV0KICAgICAgICBbUm91dGUoIiIpXQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPEdlbmVyaWNSZXNwb25zZTxKb2JMaXN0UmVzcG9uc2U+PiBHZXRKb2JMaXN0KGludCB2ZXJzaW9uLCBbRnJvbUJvZHldIEpvYkxpc3RSZXF1ZXN0IGpvYkxpc3RSZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGlzQWNjb3VudFVzZXIgPSBVc2VyLklzSW5Sb2xlKFJvbGVzLkFjY291bnRVc2VyLlRvU3RyaW5nKCkpIHx8IFVzZXIuSXNJblJvbGUoUm9sZXMuQWNjb3VudFRydXN0ZWRVc2VyLlRvU3RyaW5nKCkp</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBwYXJ0aWFsIGNsYXNzIEpvYkNvbnRyb2xsZXIK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">UHJlZmVyZW5jZUZvckpvYkFzeW5jKGpvYklkKTsKICAgICAgICAgICAgcmV0dXJuIEdlbmVyaWNSZXNwb25zZTxKb2I=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>Preference(int version, int jobId)
         {
             ValidateApiVersionAndState(version);
             var preference = await _jobService.GetJob</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">UHJlZmVyZW5jZVJlc3BvbnNlPj4gR2V0VXNlcg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
@@ -428,7 +429,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
