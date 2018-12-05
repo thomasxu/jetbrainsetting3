@@ -29,7 +29,11 @@
         <mark key="." line="82" column="11" />
         <mark key="^" line="82" column="17" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/AuthenticationController.CommandTest.cs" timestamp="1543891735088" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/AuthenticationController.CommandTest.cs" timestamp="1544047153184">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/JobRepository.cs" timestamp="1543543959922">
         <mark key="'" line="10" column="33" />
         <mark key="[" line="208" column="15" />
@@ -266,8 +270,8 @@
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>u_extend1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGJvb2wgSXNCdXNpbmVzc0V4Y2VwdGlvbiB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -294,45 +298,42 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmdWxsRmlsZVBhdGggPSBQYXRoLkNvbWJpbmUoQCJjOlxMb2dQYXJzZXJSZXN1bHQiLCAkInt0aW1lU3RhbXB9LnR4dCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGJvb2wgSXNCdXNpbmVzc0V4Y2VwdGlvbiB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">OwoKICAgICAgICAgICAgcmV0dXJuIEdlbmVyaWNSZXNwb25zZTxKb2JMaXN0UmVzcG9uc2U+LkNyZWF0ZVJlc3BvbnNlKHJlc3BvbnNlKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHJldHVybiBpbnZhbGlkUGFzc3dvcmRDYXNlOwo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="4">
-        <text>;
-
-            var response = await _jobStatisticsService.GetJobListWithStatistics(CurrentAccountId, UserId, jobListRequest).ConfigureAwait(false)</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>;
-            }
-
-            ValidateApiVersionAndState(version)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmdWxsRmlsZVBhdGggPSBQYXRoLkNvbWJpbmUoQCJjOlxMb2dQYXJzZXJSZXN1bHQiLCAkInt0aW1lU3RhbXB9LnR4dCIpOwo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">OwoKICAgICAgICAgICAgaWYgKGlzQWNjb3VudFVzZXIgJiYgKGpvYkxpc3RSZXF1ZXN0LlVzZXJJZCA9PSAwIHx8IGpvYkxpc3RSZXF1ZXN0LlVzZXJJZCAhPSBVc2VySWQpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgVW5hdXRob3JpemVkQWNjZXNzRXhjZXB0aW9uKCJVc2VycyBjYW4gb25seSBhY2Nlc3MgdGhlaXIgb3duIEpvYnMuIik=</text>
+        <text encoding="base64">OwoKICAgICAgICAgICAgcmV0dXJuIEdlbmVyaWNSZXNwb25zZTxKb2JMaXN0UmVzcG9uc2U+LkNyZWF0ZVJlc3BvbnNlKHJlc3BvbnNlKQ==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Y2xhc3MgSm9iQ29udHJvbGxlcgogICAgewogICAgICAgIFtIdHRwUG9zdF0KICAgICAgICBbQXV0aG9yaXplKFJvbGVzID0gIkFjY291bnRBZG1pbiwgQWNjb3VudE1hbmFnZXIsIEFjY291bnRVc2VyLCBBY2NvdW50VHJ1c3RlZFVzZXIiKV0KICAgICAgICBbUm91dGUoIiIpXQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPEdlbmVyaWNSZXNwb25zZTxKb2JMaXN0UmVzcG9uc2U+PiBHZXRKb2JMaXN0KGludCB2ZXJzaW9uLCBbRnJvbUJvZHldIEpvYkxpc3RSZXF1ZXN0IGpvYkxpc3RSZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGlzQWNjb3VudFVzZXIgPSBVc2VyLklzSW5Sb2xlKFJvbGVzLkFjY291bnRVc2VyLlRvU3RyaW5nKCkpIHx8IFVzZXIuSXNJblJvbGUoUm9sZXMuQWNjb3VudFRydXN0ZWRVc2VyLlRvU3RyaW5nKCkp</text>
+        <text>;
+
+            var response = await _jobStatisticsService.GetJobListWithStatistics(CurrentAccountId, UserId, jobListRequest).ConfigureAwait(false)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBwYXJ0aWFsIGNsYXNzIEpvYkNvbnRyb2xsZXIK</text>
+      <register name="7" type="4">
+        <text>;
+            }
+
+            ValidateApiVersionAndState(version)</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">UHJlZmVyZW5jZUZvckpvYkFzeW5jKGpvYklkKTsKICAgICAgICAgICAgcmV0dXJuIEdlbmVyaWNSZXNwb25zZTxKb2I=</text>
+        <text encoding="base64">OwoKICAgICAgICAgICAgaWYgKGlzQWNjb3VudFVzZXIgJiYgKGpvYkxpc3RSZXF1ZXN0LlVzZXJJZCA9PSAwIHx8IGpvYkxpc3RSZXF1ZXN0LlVzZXJJZCAhPSBVc2VySWQpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgVW5hdXRob3JpemVkQWNjZXNzRXhjZXB0aW9uKCJVc2VycyBjYW4gb25seSBhY2Nlc3MgdGhlaXIgb3duIEpvYnMuIik=</text>
       </register>
       <register name="9" type="4">
-        <text>Preference(int version, int jobId)
-        {
-            ValidateApiVersionAndState(version);
-            var preference = await _jobService.GetJob</text>
+        <text encoding="base64">Y2xhc3MgSm9iQ29udHJvbGxlcgogICAgewogICAgICAgIFtIdHRwUG9zdF0KICAgICAgICBbQXV0aG9yaXplKFJvbGVzID0gIkFjY291bnRBZG1pbiwgQWNjb3VudE1hbmFnZXIsIEFjY291bnRVc2VyLCBBY2NvdW50VHJ1c3RlZFVzZXIiKV0KICAgICAgICBbUm91dGUoIiIpXQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPEdlbmVyaWNSZXNwb25zZTxKb2JMaXN0UmVzcG9uc2U+PiBHZXRKb2JMaXN0KGludCB2ZXJzaW9uLCBbRnJvbUJvZHldIEpvYkxpc3RSZXF1ZXN0IGpvYkxpc3RSZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGlzQWNjb3VudFVzZXIgPSBVc2VyLklzSW5Sb2xlKFJvbGVzLkFjY291bnRVc2VyLlRvU3RyaW5nKCkpIHx8IFVzZXIuSXNJblJvbGUoUm9sZXMuQWNjb3VudFRydXN0ZWRVc2VyLlRvU3RyaW5nKCkp</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
