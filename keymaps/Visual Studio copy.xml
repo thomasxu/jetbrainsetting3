@@ -333,6 +333,11 @@
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
   <action id="ShowExecutionPoint">
     <keyboard-shortcut first-keystroke="alt multiply" />
   </action>
