@@ -323,6 +323,10 @@
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="alt delete" />
   </action>
+  <action id="SaveDocument">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="SelectAllOccurrences" />
   <action id="SelectNextOccurrence" />
   <action id="SetNextStatement" />
@@ -379,4 +383,5 @@
   <action id="XPathView.Actions.ShowPath" />
   <action id="context.load" />
   <action id="hg4idea.QPushAction" />
+  <action id="ngxQuickSwitch.QuickSwitch" />
 </keymap>
