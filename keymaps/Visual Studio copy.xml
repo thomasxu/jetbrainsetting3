@@ -4,15 +4,16 @@
     <keyboard-shortcut first-keystroke="shift delete" />
   </action>
   <action id="AceAction">
-    <keyboard-shortcut first-keystroke="alt semicolon" />
-  </action>
-  <action id="AceLineAction" />
-  <action id="AceTargetAction">
-    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
     <keyboard-shortcut first-keystroke="shift alt semicolon" />
   </action>
-  <action id="AceWordAction">
+  <action id="AceLineAction">
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
+  <action id="AceTargetAction">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+  <action id="AceWordAction">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
   <action id="AceWordForwardAction">
     <keyboard-shortcut first-keystroke="shift alt p" />
