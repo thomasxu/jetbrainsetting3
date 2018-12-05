@@ -29,6 +29,11 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="19" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageOverview/TradePackageOverviewServiceTest.cs" timestamp="1543978980560">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/ITradePackageLifecycleService.cs" timestamp="1543799748286">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="11" />
@@ -116,6 +121,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="42" column="46" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" timestamp="1543978957528">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Reports/ReportController.cs" timestamp="1543662473633">
         <mark key="[" line="35" column="67" />
@@ -243,8 +254,8 @@
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>PackageGlobalId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgQnVpbGRzb2Z0LkJhcnRlbmRlci5CdXNpbmVzcy5UcmFkZVBhY2thZ2VPdmVydmlldzsK</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -259,10 +270,10 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>PackageGlobalId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdW90ZUxpZmVjeWNsZUlkXD4=</text>
+        <text>;</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBxdW90ZUxpZmVjeWNsZSA9IGF3YWl0IF90cmFkZVBhY2thZ2VMaWZlY3ljbGVSZXBvc2l0b3J5LkdldFF1b3RlTGlmZWN5Y2xlQnlQYWNrYWdlQW5kU3VwcGxpZXJJZChxdW90ZVVwZGF0ZVJlcXVlc3QuU3VwcGxpZXIuSWQsCiAgICAgICAgICAgICAgICAgICAgcXVvdGVVcGRhdGVSZXF1ZXN0LlRyYWRlUGFja2FnZUlkKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgICAgICBpZiAocXVvdGVMaWZlY3ljbGUgIT0gbnVsbCAmJiBxdW90ZUxpZmVjeWNsZS5TdGF0dXMgPCBRdW90ZUxpZmVjeWNsZVN0YXR1cy5TdWJtaXR0ZWQpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcXVvdGVMaWZlY3ljbGUuU3RhdHVzID0gUXVvdGVMaWZlY3ljbGVTdGF0dXMuU3VibWl0dGVkOwogICAgICAgICAgICAgICAgfQo=</text>
@@ -271,54 +282,46 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgQnVpbGRzb2Z0LkJhcnRlbmRlci5CdXNpbmVzcy5UcmFkZVBhY2thZ2VPdmVydmlldzsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LkZvck1lbWJlcihkc3QgPT4gZHN0LlRyYWRlUGFja2FnZUlkLCBzcmMgPT4gc3JjLklnbm9yZSgpKQogICAgICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIoZHN0ID0+IGRzdC5Vc2VySWQsIHNyYyA9PiBzcmMuSWdub3JlKCkpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkRhdGE7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgaWYgKHF1b3RlTGlmZWN5Y2xlICE9IG51bGwpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBxdW90ZUxpZmVjeWNsZS5TdXBwbGllckNvbnRhY3QuQ29udGFjdCA9IGNvbnRhY3Q7CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgaWYgKHF1b3RlTGlmZWN5Y2xlICE9IG51bGwpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBxdW90ZUxpZmVjeWNsZS5TdXBwbGllckNvbnRhY3QuQ29udGFjdCA9IGNvbnRhY3Q7CiAgICAgICAgICAgICAgICAgICAgICAgIHF1b3RlTGlmZWN5Y2xlLlN1cHBsaWVyQ29udGFjdC5Jc1ByaW1hcnlDb250YWN0ID0gIXByaW1hcnlDb250YWN0RXhpc3RzOwogICAgICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ID0gbmV3IFRyYWRlUGFja2FnZUxpZmVjeWNsZVNlcnZpY2UodHJhZGVQYWNrYWdlUmVwb3NpdG9yeSwgdHJhZGVQYWNrYWdlTGlmZWN5Y2xlUmVwb3NpdG9yeSwKICAgICAgICAgICAgc3VwcGxpZXJDb250YWN0UmVwb3NpdG9yeSwgcXVvdGVSZXBvc2l0b3J5LCBjb250ZXh0KQ==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgaWYgKGFkanVzdG1lbnRRdW90ZSAhPSBudWxsKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgYWRqdXN0bWVudFF1b3RlLlN1cHBsaWVyQ29udGFjdC5Db250YWN0ID0gY29udGFjdDsKICAgICAgICAgICAgICAgICAgICAgICAgYWRqdXN0bWVudFF1b3RlLlN1cHBsaWVyQ29udGFjdC5Jc1ByaW1hcnlDb250YWN0ID0gIXByaW1hcnlDb250YWN0RXhpc3RzOwogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB1bmV3IFRyYWRlUGFja2FnZUxpZmVjeWNsZVNlcnZpY2UoKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>if (adjustmentQuote != null)
-                    {
-                        adjustmentQuote.SupplierContact.Contact = contact;
-                        adjustmentQuote.SupplierContact.IsPrimaryContact = !primaryContactExists;
-                    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="4">
-        <text>if (adjustmentQuote != null)
-                    {
-                        adjustmentQuote.SupplierContact.Contact = contact;
-                        adjustmentQuote.SupplierContact.IsPrimaryContact = !primaryContactExists;
-                    }</text>
+        <text encoding="base64">LkZvck1lbWJlcihkc3QgPT4gZHN0LlRyYWRlUGFja2FnZUlkLCBzcmMgPT4gc3JjLklnbm9yZSgpKQogICAgICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIoZHN0ID0+IGRzdC5Vc2VySWQsIHNyYyA9PiBzcmMuSWdub3JlKCkpOw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGFjdFJlcG9zaXRvcnkuZ2V0Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgaWYgKHF1b3RlTGlmZWN5Y2xlICE9IG51bGwpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBxdW90ZUxpZmVjeWNsZS5TdXBwbGllckNvbnRhY3QuQ29udGFjdCA9IGNvbnRhY3Q7CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdW90ZUxpZmVjeWNsZUlkXD4=</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdW90ZUxpZmVjeWNsZUlkXD4=</last-pattern>
+      <last-pattern>;</last-pattern>
       <last-replace>gc</last-replace>
       <last-substitute>Date</last-substitute>
       <last-dir>1</last-dir>
@@ -338,7 +341,6 @@
         <entry>]</entry>
         <entry>Preference</entry>
         <entry>class</entry>
-        <entry>;</entry>
         <entry>updatequotelifecycle</entry>
         <entry>updateQuotelifecyclerequest</entry>
         <entry>UpdateQuote</entry>
@@ -346,6 +348,7 @@
         <entry>Date</entry>
         <entry>)</entry>
         <entry encoding="base64">XDxxdW90ZUxpZmVjeWNsZUlkXD4=</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
         <entry>set ;m</entry>
