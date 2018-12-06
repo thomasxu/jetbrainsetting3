@@ -1,8 +1,4 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
-  <action id="$Cut">
-    <keyboard-shortcut first-keystroke="ctrl x" />
-    <keyboard-shortcut first-keystroke="shift delete" />
-  </action>
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="shift alt semicolon" />
   </action>
@@ -89,6 +85,9 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
@@ -109,7 +108,6 @@
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
-    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
