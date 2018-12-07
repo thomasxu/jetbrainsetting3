@@ -28,11 +28,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Core/GenericResponse.cs" timestamp="1544161488083">
-        <mark key="[" line="22" column="123" />
-        <mark key="]" line="22" column="125" />
-        <mark key="^" line="22" column="125" />
-        <mark key="." line="22" column="125" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Core/GenericResponse.cs" timestamp="1544168858972">
+        <mark key="'" line="16" column="47" />
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="56" />
+        <mark key="^" line="18" column="110" />
+        <mark key="." line="18" column="110" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/TradePackageTradeCategory.cs" timestamp="1543964966122">
         <mark key="[" line="9" column="19" />
@@ -165,12 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="12" column="4" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="98" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="31" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="0" column="3" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="29" column="62" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="10" column="11" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="26" column="19" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="22" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
@@ -265,13 +260,19 @@
       <jump line="230" column="4" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" />
       <jump line="1666" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/D0C69B98-D4DA-4342-A70F-9B139B717B6D/9b/d3e0a858/Assert.cs" />
       <jump line="338" column="20" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" />
+      <jump line="22" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Core/GenericResponse.cs" />
+      <jump line="26" column="29" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Core/GenericResponse.cs" />
+      <jump line="27" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Core/GenericResponse.cs" />
+      <jump line="3" column="49" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Core/GenericResponse.cs" />
+      <jump line="10" column="42" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Core/GenericResponse.cs" />
+      <jump line="20" column="47" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Core/GenericResponse.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Settings.ReleaseVersion</text>
+        <text>ReleaseVersion</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -286,13 +287,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Settings.ReleaseVersion</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>Response</text>
       </register>
       <register name="0" type="4">
-        <text>CManager.Settings.ReleaseVersion</text>
+        <text encoding="base64">UmVzcG9uc2U8b2JqZWN0PiBDcmVhdGVFbXB0eQ==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
@@ -331,22 +332,20 @@
         <text encoding="base64">IG5ldyBRdW90ZVByb2dyZXNzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSWQgPSAzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN1cHBsaWVyID0gU3VwcGxpZXIzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbnRhY3QgPSBTdXBwbGllcjMuQ29udGFjdHMuRWxlbWVudEF0KDEpLkNvbnRhY3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RhdHVzID0gUXVvdGVMaWZlY3ljbGVTdGF0dXMuQ29tcGxldGVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
-        <text>set relativenumber</text>
+        <text>s/Response/abc/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>Response</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
-      <last-replace>gc</last-replace>
-      <last-substitute>;</last-substitute>
+      <last-pattern>Response</last-pattern>
+      <last-replace>abc</last-replace>
+      <last-substitute>Response</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQaWNrZWRRdW90ZUFtb3VudFJlc3BvbnNlXD4=</entry>
-        <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry>Id</entry>
         <entry encoding="base64">XDxRdW90ZVByb2dyZXNzXD4=</entry>
         <entry encoding="base64">XDxxbFw+</entry>
@@ -365,12 +364,10 @@
         <entry encoding="base64">XDxxdW90ZUxpZmVjeWNsZUlkXD4=</entry>
         <entry>;</entry>
         <entry>,</entry>
+        <entry>release</entry>
+        <entry>Response</entry>
       </history-search>
       <history-cmd>
-        <entry>set ;m</entry>
-        <entry>set ln</entry>
-        <entry>set nu</entry>
-        <entry>set autoindent</entry>
         <entry>autoindent</entry>
         <entry>set noerrorbells</entry>
         <entry>set noerrorbell</entry>
@@ -387,6 +384,10 @@
         <entry>show number</entry>
         <entry>set number</entry>
         <entry>set relativenumber</entry>
+        <entry>set clipboard=unnamed</entry>
+        <entry>gn</entry>
+        <entry>s/Response/123/gci</entry>
+        <entry>s/Response/abc/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
