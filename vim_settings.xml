@@ -39,7 +39,6 @@
       <file name="C:/dev/git/bartender/packages/System.Threading.Tasks.Extensions.4.5.1/lib/abc.component.ts" timestamp="1544188270147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj" timestamp="1544247946272" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/TradePackageTradeCategory.cs" timestamp="1543964966122">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="19" />
@@ -57,7 +56,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1.sln" timestamp="1544247976963" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/ITradePackageLifecycleService.cs" timestamp="1543799748286">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="11" />
@@ -160,11 +158,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/D0C69B98-D4DA-4342-A70F-9B139B717B6D/9b/d3e0a858/Assert.cs" timestamp="1544007536491">
         <mark key="'" line="1666" column="23" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" timestamp="1544262101816">
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="36" column="11" />
-        <mark key="." line="36" column="11" />
-        <mark key="^" line="36" column="11" />
+      <file name="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" timestamp="1544264248222">
+        <mark key="'" line="61" column="25" />
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+        <mark key="^" line="17" column="29" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/CreateQuoteLifecycleRequest.cs" timestamp="1543540495714">
         <mark key="[" line="6" column="44" />
@@ -185,7 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="78" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
       <jump line="23" column="40" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" />
       <jump line="21" column="54" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" />
       <jump line="61" column="68" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
@@ -285,6 +283,7 @@
       <jump line="31" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/BaseController.cs" />
       <jump line="3" column="0" filename="C:/AutoHotkey/ArrowKeyToCtrlHjkl.ahk" />
       <jump line="23" column="4" filename="C:/AutoHotkey/ArrowKeyToCtrlHjkl.ahk" />
+      <jump line="61" column="25" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -306,7 +305,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aHJvd1w+</text>
@@ -318,37 +317,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKChvIGlzIG51bGwpKSBpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IEFkZChzLCBudW1iZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG8gaXMgbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyAoaW50IHMsIHN0cmluZyBjKSBBZGQoKGludCBzLCBzdHJpbmcgYykgcmVzdWx0LCBpbnQgbnVtYmVyKQogICAgICAgIHsKICAgICAgICAgICAgcmVzdWx0ID0gKHJlc3VsdC5zICsgbnVtYmVyLCByZXN1bHQuYyArICJoZWxsbyIpOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG8gaXMgbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBVCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyAoaW50IHMsIHN0cmluZyBjKSBBZGQoKGludCBzLCBzdHJpbmcgYykgcmVzdWx0LCBpbnQgbnVtYmVyKQogICAgICAgIHsKICAgICAgICAgICAgcmVzdWx0ID0gKHJlc3VsdC5zICsgbnVtYmVyLCByZXN1bHQuYyArICJoZWxsbyIpOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyAoaW50IHMsIHN0cmluZyBjKSBBZGQoKGludCBzLCBzdHJpbmcgYykgcmVzdWx0LCBpbnQgbnVtYmVyKQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyAoaW50IHN1bSwgc3RyaW5nIGNvdW50KSBUYWxseShpbnRbXSBudW1iZXJzKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHJlc3VsdCA9IChzOiAxLCBjOiAidGhvbWFzIik7CgogICAgICAgICAgICBmb3JlYWNoICh2YXIgbnVtYmVyIGluIG51bWJlcnMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJlc3VsdCA9IChyZXN1bHQucyArIG51bWJlciwgcmVzdWx0LmMgKyAiSGVsbG8iKQogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IEFkZChzLCBudW1iZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyAoaW50IHN1bSwgc3RyaW5nIGNvdW50KSBUYWxseShpbnRbXSBudW1iZXJzKQogICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyAoaW50IHMsIHN0cmluZyBjKSBBZGQoKGludCBzLCBzdHJpbmcgYykgcmVzdWx0LCBpbnQgbnVtYmVyKQogICAgICAgIHsKICAgICAgICAgICAgcmVzdWx0ID0gKHJlc3VsdC5zICsgbnVtYmVyLCByZXN1bHQuYyArICJoZWxsbyIpOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>s/Response/abc/gc</text>
@@ -359,7 +358,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDx0aHJvd1w+</last-pattern>
       <last-replace>abc</last-replace>
-      <last-substitute>Response</last-substitute>
+      <last-substitute encoding="base64">XDx0aHJvd1w+</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>

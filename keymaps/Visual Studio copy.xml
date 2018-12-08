@@ -5,16 +5,14 @@
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
   <action id="AceAction">
-    <keyboard-shortcut first-keystroke="shift alt semicolon" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
   <action id="AceLineAction">
     <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
-  </action>
-  <action id="AceTargetAction">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
-  <action id="AceWordAction">
-    <keyboard-shortcut first-keystroke="alt semicolon" />
+  <action id="AceTargetAction">
+    <keyboard-shortcut first-keystroke="shift alt semicolon" />
   </action>
   <action id="AceWordForwardAction">
     <keyboard-shortcut first-keystroke="shift alt p" />
@@ -115,6 +113,10 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
@@ -200,7 +202,6 @@
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="escape" />
-    <keyboard-shortcut first-keystroke="shift space" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
