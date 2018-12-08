@@ -158,11 +158,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/D0C69B98-D4DA-4342-A70F-9B139B717B6D/9b/d3e0a858/Assert.cs" timestamp="1544007536491">
         <mark key="'" line="1666" column="23" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" timestamp="1544267768237">
-        <mark key="[" line="56" column="7" />
-        <mark key="]" line="55" column="7" />
-        <mark key="." line="55" column="7" />
-        <mark key="^" line="55" column="7" />
+      <file name="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" timestamp="1544270355728">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/CreateQuoteLifecycleRequest.cs" timestamp="1543540495714">
         <mark key="[" line="6" column="44" />
@@ -183,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="57" column="24" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" />
       <jump line="18" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Quote/Services/QuoteService.cs" />
       <jump line="28" column="27" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Supplier/Services/SupplierService.cs" />
@@ -279,10 +278,11 @@
       <jump line="36" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
       <jump line="24" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
       <jump line="26" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
-      <jump line="29" column="16" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
       <jump line="33" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
       <jump line="34" column="8" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
       <jump line="59" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
+      <jump line="31" column="12" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
+      <jump line="29" column="8" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -304,49 +304,65 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>cistring[] args</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IChzOiAxLCBjOiAidGhvbWFzIik7Cg==</text>
+      <register name="0" type="4">
+        <text>+</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      <register name="1" type="4">
+        <text>{
+            var result = (s: 1, c: &quot;thomas&quot;);
+
+            foreach (var number in numbers)
+            {
+                result = Add(&quot;thomas&quot;, number);
+
+            }
+
+            return result;
+
+            (int s, string c) add(string c, int number)
+            {
+                result = (result.s + umber, result.c + c);
+                return result;
+            }
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBUaG9tYXNNZXRob2QxKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHIgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbmJ1CiAgICAgICAgICAgIHRocgogICAgICAgICAgICAgICAgdGhyICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IHRocgo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0aG9tYXMgPSAidGhvbWFzIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gImFiYyI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0aG9tYXMgPSAidGhvbWFzIjsK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0aG9tYXMgPSAidGhvbWFzIjsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBUaG9tYXNNZXRob2QxKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCiAgICAgICAgICAgICAgICBfZm9ybWF0dGFibGUgPSAkInNkYWYiOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCiAgICAgICAgICAgICAgICBfZm9ybWF0dGFibGUgPSAkInNkYWYiOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aWYoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Response/abc/gc</text>
