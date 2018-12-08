@@ -161,11 +161,11 @@
       <file name="$USER_HOME$/Documents/Visual Studio 2017/Projects/ConsoleApp3/ConsoleApp3/abc" timestamp="1544272284649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" timestamp="1544306760295">
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="33" column="11" />
-        <mark key="^" line="33" column="11" />
-        <mark key="." line="33" column="11" />
+      <file name="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" timestamp="1544307932274">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="24" column="11" />
+        <mark key="." line="24" column="15" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/CreateQuoteLifecycleRequest.cs" timestamp="1543540495714">
         <mark key="[" line="6" column="44" />
@@ -186,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Quote/Services/QuoteService.cs" />
       <jump line="28" column="27" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Supplier/Services/SupplierService.cs" />
       <jump line="278" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Supplier/Services/SupplierService.cs" />
       <jump line="103" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Supplier/Services/SupplierService.cs" />
@@ -286,6 +285,7 @@
       <jump line="31" column="12" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
       <jump line="29" column="8" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
       <jump line="51" column="17" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -307,7 +307,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>string1</text>
+        <text>id Method1()</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -478,6 +478,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
