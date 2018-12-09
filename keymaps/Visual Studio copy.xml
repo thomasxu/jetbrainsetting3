@@ -63,6 +63,10 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="CodeInspection.OnEditor" />
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
@@ -125,6 +129,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="EditorStartNewLine" />
   <action id="EditorToggleShowWhitespaces" />
   <action id="EditorToggleUseSoftWraps" />
   <action id="EditorUnSelectWord">
@@ -134,6 +139,10 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="ExportToTextFile" />
   <action id="ExtractMethod">
@@ -320,7 +329,9 @@
   <action id="RiderUnitTestNewSessionAction" />
   <action id="RiderUnitTestQuickListPopupAction" />
   <action id="RiderUnitTestRepeatPreviousRunAction" />
-  <action id="RiderUnitTestRunContextAction" />
+  <action id="RiderUnitTestRunContextAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="RiderUnitTestRunContextUntilFailAction" />
   <action id="RiderUnitTestRunCurrentSessionAction" />
   <action id="RiderUnitTestRunSolutionAction">
