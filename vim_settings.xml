@@ -3,24 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" timestamp="1544333180767">
-        <mark key="'" line="101" column="34" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="." line="182" column="0" />
-      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Extensions/DateTime.cs" timestamp="1543789116908">
         <mark key="'" line="4" column="57" />
         <mark key="[" line="2" column="31" />
         <mark key="]" line="4" column="52" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
-      </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/RepositoryCache/RepositoryCache.cs" timestamp="1544478528088">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="39" />
-        <mark key="." line="9" column="39" />
-        <mark key="^" line="10" column="40" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Buildsoft.Bartender.Core.csproj" timestamp="1544161096740">
         <mark key="[" line="7" column="0" />
@@ -34,7 +22,6 @@
         <mark key="^" line="18" column="62" />
         <mark key="." line="18" column="62" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Services/JobMergeService.cs" timestamp="1544476695720" />
       <file name="C:/dev/git/bartender/packages/System.Threading.Tasks.Extensions.4.5.1/lib/abc.component.ts" timestamp="1544188270147">
         <mark key="[" line="0" column="0" />
       </file>
@@ -115,10 +102,6 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/utils/notification-hub.ts" timestamp="1544479751800">
-        <mark key="[" line="155" column="2" />
-        <mark key="]" line="155" column="25" />
-      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" timestamp="1544344435374">
         <mark key="'" line="8" column="17" />
         <mark key="[" line="98" column="42" />
@@ -155,12 +138,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="42" column="46" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" timestamp="1544353940072">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" timestamp="1544482403565">
         <mark key="'" line="35" column="8" />
-        <mark key="[" line="493" column="90" />
-        <mark key="]" line="399" column="71" />
-        <mark key="." line="399" column="71" />
-        <mark key="^" line="399" column="71" />
+        <mark key="[" line="107" column="31" />
+        <mark key="]" line="107" column="32" />
+        <mark key="." line="107" column="32" />
+        <mark key="^" line="107" column="32" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Reports/ReportController.cs" timestamp="1543662473633">
         <mark key="[" line="35" column="67" />
@@ -328,7 +311,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>Guid.NewGuid().ToString()</text>
       </register>
       <register name="/" type="4">
         <text>Received</text>
