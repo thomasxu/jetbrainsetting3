@@ -1,0 +1,30 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <sort-values>true</sort-values>
+      <option name="valueLookupDelay" value="150" />
+    </data-views>
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+      <scroll-to-center>true</scroll-to-center>
+    </general>
+    <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="enableExternalSourceDebug" value="false" />
+          <option name="showFullyQualifiedTypeNames" value="true" />
+          <option name="remappedSourceLocationsMap">
+            <map />
+          </option>
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>
