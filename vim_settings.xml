@@ -16,6 +16,12 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/RepositoryCache/RepositoryCache.cs" timestamp="1544478528088">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="10" column="40" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Buildsoft.Bartender.Core.csproj" timestamp="1544161096740">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -28,6 +34,7 @@
         <mark key="^" line="18" column="62" />
         <mark key="." line="18" column="62" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Services/JobMergeService.cs" timestamp="1544476695720" />
       <file name="C:/dev/git/bartender/packages/System.Threading.Tasks.Extensions.4.5.1/lib/abc.component.ts" timestamp="1544188270147">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,6 +163,11 @@
         <mark key="]" line="35" column="80" />
         <mark key="." line="35" column="67" />
       </file>
+      <file name="/job-guard.service.ts" timestamp="1544478702231">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/Visual Studio 2017/Projects/ConsoleApp3/ConsoleApp3/abc" timestamp="1544272284649">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,10 +177,17 @@
         <mark key="^" line="14" column="50" />
         <mark key="." line="14" column="50" />
       </file>
+      <file name="/IRepositoryCache.cs" timestamp="1544478362266">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="22" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/CreateQuoteLifecycleRequest.cs" timestamp="1543540495714">
         <mark key="[" line="6" column="44" />
         <mark key="]" line="6" column="61" />
         <mark key="." line="6" column="44" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/services/job-guard.service.ts" timestamp="1544477291702">
+        <mark key="'" line="35" column="58" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1544132065396">
         <mark key="[" line="34" column="45" />
@@ -184,9 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="1" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/JobRepository.cs" />
-      <jump line="10" column="33" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/JobRepository.cs" />
-      <jump line="34" column="95" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/AccountCanViewOwnSupplierFilter.cs" />
       <jump line="123" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="133" column="110" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="15" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
@@ -284,6 +300,9 @@
       <jump line="330" column="101" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
       <jump line="0" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
       <jump line="199" column="11" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
+      <jump line="34" column="3" filename="/job-guard.service.ts" />
+      <jump line="60" column="0" filename="/job-guard.service.ts" />
+      <jump line="35" column="58" filename="C:/dev/git/bartender/WebApp/src/app/comparison/services/job-guard.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -305,13 +324,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>Received</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQocXVvdGVzWzBdLlN1cHBsaWVyLCBJcy5FcXVhbFRvKHN1cHBsaWVyQ29udGFjdCkpOwo=</text>
+      <register name="0" type="4">
+        <text>getJobMergeProgressStatus</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
