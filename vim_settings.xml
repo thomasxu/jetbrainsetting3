@@ -12,12 +12,22 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Services/JobRestoreService.cs" timestamp="1544394695025" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/supplier-details/supplier-details.component.ts" timestamp="1544411694740">
+        <mark key="[" line="85" column="4" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="127" column="0" />
+        <mark key="." line="84" column="131" />
+      </file>
       <file name="/JobIntegrationService.cs" timestamp="1544402780726">
         <mark key="'" line="177" column="38" />
         <mark key="[" line="177" column="38" />
         <mark key="]" line="177" column="38" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/supplier-details/supplier-details.component.html" timestamp="1544410189391" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/supplier-details/supplier-details.component.html" timestamp="1544410198897" />
+      <file name="/supplier-details.component.ts" timestamp="1544411696614">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="44" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/QuoteAmount/Request/PickQuoteAmountRequest.cs" timestamp="1543540472064">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="56" />
@@ -180,8 +190,8 @@
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc3VwcGxpZXIgJiYgdGhpcy5zdXBwbGllci50cmFkZUNhdGVnb3JpZXMgPyAoPFRyYWRlQ2F0ZWdvcnlbXT50aGlzLnN1cHBsaWVyLnRyYWRlQ2F0ZWdvcmllcykubWFwKHRwID0+IHRwLmlkKQo=</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -196,7 +206,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -208,42 +218,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGJvb2wgSXNCdXNpbmVzc0V4Y2VwdGlvbiB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc3VwcGxpZXIgJiYgdGhpcy5zdXBwbGllci50cmFkZUNhdGVnb3JpZXMgPyAoPFRyYWRlQ2F0ZWdvcnlbXT50aGlzLnN1cHBsaWVyLnRyYWRlQ2F0ZWdvcmllcykubWFwKHRwID0+IHRwLmlkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHJldHVybiBpbnZhbGlkUGFzc3dvcmRDYXNlOwo=</text>
+        <text encoding="base64">ICBnZXQgc2VsZWN0ZWRUcmFkZUNhdGVnb3J5SWRzKCk6IG51bWJlcltdIHsK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZXQgc2VsZWN0ZWRUcmFkZUNhdGVnb3J5SWRzKCk6IG51bWJlcltdIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmdWxsRmlsZVBhdGggPSBQYXRoLkNvbWJpbmUoQCJjOlxMb2dQYXJzZXJSZXN1bHQiLCAkInt0aW1lU3RhbXB9LnR4dCIpOwo=</text>
+        <text encoding="base64">ICBnZXQgc2VsZWN0ZWRUcmFkZUNhdGVnb3J5SWRzKCk6IG51bWJlcltdIHsK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">OwoKICAgICAgICAgICAgcmV0dXJuIEdlbmVyaWNSZXNwb25zZTxKb2JMaXN0UmVzcG9uc2U+LkNyZWF0ZVJlc3BvbnNlKHJlc3BvbnNlKQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>;
-
-            var response = await _jobStatisticsService.GetJobListWithStatistics(CurrentAccountId, UserId, jobListRequest).ConfigureAwait(false)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>;
-            }
-
-            ValidateApiVersionAndState(version)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">OwoKICAgICAgICAgICAgaWYgKGlzQWNjb3VudFVzZXIgJiYgKGpvYkxpc3RSZXF1ZXN0LlVzZXJJZCA9PSAwIHx8IGpvYkxpc3RSZXF1ZXN0LlVzZXJJZCAhPSBVc2VySWQpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgVW5hdXRob3JpemVkQWNjZXNzRXhjZXB0aW9uKCJVc2VycyBjYW4gb25seSBhY2Nlc3MgdGhlaXIgb3duIEpvYnMuIik=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y2xhc3MgSm9iQ29udHJvbGxlcgogICAgewogICAgICAgIFtIdHRwUG9zdF0KICAgICAgICBbQXV0aG9yaXplKFJvbGVzID0gIkFjY291bnRBZG1pbiwgQWNjb3VudE1hbmFnZXIsIEFjY291bnRVc2VyLCBBY2NvdW50VHJ1c3RlZFVzZXIiKV0KICAgICAgICBbUm91dGUoIiIpXQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPEdlbmVyaWNSZXNwb25zZTxKb2JMaXN0UmVzcG9uc2U+PiBHZXRKb2JMaXN0KGludCB2ZXJzaW9uLCBbRnJvbUJvZHldIEpvYkxpc3RSZXF1ZXN0IGpvYkxpc3RSZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGlzQWNjb3VudFVzZXIgPSBVc2VyLklzSW5Sb2xlKFJvbGVzLkFjY291bnRVc2VyLlRvU3RyaW5nKCkpIHx8IFVzZXIuSXNJblJvbGUoUm9sZXMuQWNjb3VudFRydXN0ZWRVc2VyLlRvU3RyaW5nKCkp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
