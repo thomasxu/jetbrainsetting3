@@ -4,7 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1544407676591" />
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Services/JobMergeService.cs" timestamp="1544407732261" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/SetBoxAPIIdentityFilter.cs" timestamp="1544052376452" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Supplier/Services/SupplierService.cs" timestamp="1544089063035" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/QuoteLifecycle.cs" timestamp="1543210212440">
@@ -18,6 +17,7 @@
         <mark key="[" line="177" column="38" />
         <mark key="]" line="177" column="38" />
       </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/supplier-details/supplier-details.component.html" timestamp="1544410189391" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/QuoteAmount/Request/PickQuoteAmountRequest.cs" timestamp="1543540472064">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="56" />
@@ -31,11 +31,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.ts" timestamp="1544408325055">
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
       <file name="/TradePackageLifecycleRepository.cs" timestamp="1544398426604">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -45,11 +40,13 @@
         <mark key="]" line="35" column="80" />
         <mark key="." line="35" column="67" />
       </file>
-      <file name="/job-tradepackages-life-cycle.component.ts" timestamp="1544408849073" />
+      <file name="/job-tradepackages-life-cycle.component.ts" timestamp="1544409516032" />
       <file name="/JobMergeService.cs" timestamp="1544395156058" />
       <file name="/TradePackageLifecycleController.Query.cs" timestamp="1544395213616" />
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/trade-package-grid-selection.service.ts" timestamp="1544051769296" />
+      <file name="/supplier-details.component.html" timestamp="1544409739877" />
       <file name="/JobRestoreService.cs" timestamp="1544402563696" />
+      <file name="/job-tradepackage-life-cycle-item.component.html" timestamp="1544409560476" />
       <file name="/Dummy.txt" timestamp="1544403087788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -64,11 +61,6 @@
         <mark key="]" line="23" column="70" />
         <mark key="." line="23" column="70" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" timestamp="1544403083108">
-        <mark key="[" line="73" column="101" />
-        <mark key="]" line="73" column="101" />
-        <mark key="." line="73" column="101" />
-      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/ITradePackageLifecycleRepository.cs" timestamp="1544403240852">
         <mark key="[" line="11" column="88" />
         <mark key="]" line="11" column="88" />
@@ -76,7 +68,6 @@
       </file>
       <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1544073334534" />
       <file name="/trade-package-grid-selection.service.ts" timestamp="1544396322381" />
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" timestamp="1544408845218" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/CreateQuoteLifecycleRequest.cs" timestamp="1543540495714">
         <mark key="[" line="6" column="44" />
         <mark key="]" line="6" column="61" />
