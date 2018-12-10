@@ -138,12 +138,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="42" column="46" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" timestamp="1544482403565">
-        <mark key="'" line="35" column="8" />
-        <mark key="[" line="107" column="31" />
-        <mark key="]" line="107" column="32" />
-        <mark key="." line="107" column="32" />
-        <mark key="^" line="107" column="32" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" timestamp="1544483234954">
+        <mark key="'" line="194" column="15" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="125" column="9" />
+        <mark key="." line="129" column="48" />
+        <mark key="^" line="129" column="48" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Reports/ReportController.cs" timestamp="1543662473633">
         <mark key="[" line="35" column="67" />
@@ -190,9 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="133" column="110" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="15" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="117" column="7" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Job/JobController.Query.cs" />
       <jump line="25" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Job/JobController.Query.cs" />
       <jump line="55" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Job/JobController.Query.cs" />
@@ -290,6 +287,9 @@
       <jump line="34" column="3" filename="/job-guard.service.ts" />
       <jump line="60" column="0" filename="/job-guard.service.ts" />
       <jump line="35" column="58" filename="C:/dev/git/bartender/WebApp/src/app/comparison/services/job-guard.service.ts" />
+      <jump line="176" column="48" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" />
+      <jump line="217" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" />
+      <jump line="194" column="15" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -311,13 +311,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Guid.NewGuid().ToString()</text>
+        <text>IEnumerable</text>
       </register>
       <register name="/" type="4">
         <text>Received</text>
       </register>
-      <register name="0" type="4">
-        <text>notifyJobMergeInProgress</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBHZXRUcmFkZVBhY2thZ2VMaWZlY3ljbGVfVHJhZGVQYWNrYWdlc1dpdGhTYW1lR2xvYmFsSWRfUmV0dXJuVGhlU2FtZVRyYWRlQ2F0ZWdvcmllcygpCiAgICAgICAgewo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
