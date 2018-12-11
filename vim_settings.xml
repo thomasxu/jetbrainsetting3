@@ -37,8 +37,8 @@
         <mark key="." line="55" column="62" />
         <mark key="^" line="55" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544504140232">
-        <mark key="[" line="0" column="47" />
+      <file name="/Dummy.txt" timestamp="1544505058545">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
       </file>
@@ -70,12 +70,12 @@
         <mark key="." line="44" column="11" />
         <mark key="^" line="44" column="11" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" timestamp="1544504045764">
-        <mark key="'" line="621" column="61" />
-        <mark key="[" line="630" column="64" />
-        <mark key="]" line="630" column="64" />
-        <mark key="^" line="630" column="79" />
-        <mark key="." line="630" column="64" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" timestamp="1544505042864">
+        <mark key="'" line="499" column="7" />
+        <mark key="[" line="472" column="73" />
+        <mark key="]" line="472" column="73" />
+        <mark key="^" line="469" column="76" />
+        <mark key="." line="472" column="84" />
       </file>
       <file name="/job-guard.service.ts" timestamp="1544479932404">
         <mark key="'" line="60" column="0" />
@@ -91,9 +91,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="2" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/grid.service.ts" />
-      <jump line="74" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
-      <jump line="0" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" />
       <jump line="222" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" />
       <jump line="59" column="24" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/AutoMapper/AutoMapperRegister.cs" />
       <jump line="6" column="57" filename="C:/dev/git/bartender/Buildsoft.Bartender.Core/Extensions/DateTime.cs" />
@@ -191,6 +188,9 @@
       <jump line="507" column="11" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" />
       <jump line="602" column="58" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" />
       <jump line="624" column="61" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" />
+      <jump line="328" column="83" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" />
+      <jump line="336" column="78" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" />
+      <jump line="499" column="7" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -212,10 +212,10 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCBmaXggcXVvdGluZyBkZWNsaW5lZCBkYXRl</text>
+        <text>jobId</text>
       </register>
       <register name="/" type="4">
-        <text>Received</text>
+        <text>jobId</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c3RhdHVzRnJvbVN1Ym1pdHRlZFRvUXVvdGluZ0RlY2xpbmVkIA==</text>
@@ -223,26 +223,26 @@
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgW1Rlc3RdCiAgICAgICAgcHVibGljIHZvaWQgVXBkYXRlVHJhZGVQYWNrYWdlTGlmZWN5Y2xlX1dpdGhEdWVEYXRlQW5kVHJhZGVDYXRlZ29yeV9SZXR1cm5Db3JyZWN0VmFsdWUoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHRyYWRlQ2F0ZWdvcnlJZHMgPSBfdHJhZGVDYXRlZ29yaWVzLlRha2UoMikuU2VsZWN0KHRjID0+IHRjLklkKS5Ub0FycmF5KCk7CiAgICAgICAgICAgIHZhciB1cGRhdGVUcmFkZVBhY2thZ2VMaWZlY3ljbGVSZXF1ZXN0ID0gbmV3IFVwZGF0ZVRyYWRlUGFja2FnZUxpZmVjeWNsZVJlcXVlc3QKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgVXNlcklkID0gRGVmYXVsdFVzZXJJZCwKICAgICAgICAgICAgICAgIER1ZURhdGUgPSBEYXRlVGltZS5VdGNOb3cuQWRkRGF5cygyKSwKICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZUlkID0gVHJhZGVQYWNrYWdlMS5JZCwKICAgICAgICAgICAgICAgIFRyYWRlQ2F0ZWdvcnlJZHMgPSB0cmFkZUNhdGVnb3J5SWRzCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIF90cmFkZVBhY2thZ2VMaWZlY3ljbGVTZXJ2aWNlLlVwZGF0ZVRyYWRlUGFja2FnZUxpZmVjeWNsZUFzeW5jKHVwZGF0ZVRyYWRlUGFja2FnZUxpZmVjeWNsZVJlcXVlc3QpLldhaXQoKTsKCiAgICAgICAgICAgIF90cmFkZVBhY2thZ2VSZXBvc2l0b3J5LlJlY2VpdmVkKDEpLlVwZGF0ZVRyYWRlUGFja2FnZUxpZmVjeWNsZUFzeW5jKEFyZy5JczxVcGRhdGVUcmFkZVBhY2thZ2VMaWZlY3ljbGU+KAogICAgICAgICAgICAgICAgdXBkYXRlVHJhZGVQYWNrYWdlTGlmZWN5Y2xlID0+CiAgICAgICAgICAgICAgICAgICAgdXBkYXRlVHJhZGVQYWNrYWdlTGlmZWN5Y2xlLlRyYWRlUGFja2FnZUlkID09IHVwZGF0ZVRyYWRlUGFja2FnZUxpZmVjeWNsZVJlcXVlc3QuVHJhZGVQYWNrYWdlSWQKICAgICAgICAgICAgICAgICAgICAmJiB1cGRhdGVUcmFkZVBhY2thZ2VMaWZlY3ljbGUuVXNlcklkID09IHVwZGF0ZVRyYWRlUGFja2FnZUxpZmVjeWNsZVJlcXVlc3QuVXNlcklkCiAgICAgICAgICAgICAgICAgICAgJiYgdXBkYXRlVHJhZGVQYWNrYWdlTGlmZWN5Y2xlLlRyYWRlUGFja2FnZUlkID09CiAgICAgICAgICAgICAgICAgICAgdXBkYXRlVHJhZGVQYWNrYWdlTGlmZWN5Y2xlUmVxdWVzdC5UcmFkZVBhY2thZ2VJZAogICAgICAgICAgICAgICAgICAgICYmIHVwZGF0ZVRyYWRlUGFja2FnZUxpZmVjeWNsZS5UcmFkZVBhY2thZ2VJZCA9PQogICAgICAgICAgICAgICAgICAgIHVwZGF0ZVRyYWRlUGFja2FnZUxpZmVjeWNsZVJlcXVlc3QuVHJhZGVQYWNrYWdlSWQpKTsKICAgICAgICB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgUXVvdGVMaWZlY3ljbGUge0lkID0gRGVmYXVsdFF1b3RlTGlmZWN5Y2xlSWQsIFN0YXR1cyA9IFF1b3RlTGlmZWN5Y2xlU3RhdHVzLkludml0ZWQsIEludml0ZWRPbiA9IFV0Y05vd30pCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgogICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gX3RyYWRlUGFja2FnZUxpZmVjeWNsZVNlcnZpY2UuR2V0QnlKb2JJZEFzeW5jKGpvYklkKS5SZXN1bHQ7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgRXhwZWN0ZWRSZXN1bHQKICAgIHsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3227,25 +3227,25 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGpvYklkID0gMTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQocXVvdGVMaWZlY3ljbGVJbkRiLlF1b3RpbmdPbiwgSXMuRXF1YWxUbyhleHBlY3RlZC5RdW90aW5nT24pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyZGQgam9iSWQgPSAxOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaW50IHF1b3RlTGlmZWN5Y2xlSWQgPSBEZWZhdWx0UXVvdGVMaWZlY3ljbGVJZDsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBNb2RpZmllZE9uU3RyaW5nID0gIjIwMTgtMDgtMDggMDg6MDg6MDhaIjsK</text>
       </register>
       <register name=":" type="4">
         <text>registers</text>
       </register>
     </registers>
     <search>
-      <last-search>Received</last-search>
+      <last-search>jobId</last-search>
       <last-offset />
-      <last-pattern>Received</last-pattern>
+      <last-pattern>jobId</last-pattern>
       <last-replace>abc</last-replace>
       <last-substitute>Received</last-substitute>
       <last-dir>1</last-dir>
@@ -3253,8 +3253,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFkZVBhY2thZ2VJZFw+</entry>
-        <entry encoding="base64">XDx1bmlxdWVHbG9iYWxJZHNcPg==</entry>
         <entry>]</entry>
         <entry>Preference</entry>
         <entry>updatequotelifecycle</entry>
@@ -3273,6 +3271,8 @@
         <entry encoding="base64">XDx0aHJvd1w+</entry>
         <entry>class</entry>
         <entry>Received</entry>
+        <entry>jobid</entry>
+        <entry>jobId</entry>
       </history-search>
       <history-cmd>
         <entry>set noerrorbells</entry>
