@@ -75,6 +75,9 @@
   </action>
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
+  <action id="Console.TableResult.EditValueMaximized">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="Console.TableResult.SelectRow" />
   <action id="Debugger.MarkObject" />
   <action id="Diagram.DeselectAll" />
@@ -320,7 +323,9 @@
   <action id="RiderNuGetQuickListPopupAction" />
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestCoverSolutionAction" />
-  <action id="RiderUnitTestDebugContextAction" />
+  <action id="RiderUnitTestDebugContextAction">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
   <action id="RiderUnitTestDotMemoryUnitAction" />
   <action id="RiderUnitTestNewSessionAction" />
   <action id="RiderUnitTestQuickListPopupAction" />
@@ -374,9 +379,8 @@
   <action id="SilentCodeCleanup" />
   <action id="SmartStepInto">
     <keyboard-shortcut first-keystroke="shift f7" />
-    <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="alt f7" />
   </action>
-  <action id="StepInto" />
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
