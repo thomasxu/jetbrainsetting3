@@ -69,11 +69,11 @@
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Integration/IntegrationController.Command.cs" timestamp="1544758708926">
         <mark key="'" line="45" column="42" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackageLifecycle/TradePackageLifecycleController.Query.cs" timestamp="1544762942598">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="19" />
-        <mark key="." line="28" column="0" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackageLifecycle/TradePackageLifecycleController.Query.cs" timestamp="1544763684178">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="33" column="30" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/CreateQuoteLifecycleRequest.cs" timestamp="1543540495714">
         <mark key="[" line="6" column="44" />
@@ -193,8 +193,8 @@
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCAK</text>
+      <register name="&quot;" type="4">
+        <text>quote/contact</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -215,7 +215,7 @@
         <text>class</text>
       </register>
       <register name="0" type="4">
-        <text>GetQuoteLifecycleContactIdByPackageAndSupplierId</text>
+        <text>quote/contact</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
