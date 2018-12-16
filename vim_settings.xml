@@ -9,11 +9,6 @@
         <mark key="^" line="270" column="27" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1543988616944">
-        <mark key="'" line="17" column="17" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="46" column="104" />
-      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Resources/job_export.json" timestamp="1544842209858">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="11" />
@@ -38,18 +33,28 @@
         <mark key="]" line="0" column="95" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/ConcurrentLoggingFilter.cs" timestamp="1544952979389">
+        <mark key="j" line="88" column="12" />
+        <mark key="[" line="105" column="55" />
+        <mark key="]" line="105" column="55" />
+        <mark key="^" line="105" column="55" />
+        <mark key="." line="105" column="55" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/RepositoryCache/RepositoryCache.cs" timestamp="1544950950478">
         <mark key="[" line="75" column="16" />
         <mark key="]" line="75" column="22" />
         <mark key="^" line="75" column="22" />
         <mark key="." line="75" column="22" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Monitoring/ConcurrentLoggingService.cs" timestamp="1544951369781">
-        <mark key="'" line="12" column="17" />
-        <mark key="[" line="17" column="74" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="28" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/42073FCF-9EFD-4A92-A6F0-A4CC94099FE3/82/77caecd7/InvalidOperationException.cs" timestamp="1544952632556">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="81" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Monitoring/ConcurrentLoggingService.cs" timestamp="1544952427317">
+        <mark key="[" line="45" column="75" />
+        <mark key="]" line="45" column="75" />
+        <mark key="." line="45" column="75" />
+        <mark key="^" line="45" column="75" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/Core/SeedConfiguration.cs" timestamp="1544677285174">
         <mark key="]" line="108" column="21" />
@@ -208,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="26" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="9" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/TradePackage.cs" />
       <jump line="85" column="7" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="257" column="61" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
@@ -308,6 +312,7 @@
       <jump line="77" column="47" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Quote/QuoteController.Command.cs" />
       <jump line="56" column="33" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Monitoring/ConcurrentLoggingService.cs" />
       <jump line="11" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Monitoring/ConcurrentLoggingService.cs" />
+      <jump line="68" column="82" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Monitoring/ConcurrentLoggingService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -329,13 +334,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IElEaXNwb3NhYmxlLg==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="4">
-        <text>\Repositories\Job-IntegrationTest.json</text>
+        <text>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
