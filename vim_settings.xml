@@ -121,10 +121,12 @@
       <file name="/QuoteService.cs" timestamp="1545011179526">
         <mark key="[" line="98" column="32" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" timestamp="1545014879195">
-        <mark key="'" line="12" column="17" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="91" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" timestamp="1545017522754">
+        <mark key="'" line="12" column="46" />
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="46" />
+        <mark key="^" line="12" column="45" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/ITradePackageLifecycleRepository.cs" timestamp="1545011732671">
         <mark key="'" line="3" column="39" />
@@ -181,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="54" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" />
-      <jump line="61" column="68" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
       <jump line="81" column="38" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
       <jump line="53" column="38" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
       <jump line="19" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/QuoteLifecycleRespons.cs" />
@@ -281,6 +281,8 @@
       <jump line="18" column="44" filename="C:/dev/git/bartender/Buildsoft.Bartender.Core/Objects/OptionalObject.cs" />
       <jump line="3" column="39" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/ITradePackageLifecycleRepository.cs" />
       <jump line="12" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" />
+      <jump line="66" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" />
+      <jump line="73" column="46" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -663,7 +665,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
