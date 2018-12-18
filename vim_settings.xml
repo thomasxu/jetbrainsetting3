@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1545104807793" />
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Exceptions/JobNotFoundException.cs" timestamp="1544574027806">
-        <mark key="[" line="6" column="0" />
-      </file>
-      <file name="/job-tradepackage-life-cycle-item.component.html" timestamp="1545104878037" />
-      <file name="/JobIntegrationService.GetPickedTest.cs" timestamp="1544740895888">
-        <mark key="[" line="23" column="17" />
-        <mark key="]" line="24" column="3" />
-      </file>
-      <file name="/TradePackageSummaryServiceTest.cs" timestamp="1545108312712" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/QuoteLifecycle.cs" timestamp="1543210212440">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -23,6 +13,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Exceptions/JobNotFoundException.cs" timestamp="1544574027806">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="/supplier-details.component.ts" timestamp="1544411696614">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="44" />
@@ -32,7 +25,13 @@
         <mark key="]" line="23" column="70" />
         <mark key="." line="23" column="70" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" timestamp="1545171113197" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" timestamp="1545174575180">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="77" column="36" />
+        <mark key="]" line="77" column="35" />
+        <mark key="." line="77" column="35" />
+        <mark key="^" line="77" column="35" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/ITradePackageLifecycleRepository.cs" timestamp="1545171121265">
         <mark key="[" line="16" column="41" />
       </file>
@@ -44,11 +43,14 @@
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Test/TestUtils.cs" timestamp="1544756025105">
         <mark key="[" line="64" column="17" />
       </file>
-      <file name="/TradePackageController.QueryTest.cs" timestamp="1545108150053" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Reports/ReportController.cs" timestamp="1543662473633">
         <mark key="[" line="35" column="67" />
         <mark key="]" line="35" column="80" />
         <mark key="." line="35" column="67" />
+      </file>
+      <file name="/JobIntegrationService.GetPickedTest.cs" timestamp="1544740895888">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="24" column="3" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/services/job-merge.service.ts" timestamp="1544564999292">
         <mark key="j" line="21" column="25" />
@@ -62,7 +64,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="29" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="36" column="43" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="54" column="51" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="61" column="31" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
@@ -162,13 +163,14 @@
       <jump line="82" column="45" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" />
       <jump line="45" column="42" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Integration/IntegrationController.Command.cs" />
       <jump line="60" column="94" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageSummaryRepository.cs" />
+      <jump line="88" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageLifecycleRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDaGVhcGVzdFRvdGFsID0gdHBnLlN1bSh0cGkgPT4gdHBpLkNoZWFwZXN0VG90YWwgPz8gMG0pCiAgICAgICAgICAgICAgICB9KQo=</text>
+      <register name="&quot;" type="4">
+        <text>Id</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -183,7 +185,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Id</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -195,37 +197,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDaGVhcGVzdFRvdGFsID0gdHBnLlN1bSh0cGkgPT4gdHBpLkNoZWFwZXN0VG90YWwgPz8gMG0pCiAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NvbnRleHQuVHJhZGVQYWNrYWdlSXRlbXMKICAgICAgICAgICAgICAgIC5XaGVyZSh0cGkgPT4gdHBpLlRyYWRlUGFja2FnZUlkID09IHRyYWRlUGFja2FnZUlkICYmICF0cGkuSXNIZWFkaW5nICYmICF0cGkuSXNOb3RlZCkKICAgICAgICAgICAgICAgIC5Hcm91cEJ5KHRwaSA9PiB0cGkuVHJhZGVQYWNrYWdlSWQpCiAgICAgICAgICAgICAgICAuU2VsZWN0KHRwZyA9PiBuZXcgVHJhZGVQYWNrYWdlQWJzb2x1dGVRdW90ZVN1bW1hcnkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBQaWNrZWRJdGVtQ291bnQgPSB0cGcuS2V5LAogICAgICAgICAgICAgICAgICAgIEl0ZW1Db3VudCA9IHRwZy5Db3VudCgpLAogICAgICAgICAgICAgICAgICAgIFBpY2tlZEl0ZW1Db3VudCA9IHRwZy5Db3VudCh0cGkgPT4gdHBpLklzUGlja2VkKSwKICAgICAgICAgICAgICAgICAgICBUcmFkZVBhY2thZ2VJdGVtSWRzID0gdHBnLlNlbGVjdCh0cGkuSWQpLAogICAgICAgICAgICAgICAgICAgIEF2ZXJhZ2VUb3RhbCA9IHRwZy5TdW0odHBpID0+IHRwaS5BdmVyYWdlVG90YWwgPz8gMG0pLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">LnRvbGlzOwogICAgICAgICAgICAgICAgLlNlbGVjdChzMSA9PiByZXR1cm4gbmV3IFRyYWRlUGFja2FnZUxpZmVjeWNsZVN1cHBsaWVyCiAgICAgICAgICAgICAgICB7CgogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC5Ub0xpc3RBc3luYygpCiAgICAgICAgICAgICAgICAuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwoKICAgICAgICAgICAgcmV0dXJuIHRyYWRlUGFja2FnZUxpZmVjeWNsZVN1cHBsaWVyczs=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBpY2tlZFBlcmNlbnRhZ2UxID0gX3RyYWRlUGFja2FnZUFic29sdXRlU3VtbWFyeT8uUGlja2VkSXRlbUNvdW50LlBlcmNlbnRPZihfdHJhZGVQYWNrYWdlQWJzb2x1dGVTdW1tYXJ5Lkl0ZW1Db3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3RyYWRlUGFja2FnZUFic29sdXRlU3VtbWFyeT8uUGlja2VkSXRlbUNvdW50LlBlcmNlbnRPZihfdHJhZGVQYWNrYWdlQWJzb2x1dGVTdW1tYXJ5aikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDaGVhcGVzdFRvdGFsID0gdHBnLlN1bSh0cGkgPT4gdHBpLkNoZWFwZXN0VG90YWwgPz8gMG0pCiAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NvbnRleHQuVHJhZGVQYWNrYWdlSXRlbXMKICAgICAgICAgICAgICAgIC5XaGVyZSh0cGkgPT4gdHBpLlRyYWRlUGFja2FnZUlkID09IHRyYWRlUGFja2FnZUlkICYmICF0cGkuSXNIZWFkaW5nICYmICF0cGkuSXNOb3RlZCkKICAgICAgICAgICAgICAgIC5Hcm91cEJ5KHRwaSA9PiB0cGkuVHJhZGVQYWNrYWdlSWQpCiAgICAgICAgICAgICAgICAuU2VsZWN0KHRwZyA9PiBuZXcgVHJhZGVQYWNrYWdlQWJzb2x1dGVRdW90ZVN1bW1hcnkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBQaWNrZWRJdGVtQ291bnQgPSB0cGcuS2V5LAogICAgICAgICAgICAgICAgICAgIEl0ZW1Db3VudCA9IHRwZy5Db3VudCgpLAogICAgICAgICAgICAgICAgICAgIFBpY2tlZEl0ZW1Db3VudCA9IHRwZy5Db3VudCh0cGkgPT4gdHBpLklzUGlja2VkKSwKICAgICAgICAgICAgICAgICAgICBUcmFkZVBhY2thZ2VJdGVtSWRzID0gdHBnLlNlbGVjdCh0cGkuSWQpLAogICAgICAgICAgICAgICAgICAgIEF2ZXJhZ2VUb3RhbCA9IHRwZy5TdW0odHBpID0+IHRwaS5BdmVyYWdlVG90YWwgPz8gMG0pLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBHZXRRdW90ZUxpZmVjeWNsZUNvbnRhY3RJZEJ5UGFja2FnZUFuZFN1cHBsaWVySWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBpY2tlZFBlcmNlbnRhZ2UxID0gX3RyYWRlUGFja2FnZUFic29sdXRlU3VtbWFyeT8uUGlja2VkSXRlbUNvdW50LlBlcmNlbnRPZihfdHJhZGVQYWNrYWdlQWJzb2x1dGVTdW1tYXJ5Lkl0ZW1Db3VudCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUYXNrPGludD8+IEdldFF1b3RlTGlmZWN5Y2xlQ29udGFjdElkQnlQYWNrYWdlQW5kU3VwcGxpZXJJZChpbnQgc3VwcGxpZXJJZCwgaW50IHRyYWRlUGFja2FnZUlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3RyYWRlUGFja2FnZUFic29sdXRlU3VtbWFyeT8uUGlja2VkSXRlbUNvdW50LlBlcmNlbnRPZihfdHJhZGVQYWNrYWdlQWJzb2x1dGVTdW1tYXJ5aikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxpbnQ/PiBHZXRRdW90ZUxpZmVjeWNsZUNvbnRhY3RJZEJ5UGFja2FnZUFuZFN1cHBsaWVySWQoaW50IHRyYWRlUGFja2FnZUlkLCBwYXJhbXMgaW50W10gc3VwcGxpZXJJZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIHZvaWQgR2V0UXVvdGVMaWZlY3ljbGVDb250YWN0SWRCeVBhY2thZ2VBbmRTdXBwbGllcklkKGludCBzdXBwbGllcklkLCBpbnQgdHJhZGVQYWNrYWdlSWQpCiAgICAgICAgewogICAgICAgICAgICBfY29udGV4dC5RdW90ZUxpZmVjeWNsZXMuV2hlcmUocWwgPT4gcWwuKQogICAgICAgICAgICAgICAgcWwuCiAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBHZXRRdW90ZUxpZmVjeWNsZUNvbnRhY3RJZEJ5UGFja2FnZUFuZFN1cHBsaWVySWQK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
