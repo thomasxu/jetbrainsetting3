@@ -45,11 +45,11 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackageLifecycle/TradePackageLifecycleController.Query.cs" timestamp="1545130005922">
-        <mark key="[" line="36" column="53" />
-        <mark key="]" line="36" column="53" />
-        <mark key="^" line="36" column="52" />
-        <mark key="." line="36" column="53" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackageLifecycle/TradePackageLifecycleController.Query.cs" timestamp="1545269285884">
+        <mark key="[" line="29" column="87" />
+        <mark key="]" line="29" column="101" />
+        <mark key="^" line="43" column="52" />
+        <mark key="." line="29" column="87" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/TradePackageLifecycleSupplierResponse.cs" timestamp="1545130930521">
         <mark key="[" line="7" column="0" />
@@ -79,7 +79,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="15" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545264070405">
+      <file name="/Dummy.txt" timestamp="1545269134747">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -651,13 +651,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>quoteLifecycleId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdW90ZUxpZmVjeWNsZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiAoY2xpY2spPSJvbk9wZW5BZGRTdXBwbGllckRpYWxvZygpIj5BZGQgU3VwcGxpZXI8L2E+Cg==</text>
+      <register name="0" type="4">
+        <text>tradepackageid</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
