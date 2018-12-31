@@ -66,6 +66,10 @@
   </action>
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
+  <action id="Console.TableResult.ColumnsList">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="Console.TableResult.SelectRow" />
   <action id="Debugger.MarkObject" />
   <action id="Diagram.DeselectAll" />
@@ -135,7 +139,6 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt back_slash" />
-    <keyboard-shortcut first-keystroke="alt period" />
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
   <action id="Find">
@@ -146,6 +149,7 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift f12" />
     <keyboard-shortcut first-keystroke="shift alt m" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt l" />
@@ -160,6 +164,10 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
@@ -169,6 +177,7 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="alt m" />
+    <keyboard-shortcut first-keystroke="alt period" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
@@ -362,9 +371,14 @@
   <action id="UML.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
+  <action id="UML.ShowStructure">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="Unscramble" />
   <action id="UnselectPreviousOccurrence" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
