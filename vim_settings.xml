@@ -18,19 +18,12 @@
       <file name="/a.dummy" timestamp="1546234913407">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/ngrx-course/src/app/about/about.component.ts" timestamp="1546242914055">
-        <mark key="'" line="35" column="18" />
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="13" />
-        <mark key="." line="27" column="13" />
-        <mark key="^" line="27" column="13" />
-      </file>
-      <file name="C:/AutoHotkey/Hotkey.ahk" timestamp="1546242761386">
+      <file name="C:/AutoHotkey/Hotkey.ahk" timestamp="1546244462288">
         <mark key="'" line="10" column="13" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="54" column="0" />
+        <mark key="[" line="53" column="29" />
+        <mark key="]" line="53" column="30" />
+        <mark key="." line="53" column="30" />
+        <mark key="^" line="57" column="0" />
       </file>
       <file name="/fragment.ts" timestamp="1546241243216">
         <mark key="[" line="0" column="0" />
@@ -144,6 +137,12 @@
         <mark key="]" line="35" column="80" />
         <mark key="." line="35" column="67" />
       </file>
+      <file name="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" timestamp="1546245198676">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="20" />
+        <mark key="^" line="25" column="20" />
+        <mark key="." line="27" column="57" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/CreateQuoteLifecycleRequest.cs" timestamp="1543540495714">
         <mark key="[" line="6" column="44" />
         <mark key="]" line="6" column="61" />
@@ -151,7 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="28" column="11" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="16" column="30" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="24" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
@@ -251,13 +249,14 @@
       <jump line="7" column="11" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="10" column="13" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="0" column="0" filename="C:/dev/git/ngrx-course/src/app/about/about.component.spec.ts" />
+      <jump line="45" column="3" filename="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IXY6OgpTZW5kLCB7Q29udHJvbCBEb3dufXt2IERvd259e3YgVXB9e0NvbnRyb2wgVXB9ClJldHVybgo=</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -275,10 +274,10 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>w</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2I6Ol4hYgo=</text>
+        <text encoding="base64">IXY6OgpTZW5kLCB7Q29udHJvbCBEb3dufXt2IERvd259e3YgVXB9e0NvbnRyb2wgVXB9ClJldHVybgo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
@@ -321,9 +320,9 @@
       </register>
     </registers>
     <search>
-      <last-search>w</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>w</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>Id</last-substitute>
       <last-dir>1</last-dir>
@@ -348,9 +347,9 @@
         <entry>]</entry>
         <entry>Preference</entry>
         <entry>;</entry>
-        <entry>class</entry>
         <entry>m</entry>
         <entry>w</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
