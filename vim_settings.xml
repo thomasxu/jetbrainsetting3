@@ -15,19 +15,19 @@
       <file name="/a.dummy" timestamp="1546234913407">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/ngrx-course/src/app/about/about.component.ts" timestamp="1546235860170">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="8" />
-        <mark key="^" line="15" column="8" />
-        <mark key="." line="15" column="8" />
+      <file name="C:/dev/git/ngrx-course/src/app/about/about.component.ts" timestamp="1546240363405">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
       </file>
-      <file name="C:/AutoHotkey/Hotkey.ahk" timestamp="1546233043112">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="27" column="6" />
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="7" />
-        <mark key="^" line="41" column="5" />
+      <file name="C:/AutoHotkey/Hotkey.ahk" timestamp="1546239597116">
+        <mark key="[" line="26" column="0" />
+        <mark key="k" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="/fragment.ts" timestamp="1546234913391">
         <mark key="[" line="0" column="0" />
@@ -142,9 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="61" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="70" column="96" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="86" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="84" column="62" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="109" column="46" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="126" column="34" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
@@ -242,13 +239,16 @@
       <jump line="47" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="16" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="40" column="0" filename="C:/dev/git/ngrx-course/src/app/about/about.component.ts" />
+      <jump line="26" column="18" filename="C:/dev/git/ngrx-course/src/app/about/about.component.ts" />
+      <jump line="0" column="3" filename="C:/AutoHotkey/Hotkey.ahk" />
+      <jump line="26" column="6" filename="C:/AutoHotkey/Hotkey.ahk" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG51bWJlciA9IDEyMzsK</text>
+        <text encoding="base64">ICAgICAgYS1nY2MK</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -263,10 +263,10 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text encoding="base64">d2NvbnN0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>m</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG51bWJlciA9IDEyMzsK</text>
@@ -275,46 +275,46 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgYS1nY2MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgogIG5nT25Jbml0KCkgewo=</text>
+        <text encoding="base64">I206Ol4hbQo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHAgPSAxMjM7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZjEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDEyMz8K</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEZsb2F0NjRBcnJheS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9mNC52YWx1ZU9mKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV0IGFhYSA9ICJhYWEiOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiYWFhIgo=</text>
+        <text encoding="base64">CgogIG5nT25Jbml0KCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I3g6Ol4reAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHAgPSAxMjM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>m</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>m</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>Id</last-substitute>
       <last-dir>1</last-dir>
@@ -322,7 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>?trade</entry>
         <entry encoding="base64">XDxhd2FpdFw+</entry>
         <entry encoding="base64">XDx0cFw+</entry>
         <entry encoding="base64">XDxPcmRlckJ5XD4=</entry>
@@ -342,6 +341,7 @@
         <entry>Preference</entry>
         <entry>;</entry>
         <entry>class</entry>
+        <entry>m</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
