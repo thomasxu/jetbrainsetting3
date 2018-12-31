@@ -161,6 +161,9 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
