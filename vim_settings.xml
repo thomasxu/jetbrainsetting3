@@ -18,15 +18,18 @@
       <file name="/a.dummy" timestamp="1546234913407">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" timestamp="1546251528705">
-        <mark key="'" line="6" column="0" />
+      <file name="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" timestamp="1546253859604">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
-      <file name="C:/AutoHotkey/Hotkey.ahk" timestamp="1546249928907">
-        <mark key="'" line="10" column="13" />
-        <mark key="[" line="29" column="6" />
-        <mark key="]" line="29" column="7" />
-        <mark key="." line="29" column="7" />
-        <mark key="^" line="28" column="5" />
+      <file name="C:/AutoHotkey/Hotkey.ahk" timestamp="1546256711936">
+        <mark key="'" line="61" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="/fragment.ts" timestamp="1546250872687">
         <mark key="[" line="0" column="0" />
@@ -99,7 +102,7 @@
         <mark key="^" line="228" column="101" />
         <mark key="." line="228" column="101" />
       </file>
-      <file name="C:/dev/git/ngrx-course/src/app/store/actions.ts" timestamp="1546251708600">
+      <file name="C:/dev/git/ngrx-course/src/app/store/actions.ts" timestamp="1546251777858">
         <mark key="[" line="49" column="5" />
         <mark key="]" line="49" column="5" />
         <mark key="^" line="49" column="8" />
@@ -144,7 +147,12 @@
         <mark key="]" line="35" column="80" />
         <mark key="." line="35" column="67" />
       </file>
-      <file name="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" timestamp="1546251212163" />
+      <file name="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" timestamp="1546255617698">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="9" />
+        <mark key="^" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/CreateQuoteLifecycleRequest.cs" timestamp="1543540495714">
         <mark key="[" line="6" column="44" />
         <mark key="]" line="6" column="61" />
@@ -152,9 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="30" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="24" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
-      <jump line="12" column="4" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="98" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="31" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="0" column="3" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
@@ -239,7 +244,6 @@
       <jump line="0" column="3" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="26" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="31" column="25" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="34" column="25" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="37" column="25" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="40" column="25" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="42" column="1" filename="C:/AutoHotkey/Hotkey.ahk" />
@@ -252,13 +256,17 @@
       <jump line="0" column="0" filename="C:/dev/git/ngrx-course/src/app/about/about.component.spec.ts" />
       <jump line="45" column="3" filename="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" />
       <jump line="6" column="0" filename="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" />
+      <jump line="4" column="3" filename="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" />
+      <jump line="11" column="12" filename="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" />
+      <jump line="34" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
+      <jump line="60" column="12" filename="C:/AutoHotkey/Hotkey.ahk" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>I</text>
+        <text encoding="base64">IERvd259e0RlbGV0ZSBVcH0=</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -273,49 +281,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text encoding="base64">IERvd259e0RlbGV0ZSBVcH0=</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I3c6Ol4hdwo=</text>
+        <text encoding="base64">XitvOjoKU2VuZCwge0NvbnRyb2wgRG93bn17U2hpZnQgRG93bn17cmlnaHQgRG93bn17cmlnaHQgVXB9e1NoaWZ0IFVwfXtDb250cm9sIFVwfQpDb21wbGV0ZQo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Q29tcGxldGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGFiYzogSVJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigKICAgIHByaXZhdGUgdGhvbWFzUmVwb3NpdG9yeTogSVRob21hc1JlcG9zaXRvcnkxCiAgKSB7CiAgICAKICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiYmNkIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IXc6OgpTZW5kLCB7Q29udHJvbCBEb3dufXt3IERvd259e3cgVXB9e0NvbnRyb2wgVXB9ClJldHVybgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHRob21hc1JlcG9zaXRvcnk6IElUaG9tYXNSZXBvc2l0b3J5MTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">I3o6Ol4hegojajo6XiFqCiNmOjpeIWYKI2s6Ol4hawojeDo6XiF4CiNxOjpeIXEKI206Ol4hbQojYjo6XiFiCiN3OjpeIXcKI2k6OiFJbnNlcnQK</text>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2MgICAgdGhpcy50aG9tYXMzCg==</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRob21hcwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGFiYzogSVJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiYmNkIgo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
@@ -332,7 +340,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxPcmRlckJ5XD4=</entry>
         <entry encoding="base64">XDxJZFw+</entry>
         <entry encoding="base64">XDxUcmFkZVBhY2thZ2VzXD4=</entry>
         <entry>clas</entry>
@@ -351,6 +358,7 @@
         <entry>m</entry>
         <entry>w</entry>
         <entry>inte</entry>
+        <entry>tho</entry>
         <entry>class</entry>
       </history-search>
       <history-cmd>
