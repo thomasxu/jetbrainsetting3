@@ -116,6 +116,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleShowWhitespaces" />
   <action id="EditorToggleUseSoftWraps" />
@@ -300,6 +301,7 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
