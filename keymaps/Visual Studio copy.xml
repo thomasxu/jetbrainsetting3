@@ -95,6 +95,10 @@
     <keyboard-shortcut first-keystroke="ctrl asterisk" />
   </action>
   <action id="EditorCodeBlockStart" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="EditorCut">
     <keyboard-shortcut first-keystroke="ctrl x" />
     <keyboard-shortcut first-keystroke="shift delete" />
@@ -116,6 +120,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleShowWhitespaces" />
