@@ -153,11 +153,12 @@
       <file name="C:/dev/git/ngrx-course/shared/model/message.ts" timestamp="1546321664416">
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="C:/dev/git/ngrx-course/src/app/store/effects/write-new-message-effect.service.ts" timestamp="1546404521229">
-        <mark key="[" line="47" column="21" />
-        <mark key="]" line="47" column="21" />
-        <mark key="." line="47" column="21" />
-        <mark key="^" line="47" column="21" />
+      <file name="C:/dev/git/ngrx-course/src/app/store/effects/write-new-message-effect.service.ts" timestamp="1546432872787">
+        <mark key="'" line="12" column="7" />
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="19" />
+        <mark key="^" line="32" column="19" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/store/actions.ts" timestamp="1546430165128">
         <mark key="[" line="62" column="28" />
@@ -189,11 +190,11 @@
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Test/TestUtils.cs" timestamp="1544756025105">
         <mark key="[" line="64" column="17" />
       </file>
-      <file name="C:/dev/git/ngrx-course/src/app/store/reducers/uiStateReducer.ts" timestamp="1546431734205">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="14" />
-        <mark key="^" line="26" column="14" />
-        <mark key="." line="26" column="14" />
+      <file name="C:/dev/git/ngrx-course/src/app/store/reducers/uiStateReducer.ts" timestamp="1546432352345">
+        <mark key="[" line="85" column="81" />
+        <mark key="]" line="87" column="29" />
+        <mark key="^" line="87" column="29" />
+        <mark key="." line="87" column="29" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.ts" timestamp="1546428678016">
         <mark key="]" line="54" column="13" />
@@ -221,8 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="53" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/AuthenticationController.CommandTest.cs" />
-      <jump line="120" column="26" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="9" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/TradePackage.cs" />
       <jump line="85" column="7" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Command.cs" />
       <jump line="257" column="61" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Integration/JobIntegrationService.cs" />
@@ -321,13 +320,15 @@
       <jump line="73" column="11" filename="C:/dev/git/ngrx-course/src/app/store/reducers/uiStoreDataReducer.ts" />
       <jump line="6" column="30" filename="C:/dev/git/ngrx-course/src/app/message-section/message-section.component.html" />
       <jump line="30" column="5" filename="C:/dev/git/ngrx-course/src/app/message-section/message-section.component.ts" />
+      <jump line="33" column="1" filename="C:/dev/git/ngrx-course/src/app/store/effects/write-new-message-effect.service.ts" />
+      <jump line="14" column="7" filename="C:/dev/git/ngrx-course/src/app/store/effects/write-new-message-effect.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>[...a]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLnN3aXQK</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -342,7 +343,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>[...a]</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -354,37 +355,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">ICAgICAgLnN3aXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB7YTogMSwgYjozfQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGFjdGlvbnMkOiBBY3Rpb25zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEtLCg==</text>
+        <text encoding="base64">ICB0aGlzLmFjdGlvbnMxLgo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE9iamVjdC5hc3NpZ24oKQo=</text>
+        <text encoding="base64">ICBhY3Rpb25zJAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHtjfQo=</text>
+        <text encoding="base64">ICB0aGlzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsuLi5zdGF0ZSwgdHA6ICcxJ30K</text>
+        <text encoding="base64">ICAgICAgYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsuLi4sIHN0YXRlfQo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHVpU3RhdGUoc3RhdGU6IFVpU3RhdGUgPSBJTklUSUFMX1VJX1NUQVRFKSB7Cgp9Cg==</text>
+        <text encoding="base64">ICB7YTogMSwgYjozfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
