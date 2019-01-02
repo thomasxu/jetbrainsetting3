@@ -398,4 +398,8 @@
   <action id="XPathView.Actions.ShowPath" />
   <action id="context.load" />
   <action id="hg4idea.QPushAction" />
+  <action id="ngxQuickSwitch.QuickSwitch">
+    <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
 </keymap>
