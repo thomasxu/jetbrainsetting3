@@ -14,9 +14,6 @@
   <action id="AceWordAction">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
-  <action id="AceWordBackwardsAction">
-    <keyboard-shortcut first-keystroke="shift alt n" />
-  </action>
   <action id="AceWordForwardAction">
     <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
@@ -184,6 +181,10 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="alt end" />
     <mouse-shortcut keystroke="control alt button1" />
@@ -308,10 +309,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift f6" />
-    <keyboard-shortcut first-keystroke="shift ctrl n" />
-  </action>
   <action id="Replace" />
   <action id="RiderNuGetQuickListPopupAction" />
   <action id="RiderUnitTestAppendTestsAction" />
@@ -402,4 +399,5 @@
     <keyboard-shortcut first-keystroke="alt s" />
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="tasks.goto" />
 </keymap>
