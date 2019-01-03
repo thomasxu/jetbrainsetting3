@@ -131,6 +131,9 @@
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="shift f1" />
+  </action>
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
