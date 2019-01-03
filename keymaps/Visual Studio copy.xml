@@ -96,6 +96,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="EditorContextInfo" />
   <action id="EditorCut">
     <keyboard-shortcut first-keystroke="ctrl x" />
     <keyboard-shortcut first-keystroke="shift delete" />
@@ -294,6 +295,7 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
     <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="ReSharperMoveStatementLeft" />
   <action id="RecentChangedFiles">
