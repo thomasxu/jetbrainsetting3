@@ -61,9 +61,6 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
-  <action id="Compare.LastVersion">
-    <keyboard-shortcut first-keystroke="ctrl alt h" />
-  </action>
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
   <action id="Console.TableResult.SelectRow" />
@@ -381,6 +378,7 @@
   </action>
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
   <action id="Vcs.Show.Log">
     <keyboard-shortcut first-keystroke="alt 9" />
