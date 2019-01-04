@@ -90,6 +90,12 @@
         <mark key="^" line="19" column="16" />
         <mark key="." line="19" column="16" />
       </file>
+      <file name="C:/backup/AutoHotkey/HotKeyMac.ahk" timestamp="1546623408555">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="C:/dev/git/rxjs-course/src/app/home/home.component.ts" timestamp="1546570844107">
         <mark key="[" line="18" column="48" />
         <mark key="]" line="30" column="26" />
@@ -150,12 +156,12 @@
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="C:/AutoHotkey/Hotkey.ahk" timestamp="1546620186794">
-        <mark key="'" line="39" column="28" />
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="30" column="46" />
-        <mark key="." line="30" column="46" />
-        <mark key="^" line="30" column="46" />
+      <file name="C:/AutoHotkey/Hotkey.ahk" timestamp="1546623002035">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="81" column="12" />
+        <mark key="^" line="86" column="0" />
       </file>
       <file name="/fragment.ts" timestamp="1546567926229">
         <mark key="[" line="0" column="0" />
@@ -249,6 +255,13 @@
         <mark key="^" line="54" column="13" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/AutoHotkey/HotKeyMac.ahk" timestamp="1546623549159">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="3" column="9" />
+      </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="30" />
@@ -269,9 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Quote/Services/QuoteService.cs" />
-      <jump line="28" column="27" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Supplier/Services/SupplierService.cs" />
-      <jump line="278" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Supplier/Services/SupplierService.cs" />
       <jump line="103" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Supplier/Services/SupplierService.cs" />
       <jump line="19" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Quote/Services/QuoteService.cs" />
       <jump line="157" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Quote/Services/QuoteService.cs" />
@@ -369,13 +379,16 @@
       <jump line="23" column="0" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
       <jump line="36" column="9" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="41" column="28" filename="C:/AutoHotkey/Hotkey.ahk" />
+      <jump line="33" column="25" filename="C:/AutoHotkey/Hotkey.ahk" />
+      <jump line="86" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
+      <jump line="4" column="0" filename="C:/AutoHotkey/HotKeyMac.ahk" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>LWin</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -390,49 +403,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>LWin</text>
       </register>
       <register name="/" type="4">
         <text>ctrl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkaWFsb2dSZWZhZiA9IHRoaXMuZGlhbG9nLm9wZW4oQ291cnNlRGlhbG9nQ29tcG9uZW50LCBkaWFsb2dDb25maWcpOwo=</text>
+        <text encoding="base64">Uldpbjo6UkFsdAo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UkN0cmw6OlJXaW4KUkN0cmw6OlJXaW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgc2ZhYWZzY29uc3QgZGlhbG9nUmVmYWYgPSB0aGlzLmRpYWxvZy5vcGVuKENvdXJzZURpYWxvZ0NvbXBvbmVudCwgZGlhbG9nQ29uZmlnKSxzYWY7CgoKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpYWxvZ0NvbmZpZy5kYXRhID0gY291cnNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hdERpYWxvZ0NvbmZpZyA9IG5ldyBNYXREaWFsb2dDb25maWcoKTsKICAgbWF0RGlhbG9nQ29uZmlnLmRpc2FibGVDbG9zZSA9IHRydWU7CiAgIGRpYWxvZ0NvbmZpZy4KCg==</text>
+        <text encoding="base64">CiAgICAgICAgc2ZhYWZzY29uc3QgZGlhbG9nUmVmYWYgPSB0aGlzLmRpYWxvZy5vcGVuKENvdXJzZURpYWxvZ0NvbXBvbmVudCwgZGlhbG9nQ29uZmlnKSxzYWY7CgoKICB9Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3MK</text>
+        <text encoding="base64">ICAgIGRpYWxvZ0NvbmZpZy5kYXRhID0gY291cnNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmZGFqanNmYXNqc2FkZmphcwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1hdERpYWxvZ0NvbmZpZyA9IG5ldyBNYXREaWFsb2dDb25maWcoKTsKICAgbWF0RGlhbG9nQ29uZmlnLmRpc2FibGVDbG9zZSA9IHRydWU7CiAgIGRpYWxvZ0NvbmZpZy4KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb3Vyc2VzOiBDb3Vyc2Vmc2RqZnNmZmlkc2FmaXNmZF07Cg==</text>
+        <text encoding="base64">c3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TEFsdDo6TFdpbgo=</text>
+        <text encoding="base64">ICBmZGFqanNmYXNqc2FkZmphcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TEFsdDo6TFdpbgo=</text>
+        <text encoding="base64">ICBjb3Vyc2VzOiBDb3Vyc2Vmc2RqZnNmZmlkc2FmaXNmZF07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
