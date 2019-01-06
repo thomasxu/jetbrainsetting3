@@ -111,8 +111,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/dev/git/rxjs-course/src/app/home/home.component.ts" timestamp="1546740679981">
+      <file name="C:/dev/git/rxjs-course/src/app/home/home.component.ts" timestamp="1546740717585">
         <mark key="[" line="31" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/store/reducers/uiStateReducer.ts" timestamp="1546432352345">
         <mark key="[" line="85" column="81" />
@@ -142,8 +145,8 @@
       <file name="C:/dev/git/ngrx-course/src/app/store/effects/mark-messages-as-read-effect.service.ts" timestamp="1546244062968">
         <mark key="[" line="18" column="28" />
       </file>
-      <file name="C:/dev/git/rxjs-course/src/app/home/home.component.html" timestamp="1546739604698">
-        <mark key="'" line="30" column="0" />
+      <file name="C:/dev/git/rxjs-course/src/app/home/home.component.html" timestamp="1546740808474">
+        <mark key="'" line="1" column="12" />
         <mark key="]" line="18" column="29" />
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
@@ -194,11 +197,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/dev/git/rxjs-course/src/index.html" timestamp="1546700013276">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="16" column="3" />
-        <mark key="^" line="16" column="3" />
-        <mark key="." line="16" column="3" />
+      <file name="C:/dev/git/rxjs-course/src/index.html" timestamp="1546741473845">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/TradePackageLifecycleSupplierResponse.cs" timestamp="1545178833807">
         <mark key="[" line="20" column="21" />
@@ -310,9 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Email/EmailService.cs" />
-      <jump line="18" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Email/EmailService.cs" />
-      <jump line="55" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/BusinessExceptionFilter.cs" />
       <jump line="27" column="62" filename="C:/dev/selfExperiment/IisLoggerExtractor/IisLoggerExtractor/Program.cs" />
       <jump line="67" column="0" filename="C:/dev/selfExperiment/IisLoggerExtractor/IisLoggerExtractor/Program.cs" />
       <jump line="40" column="33" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/QuoteRepository.cs" />
@@ -410,13 +410,16 @@
       <jump line="46" column="3" filename="C:/AutoHotkey/HotKeyMac.ahk" />
       <jump line="355" column="0" filename="C:/dev/git/rxjs-course/server/get-courses.route.ts" />
       <jump line="55" column="8" filename="C:/dev/git/rxjs-course/src/app/app.module.ts" />
+      <jump line="20" column="0" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
+      <jump line="25" column="4" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
+      <jump line="1" column="12" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVudHJ5Q29tcG9uZW50czogW0NvdXJzZURpYWxvZ0NvbXBvbmVudF0K</text>
+      <register name="&quot;" type="4">
+        <text>stylesheet</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -431,10 +434,10 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>stylesheet</text>
       </register>
       <register name="/" type="4">
-        <text>y</text>
+        <text>course</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBDOlxkZXZcZ2l0XHJ4anMtY291cnNlXHNyY1xhcHBcaG9tZVxob21lLmNvbXBvbmVudC5odG1sCg==</text>
@@ -443,46 +446,46 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudHJ5Q29tcG9uZW50czogW0NvdXJzZURpYWxvZ0NvbXBvbmVudF0K</text>
+        <text encoding="base64">ICA8YmFzZSBocmVmPSIvIj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUmVhY3RpdmVGb3Jtc01vZHVsZSwK</text>
+        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9IiI+Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB7cGF0aDogJ2NvbXBhcmlzaW9uJywgbG9hZENoaWxkcmVuOiAnY29tcGFyaXNvbi90aG9tYXMubW9kdWxlLnRzI2xhenktbW9kdWxlJ30sCg==</text>
+        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9IiI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB7cGF0aDogJycsIHBhdGhNYXRjaDogJ2Z1bGwnLCByZWRpcmVjdFRvOiAncGF0aCd9Cg==</text>
+        <text encoding="base64">ICAgIGVudHJ5Q29tcG9uZW50czogW0NvdXJzZURpYWxvZ0NvbXBvbmVudF0K</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB7cGF0aDogJyoqJywgY29tcG9uZW50OiBQYXRoTm90Rm91bmRDb21wb25lbnR9Cg==</text>
+        <text encoding="base64">ICAgICAgUmVhY3RpdmVGb3Jtc01vZHVsZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB7cGF0aDogJycsIHBhdGhNYXRjaDogJ2Z1bGwnLCByZWRpcmVjdFRvOiAncGF0aCd9Cg==</text>
+        <text encoding="base64">ICB7cGF0aDogJ2NvbXBhcmlzaW9uJywgbG9hZENoaWxkcmVuOiAnY29tcGFyaXNvbi90aG9tYXMubW9kdWxlLnRzI2xhenktbW9kdWxlJ30sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByb3V0ZQo=</text>
+        <text encoding="base64">ICB7cGF0aDogJycsIHBhdGhNYXRjaDogJ2Z1bGwnLCByZWRpcmVjdFRvOiAncGF0aCd9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7CiAgICBwYXRoOiAiIiwKICAgIGNvbXBvbmVudDogSG9tZUNvbXBvbmVudAogIH0sCg==</text>
+        <text encoding="base64">ICB7cGF0aDogJyoqJywgY29tcG9uZW50OiBQYXRoTm90Rm91bmRDb21wb25lbnR9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">WwogIHtwYXRoOiIiLCBjb21wb25lbnR9Cl0K</text>
+        <text encoding="base64">ICB7cGF0aDogJycsIHBhdGhNYXRjaDogJ2Z1bGwnLCByZWRpcmVjdFRvOiAncGF0aCd9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>y</last-search>
+      <last-search>course</last-search>
       <last-offset />
-      <last-pattern>y</last-pattern>
+      <last-pattern>course</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>y</last-substitute>
       <last-dir>1</last-dir>
@@ -490,7 +493,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bmlxdWVHbG9iYWxJZHNcPg==</entry>
         <entry>]</entry>
         <entry>Preference</entry>
         <entry>;</entry>
@@ -510,6 +512,7 @@
         <entry>l</entry>
         <entry>!</entry>
         <entry>y</entry>
+        <entry>course</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
