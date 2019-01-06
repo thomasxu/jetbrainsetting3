@@ -167,6 +167,9 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="Git.Menu">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
