@@ -165,6 +165,7 @@
   <action id="Git.Commit.And.Push.Executor">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
     <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
@@ -358,7 +359,6 @@
   <action id="ShowReformatFileDialog" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt j" />
-    <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
   <action id="SilentCodeCleanup" />
   <action id="SurroundWithLiveTemplate">
@@ -385,7 +385,6 @@
   <action id="Vcs.Show.Local.Changes">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt h" />
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="Vcs.Show.Log">
     <keyboard-shortcut first-keystroke="alt 9" />
