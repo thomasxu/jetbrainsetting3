@@ -24,6 +24,13 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" timestamp="1546791231919">
+        <mark key="'" line="38" column="44" />
+        <mark key="[" line="13" column="71" />
+        <mark key="]" line="13" column="71" />
+        <mark key="^" line="13" column="71" />
+        <mark key="." line="13" column="71" />
+      </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.html" timestamp="1546406488085">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="22" />
@@ -224,11 +231,11 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="C:/dev/git/rxjs-course/src/app/common/debug.ts" timestamp="1546779393362">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="C:/dev/git/rxjs-course/src/app/common/debug.ts" timestamp="1546790668062">
+        <mark key="[" line="45" column="21" />
+        <mark key="]" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+        <mark key="^" line="45" column="25" />
       </file>
       <file name="C:/dev/git/ngrx-course/shared/model/message.ts" timestamp="1546321664416">
         <mark key="[" line="2" column="26" />
@@ -374,7 +381,6 @@
       <jump line="3" column="16" filename="C:/dev/git/rxjs-course/src/app/common/util.ts" />
       <jump line="7" column="18" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="33" column="0" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
-      <jump line="23" column="0" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
       <jump line="36" column="9" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="41" column="28" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="33" column="25" filename="C:/AutoHotkey/Hotkey.ahk" />
@@ -425,13 +431,14 @@
       <jump line="20" column="7" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
       <jump line="33" column="6" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
       <jump line="103" column="0" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
+      <jump line="23" column="44" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>AbortSignal</text>
+        <text encoding="base64">IHJvdXRlckxpbms9Ii9zZmEi</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -446,7 +453,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>AbortSignal</text>
+        <text encoding="base64">IHJvdXRlckxpbms9Ii9zZmEi</text>
       </register>
       <register name="/" type="4">
         <text>cl</text>
@@ -458,37 +465,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIDxtYXQtY2FyZC1idQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNpZ25hbEwK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGRlYnVnID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIAogIH0K</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QENvbXBvbmVudCh7CiAgc2VsZWN0b3I6ICd0aG9tYXMnLAogIHRlbXBsYXRlVXJsOiAnLi90aG9tYXMuY29tcG9uZW50Lmh0bWwnLAogIHN0eWxlVXJsczogWycuL3Rob21hcy5jb21wb25lbnQuc2NzcyddCn0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNpZ25hbEwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Xit1OjoKU2VuZCwge0NvbnRyb2wgRG93bn17U2hpZnQgRG93bn17bGVmdCBEb3dufXtsZWZ0IFVwfXtTaGlmdCBVcH17Q29udHJvbCBVcH0KUmV0dXJuCg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIAogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Xit1OjoKU2VuZCwge0NvbnRyb2wgRG93bn17U2hpZnQgRG93bn17bGVmdCBEb3dufXtsZWZ0IFVwfXtTaGlmdCBVcH17Q29udHJvbCBVcH0KUmV0dXJuCg==</text>
+        <text encoding="base64">QENvbXBvbmVudCh7CiAgc2VsZWN0b3I6ICd0aG9tYXMnLAogIHRlbXBsYXRlVXJsOiAnLi90aG9tYXMuY29tcG9uZW50Lmh0bWwnLAogIHN0eWxlVXJsczogWycuL3Rob21hcy5jb21wb25lbnQuc2NzcyddCn0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U2VuZCwge0NvbnRyb2wgRG93bn17cyBEb3dufXtzIFVwfXtDb250cm9sIFVwfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
