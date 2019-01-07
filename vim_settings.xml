@@ -80,6 +80,13 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="C:/dev/git/rxjs-course/src/app/course/course.component.css" timestamp="1546841785155">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+      </file>
       <file name="C:/dev/git/ngrx-course/src/app/store/ui-state.ts" timestamp="1546430506173">
         <mark key="[" line="23" column="28" />
         <mark key="]" line="23" column="28" />
@@ -135,8 +142,11 @@
       <file name="C:/AutoHotkey/HotKeyMac1.ahk" timestamp="1546761290923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/rxjs-course/src/app/course/course.component.html" timestamp="1546840988945">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/dev/git/rxjs-course/src/app/course/course.component.html" timestamp="1546841872930">
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="24" column="27" />
+        <mark key="^" line="24" column="27" />
+        <mark key="." line="24" column="27" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/store/effects/mark-messages-as-read-effect.service.ts" timestamp="1546244062968">
         <mark key="[" line="18" column="28" />
@@ -263,6 +273,12 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
+      <file name="C:/dev/git/rxjs-course/src/app/course/course.component.ts" timestamp="1546841253629">
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="45" column="22" />
+        <mark key="^" line="45" column="22" />
+        <mark key="." line="45" column="22" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Test/TestUtils.cs" timestamp="1544756025105">
         <mark key="[" line="64" column="17" />
       </file>
@@ -328,8 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="47" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="16" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="40" column="0" filename="C:/dev/git/ngrx-course/src/app/about/about.component.ts" />
       <jump line="26" column="18" filename="C:/dev/git/ngrx-course/src/app/about/about.component.ts" />
@@ -428,13 +442,15 @@
       <jump line="2" column="11" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
       <jump line="35" column="3" filename="C:/AutoHotkey/HotKeyMac.ahk" />
       <jump line="0" column="0" filename="C:/AutoHotkey/HotKeyMac.ahk" />
+      <jump line="58" column="0" filename="C:/dev/git/rxjs-course/src/app/course/course.component.css" />
+      <jump line="60" column="0" filename="C:/dev/git/rxjs-course/src/app/course/course.component.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Software</text>
+        <text>type=&quot;text&quot;</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -449,10 +465,10 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Software</text>
+        <text>type=&quot;text&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>cl</text>
+        <text>course-thumbnail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I3I6Ol4hcgo=</text>
@@ -498,9 +514,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cl</last-search>
+      <last-search>course-thumbnail</last-search>
       <last-offset />
-      <last-pattern>cl</last-pattern>
+      <last-pattern>course-thumbnail</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>CourseType</last-substitute>
       <last-dir>1</last-dir>
@@ -508,8 +524,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
-        <entry>m</entry>
         <entry>w</entry>
         <entry>inte</entry>
         <entry>tho</entry>
@@ -528,6 +542,8 @@
         <entry>CourseType</entry>
         <entry>!</entry>
         <entry>cl</entry>
+        <entry>course-th</entry>
+        <entry>course-thumbnail</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
