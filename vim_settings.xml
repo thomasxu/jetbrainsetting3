@@ -23,11 +23,12 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/ConsoleApplication1/Program.cs" timestamp="1546618693319">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="22" />
+      <file name="$USER_HOME$/RiderProjects/Solution1/ConsoleApplication1/Program.cs" timestamp="1546950137714">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/D0C69B98-D4DA-4342-A70F-9B139B717B6D/9b/d3e0a858/Assert.cs" timestamp="1544007536491">
         <mark key="'" line="1666" column="23" />
@@ -160,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="31" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="0" column="3" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
       <jump line="29" column="62" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" />
@@ -260,13 +260,14 @@
       <jump line="338" column="20" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" />
       <jump line="29" column="20" filename="$USER_HOME$/RiderProjects/Solution1/ConsoleApplication1/Program.cs" />
       <jump line="22" column="11" filename="$USER_HOME$/RiderProjects/Solution1/ConsoleApplication1/Program.cs" />
+      <jump line="27" column="0" filename="$USER_HOME$/RiderProjects/Solution1/ConsoleApplication1/Program.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNkZgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFByb3AxIHsgZ2V0OyBzZXQ7IH0gPSAiYWJjIjsK</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -284,7 +285,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>interface</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQocGFja2FnZUxpZmVjeWNsZVJlc3BvbnNlMS5UcmFkZUNhdGVnb3JpZXNJZC5MZW5ndGgsIElzLkVxdWFsVG8oMikpOwo=</text>
@@ -293,16 +294,16 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNkZgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFByb3AxIHsgZ2V0OyBzZXQ7IH0gPSAiYWJjIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaW50IHRodjEgPSAxMjM0OyB2YXIgdmFyaXNhZmFibGUgPSBzdHJpbmdQYXJtZXRlcjsgdmFyIHMgPSB0aG9tYXM7IAo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNkZgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -311,28 +312,28 @@
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMjIyMgo=</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbihsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgSVRob21hc1JlcG9zCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMjIyMgo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>interface</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>interface</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>gc</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -349,7 +350,6 @@
         <entry encoding="base64">XDx1bmlxdWVHbG9iYWxJZHNcPg==</entry>
         <entry>]</entry>
         <entry>Preference</entry>
-        <entry>class</entry>
         <entry>updatequotelifecycle</entry>
         <entry>updateQuotelifecyclerequest</entry>
         <entry>UpdateQuote</entry>
@@ -360,6 +360,7 @@
         <entry>;</entry>
         <entry>,</entry>
         <entry>interface</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>set ;m</entry>
