@@ -122,12 +122,12 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.css" timestamp="1547002600252">
+      <file name="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.css" timestamp="1547003293264">
         <mark key="'" line="2" column="2" />
         <mark key="[" line="1" column="2" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="0" column="37" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="/Dummy.txt" timestamp="1546843950219">
         <mark key="[" line="0" column="0" />
@@ -230,6 +230,13 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1547004088113">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="117" column="2" />
+        <mark key="]" line="117" column="3" />
+        <mark key="." line="117" column="3" />
+        <mark key="^" line="109" column="20" />
+      </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="30" />
@@ -281,7 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="3" filename="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" />
       <jump line="11" column="12" filename="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" />
       <jump line="34" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="60" column="12" filename="C:/AutoHotkey/Hotkey.ahk" />
@@ -381,13 +387,14 @@
       <jump line="56" column="1" filename="C:/dev/git/ngrx-course/src/app/store/actions.ts" />
       <jump line="31" column="31" filename="C:/dev/git/ngrx-course/src/app/store/utils.ts" />
       <jump line="1" column="2" filename="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.css" />
+      <jump line="0" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB3aWR0aDogMjAwcHg7Cg==</text>
+        <text encoding="base64">ISsxOjoKU2VuZCwge0NvbnRyb2wgRG93bn0xe0NvbnRyb2wgVXB9ClJldHVybgohKzI6OgpTZW5kLCB7Q29udHJvbCBEb3dufTJ7Q29udHJvbCBVcH0KUmV0dXJuCg==</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -402,49 +409,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>{Shift Down}{left Down}{left Up}{Shift Up}</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0idGhyZWFkLXNlY3Rpb24iPgoK</text>
+        <text encoding="base64">ISsxOjoKU2VuZCwge0NvbnRyb2wgRG93bn0xe0NvbnRyb2wgVXB9ClJldHVybgohKzI6OgpTZW5kLCB7Q29udHJvbCBEb3dufTJ7Q29udHJvbCBVcH0KUmV0dXJuCg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aWR0aDogMjAwcHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRocmVhZFNlY3Rpb25Db21wb25lbnQucmVhZG9ubHkgCg==</text>
+        <text encoding="base64">ICB3aWR0aDogMjAwcHg7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBTdGF0ZVRvVW5yZWFkTWVzc2FnZXNDb3VudGVyKCkK</text>
+        <text encoding="base64">ICAgIFRocmVhZFNlY3Rpb25Db21wb25lbnQucmVhZG9ubHkgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBTdGF0ZVRvVW5yZWFkTWVzc2FnZXNDb3VudGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXBTdGF0ZVRvVW5yZWFkTWVzc2FnZXNDb3VudGVyKCkK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1bnJlYWRNZXNzYWdlc0NvdW50ZXIkLgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBtYXBTdGF0ZVRvVW5yZWFkTWVzc2FnZXNDb3VudGVyCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB1bnJlYWRNZXNzYWdlc0NvdW50ZXIkLgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBTdGF0ZVRvVW5yZWFkTWVzc2FnZXNDb3VudGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICBtYXBTdGF0ZVRvVW5yZWFkTWVzc2FnZXNDb3VudGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS4K</text>
+        <text encoding="base64">ICAgICAgICBtYXBTdGF0ZVRvVW5yZWFkTWVzc2FnZXNDb3VudGVyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9yZURhdGEK</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS4K</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
