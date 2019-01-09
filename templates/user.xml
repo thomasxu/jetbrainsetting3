@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="proprg" value="public int X { get; }" toReformat="true" toShortenFQNames="true">
+  <template name="proprg" value="public int X { get; }" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
