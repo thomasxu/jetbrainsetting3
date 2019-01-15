@@ -109,6 +109,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.cs" timestamp="1547532320745" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Core/IdNamePairDto.cs" timestamp="1545271025363">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="29" />
@@ -128,9 +129,10 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1547531825254">
-        <mark key="[" line="23" column="58" />
-        <mark key="]" line="23" column="58" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1547540017670">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="226" />
         <mark key="^" line="22" column="78" />
         <mark key="." line="23" column="58" />
       </file>
@@ -146,6 +148,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/JobStatisticsRepositoryTest.cs" timestamp="1547532452552" />
       <file name="C:/dev/git/ngrx-course/src/app/services/commonHttpHeaders.ts" timestamp="1546920177384">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="6" column="40" />
@@ -239,6 +242,7 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/Core/SeedConfiguration.cs" timestamp="1547532300518" />
       <file name="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" timestamp="1546260835912">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -388,6 +392,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1547540028021">
+        <mark key="[" line="428" column="0" />
+        <mark key="]" line="429" column="226" />
+        <mark key="." line="428" column="0" />
+      </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="30" />
@@ -419,8 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="3" filename="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" />
-      <jump line="6" column="0" filename="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" />
       <jump line="4" column="3" filename="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" />
       <jump line="11" column="12" filename="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" />
       <jump line="34" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
@@ -519,6 +526,8 @@
       <jump line="33" column="0" filename="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.ts" />
       <jump line="57" column="0" filename="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.ts" />
       <jump line="56" column="1" filename="C:/dev/git/ngrx-course/src/app/store/actions.ts" />
+      <jump line="5" column="19" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" />
+      <jump line="81" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -546,7 +555,7 @@
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMiwgY2hlY2tOdWxsVG90YWw6IHRydWUsIGlzTWFudWFsVG90YWw6IEJvb2xlYW5PcHRpb24uTm9uZSwKICAgICAgICAgICAgICAgIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuUHJvUmF0YVN1cHBsaWVyLCBQbHVnVHlwZS5GaWxsLCBQbHVnVHlwZS5JbmNsdWRlfSwgaXNQaWNrZWQ6IEJvb2xlYW5PcHRpb24uTnVsbCk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjMsIGNoZWNrTnVsbFRvdGFsOiB0cnVlLCB0b3RhbDogbnVsbCwK</text>
+        <text encoding="base64">ICAgIDxhZGQgbmFtZT0iQmFydGVuZGVyQ29udGV4dFB1Ymxpc2giIGNvbm5lY3Rpb25TdHJpbmc9InNlcnZlcj0xOTIuMTY4Ljk5LjEwMDtwb3J0PTMzMzM7dXNlciBpZD1iYXJ0ZW5kZXJQdWJsaXNoO3Bhc3N3b3JkPTAwMDA7cGVyc2lzdHNlY3VyaXR5aW5mbz1UcnVlO2FsbG93IHVzZXIgdmFyaWFibGVzPXRydWU7ZGF0YWJhc2U9YmFydGVuZGVyIiBwcm92aWRlck5hbWU9Ik15U3FsLkRhdGEuTXlTcWxDbGllbnQiIC8+CiAgICA8YWRkIG5hbWU9IkJhcnRlbmRlckNvbnRleHQiIGNvbm5lY3Rpb25TdHJpbmc9InNlcnZlcj0xOTIuMTY4Ljk5LjEwMDtwb3J0PTMzMzM7dXNlciBpZD1iYXJ0ZW5kZXI7cGFzc3dvcmQ9MDAwMDtwZXJzaXN0c2VjdXJpdHlpbmZvPVRydWU7YWxsb3cgdXNlciB2YXJpYWJsZXM9dHJ1ZTtkYXRhYmFzZT1iYXJ0ZW5kZXIiIHByb3ZpZGVyTmFtZT0iTXlTcWwuRGF0YS5NeVNxbENsaWVudCIgLz4K</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
