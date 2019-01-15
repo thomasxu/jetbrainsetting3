@@ -121,11 +121,18 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" timestamp="1547531888960" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/QuoteLifecycle.cs" timestamp="1545262004486">
         <mark key="[" line="55" column="35" />
         <mark key="]" line="55" column="40" />
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1547531825254">
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="23" column="58" />
+        <mark key="^" line="22" column="78" />
+        <mark key="." line="23" column="58" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/store/ui-state.ts" timestamp="1546430506173">
         <mark key="[" line="23" column="28" />
@@ -195,6 +202,12 @@
         <mark key="]" line="14" column="12" />
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" timestamp="1547531895053">
+        <mark key="[" line="181" column="27" />
+        <mark key="]" line="175" column="28" />
+        <mark key="^" line="175" column="28" />
+        <mark key="." line="175" column="28" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/TradePackage.cs" timestamp="1543964877088">
         <mark key="[" line="16" column="37" />
@@ -352,6 +365,7 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="8" column="35" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Plug.cs" timestamp="1547531216815" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Accounts/Account.cs" timestamp="1544672692853">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="11" column="8" />
@@ -526,58 +540,64 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>65</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPG9wdGlvbiB2YWx1ZT0ic2FmZCI+ZGFmczwvb3B0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMiwgY2hlY2tOdWxsVG90YWw6IHRydWUsIGlzTWFudWFsVG90YWw6IEJvb2xlYW5PcHRpb24uTm9uZSwKICAgICAgICAgICAgICAgIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuUHJvUmF0YVN1cHBsaWVyLCBQbHVnVHlwZS5GaWxsLCBQbHVnVHlwZS5JbmNsdWRlfSwgaXNQaWNrZWQ6IEJvb2xlYW5PcHRpb24uTnVsbCk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjMsIGNoZWNrTnVsbFRvdGFsOiB0cnVlLCB0b3RhbDogbnVsbCwK</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGFmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5yZWR1Y2UoKGFjYywgdGhyZWFkKSA9PiBhY2MgKyAodGhyZWFkLnBhcnRpY2lwYW50c1tjdXJyZW50XSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZXJNb2R1bGUuZm9yUm9vdChyb3V0ZXMsIHt1c2VIYXNoOiB0cnVlfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMywgY2hlY2tOdWxsVG90YWw6IHRydWUsIHRvdGFsOiBudWxsLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdG9yZURhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwgaXNQaWNrZWQ6IEJvb2xlYW5PcHRpb24uTnVsbCk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjMsIGNoZWNrTnVsbFRvdGFsOiB0cnVlLCB0b3RhbDogbnVsbCwKICAgICAgICAgICAgICAgIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuUHJvUmF0YVN1cHBsaWVyLCBQbHVnVHlwZS5GaWxsLCBQbHVnVHlwZS5JbmNsdWRlfSwgaXNQaWNrZWQ6IEJvb2xlYW5PcHRpb24uTnVsbCk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjQsIGNoZWNrTnVsbFRvdGFsOiB0cnVlLAogICAgICAgICAgICAgICAgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5Qcm9SYXRhU3VwcGxpZXIsIFBsdWdUeXBlLkZpbGwsIFBsdWdUeXBlLkluY2x1ZGV9LCBpc1BpY2tlZDogQm9vbGVhbk9wdGlvbi5OdWxsKTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyNSwgY2hlY2tOdWxsVG90YWw6IHRydWUsCiAgICAgICAgICAgICAgICBwbHVnczogbmV3W10ge1BsdWdUeXBlLlByb1JhdGFTdXBwbGllciwgUGx1Z1R5cGUuRmlsbCwgUGx1Z1R5cGUuSW5jbHVkZX0sIGlzUGlja2VkOiBCb29sZWFuT3B0aW9uLk51bGwpOwogICAgICAgIH0K</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PGk+PC9pPgo=</text>
+      <register name="5" type="4">
+        <text>//53 is the level 2 heading and grand child of 65
+            UpdateQuoteAmount(53, total: null);
+
+            var result = FillQuoteAmount(22, true, _supplier2QuoteId);
+
+            AssertResponse(result, 22, checkNullTotal: true, isManualTotal: BooleanOption.None,
+                plugs: new[] {PlugType.ProRataSupplier, PlugType.Fill, PlugType.Include</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGhpcy5hY3Rpb25zJC5vZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy82NSBpcyBncmFuZCB0b3RhbCBoZWFkaW5nIG9mIFN1cHBsaWVyMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYWN0aW9ucyQ6IEFjdGlvbnMsIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGlja1F1b3RlQW1vdW50KDIyLCB0cnVlKTsKICAgICAgICAgICAgUGx1Z1F1b3RlQW1vdW50KDIyLCBQbHVnVHlwZS5UZW1wKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGlja1F1b3RlQW1vdW50KDIyLCB0cnVlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VsZWN0IChjaGFuZ2UpPSJvblNlbGVjdFVzZXIoJGV2ZW50LnRhcmdldC52YWx1ZSkiPgogICAgICAgICAgICA8b3B0aW9uPjwvb3B0aW9uPgogICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIxIj5BbGljZTwvb3B0aW9uPgogICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIyIj5Cb2I8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMyI+Q2h1Y2s8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNCI+RGF2aWQ8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNSI+RXJpbjwvb3B0aW9uPgogICAgICAgIDwvc2VsZWN0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGx1Z1F1b3RlQW1vdW50KDE4LCBQbHVnVHlwZS5JbmNsdWRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>CourseType</last-substitute>
       <last-dir>1</last-dir>
@@ -585,7 +605,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxRdW90ZVByb2dyZXNzXD4=</entry>
         <entry encoding="base64">XDxxbFw+</entry>
         <entry encoding="base64">XDxsaWZlY3ljbGVcPg==</entry>
         <entry encoding="base64">XDx0cmFkZVBhY2thZ2VJZFw+</entry>
@@ -605,6 +624,7 @@
         <entry>TradePackageItementity</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxxdW90ZUxpZmVjeWNsZVw+</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>set ;m</entry>
