@@ -254,6 +254,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Resolve.cs" timestamp="1547678098397">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" timestamp="1546260835912">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -383,7 +388,7 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Plug.cs" timestamp="1547676933016">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Plug.cs" timestamp="1547677883487">
         <mark key="[" line="112" column="74" />
         <mark key="]" line="112" column="74" />
         <mark key="^" line="112" column="71" />
@@ -578,7 +583,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>.e</text>
+        <text encoding="base64">YW5kIHRvdGFsIA==</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -590,37 +595,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBVcGRhdGVJdGVtUXVhbnRpdHkoMSwgMSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMCwgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjEsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDIyLCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMywgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjYsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDI3LCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMCwgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjEsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDIyLCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMywgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjYsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDI3LCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAxOSwgMTUwMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlLCBQbHVnVHlwZS5Qcm9SYXRhRXN0aW1hdGlvbiwgUGx1Z1R5cGUuRmlsbH0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDI4LCAxNTAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMCwgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjEsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDIyLCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMywgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjYsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDI3LCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAxOSwgMTUwMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlLCBQbHVnVHlwZS5Qcm9SYXRhRXN0aW1hdGlvbiwgUGx1Z1R5cGUuRmlsbH0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDI4LCAxNTAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMCwgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjEsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDIyLCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMywgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjYsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDI3LCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAxOCwgMTUwMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMTksIDE1MDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZSwgUGx1Z1R5cGUuUHJvUmF0YUVzdGltYXRpb24sIFBsdWdUeXBlLkZpbGx9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyOCwgMTUwMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjAsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDIxLCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMiwgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjMsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDI2LCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyNywgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CgogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAxOCwgMTUwMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMTksIDE1MDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZSwgUGx1Z1R5cGUuUHJvUmF0YUVzdGltYXRpb24sIFBsdWdUeXBlLkZpbGx9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyOCwgMTUwMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjAsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDIxLCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMiwgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjMsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDI2LCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyNywgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGx1Z1F1b3RlQW1vdW50KDE4LCBQbHVnVHlwZS5JbmNsdWRlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
