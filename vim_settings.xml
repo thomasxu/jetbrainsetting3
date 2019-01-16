@@ -21,12 +21,13 @@
         <mark key="." line="68" column="20" />
         <mark key="^" line="68" column="20" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Integration/MergeResolver/BaseMergeResolver.cs" timestamp="1547613864734" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Migrations/201805140129560_SCP-2442UpdateNewUserEmailTemplate.cs" timestamp="1547597511339" />
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Resolve.cs" timestamp="1547611728361">
-        <mark key="[" line="24" column="48" />
-        <mark key="]" line="25" column="11" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="25" column="11" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Resolve.cs" timestamp="1547614408269">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="19" column="87" />
+        <mark key="^" line="19" column="87" />
+        <mark key="." line="19" column="87" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Prorata.cs" timestamp="1547611640053">
         <mark key="[" line="13" column="0" />
@@ -35,6 +36,18 @@
       <file name="/TradePackageLifecycleService.cs" timestamp="1547442563966">
         <mark key="[" line="89" column="17" />
         <mark key="]" line="89" column="60" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1547614590612">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/ResolveQuoteAmountUpdater.cs" timestamp="1547614844931">
+        <mark key="[" line="49" column="57" />
+        <mark key="]" line="61" column="1" />
+        <mark key="." line="61" column="1" />
+        <mark key="^" line="61" column="1" />
       </file>
       <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1547598060228">
         <mark key="[" line="410" column="86" />
@@ -150,7 +163,7 @@
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>34</text>
+        <text>, skipAllIncl: true</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -165,7 +178,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>34</text>
+        <text>, skipAllIncl: true</text>
       </register>
       <register name="/" type="4">
         <text>BartenderContextPublish</text>
