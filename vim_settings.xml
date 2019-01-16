@@ -136,7 +136,7 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1547540017670">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1547630005707">
         <mark key="'" line="81" column="0" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="23" column="226" />
@@ -167,7 +167,6 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Integration/MergeResolver/BaseMergeResolver.cs" timestamp="1547547730778" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Enums/QuoteLifecycleStatus.cs" timestamp="1543201764073">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -213,12 +212,10 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" timestamp="1547546778884">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" timestamp="1547632303749">
         <mark key="'" line="166" column="72" />
-        <mark key="[" line="181" column="45" />
-        <mark key="]" line="181" column="45" />
-        <mark key="^" line="181" column="38" />
-        <mark key="." line="181" column="45" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="191" column="9" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/TradePackage.cs" timestamp="1543964877088">
         <mark key="[" line="16" column="37" />
@@ -377,6 +374,12 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="8" column="35" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Plug.cs" timestamp="1547633064786">
+        <mark key="[" line="110" column="12" />
+        <mark key="]" line="110" column="62" />
+        <mark key="^" line="110" column="62" />
+        <mark key="." line="110" column="62" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Accounts/Account.cs" timestamp="1544672692853">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="11" column="8" />
@@ -399,10 +402,10 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1547540028021">
+      <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1547629933917">
         <mark key="[" line="428" column="0" />
-        <mark key="]" line="429" column="226" />
-        <mark key="." line="428" column="0" />
+        <mark key="]" line="428" column="240" />
+        <mark key="." line="428" column="249" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/Core/IntegrationTestContext.cs" timestamp="1547543270914">
         <mark key="'" line="13" column="13" />
@@ -445,8 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="1" filename="C:/dev/git/ngrx-course/src/app/store/effects/write-new-message-effect.service.ts" />
-      <jump line="14" column="7" filename="C:/dev/git/ngrx-course/src/app/store/effects/write-new-message-effect.service.ts" />
       <jump line="22" column="0" filename="C:/dev/git/ngrx-course/src/app/services/threads.service.ts" />
       <jump line="21" column="19" filename="C:/dev/git/ngrx-course/src/app/store/reducers/uiStoreDataReducer.ts" />
       <jump line="43" column="0" filename="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" />
@@ -545,6 +546,8 @@
       <jump line="25" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/AutofacRegister.cs" />
       <jump line="104" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="313" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="92" column="36" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Plug.cs" />
+      <jump line="111" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Plug.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -566,49 +569,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>, int total</text>
+        <text>1500</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY2xhc3MgUHJvcmF0YVF1b3RlQW1vdW50QnVpbGRlcgogICAgICAgIHsKICAgICAgICAgICAgcHJpdmF0ZSBpbnQ/IF90cmFkZVBhY2thZ2VJZCA9IG51bGw7CiAgICAgICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSUxpc3Q8U2F2ZVF1b3RlQW1vdW50VmFsdWU+IF9xdW90ZUFtb3VudHMgPSBuZXcgTGlzdDxTYXZlUXVvdGVBbW91bnRWYWx1ZT4oKTsKCiAgICAgICAgICAgIHB1YmxpYyBTYXZlUXVvdGVBbW91bnRSZXF1ZXN0IEJ1aWxkKCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwoX3RyYWRlUGFja2FnZUlkKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IFNhdmVRdW90ZUFtb3VudFJlcXVlc3QKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBRdW90ZUFtb3VudFZhbHVlcyA9IF9xdW90ZUFtb3VudHMuVG9BcnJheSgpLAogICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZUlkID0gX3RyYWRlUGFja2FnZUlkLlZhbHVlLAogICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcHVibGljIFByb3JhdGFRdW90ZUFtb3VudEJ1aWxkZXIgQWRkVmFsdWUoRW50aXRpZXMuQ29yZS5RdW90ZUFtb3VudCBxdW90ZUFtb3VudCwgaW50PyB0b3RhbCA9IG51bGwsCiAgICAgICAgICAgICAgICBpbnQ/IGhlYWRlck9wdGlvblZhbHVlID0gbnVsbCwgSGVhZGVyT3B0aW9uPyBoZWFkZXJPcHRpb24gPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoX3RyYWRlUGFja2FnZUlkICE9IG51bGwpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQXNzZXJ0LkFyZUVxdWFsKF90cmFkZVBhY2thZ2VJZCwgcXVvdGVBbW91bnQuVHJhZGVQYWNrYWdlSXRlbS5UcmFkZVBhY2thZ2VJZCk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgdmFyIHNhdmVRdW90ZUFtb3VudFZhbHVlID0gbmV3IFNhdmVRdW90ZUFtb3VudFZhbHVlKCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBRdW90ZUlkID0gcXVvdGVBbW91bnQuUXVvdGVJZCwKICAgICAgICAgICAgICAgICAgICBUcmFkZVBhY2thZ2VJdGVtSWQgPSBxdW90ZUFtb3VudC5UcmFkZVBhY2thZ2VJdGVtSWQsCiAgICAgICAgICAgICAgICAgICAgVG90YWwgPSB0b3RhbCwKICAgICAgICAgICAgICAgICAgICBIZWFkZXJPcHRpb24gPSBoZWFkZXJPcHRpb24sCiAgICAgICAgICAgICAgICAgICAgSGVhZGVyT3B0aW9uVmFsdWUgPSBoZWFkZXJPcHRpb25WYWx1ZQogICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgIF9xdW90ZUFtb3VudHMuQWRkKHNhdmVRdW90ZUFtb3VudFZhbHVlKTsKICAgICAgICAgICAgICAgIF90cmFkZVBhY2thZ2VJZCA9IHF1b3RlQW1vdW50LlRyYWRlUGFja2FnZUl0ZW0uVHJhZGVQYWNrYWdlSWQ7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlUXVvdGVBbW91bnQoMTksIDE1MDApOwo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyT3B0aW9uPyBoZWFkZXJPcHRpb24gPSBudWxsLCBpbnQ/IGhlYWRlck9wdGlvblZhbHVlID0gbnVsbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoZWFkZXJPcHRpb25WYWx1ZTogaGVhZGVyT3B0aW9uVmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAxOSwgMTUwMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlLCBQbHVnVHlwZS5Qcm9SYXRhRXN0aW1hdGlvbiwgUGx1Z1R5cGUuRmlsbH0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDI4LCAxNTAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMCwgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjEsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDIyLCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMywgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjYsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDI3LCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludD8gaGVhZGVyT3B0aW9uVmFsdWUgPSBudWxsLCBIZWFkZXJPcHRpb24/IGhlYWRlck9wdGlvbiA9IG51bGwK</text>
+        <text encoding="base64">CgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAxOCwgMTUwMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMTksIDE1MDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZSwgUGx1Z1R5cGUuUHJvUmF0YUVzdGltYXRpb24sIFBsdWdUeXBlLkZpbGx9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyOCwgMTUwMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjAsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDIxLCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMiwgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjMsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDI2LCAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyNywgMCwgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBRdW90ZUFtb3VudFZhbHVlcyA9IAogICAgICAgICAgICAgICAgICAgIFRyYWRlUGFja2FnZUlkID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ1aWxkZXIgPSBuZXcgUHJvcmF0YVF1b3RlQW1vdW50QnVpbGRlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChoZWFkZXJPcHRpb24gPT0gSGVhZGVyT3B0aW9uLlByb1JhdGFGcm9tRXN0aW1hdGlvbikKICAgICAgICAgICAgICAgICAgICBjYWNoZWRRdW90ZUlkcyA9IG5ld1tdIHtxdW90ZUFtb3VudC5RdW90ZUlkLCBfZXN0aW1hdGVRdW90ZUlkfTsKICAgICAgICAgICAgICAgIGVsc2UgaWYgKGhlYWRlck9wdGlvbiA9PSBIZWFkZXJPcHRpb24uUHJvUmF0YUZyb21TdXBwbGllcikKICAgICAgICAgICAgICAgICAgICBjYWNoZWRRdW90ZUlkcyA9IG5ld1tdIHtxdW90ZUFtb3VudC5RdW90ZUlkLCBoZWFkZXJPcHRpb25WYWx1ZS5WYWx1ZX07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGx1Z1F1b3RlQW1vdW50KDE4LCBQbHVnVHlwZS5JbmNsdWRlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFF1b3RlQW1vdW50VXBkYXRlclByb2Nlc3NSZXN1bHQgUHJvcmF0YVF1b3RlQW1vdW50KGludCBxdW90ZUFtb3VudElkLCBpbnQgdG90YWwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyT3B0aW9uPyBoZWFkZXJPcHRpb24gPSBudWxsLCBpbnQ/IGhlYWRlck9wdGlvblZhbHVlID0gbnVsbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb3RhbCA9IHRvdGFsLAogICAgICAgICAgICAgICAgICAgIEhlYWRlck9wdGlvbiA9IGhlYWRlck9wdGlvbiwKICAgICAgICAgICAgICAgICAgICBIZWFkZXJPcHRpb25WYWx1ZSA9IGhlYWRlck9wdGlvblZhbHVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoZWFkZXJPcHRpb25WYWx1ZTogaGVhZGVyT3B0aW9uVmFsdWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
