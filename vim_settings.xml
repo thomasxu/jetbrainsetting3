@@ -66,6 +66,10 @@
         <mark key="^" line="22" column="10" />
         <mark key="." line="22" column="10" />
       </file>
+      <file name="/App.config" timestamp="1547703229837">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Services/JobMergeService.cs" timestamp="1547547558559">
         <mark key="[" line="63" column="65" />
         <mark key="]" line="63" column="64" />
@@ -143,12 +147,11 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1547630005707">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1547703238626">
         <mark key="'" line="81" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="226" />
-        <mark key="^" line="22" column="78" />
-        <mark key="." line="23" column="58" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/store/ui-state.ts" timestamp="1546430506173">
         <mark key="[" line="23" column="28" />
@@ -213,6 +216,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
+      <file name="/job-tradepackages-grid.component.ts" timestamp="1547702095976" />
       <file name="C:/dev/git/ngrx-course/src/app/app.component.css" timestamp="1546917175796">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
@@ -323,10 +327,12 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547697287201">
+      <file name="/Dummy.txt" timestamp="1547703304308">
+        <mark key="'" line="0" column="10" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/ResolveQuoteAmountUpdater.cs" timestamp="1547700555028" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/UpdateQuoteLifecycleRequest.cs" timestamp="1545129581344">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="28" />
@@ -378,6 +384,10 @@
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
+      <file name="/Web.config" timestamp="1547703182027">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+      </file>
       <file name="C:/dev/git/rxjs-course/LICENSE" timestamp="1546840939907">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="9" column="23" />
@@ -418,10 +428,10 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1547629933917">
-        <mark key="[" line="428" column="0" />
-        <mark key="]" line="428" column="240" />
-        <mark key="." line="428" column="249" />
+      <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1547703197015">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/Core/IntegrationTestContext.cs" timestamp="1547543270914">
         <mark key="'" line="13" column="13" />
@@ -464,7 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="28" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="3" column="16" filename="C:/dev/git/rxjs-course/src/app/common/util.ts" />
       <jump line="7" column="18" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="33" column="0" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
@@ -564,6 +573,7 @@
       <jump line="164" column="40" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="168" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="174" column="40" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="0" column="10" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -585,49 +595,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cGx1Z3M6IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElMaXN0PFF1b3RlQW1vdW50V2l0aENoZWFwZXN0QW5kQXZlcmFnZVJlc3BvbnNlPiBGaWxsUXVvdGVBbW91bnQoaW50IHF1b3RlSWQsIGludCBmaWxsUXVvdGVJZCwKICAgICAgICAgICAgaW50IGFjY291bnRJZCkKICAgICAgICB7CiAgICAgICAgICAgIHVzaW5nICh2YXIgc2NvcGUgPSBCZWdpbkxpZmV0aW1lU2NvcGUoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHF1b3RlU2VydmljZSA9IHNjb3BlLlJlc29sdmU8SVF1b3RlU2VydmljZT4oKTsKCiAgICAgICAgICAgICAgICB2YXIgZmlsbFF1b3RlUmVxdWVzdCA9IG5ldyBGaWxsUXVvdGVSZXF1ZXN0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgUXVvdGVJZCA9IHF1b3RlSWQsCiAgICAgICAgICAgICAgICAgICAgQWNjb3VudElkID0gYWNjb3VudElkLAogICAgICAgICAgICAgICAgICAgIEZpbGxRdW90ZUlkID0gZmlsbFF1b3RlSWQKICAgICAgICAgICAgICAgIH07CgogICAgICAgICAgICAgICAgcmV0dXJuIHF1b3RlU2VydmljZS5GaWxsUXVvdGVBc3luYyhmaWxsUXVvdGVSZXF1ZXN0LCBVc2VySWQpCiAgICAgICAgICAgICAgICAgICAgLlJlc3VsdDsKICAgICAgICAgICAgfQogICAgICAgIH0KCg==</text>
+        <text encoding="base64">Pzw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjAsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuRXhjbHVkZX0pOwo=</text>
+        <text encoding="base64">Pzw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZFtJZ25vcmUoIiIpXQo=</text>
+        <text encoding="base64">Pzw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pzw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIElMaXN0PFF1b3RlQW1vdW50V2l0aENoZWFwZXN0QW5kQXZlcmFnZVJlc3BvbnNlPiBGaWxsUXVvdGVBbW91bnQoaW50IHF1b3RlSWQsIGludCBmaWxsUXVvdGVJZCwKICAgICAgICAgICAgaW50IGFjY291bnRJZCkKICAgICAgICB7CiAgICAgICAgICAgIHVzaW5nICh2YXIgc2NvcGUgPSBCZWdpbkxpZmV0aW1lU2NvcGUoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHF1b3RlU2VydmljZSA9IHNjb3BlLlJlc29sdmU8SVF1b3RlU2VydmljZT4oKTsKCiAgICAgICAgICAgICAgICB2YXIgZmlsbFF1b3RlUmVxdWVzdCA9IG5ldyBGaWxsUXVvdGVSZXF1ZXN0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgUXVvdGVJZCA9IHF1b3RlSWQsCiAgICAgICAgICAgICAgICAgICAgQWNjb3VudElkID0gYWNjb3VudElkLAogICAgICAgICAgICAgICAgICAgIEZpbGxRdW90ZUlkID0gZmlsbFF1b3RlSWQKICAgICAgICAgICAgICAgIH07CgogICAgICAgICAgICAgICAgcmV0dXJuIHF1b3RlU2VydmljZS5GaWxsUXVvdGVBc3luYyhmaWxsUXVvdGVSZXF1ZXN0LCBVc2VySWQpCiAgICAgICAgICAgICAgICAgICAgLlJlc3VsdDsKICAgICAgICAgICAgfQogICAgICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjAsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuRXhjbHVkZX0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICFxdW90ZUFtb3VudC5UcmFkZVBhY2thZ2VJdGVtLklzTm90ZWQgJiYKICAgICAgICAgICAgICAgICAgICghcXVvdGVBbW91bnQuVG90YWwuSGFzVmFsdWUgJiYgcGx1ZyA9PSBQbHVnVHlwZS5JbmNsdWRlCiAgICAgICAgICAgICAgICAgICAgfHwgcXVvdGVBbW91bnQuUGx1Z3MuSGFzUGx1Z1R5cGUoUGx1Z1R5cGUuSW5jbHVkZSkKICAgICAgICAgICAgICAgICAgICB8fCBoZWFkZXJPcHRpb24gPT0gSGVhZGVyT3B0aW9uLkluY2x1ZGVUcmFkZUl0ZW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZFtJZ25vcmUoIiIpXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDE4LCA5MDAwLCBwbHVnczogbmV3W10ge1BsdWdUeXBlLkluY2x1ZGV9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAzNCwgOTAwMCwgcGx1Z3M6IG5ldyBQbHVnVHlwZVswXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
@@ -638,7 +648,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>Id1</last-replace>
-      <last-substitute>CourseType</last-substitute>
+      <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
