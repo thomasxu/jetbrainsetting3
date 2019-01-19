@@ -204,6 +204,15 @@
         <mark key="]" line="364" column="12" />
         <mark key="." line="364" column="12" />
       </file>
+      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1547845225743">
+        <mark key="'" line="8" column="4" />
+        <mark key="x" line="12" column="0" />
+        <mark key="y" line="14" column="0" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="2" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/Core/SingleJobSeedConfiguration.cs" timestamp="1547542700245">
         <mark key="[" line="51" column="12" />
         <mark key="]" line="82" column="11" />
@@ -216,7 +225,6 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="/job-tradepackages-grid.component.ts" timestamp="1547702095976" />
       <file name="C:/dev/git/ngrx-course/src/app/app.component.css" timestamp="1546917175796">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
@@ -474,24 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="16" filename="C:/dev/git/rxjs-course/src/app/common/util.ts" />
-      <jump line="7" column="18" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
-      <jump line="33" column="0" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
-      <jump line="36" column="9" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="41" column="28" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="33" column="25" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="86" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="4" column="0" filename="C:/AutoHotkey/HotKeyMac.ahk" />
-      <jump line="74" column="22" filename="C:/AutoHotkey/HotKeyMac.ahk" />
-      <jump line="54" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="24" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="25" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="26" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="27" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="28" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="29" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="30" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="31" column="4" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="50" column="4" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="52" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="55" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
@@ -574,6 +564,24 @@
       <jump line="168" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="174" column="40" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="0" column="10" filename="/Dummy.txt" />
+      <jump line="15" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="138" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="54" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="56" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="55" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="39" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="38" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="0" column="1" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="18" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="20" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="2" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="12" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="19" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="11" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="17" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="6" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="9" column="3" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="7" column="4" filename="C:/AutoHotkey/HotKey.ahk" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -595,10 +603,10 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text>+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
@@ -607,7 +615,7 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pzw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
+        <text encoding="base64">Iys6OkxDdHJsCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Pzw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
@@ -625,28 +633,28 @@
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElMaXN0PFF1b3RlQW1vdW50V2l0aENoZWFwZXN0QW5kQXZlcmFnZVJlc3BvbnNlPiBGaWxsUXVvdGVBbW91bnQoaW50IHF1b3RlSWQsIGludCBmaWxsUXVvdGVJZCwKICAgICAgICAgICAgaW50IGFjY291bnRJZCkKICAgICAgICB7CiAgICAgICAgICAgIHVzaW5nICh2YXIgc2NvcGUgPSBCZWdpbkxpZmV0aW1lU2NvcGUoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHF1b3RlU2VydmljZSA9IHNjb3BlLlJlc29sdmU8SVF1b3RlU2VydmljZT4oKTsKCiAgICAgICAgICAgICAgICB2YXIgZmlsbFF1b3RlUmVxdWVzdCA9IG5ldyBGaWxsUXVvdGVSZXF1ZXN0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgUXVvdGVJZCA9IHF1b3RlSWQsCiAgICAgICAgICAgICAgICAgICAgQWNjb3VudElkID0gYWNjb3VudElkLAogICAgICAgICAgICAgICAgICAgIEZpbGxRdW90ZUlkID0gZmlsbFF1b3RlSWQKICAgICAgICAgICAgICAgIH07CgogICAgICAgICAgICAgICAgcmV0dXJuIHF1b3RlU2VydmljZS5GaWxsUXVvdGVBc3luYyhmaWxsUXVvdGVSZXF1ZXN0LCBVc2VySWQpCiAgICAgICAgICAgICAgICAgICAgLlJlc3VsdDsKICAgICAgICAgICAgfQogICAgICAgIH0KCg==</text>
+        <text encoding="base64">Pzw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9InV0Zi04Ij8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjAsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuRXhjbHVkZX0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIElMaXN0PFF1b3RlQW1vdW50V2l0aENoZWFwZXN0QW5kQXZlcmFnZVJlc3BvbnNlPiBGaWxsUXVvdGVBbW91bnQoaW50IHF1b3RlSWQsIGludCBmaWxsUXVvdGVJZCwKICAgICAgICAgICAgaW50IGFjY291bnRJZCkKICAgICAgICB7CiAgICAgICAgICAgIHVzaW5nICh2YXIgc2NvcGUgPSBCZWdpbkxpZmV0aW1lU2NvcGUoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHF1b3RlU2VydmljZSA9IHNjb3BlLlJlc29sdmU8SVF1b3RlU2VydmljZT4oKTsKCiAgICAgICAgICAgICAgICB2YXIgZmlsbFF1b3RlUmVxdWVzdCA9IG5ldyBGaWxsUXVvdGVSZXF1ZXN0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgUXVvdGVJZCA9IHF1b3RlSWQsCiAgICAgICAgICAgICAgICAgICAgQWNjb3VudElkID0gYWNjb3VudElkLAogICAgICAgICAgICAgICAgICAgIEZpbGxRdW90ZUlkID0gZmlsbFF1b3RlSWQKICAgICAgICAgICAgICAgIH07CgogICAgICAgICAgICAgICAgcmV0dXJuIHF1b3RlU2VydmljZS5GaWxsUXVvdGVBc3luYyhmaWxsUXVvdGVSZXF1ZXN0LCBVc2VySWQpCiAgICAgICAgICAgICAgICAgICAgLlJlc3VsdDsKICAgICAgICAgICAgfQogICAgICAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZFtJZ25vcmUoIiIpXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjAsIDAsIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuRXhjbHVkZX0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZFtJZ25vcmUoIiIpXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search>+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-pattern>+</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -654,7 +662,6 @@
     </search>
     <history>
       <history-search>
-        <entry>]</entry>
         <entry>Preference</entry>
         <entry>updatequotelifecycle</entry>
         <entry>updateQuotelifecyclerequest</entry>
@@ -674,6 +681,7 @@
         <entry encoding="base64">XDxpc01hbnVhbFRvdGFsXD4=</entry>
         <entry encoding="base64">XDxjaGVja051bGxUb3RhbFw+</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry>+</entry>
       </history-search>
       <history-cmd>
         <entry>set ;m</entry>
