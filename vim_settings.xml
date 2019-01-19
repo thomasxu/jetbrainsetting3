@@ -400,7 +400,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>:nnoremap k gk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPG9wdGlvbiB2YWx1ZT0ic2FmZCI+ZGFmczwvb3B0aW9uPgo=</text>
@@ -446,9 +446,9 @@
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>:nnoremap k gk</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>:nnoremap k gk</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>CourseType</last-substitute>
       <last-dir>1</last-dir>
@@ -456,10 +456,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tho</entry>
-        <entry>email</entry>
-        <entry>home</entry>
-        <entry>Home</entry>
         <entry>store</entry>
         <entry>Store</entry>
         <entry>main</entry>
@@ -476,6 +472,10 @@
         <entry>j</entry>
         <entry>sass</entry>
         <entry>class</entry>
+        <entry encoding="base64">bWFwIDxDLUw+IDIwemwgIiBTY3JvbGwgMjAgY2hhcmFjdGVycyB0byB0aGUgcmlnaHQ=</entry>
+        <entry encoding="base64">bWFwIDxDLUw+IDIwemw=</entry>
+        <entry>:nnoremap zL 20zl</entry>
+        <entry>:nnoremap k gk</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
