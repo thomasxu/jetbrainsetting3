@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1547875280857">
-        <mark key="'" line="405" column="20" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1547891587027">
+        <mark key="'" line="609" column="38" />
         <mark key="[" line="602" column="5" />
         <mark key="]" line="602" column="4" />
         <mark key="." line="602" column="5" />
@@ -106,10 +106,9 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1547891320565">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="1" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1547891847692">
+        <mark key="'" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/app.module.ts" timestamp="1546938439667">
         <mark key="]" line="71" column="7" />
@@ -203,8 +202,11 @@
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid-toolbar/job-tradepackages-grid-toolbar.component.ts" timestamp="1547701941597">
         <mark key="'" line="396" column="6" />
       </file>
-      <file name="$USER_HOME$/.viminfo" timestamp="1547891194991">
+      <file name="$USER_HOME$/.viminfo" timestamp="1547891690040">
         <mark key="'" line="323" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/git/rxjs-course/LICENSE" timestamp="1546840939907">
         <mark key="[" line="8" column="14" />
@@ -284,8 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="7" filename="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" />
-      <jump line="83" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="15" column="19" filename="C:/dev/git/ngrx-course/src/app/store/store-data.ts" />
       <jump line="7" column="41" filename="C:/dev/git/ngrx-course/src/app/store/store-data.ts" />
       <jump line="16" column="32" filename="C:/dev/git/ngrx-course/src/app/store/store-data.ts" />
@@ -384,6 +384,8 @@
       <jump line="405" column="20" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/.viminfo" />
       <jump line="323" column="4" filename="$USER_HOME$/.viminfo" />
+      <jump line="609" column="38" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
+      <jump line="2" column="16" filename="$USER_HOME$/.ideavimrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -405,49 +407,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>:nnoremap k gk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPG9wdGlvbiB2YWx1ZT0ic2FmZCI+ZGFmczwvb3B0aW9uPgo=</text>
+        <text encoding="base64">Om5ub3JlbWFwIFMgZGl3IjBQCg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5yZWR1Y2UoKGFjYywgdGhyZWFkKSA9PiBhY2MgKyAodGhyZWFkLnBhcnRpY2lwYW50c1tjdXJyZW50XSkpCg==</text>
+        <text encoding="base64">Om5ub3JlbWFwIFMgZGl3IjBQCjpubm9yZW1hcCB6SCAzMHpoCjpubm9yZW1hcCB6TCAzMHpsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZXJNb2R1bGUuZm9yUm9vdChyb3V0ZXMsIHt1c2VIYXNoOiB0cnVlfSkK</text>
+        <text encoding="base64">ICAgIC5yZWR1Y2UoKGFjYywgdGhyZWFkKSA9PiBhY2MgKyAodGhyZWFkLnBhcnRpY2lwYW50c1tjdXJyZW50XSkpCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdG9yZURhdGEK</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZXJNb2R1bGUuZm9yUm9vdChyb3V0ZXMsIHt1c2VIYXNoOiB0cnVlfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGk+PC9pPgo=</text>
+        <text encoding="base64">ICBzdG9yZURhdGEK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGhpcy5hY3Rpb25zJC5vZgo=</text>
+        <text encoding="base64">PGk+PC9pPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYWN0aW9ucyQ6IEFjdGlvbnMsIAo=</text>
+        <text encoding="base64">dGhpcy5hY3Rpb25zJC5vZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYWN0aW9ucyQ6IEFjdGlvbnMsIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VsZWN0IChjaGFuZ2UpPSJvblNlbGVjdFVzZXIoJGV2ZW50LnRhcmdldC52YWx1ZSkiPgogICAgICAgICAgICA8b3B0aW9uPjwvb3B0aW9uPgogICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIxIj5BbGljZTwvb3B0aW9uPgogICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIyIj5Cb2I8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMyI+Q2h1Y2s8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNCI+RGF2aWQ8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNSI+RXJpbjwvb3B0aW9uPgogICAgICAgIDwvc2VsZWN0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9zcGFuPgogICAgICAgIDxzZWxlY3QgKGNoYW5nZSk9Im9uU2VsZWN0VXNlcigkZXZlbnQudGFyZ2V0LnZhbHVlKSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c2VsZWN0IChjaGFuZ2UpPSJvblNlbGVjdFVzZXIoJGV2ZW50LnRhcmdldC52YWx1ZSkiPgogICAgICAgICAgICA8b3B0aW9uPjwvb3B0aW9uPgogICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIxIj5BbGljZTwvb3B0aW9uPgogICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIyIj5Cb2I8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMyI+Q2h1Y2s8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNCI+RGF2aWQ8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNSI+RXJpbjwvb3B0aW9uPgogICAgICAgIDwvc2VsZWN0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
