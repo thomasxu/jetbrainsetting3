@@ -107,11 +107,11 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1547173125928">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="132" column="3" />
-        <mark key="]" line="136" column="21" />
-        <mark key="." line="116" column="6" />
+      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1547886636589">
+        <mark key="'" line="123" column="4" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="1" />
+        <mark key="." line="135" column="1" />
         <mark key="^" line="109" column="20" />
       </file>
       <file name="C:/AutoHotkey/HotKeyMac1.ahk" timestamp="1547008367049">
@@ -309,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="15" column="19" filename="C:/dev/git/ngrx-course/src/app/store/store-data.ts" />
       <jump line="7" column="41" filename="C:/dev/git/ngrx-course/src/app/store/store-data.ts" />
       <jump line="16" column="32" filename="C:/dev/git/ngrx-course/src/app/store/store-data.ts" />
@@ -409,6 +408,7 @@
       <jump line="73" column="12" filename="C:/AutoHotkey/HotKeyMac.ahk" />
       <jump line="40" column="27" filename="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" />
       <jump line="0" column="0" filename="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" />
+      <jump line="123" column="4" filename="C:/AutoHotkey/HotKey.ahk" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -433,7 +433,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>Home</text>
+        <text encoding="base64">XDw2XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIHRzYWZkaG9tYXM6IG51bWJlcjsK</text>
@@ -479,17 +479,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Home</last-search>
+      <last-search encoding="base64">XDw2XD4=</last-search>
       <last-offset />
-      <last-pattern>Home</last-pattern>
+      <last-pattern encoding="base64">XDw2XD4=</last-pattern>
       <last-replace>Id1</last-replace>
-      <last-substitute>CourseType</last-substitute>
-      <last-dir>1</last-dir>
+      <last-substitute encoding="base64">XDw2XD4=</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>store</entry>
         <entry>Store</entry>
         <entry>main</entry>
         <entry>control</entry>
@@ -509,6 +508,7 @@
         <entry>ins</entry>
         <entry>home</entry>
         <entry>Home</entry>
+        <entry encoding="base64">XDw2XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
