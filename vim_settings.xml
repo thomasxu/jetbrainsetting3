@@ -118,6 +118,13 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1547949698188">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="31" />
+      </file>
       <file name="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" timestamp="1546937622644">
         <mark key="]" line="25" column="3" />
         <mark key="^" line="25" column="3" />
@@ -359,7 +366,6 @@
       <jump line="58" column="0" filename="C:/dev/git/rxjs-course/src/app/course/course.component.css" />
       <jump line="60" column="0" filename="C:/dev/git/rxjs-course/src/app/course/course.component.css" />
       <jump line="26" column="6" filename="C:/AutoHotkey/HotKey.ahk" />
-      <jump line="65" column="4" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="60" column="19" filename="C:/dev/git/rxjs-course/src/app/course/course.component.ts" />
       <jump line="82" column="87" filename="C:/dev/git/rxjs-course/src/app/course/course.component.ts" />
       <jump line="42" column="0" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
@@ -391,6 +397,7 @@
       <jump line="609" column="28" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="611" column="39" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="612" column="12" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
+      <jump line="65" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,49 +419,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>Control</text>
       </register>
       <register name="/" type="4">
         <text>activeElement</text>
       </register>
-      <register name="0" type="4">
-        <text>col: number</text>
+      <register name="0" type="2">
+        <text encoding="base64">U2VuZCwge1BnRG4gRG93bn17UGdEbiBVcH0KUmV0dXJuCg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Om5ub3JlbWFwIFMgZGl3IjBQCjpubm9yZW1hcCB6SCAzMHpoCjpubm9yZW1hcCB6TCAzMHpsCg==</text>
+        <text encoding="base64">U2VuZCwge0NvbnRyb2wgRG93bn17UGdEbiBVcH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5yZWR1Y2UoKGFjYywgdGhyZWFkKSA9PiBhY2MgKyAodGhyZWFkLnBhcnRpY2lwYW50c1tjdXJyZW50XSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZXJNb2R1bGUuZm9yUm9vdChyb3V0ZXMsIHt1c2VIYXNoOiB0cnVlfSkK</text>
+        <text encoding="base64">IWo6Ol4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdG9yZURhdGEK</text>
+        <text encoding="base64">Izo6IUhvbWUK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGk+PC9pPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGhpcy5hY3Rpb25zJC5vZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYWN0aW9ucyQ6IEFjdGlvbnMsIAo=</text>
+        <text encoding="base64">IyMnJycnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Om5ub3JlbWFwIFMgZGl3IjBQCjpubm9yZW1hcCB6SCAzMHpoCjpubm9yZW1hcCB6TCAzMHpsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VsZWN0IChjaGFuZ2UpPSJvblNlbGVjdFVzZXIoJGV2ZW50LnRhcmdldC52YWx1ZSkiPgogICAgICAgICAgICA8b3B0aW9uPjwvb3B0aW9uPgogICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIxIj5BbGljZTwvb3B0aW9uPgogICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIyIj5Cb2I8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iMyI+Q2h1Y2s8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNCI+RGF2aWQ8L29wdGlvbj4KICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iNSI+RXJpbjwvb3B0aW9uPgogICAgICAgIDwvc2VsZWN0Pgo=</text>
+        <text encoding="base64">ICAgIC5yZWR1Y2UoKGFjYywgdGhyZWFkKSA9PiBhY2MgKyAodGhyZWFkLnBhcnRpY2lwYW50c1tjdXJyZW50XSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
