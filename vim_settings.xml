@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1547895327845">
-        <mark key="'" line="603" column="6" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1547944087274">
+        <mark key="'" line="612" column="12" />
         <mark key="g" line="604" column="33" />
-        <mark key="[" line="617" column="115" />
-        <mark key="]" line="619" column="78" />
-        <mark key="." line="619" column="66" />
-        <mark key="^" line="38" column="24" />
+        <mark key="[" line="605" column="21" />
+        <mark key="]" line="605" column="21" />
+        <mark key="." line="605" column="21" />
+        <mark key="^" line="605" column="20" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1545178431693">
         <mark key="[" line="93" column="19" />
@@ -291,9 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="19" filename="C:/dev/git/ngrx-course/src/app/store/reducers/uiStoreDataReducer.ts" />
-      <jump line="43" column="0" filename="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" />
-      <jump line="29" column="20" filename="C:/dev/git/reactive-patterns-course-master/reactive-patterns-course-master/src/app/newsletter/newsletter.component.ts" />
       <jump line="25" column="26" filename="C:/dev/git/reactive-patterns-course-master/reactive-patterns-course-master/src/app/newsletter/newsletter.component.ts" />
       <jump line="26" column="53" filename="C:/dev/git/reactive-patterns-course-master/reactive-patterns-course-master/src/app/newsletter/newsletter.component.ts" />
       <jump line="53" column="33" filename="C:/AutoHotkey/Hotkey.ahk" />
@@ -380,7 +377,6 @@
       <jump line="405" column="20" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/.viminfo" />
       <jump line="323" column="4" filename="$USER_HOME$/.viminfo" />
-      <jump line="609" column="38" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="2" column="16" filename="$USER_HOME$/.ideavimrc" />
       <jump line="3" column="11" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="336" column="35" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
@@ -391,6 +387,10 @@
       <jump line="610" column="34" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="619" column="66" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="603" column="6" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
+      <jump line="607" column="8" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
+      <jump line="609" column="28" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
+      <jump line="611" column="39" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
+      <jump line="612" column="12" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,13 +412,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZnRlclNldENlbGxNZXRhXD4=</text>
+        <text>activeElement</text>
       </register>
       <register name="0" type="4">
-        <text>rowIndexFrom</text>
+        <text>col: number</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
@@ -461,9 +461,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZnRlclNldENlbGxNZXRhXD4=</last-search>
+      <last-search>activeElement</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZnRlclNldENlbGxNZXRhXD4=</last-pattern>
+      <last-pattern>activeElement</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>CourseType</last-substitute>
       <last-dir>1</last-dir>
@@ -471,7 +471,6 @@
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
         <entry>control</entry>
         <entry>ctrl</entry>
         <entry>l</entry>
@@ -491,6 +490,7 @@
         <entry>:nnoremap k gk</entry>
         <entry encoding="base64">XDxSZXBsYWNlUXVvdGVBbW91bnRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxhZnRlclNldENlbGxNZXRhXD4=</entry>
+        <entry>activeElement</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
