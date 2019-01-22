@@ -123,11 +123,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548145086731">
-        <mark key="'" line="96" column="4" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="170" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548152851072">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="55" column="20" />
+        <mark key="]" line="55" column="36" />
+        <mark key="^" line="52" column="19" />
+        <mark key="." line="55" column="20" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" timestamp="1546937622644">
         <mark key="]" line="25" column="3" />
@@ -413,19 +414,19 @@
       <jump line="42" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="45" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="48" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
-      <jump line="51" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="54" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="57" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="60" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="63" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="66" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="69" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
-      <jump line="72" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="76" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="112" column="4" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" />
       <jump line="16" column="6" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.html" />
       <jump line="97" column="4" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="99" column="4" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="72" column="3" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="51" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -447,13 +448,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>bXWHApf5gwFLVc4W</text>
+        <text>{Alt Up}</text>
       </register>
       <register name="/" type="4">
         <text>#r</text>
       </register>
       <register name="0" type="4">
-        <text>tradePackageLifeCycleList</text>
+        <text>{F5 Down}{F5 Up}</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
@@ -462,13 +463,13 @@
         <text encoding="base64">U2VuZCwge0NvbnRyb2wgRG93bn17QWx0IERvd259e3IgRG93bn17ciBVcH17QWx0IFVwfXtDb250cm9sIFVwfQpSZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVDSE8gT0ZGCgo6Oi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KOjogV2ViU3Rvcm0gc3RhcnR1cCBzY3JpcHQuCjo6LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKOjogLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCjo6IEVuc3VyZSBJREVfSE9NRSBwb2ludHMgdG8gdGhlIGRpcmVjdG9yeSB3aGVyZSB0aGUgSURFIGlzIGluc3RhbGxlZC4KOjogLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tClNFVCBJREVfQklOX0RJUj0lfmRwMApGT1IgL0YgImRlbGltcz0iICUlaSBpbiAoIiVJREVfQklOX0RJUiVcLi4iKSBETyBTRVQgSURFX0hPTUU9JSV+ZmkKCjo6IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo6OiBMb2NhdGUgYSBKREsgaW5zdGFsbGF0aW9uIGRpcmVjdG9yeSB3aGljaCB3aWxsIGJlIHVzZWQgdG8gcnVuIHRoZSBJREUuCjo6IFRyeSAoaW4gb3JkZXIpOiBXRUJJREVfSkRLLCB3ZWJzdG9ybSVCSVRTJS5leGUuamRrLCAuLlxqcmUsIEpES19IT01FLCBKQVZBX0hPTUUuCjo6IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpTRVQgSkRLPQoKSUYgRVhJU1QgIiVXRUJJREVfSkRLJSIgU0VUIEpESz0lV0VCSURFX0pESyUKSUYgRVhJU1QgIiVKREslIiBHT1RPIGNoZWNrCgpTRVQgQklUUz02NApTRVQgVVNFUl9KREs2NF9GSUxFPSVVU0VSUFJPRklMRSVcLldlYlN0b3JtMjAxOC4zXGNvbmZpZ1x3ZWJzdG9ybSVCSVRTJS5leGUuamRrClNFVCBCSVRTPQpTRVQgVVNFUl9KREtfRklMRT0lVVNFUlBST0ZJTEUlXC5XZWJTdG9ybTIwMTguM1xjb25maWdcd2Vic3Rvcm0lQklUUyUuZXhlLmpkawpJRiBFWElTVCAiJVVTRVJfSkRLNjRfRklMRSUiICgKICBTRVQgL1AgSkRLPTwlVVNFUl9KREs2NF9GSUxFJQopIEVMU0UgKAogIElGIEVYSVNUICIlVVNFUl9KREtfRklMRSUiIFNFVCAvUCBKREs9PCVVU0VSX0pES19GSUxFJQopCklGIE5PVCAiJUpESyUiID09ICIiICgKICBJRiBOT1QgRVhJU1QgIiVKREslIiBTRVQgSkRLPSIlSURFX0hPTUUlXCVKREslIgogIElGIEVYSVNUICIlSkRLJSIgR09UTyBjaGVjawopCgpJRiBFWElTVCAiJUlERV9IT01FJVxqcmU2NCIgU0VUIEpESz0lSURFX0hPTUUlXGpyZTY0CklGIEVYSVNUICIlSkRLJSIgR09UTyBjaGVjawpJRiBFWElTVCAiJUlERV9IT01FJVxqcmUzMiIgU0VUIEpESz0lSURFX0hPTUUlXGpyZTMyCklGIEVYSVNUICIlSkRLJSIgR09UTyBjaGVjawo=</text>
+        <text encoding="base64">U2VuZCwge0NvbnRyb2wgRG93bn17QWx0IERvd259e3IgRG93bn17ciBVcH17QWx0IFVwfXtDb250cm9sIFVwfQpSZXR1cm4K</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVDSE8gT0ZGCgo6Oi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KOjogV2ViU3Rvcm0gc3RhcnR1cCBzY3JpcHQuCjo6LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKOjogLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCjo6IEVuc3VyZSBJREVfSE9NRSBwb2ludHMgdG8gdGhlIGRpcmVjdG9yeSB3aGVyZSB0aGUgSURFIGlzIGluc3RhbGxlZC4KOjogLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tClNFVCBJREVfQklOX0RJUj0lfmRwMApGT1IgL0YgImRlbGltcz0iICUlaSBpbiAoIiVJREVfQklOX0RJUiVcLi4iKSBETyBTRVQgSURFX0hPTUU9JSV+ZmkKCjo6IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo6OiBMb2NhdGUgYSBKREsgaW5zdGFsbGF0aW9uIGRpcmVjdG9yeSB3aGljaCB3aWxsIGJlIHVzZWQgdG8gcnVuIHRoZSBJREUuCjo6IFRyeSAoaW4gb3JkZXIpOiBXRUJJREVfSkRLLCB3ZWJzdG9ybSVCSVRTJS5leGUuamRrLCAuLlxqcmUsIEpES19IT01FLCBKQVZBX0hPTUUuCjo6IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpTRVQgSkRLPQoKSUYgRVhJU1QgIiVXRUJJREVfSkRLJSIgU0VUIEpESz0lV0VCSURFX0pESyUKSUYgRVhJU1QgIiVKREslIiBHT1RPIGNoZWNrCgpTRVQgQklUUz02NApTRVQgVVNFUl9KREs2NF9GSUxFPSVVU0VSUFJPRklMRSVcLldlYlN0b3JtMjAxOC4zXGNvbmZpZ1x3ZWJzdG9ybSVCSVRTJS5leGUuamRrClNFVCBCSVRTPQpTRVQgVVNFUl9KREtfRklMRT0lVVNFUlBST0ZJTEUlXC5XZWJTdG9ybTIwMTguM1xjb25maWdcd2Vic3Rvcm0lQklUUyUuZXhlLmpkawpJRiBFWElTVCAiJVVTRVJfSkRLNjRfRklMRSUiICgKICBTRVQgL1AgSkRLPTwlVVNFUl9KREs2NF9GSUxFJQopIEVMU0UgKAogIElGIEVYSVNUICIlVVNFUl9KREtfRklMRSUiIFNFVCAvUCBKREs9PCVVU0VSX0pES19GSUxFJQopCklGIE5PVCAiJUpESyUiID09ICIiICgKICBJRiBOT1QgRVhJU1QgIiVKREslIiBTRVQgSkRLPSIlSURFX0hPTUUlXCVKREslIgogIElGIEVYSVNUICIlSkRLJSIgR09UTyBjaGVjawopCgpJRiBFWElTVCAiJUlERV9IT01FJVxqcmU2NCIgU0VUIEpESz0lSURFX0hPTUUlXGpyZTY0CklGIEVYSVNUICIlSkRLJSIgR09UTyBjaGVjawpJRiBFWElTVCAiJUlERV9IT01FJVxqcmUzMiIgU0VUIEpESz0lSURFX0hPTUUlXGpyZTMyCklGIEVYSVNUICIlSkRLJSIgR09UTyBjaGVjawo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -477,19 +478,19 @@
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I3A6OgpTZW5kLCB7Q29udHJvbCBEb3dufXtBbHQgRG93bn17cCBEb3dufXtwIFVwfXtBbHQgVXB9e0NvbnRyb2wgVXB9ClJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3o6Ol4hego=</text>
+        <text encoding="base64">I3A6OgpTZW5kLCB7Q29udHJvbCBEb3dufXtBbHQgRG93bn17cCBEb3dufXtwIFVwfXtBbHQgVXB9e0NvbnRyb2wgVXB9ClJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2I6Ol4hYgojZTo6XiFlCiNmOjpeIWYKI2c6Ol4hZwojaDo6XiFoCiNqOjpeIWoKI2s6Ol4hawojbDo6XiFsCiNtOjpeIW0KI3A6Ol4hcAojcTo6XiFxCiNyOjpeIXIKI3Q6Ol4hdAojdTo6XiF1CiNvOjpeIW8KI3c6Ol4hdwojczo6XiFzCiN4OjpeIXgK</text>
+        <text encoding="base64">I3o6Ol4hego=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2I6Ol4hYgojZTo6XiFlCiNmOjpeIWYKI2c6Ol4hZwojaDo6XiFoCiNqOjpeIWoKI2s6Ol4hawojbDo6XiFsCiNtOjpeIW0KI3A6Ol4hcAojcTo6XiFxCiNyOjpeIXIKI3Q6Ol4hdAojdTo6XiF1CiNvOjpeIW8KI3c6Ol4hdwojczo6XiFzCiN4OjpeIXgKI3o6Ol4hego=</text>
+        <text encoding="base64">I2I6Ol4hYgojZTo6XiFlCiNmOjpeIWYKI2c6Ol4hZwojaDo6XiFoCiNqOjpeIWoKI2s6Ol4hawojbDo6XiFsCiNtOjpeIW0KI3A6Ol4hcAojcTo6XiFxCiNyOjpeIXIKI3Q6Ol4hdAojdTo6XiF1CiNvOjpeIW8KI3c6Ol4hdwojczo6XiFzCiN4OjpeIXgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2w6Ol4hbApTZW5kLCB7Q29udHJvbCBEb3dufXtBbHQgRG93bn17bCBEb3dufXtsIFVwfXtBbHQgVXB9e0NvbnRyb2wgVXB9ClJldHVybgo=</text>
+        <text encoding="base64">I2I6Ol4hYgojZTo6XiFlCiNmOjpeIWYKI2c6Ol4hZwojaDo6XiFoCiNqOjpeIWoKI2s6Ol4hawojbDo6XiFsCiNtOjpeIW0KI3A6Ol4hcAojcTo6XiFxCiNyOjpeIXIKI3Q6Ol4hdAojdTo6XiF1CiNvOjpeIW8KI3c6Ol4hdwojczo6XiFzCiN4OjpeIXgKI3o6Ol4hego=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
