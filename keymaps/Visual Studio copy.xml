@@ -63,6 +63,9 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
   <action id="Console.TableResult.SelectRow" />
@@ -85,7 +88,6 @@
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="Diff.ShowDiff">
-    <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorCodeBlockEnd">
@@ -105,6 +107,7 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -247,7 +250,6 @@
     <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
   <action id="JumpToStatement">
-    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
   <action id="LocateInSolutionView" />
@@ -413,10 +415,15 @@
   <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
-  <action id="ViewBreakpoints" />
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
+  </action>
   <action id="XDebugger.AttachToProcess">
     <keyboard-shortcut first-keystroke="ctrl alt f5" />
     <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
