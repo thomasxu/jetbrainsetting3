@@ -388,6 +388,12 @@
         <mark key="." line="23" column="51" />
         <mark key="^" line="23" column="51" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Handlers/HttpMessageHandler.cs" timestamp="1548154543195">
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="C:/dev/git/rxjs-course/src/app/model/courses/course.object.ts" timestamp="1546767447661">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
@@ -502,7 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="70" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="19" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="20" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
@@ -602,6 +607,7 @@
       <jump line="0" column="27" filename="/Dummy.txt" />
       <jump line="11" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/HealthServerController.cs" />
       <jump line="27" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/HealthServerController.cs" />
+      <jump line="33" column="19" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Handlers/HttpMessageHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -626,7 +632,7 @@
         <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text>+</text>
+        <text>class</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aGVhZGVyUGFuZWwg</text>
@@ -635,46 +641,46 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoISgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90cmFkZVBhY2thZ2VJZCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiVHJhZGVQYWNrYWdlSWQgaXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFJlc29sdmVRdW90ZUFtb3VudFJlcXVlc3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhpZGRlbkRyb3Bkb3duSXRlbS5xdWVyeVNlbGVjdG9yKCcjaGlkZGVuLWRyb3Bkb3duLW1lbnUtbGlzdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90cmFkZVBhY2thZ2VJZCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiVHJhZGVQYWNrYWdlSWQgaXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFJlc29sdmVRdW90ZUFtb3VudFJlcXVlc3QiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCB0aG9tYXMgPSAxOwo=</text>
+        <text encoding="base64">ICAgIGhpZGRlbkRyb3Bkb3duSXRlbS5xdWVyeVNlbGVjdG9yKCcjaGlkZGVuLWRyb3Bkb3duLW1lbnUtbGlzdCcpCg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCB0aG9tYXMgPSAxOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwoX3RyYWRlUGFja2FnZUlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChfdHJhZGVQYWNrYWdlSWQsIHF1b3RlQW1vdW50LlRyYWRlUGFja2FnZUl0ZW0uVHJhZGVQYWNrYWdlSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwoX3RyYWRlUGFja2FnZUlkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChfdHJhZGVQYWNrYWdlSWQsIHF1b3RlQW1vdW50LlRyYWRlUGFja2FnZUl0ZW0uVHJhZGVQYWNrYWdlSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>+</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>+</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -696,12 +702,12 @@
         <entry>TradePackageItementity</entry>
         <entry encoding="base64">XDxxdW90ZUxpZmVjeWNsZVw+</entry>
         <entry>}</entry>
-        <entry>class</entry>
         <entry>total</entry>
         <entry encoding="base64">XDxpc01hbnVhbFRvdGFsXD4=</entry>
         <entry encoding="base64">XDxjaGVja051bGxUb3RhbFw+</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>+</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>set ;m</entry>
