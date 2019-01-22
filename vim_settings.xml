@@ -135,6 +135,9 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.html" timestamp="1548129756964">
+        <mark key="'" line="16" column="6" />
+      </file>
       <file name="C:/dev/git/ngrx-course/src/app/messages/messages.component.html" timestamp="1546867336397">
         <mark key="[" line="2" column="61" />
         <mark key="]" line="3" column="3" />
@@ -293,6 +296,13 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" timestamp="1548129740215">
+        <mark key="'" line="112" column="4" />
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="44" column="38" />
+        <mark key="^" line="65" column="23" />
+        <mark key="." line="65" column="23" />
+      </file>
       <file name="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.css" timestamp="1546574983767">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -317,8 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="23" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="80" column="2" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="46" column="3" filename="C:/AutoHotkey/HotKeyMac.ahk" />
       <jump line="355" column="0" filename="C:/dev/git/rxjs-course/server/get-courses.route.ts" />
@@ -417,6 +425,8 @@
       <jump line="69" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="72" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="76" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="112" column="4" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" />
+      <jump line="16" column="6" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -441,10 +451,10 @@
         <text>bXWHApf5gwFLVc4W</text>
       </register>
       <register name="/" type="4">
-        <text>#</text>
+        <text>tradePackageLifeCycleList</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I2I6OgpTZW5kLCB7Q29udHJvbCBEb3dufXtBbHQgRG93bn17YiBEb3dufXtiIFVwfXtBbHQgVXB9e0NvbnRyb2wgVXB9ClJldHVybgo=</text>
+      <register name="0" type="4">
+        <text>tradePackageLifeCycleList</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
@@ -487,9 +497,9 @@
       </register>
     </registers>
     <search>
-      <last-search>#</last-search>
+      <last-search>tradePackageLifeCycleList</last-search>
       <last-offset />
-      <last-pattern>#</last-pattern>
+      <last-pattern>tradePackageLifeCycleList</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>CourseType</last-substitute>
       <last-dir>1</last-dir>
@@ -497,7 +507,6 @@
     </search>
     <history>
       <history-search>
-        <entry>y</entry>
         <entry>course</entry>
         <entry>CourseType</entry>
         <entry>!</entry>
@@ -517,6 +526,7 @@
         <entry>#p</entry>
         <entry>#+</entry>
         <entry>#</entry>
+        <entry>tradePackageLifeCycleList</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
