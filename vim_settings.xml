@@ -3,80 +3,502 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/Services/BaseClient.cs" timestamp="1548044460680" />
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Extensions/PlugExtension.cs" timestamp="1548023530650" />
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Query.cs" timestamp="1548041206536" />
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/LoadTestPlugins/BartenderLoadTestPlugin.cs" timestamp="1548043292487" />
-      <file name="/Dummy.txt" timestamp="1548048598074">
-        <mark key="'" line="0" column="73" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageRepository.cs" timestamp="1543830984314">
+        <mark key="[" line="238" column="39" />
+        <mark key="]" line="241" column="0" />
+        <mark key="^" line="259" column="27" />
+        <mark key="." line="241" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackagesLifecyle/TradePackageLifecycleService.cs" timestamp="1545178431693">
+        <mark key="[" line="93" column="19" />
+        <mark key="]" line="93" column="19" />
+        <mark key="^" line="93" column="23" />
+        <mark key="." line="93" column="19" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/app.component.ts" timestamp="1546867159653">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="27" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/home/home.component.css" timestamp="1546936849964">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="45" />
+      </file>
+      <file name="C:/dev/git/bartender/BoxMigrationConsole/Interfaces/IBoxService.cs" timestamp="1547374769746">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/shared/to/all-user-data.ts" timestamp="1546866171709">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="4" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/Job-IntegrationTest.json" timestamp="1544675572484">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="95" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="C:/dev/git/bartender/BoxMigrationConsole/Services/BoxService.cs" timestamp="1547378940350">
+        <mark key="[" line="100" column="16" />
+        <mark key="]" line="100" column="15" />
+        <mark key="^" line="100" column="15" />
+        <mark key="." line="100" column="15" />
+      </file>
+      <file name="/Dummy.jql" timestamp="1548070459298">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/ResolveQuoteAmountUpdater.cs" timestamp="1547789295639">
-        <mark key="[" line="64" column="55" />
-        <mark key="]" line="64" column="72" />
-        <mark key="." line="64" column="72" />
-        <mark key="^" line="64" column="72" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/RepositoryCache/RepositoryCache.cs" timestamp="1544950950478">
+        <mark key="[" line="75" column="16" />
+        <mark key="]" line="75" column="22" />
+        <mark key="^" line="75" column="22" />
+        <mark key="." line="75" column="22" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Migrations/201811130213027_SCP-3233 Update Quote Fill Stored Procedure to not copy Estimate Fill Plug from Supplier Quote.cs" timestamp="1548037701482" />
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/LoadTestPlugins/BartenderPerApiLoadTestPlugin.cs" timestamp="1548043849159">
-        <mark key="[" line="30" column="50" />
-        <mark key="]" line="55" column="41" />
-        <mark key="." line="55" column="41" />
-        <mark key="^" line="55" column="41" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Controllers/QuoteController.QueryTest.cs" timestamp="1545007118208">
+        <mark key="[" line="63" column="101" />
+        <mark key="]" line="63" column="115" />
+        <mark key="." line="63" column="101" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/Services/RestSharpClient.cs" timestamp="1548044397464">
-        <mark key="[" line="42" column="70" />
-        <mark key="]" line="43" column="7" />
-        <mark key="^" line="43" column="7" />
-        <mark key="." line="43" column="7" />
+      <file name="C:/dev/git/ngrx-course/src/assets/chatapp.css" timestamp="1546916817185">
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="10" />
+        <mark key="^" line="22" column="10" />
+        <mark key="." line="22" column="10" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/Services/QuoteClient.cs" timestamp="1548194136080">
-        <mark key="[" line="9" column="87" />
-        <mark key="]" line="25" column="60" />
-        <mark key="." line="25" column="60" />
-        <mark key="^" line="25" column="60" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Services/JobMergeService.cs" timestamp="1547547558559">
+        <mark key="[" line="63" column="65" />
+        <mark key="]" line="63" column="64" />
+        <mark key="^" line="63" column="64" />
+        <mark key="." line="63" column="64" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.html" timestamp="1546916557159">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="23" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/TradePackageTradeCategory.cs" timestamp="1543964966122">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="19" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1548157461787">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackageLifecycle/TradePackageLifecycleController.Query.cs" timestamp="1545179775369">
+        <mark key="[" line="40" column="48" />
+        <mark key="]" line="39" column="12" />
+        <mark key="^" line="39" column="13" />
+        <mark key="." line="39" column="12" />
+      </file>
+      <file name="C:/dev/git/reactive-patterns-course-master/reactive-patterns-course-master/src/app/home/home.component.ts" timestamp="1546510909498">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackage/Response/TradeCategoryResponse.cs" timestamp="1545274305607">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="38" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" timestamp="1547690817041">
+        <mark key="[" line="390" column="0" />
+        <mark key="]" line="390" column="0" />
+        <mark key="^" line="384" column="109" />
+        <mark key="." line="390" column="0" />
+      </file>
+      <file name="C:/dev/git/rxjs-course/src/app/home/home.component.css" timestamp="1546765013471">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/Bartender.ApiHost/Bartender.ApiHost.csproj" timestamp="1547981867087">
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="18" column="42" />
+        <mark key="^" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Core/IdNamePairDto.cs" timestamp="1545271025363">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+      </file>
+      <file name="C:/dev/git/reactive-patterns-course-master/reactive-patterns-course-master/src/index.html" timestamp="1546132959951">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/QuoteLifecycle.cs" timestamp="1545262004486">
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="55" column="40" />
+        <mark key="." line="55" column="40" />
+        <mark key="^" line="55" column="40" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1548145064095">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="64" column="92" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/store/ui-state.ts" timestamp="1546430506173">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="28" />
+        <mark key="." line="23" column="28" />
+        <mark key="^" line="23" column="28" />
+      </file>
+      <file name="$USER_HOME$/Downloads/util_vim_hotkey_0.4.1/viatc.ini" timestamp="1546697858829">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/QuoteAmounts/QuoteAmountController.Command.cs" timestamp="1547546242196">
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="141" column="90" />
+        <mark key="^" line="127" column="52" />
+        <mark key="." line="127" column="52" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/services/commonHttpHeaders.ts" timestamp="1546920177384">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="6" column="40" />
+        <mark key="^" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid-toolbar/job-tradepackages-grid-toolbar.component.ts" timestamp="1548113264440">
+        <mark key="[" line="394" column="0" />
+        <mark key="]" line="394" column="0" />
+        <mark key="." line="394" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Enums/QuoteLifecycleStatus.cs" timestamp="1543201764073">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.ts" timestamp="1548113246222">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+      </file>
+      <file name="C:/AutoHotkey/ArrowKeyToCtrlHjkl.ahk" timestamp="1543715589536">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/store/reducers/uiStateReducer.ts" timestamp="1546919531353">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="23" />
+        <mark key="^" line="44" column="29" />
+        <mark key="." line="44" column="23" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Reports/ReportController.cs" timestamp="1543662473633">
+        <mark key="[" line="35" column="67" />
+        <mark key="]" line="35" column="80" />
+        <mark key="." line="35" column="67" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/SaveQuoteAmountUpdater.cs" timestamp="1547548525091">
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="12" />
+        <mark key="." line="364" column="12" />
+      </file>
+      <file name="/job-tradepackage-life-cycle-item.component.ts" timestamp="1548128757539" />
+      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1547845225743">
+        <mark key="'" line="8" column="4" />
+        <mark key="x" line="12" column="0" />
+        <mark key="y" line="14" column="0" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="2" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/Core/SingleJobSeedConfiguration.cs" timestamp="1547542700245">
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="82" column="11" />
+        <mark key="^" line="82" column="11" />
+        <mark key="." line="82" column="11" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/messages/messages.component.html" timestamp="1546867336397">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="/job-tradepackages-grid.component.ts" timestamp="1548116354245" />
+      <file name="C:/dev/git/ngrx-course/src/app/app.component.css" timestamp="1546917175796">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="^" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" timestamp="1548109706908">
+        <mark key="'" line="36" column="34" />
+        <mark key="[" line="175" column="41" />
+        <mark key="]" line="175" column="48" />
+        <mark key="." line="175" column="48" />
+        <mark key="^" line="175" column="48" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/TradePackage.cs" timestamp="1543964877088">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/store/effects/server-notifications-effect.service.ts" timestamp="1546869285572">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/RequestBuilders/ResolveQuoteAmountBuilder.cs" timestamp="1548122302047">
+        <mark key="'" line="29" column="43" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Resources/job_export.json" timestamp="1544842209858">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/user-selection/user-selection.component.html" timestamp="1546931163448">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/node_modules/@ngrx/store/src/models.d.ts" timestamp="1546430137014">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/HealthServerController.cs" timestamp="1548146003500">
+        <mark key="'" line="27" column="16" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Resolve.cs" timestamp="1548109771044">
+        <mark key="'" line="20" column="12" />
+        <mark key="[" line="9" column="69" />
+        <mark key="]" line="9" column="69" />
+        <mark key="." line="9" column="69" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" timestamp="1546260835912">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+      </file>
+      <file name="/fragment.ts" timestamp="1548070993057">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/chat-message/chat-message.component.html" timestamp="1546866830787">
+        <mark key="[" line="0" column="64" />
+        <mark key="]" line="2" column="64" />
+        <mark key="^" line="2" column="64" />
+        <mark key="." line="2" column="64" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/home/home.component.html" timestamp="1546932696358">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="33" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/TradePackageLifecycleSupplierResponse.cs" timestamp="1545178833807">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="44" />
+        <mark key="^" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/shared/mapping/buildThreadParticipantsList.ts" timestamp="1546405321155">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+      </file>
+      <file name="C:/dev/git/reactive-patterns-course-master/reactive-patterns-course-master/src/app/course/course.component.html" timestamp="1546176538424">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Common/Response/ContactResponse.cs" timestamp="1545272783474">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="31" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/B6258E3D-7F59-4E3B-8D0C-F4DC34EE16EC/af/4ec54e0c/DateTime.cs" timestamp="1543787387038">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="15" column="33" />
+      </file>
+      <file name="C:/dev/git/reactive-patterns-course-master/reactive-patterns-course-master/src/app/all-lessons/all-lessons.component.ts" timestamp="1546179952201">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/user-selection/user-selection.component.ts" timestamp="1546918832999">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548144753374">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/UpdateQuoteLifecycleRequest.cs" timestamp="1545129581344">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="14" column="15" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/store/effects/write-new-message-effect.service.ts" timestamp="1546869766455">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="22" column="37" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/store/actions.ts" timestamp="1546918799388">
+        <mark key="[" line="55" column="2" />
+        <mark key="]" line="55" column="14" />
+        <mark key="." line="55" column="14" />
+        <mark key="^" line="55" column="14" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/store/reducers/uiStoreDataReducer.ts" timestamp="1546939534184">
+        <mark key="[" line="23" column="52" />
+        <mark key="]" line="23" column="51" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="23" column="51" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Handlers/HttpMessageHandler.cs" timestamp="1548154543195">
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="C:/dev/git/rxjs-course/src/app/model/courses/course.object.ts" timestamp="1546767447661">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="44" />
+      </file>
+      <file name="C:/dev/git/rxjs-course/server/server.ts" timestamp="1546846522064">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="29" column="91" />
+        <mark key="^" line="29" column="91" />
+        <mark key="." line="29" column="91" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/ITradePackageRepository.cs" timestamp="1543800024509">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/TradePackagesLifecycle/TradePackageLifecycleSupplier.cs" timestamp="1545178550516">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/utils/notification-hub.ts" timestamp="1545264052524">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
+      </file>
+      <file name="C:/dev/git/rxjs-course/LICENSE" timestamp="1546840939907">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+      </file>
+      <file name="C:/dev/git/reactive-patterns-course-master/reactive-patterns-course-master/src/app/home/home.component.html" timestamp="1546510342495">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="8" column="35" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Plug.cs" timestamp="1548109765568">
+        <mark key="[" line="119" column="54" />
+        <mark key="]" line="119" column="61" />
+        <mark key="." line="119" column="61" />
+        <mark key="^" line="119" column="61" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Accounts/Account.cs" timestamp="1544672692853">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business.Test/TradePackageLifecycle/TradePackageLifecycleServiceTest.cs" timestamp="1545262848904">
+        <mark key="[" line="171" column="83" />
+        <mark key="]" line="171" column="83" />
+        <mark key="." line="171" column="83" />
+        <mark key="^" line="171" column="82" />
+      </file>
+      <file name="C:/dev/git/rxjs-course/src/app/app-routing.module.ts" timestamp="1546740494172">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="28" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="28" />
+      </file>
+      <file name="/job-tradepackage-life-cycle-item.component.less" timestamp="1548127241437">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="21" column="12" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" timestamp="1545263736244">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1548116958560">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="429" column="78" />
+        <mark key="]" line="429" column="78" />
+        <mark key="^" line="429" column="79" />
+        <mark key="." line="429" column="78" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackagesLifecycle/CreateQuoteLifecycleRequest.cs" timestamp="1545041727617">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="6" column="61" />
+        <mark key="." line="6" column="44" />
+      </file>
+      <file name="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.css" timestamp="1546574983767">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="C:/dev/git/ngrx-course/src/app/store/utils.ts" timestamp="1546950308843">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="24" column="1" />
+        <mark key="^" line="24" column="1" />
+        <mark key="." line="24" column="1" />
+      </file>
+      <file name="C:/dev/git/rxjs-course/src/app/common4/store.service.ts" timestamp="1546742934059">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="C:/dev/git/ngrx-course/src/app/services/threads.service.ts" />
-      <jump line="21" column="19" filename="C:/dev/git/ngrx-course/src/app/store/reducers/uiStoreDataReducer.ts" />
-      <jump line="43" column="0" filename="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" />
-      <jump line="29" column="20" filename="C:/dev/git/reactive-patterns-course-master/reactive-patterns-course-master/src/app/newsletter/newsletter.component.ts" />
-      <jump line="25" column="26" filename="C:/dev/git/reactive-patterns-course-master/reactive-patterns-course-master/src/app/newsletter/newsletter.component.ts" />
-      <jump line="26" column="53" filename="C:/dev/git/reactive-patterns-course-master/reactive-patterns-course-master/src/app/newsletter/newsletter.component.ts" />
-      <jump line="53" column="33" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="28" column="31" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
-      <jump line="27" column="63" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
-      <jump line="47" column="0" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
-      <jump line="42" column="28" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="3" column="16" filename="C:/dev/git/rxjs-course/src/app/common/util.ts" />
-      <jump line="7" column="18" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
-      <jump line="33" column="0" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
-      <jump line="36" column="9" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="41" column="28" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="33" column="25" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="86" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="4" column="0" filename="C:/AutoHotkey/HotKeyMac.ahk" />
-      <jump line="74" column="22" filename="C:/AutoHotkey/HotKeyMac.ahk" />
-      <jump line="54" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="24" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="25" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="26" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="27" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="28" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="29" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="30" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="31" column="4" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="50" column="4" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="52" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="55" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="58" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="61" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="64" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="67" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="70" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="19" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="20" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
@@ -124,30 +546,66 @@
       <jump line="33" column="0" filename="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.ts" />
       <jump line="57" column="0" filename="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.ts" />
       <jump line="56" column="1" filename="C:/dev/git/ngrx-course/src/app/store/actions.ts" />
+      <jump line="5" column="19" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" />
+      <jump line="81" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" />
+      <jump line="181" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
+      <jump line="13" column="13" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/Core/IntegrationTestContext.cs" />
+      <jump line="57" column="32" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Autofac/IntegrationTestModule.cs" />
+      <jump line="184" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
+      <jump line="125" column="50" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
+      <jump line="70" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
+      <jump line="19" column="20" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
+      <jump line="103" column="46" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="166" column="72" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
+      <jump line="64" column="45" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Integration/IntegrationController.Command.cs" />
+      <jump line="25" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/AutofacRegister.cs" />
+      <jump line="104" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="313" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="92" column="36" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Plug.cs" />
+      <jump line="111" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Plug.cs" />
+      <jump line="30" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Resolve.cs" />
+      <jump line="202" column="43" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="204" column="79" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="232" column="55" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="194" column="79" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="219" column="29" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="184" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="164" column="40" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="168" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="174" column="40" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="15" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="138" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="54" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="56" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="55" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="39" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="38" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="0" column="1" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="18" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="20" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="2" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="12" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="19" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="11" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="17" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="6" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="9" column="3" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="7" column="4" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="14" column="31" filename="C:/dev/git/bartender/Bartender.ApiHost/Web.config" />
       <jump line="0" column="0" filename="C:/dev/git/bartender/Bartender.ApiHost/Web.config" />
-      <jump line="418" column="30" filename="C:/dev/git/bartender/Bartender.ApiHost/Web.config" />
-      <jump line="22" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" />
-      <jump line="35" column="6" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" />
-      <jump line="38" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
-      <jump line="0" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
-      <jump line="167" column="67" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
-      <jump line="18" column="25" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
-      <jump line="302" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
-      <jump line="315" column="71" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
-      <jump line="307" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
-      <jump line="283" column="48" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
-      <jump line="47" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
-      <jump line="39" column="56" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.cs" />
-      <jump line="58" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Resolve.cs" />
-      <jump line="68" column="50" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
-      <jump line="0" column="73" filename="/Dummy.txt" />
+      <jump line="36" column="34" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
+      <jump line="26" column="43" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/RequestBuilders/ResolveQuoteAmountBuilder.cs" />
+      <jump line="0" column="27" filename="/Dummy.txt" />
+      <jump line="11" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/HealthServerController.cs" />
+      <jump line="27" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/HealthServerController.cs" />
+      <jump line="33" column="19" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Handlers/HttpMessageHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TradePackageTradeCategories</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Thomas</text>
+        <text>1</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
@@ -162,88 +620,87 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Thomas</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text>BartenderContextPublish</text>
+        <text>class</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlUXVvdGVBbW91bnQoMzQsIHRvdGFsOiAxMDAwMCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">aGVhZGVyUGFuZWwg</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoISgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90cmFkZXBhY2thZ2V3aXRoIGRvY3VtZW50cyBiYXNlIG9uIHRoZSB0cmFkZWNhdGVnb3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzY29wZSA9IEJlZ2luTGlmZXRpbWVTY29wZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90cmFkZVBhY2thZ2VJZCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiVHJhZGVQYWNrYWdlSWQgaXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFJlc29sdmVRdW90ZUFtb3VudFJlcXVlc3QiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcoKQo=</text>
+        <text encoding="base64">ICAgIGhpZGRlbkRyb3Bkb3duSXRlbS5xdWVyeVNlbGVjdG9yKCcjaGlkZGVuLWRyb3Bkb3duLW1lbnUtbGlzdCcpCg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGxldCB0aG9tYXMgPSAxOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuUHJvUmF0YVN1cHBsaWVyLCBQbHVnVHlwZS5GaWxsLCBQbHVnVHlwZS5FeGNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMzMsIHRvdGFsOiAxMDAwMCwKICAgICAgICAgICAgICAgIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuUHJvUmF0YVN1cHBsaWVyLCBQbHVnVHlwZS5GaWxsLCBQbHVnVHlwZS5JbmNsdWRlfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAyMywgdG90YWw6IDIwMDAsCiAgICAgICAgICAgICAgICBwbHVnczogbmV3W10ge1BsdWdUeXBlLlByb1JhdGFTdXBwbGllciwgUGx1Z1R5cGUuRmlsbCwgUGx1Z1R5cGUuSW5jbHVkZX0pOwogICAgICAgICAgICBBc3NlcnRSZXNwb25zZShyZXN1bHQsIDI0LCB0b3RhbDogMjAwMCwKICAgICAgICAgICAgICAgIHBsdWdzOiBuZXdbXSB7UGx1Z1R5cGUuUHJvUmF0YVN1cHBsaWVyLCBQbHVnVHlwZS5GaWxsLCBQbHVnVHlwZS5JbmNsdWRlfSk7CiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMjUsIHRvdGFsOiAyMDAwLAogICAgICAgICAgICAgICAgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5Qcm9SYXRhU3VwcGxpZXIsIFBsdWdUeXBlLkZpbGwsIFBsdWdUeXBlLkluY2x1ZGV9KTsKCiAgICAgICAgICAgIEFzc2VydFJlc3BvbnNlKHJlc3VsdCwgMzAsIHRvdGFsOiAxMDAwMCwgaXNNYW51YWxUb3RhbDogQm9vbGVhbk9wdGlvbi5Ob25lLAogICAgICAgICAgICAgICAgcGx1Z3M6IG5ld1tdIHtQbHVnVHlwZS5Qcm9SYXRhU3VwcGxpZXIsIFBsdWdUeXBlLkZpbGx9KTsKICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2UocmVzdWx0LCAzMSwgdG90YWw6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwoX3RyYWRlUGFja2FnZUlkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8zNCBpcyBncmFuZCB0b3RhbCBoZWFkaW5nIG9mIFN1cHBsaWVyMQogICAgICAgICAgICBVcGRhdGVRdW90ZUFtb3VudCgzNCwgdG90YWw6IDEwMDAwKTsKCiAgICAgICAgICAgIC8vMjIgaXMgdGhlIGdyYW5kIGNoaWxkIG9mIDM0IGFuZCBpcyBsZXZlbCAyIGhlYWRpbmcKICAgICAgICAgICAgVXBkYXRlUXVvdGVBbW91bnQoMjIsIHRvdGFsOiAxMDAwMCk7CiAgICAgICAgICAgIFBpY2tRdW90ZUFtb3VudCgyMiwgdHJ1ZSk7CiAgICAgICAgICAgIFBsdWdRdW90ZUFtb3VudCgyMiwgUGx1Z1R5cGUuVGVtcCk7CgogICAgICAgICAgICAvLzY1IGlzIGdyYW5kIHRvdGFsIGhlYWRpbmcgb2YgU3VwcGxpZXIyCiAgICAgICAgICAgIFVwZGF0ZVF1b3RlQW1vdW50KDY1LCB0b3RhbDogMjAwMDApOwoKICAgICAgICAgICAgLy82MSBpcyB0aGUgZ3JhbmQgY2hpbGQgb2YgNjUgYW5kIGlzIGxldmVsIDIgaGVhZGluZwogICAgICAgICAgICBVcGRhdGVRdW90ZUFtb3VudCg2MSwgdG90YWw6IDEwMDAwKTsKICAgICAgICAgICAgUGlja1F1b3RlQW1vdW50KDYxLCB0cnVlKTsKICAgICAgICAgICAgUGx1Z1F1b3RlQW1vdW50KDYxLCBQbHVnVHlwZS5UZW1wKTsKICAgICAgICAgICAgLy82MiBpcyB0aGUgY2hpbGQgb2YgNjEKICAgICAgICAgICAgUGx1Z1F1b3RlQW1vdW50KDYyLCBQbHVnVHlwZS5FeGNsdWRlKTsKCiAgICAgICAgICAgIHZhciByZXN1bHQgPSBGaWxsUXVvdGVBbW91bnQoMzQsIHRydWUsIF9zdXBwbGllcjJRdW90ZUlkKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChfdHJhZGVQYWNrYWdlSWQsIHF1b3RlQW1vdW50LlRyYWRlUGFja2FnZUl0ZW0uVHJhZGVQYWNrYWdlSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>BartenderContextPublish</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>BartenderContextPublish</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>Id1</last-replace>
-      <last-substitute>CourseType</last-substitute>
+      <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Home</entry>
-        <entry>store</entry>
-        <entry>Store</entry>
-        <entry>main</entry>
-        <entry>control</entry>
-        <entry>ctrl</entry>
-        <entry>l</entry>
-        <entry>y</entry>
-        <entry>course</entry>
-        <entry>CourseType</entry>
-        <entry>!</entry>
-        <entry>cl</entry>
-        <entry>course-th</entry>
-        <entry>course-thumbnail</entry>
-        <entry>j</entry>
-        <entry>sass</entry>
+        <entry>Preference</entry>
+        <entry>updatequotelifecycle</entry>
+        <entry>updateQuotelifecyclerequest</entry>
+        <entry>UpdateQuote</entry>
+        <entry>ContactResponse</entry>
+        <entry>Date</entry>
+        <entry>)</entry>
+        <entry encoding="base64">XDxxdW90ZUxpZmVjeWNsZUlkXD4=</entry>
+        <entry>;</entry>
+        <entry>,</entry>
+        <entry>{</entry>
+        <entry>TradePackageItementity</entry>
+        <entry encoding="base64">XDxxdW90ZUxpZmVjeWNsZVw+</entry>
+        <entry>}</entry>
+        <entry>total</entry>
+        <entry encoding="base64">XDxpc01hbnVhbFRvdGFsXD4=</entry>
+        <entry encoding="base64">XDxjaGVja051bGxUb3RhbFw+</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry>+</entry>
         <entry>class</entry>
-        <entry>connectionstring</entry>
-        <entry>bartenderContextPublish</entry>
-        <entry>BartenderContextPublish</entry>
       </history-search>
       <history-cmd>
-        <entry>show ln</entry>
         <entry>set ;m</entry>
         <entry>set ln</entry>
         <entry>set nu</entry>
@@ -260,6 +717,7 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>set showrelativenumber</entry>
+        <entry>%s/Date/gc</entry>
         <entry>show number</entry>
         <entry>set number</entry>
         <entry>set relativenumber</entry>
