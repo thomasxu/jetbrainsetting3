@@ -123,12 +123,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548153906762">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="58" column="11" />
-        <mark key="." line="24" column="0" />
+      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548158075979">
+        <mark key="'" line="113" column="19" />
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" timestamp="1546937622644">
         <mark key="]" line="25" column="3" />
@@ -296,7 +296,7 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" timestamp="1548153592038">
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" timestamp="1548158151145">
         <mark key="'" line="112" column="4" />
         <mark key="[" line="166" column="2" />
         <mark key="]" line="167" column="0" />
@@ -327,9 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="355" column="0" filename="C:/dev/git/rxjs-course/server/get-courses.route.ts" />
-      <jump line="55" column="8" filename="C:/dev/git/rxjs-course/src/app/app.module.ts" />
-      <jump line="20" column="0" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="25" column="4" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="1" column="12" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="47" column="9" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
@@ -427,6 +424,9 @@
       <jump line="99" column="4" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="72" column="3" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="51" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="29" column="5" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="15" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="113" column="19" filename="C:/AutoHotkey/HotKey.ahk" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -451,7 +451,7 @@
         <text>Control</text>
       </register>
       <register name="/" type="4">
-        <text>#r</text>
+        <text>Home</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I3I6OgpTZW5kLCB7RjUgRG93bn17RjUgVXB9ClJldHVybgojK3I6OgpTZW5kLCB7Q29udHJvbCBEb3dufXtGNSBEb3dufXtGNSBVcH17Q29udHJvbCBVcH0KUmV0dXJuCg==</text>
@@ -497,9 +497,9 @@
       </register>
     </registers>
     <search>
-      <last-search>#r</last-search>
+      <last-search>Home</last-search>
       <last-offset />
-      <last-pattern>#r</last-pattern>
+      <last-pattern>Home</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>CourseType</last-substitute>
       <last-dir>1</last-dir>
@@ -507,8 +507,6 @@
     </search>
     <history>
       <history-search>
-        <entry>!</entry>
-        <entry>cl</entry>
         <entry>course-th</entry>
         <entry>course-thumbnail</entry>
         <entry>j</entry>
@@ -527,6 +525,8 @@
         <entry>tradePackageLifeCycleList</entry>
         <entry>r</entry>
         <entry>#r</entry>
+        <entry>F2</entry>
+        <entry>Home</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
