@@ -152,11 +152,11 @@
         <mark key="." line="55" column="40" />
         <mark key="^" line="55" column="40" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1547703238626">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1548117076498">
         <mark key="'" line="81" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="22" column="65" />
+        <mark key="]" line="22" column="65" />
+        <mark key="." line="22" column="65" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/store/ui-state.ts" timestamp="1546430506173">
         <mark key="[" line="23" column="28" />
@@ -240,6 +240,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
+      <file name="/job-tradepackages-grid.component.ts" timestamp="1548116354245" />
       <file name="C:/dev/git/ngrx-course/src/app/app.component.css" timestamp="1546917175796">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
@@ -264,12 +265,11 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/RequestBuilders/ResolveQuoteAmountBuilder.cs" timestamp="1548112973311">
-        <mark key="'" line="33" column="43" />
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-        <mark key="^" line="31" column="41" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/RequestBuilders/ResolveQuoteAmountBuilder.cs" timestamp="1548117681431">
+        <mark key="'" line="29" column="43" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Test/Resources/job_export.json" timestamp="1544842209858">
         <mark key="[" line="7" column="11" />
@@ -357,7 +357,7 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548113317581">
+      <file name="/Dummy.txt" timestamp="1548118000053">
         <mark key="'" line="0" column="27" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -458,11 +458,12 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1547984719004">
+      <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1548116958560">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="427" column="0" />
-        <mark key="]" line="430" column="22" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="429" column="78" />
+        <mark key="]" line="429" column="78" />
+        <mark key="^" line="429" column="79" />
+        <mark key="." line="429" column="78" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
@@ -616,7 +617,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">X3RyYWRlUGFja2FnZUlkICE9IG51bGwgJiYg</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>+</text>
@@ -628,37 +629,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhpZGRlbkRyb3Bkb3duSXRlbS5xdWVyeVNlbGVjdG9yKCcjaGlkZGVuLWRyb3Bkb3duLW1lbnUtbGlzdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCB0aG9tYXMgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90cmFkZVBhY2thZ2VJZCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiVHJhZGVQYWNrYWdlSWQgaXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFJlc29sdmVRdW90ZUFtb3VudFJlcXVlc3QiKTsK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGhpZGRlbkRyb3Bkb3duSXRlbS5xdWVyeVNlbGVjdG9yKCcjaGlkZGVuLWRyb3Bkb3duLW1lbnUtbGlzdCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCB0aG9tYXMgPSAxOwo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwoX3RyYWRlUGFja2FnZUlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChfdHJhZGVQYWNrYWdlSWQsIHF1b3RlQW1vdW50LlRyYWRlUGFja2FnZUl0ZW0uVHJhZGVQYWNrYWdlSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwoX3RyYWRlUGFja2FnZUlkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuQXNzZXJ0KEVYUGlSICE9IG51bGwsICJNRVNTQUdFIik7IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbChfdHJhZGVQYWNrYWdlSWQsIHF1b3RlQW1vdW50LlRyYWRlUGFja2FnZUl0ZW0uVHJhZGVQYWNrYWdlSWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Iys6OkxDdHJsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
