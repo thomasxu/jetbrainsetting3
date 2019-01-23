@@ -128,12 +128,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548158075979">
-        <mark key="'" line="113" column="19" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548242792298">
+        <mark key="'" line="91" column="3" />
+        <mark key="[" line="150" column="3" />
+        <mark key="]" line="139" column="35" />
+        <mark key="^" line="139" column="13" />
+        <mark key="." line="139" column="41" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" timestamp="1546937622644">
         <mark key="]" line="25" column="3" />
@@ -325,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="1" column="12" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="47" column="9" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
       <jump line="11" column="44" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
@@ -425,6 +424,7 @@
       <jump line="29" column="5" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="15" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="113" column="19" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="91" column="3" filename="C:/AutoHotkey/HotKey.ahk" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -446,10 +446,10 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Control</text>
+        <text>Alt</text>
       </register>
       <register name="/" type="4">
-        <text>Home</text>
+        <text>y</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I3I6OgpTZW5kLCB7RjUgRG93bn17RjUgVXB9ClJldHVybgojK3I6OgpTZW5kLCB7Q29udHJvbCBEb3dufXtGNSBEb3dufXtGNSBVcH17Q29udHJvbCBVcH0KUmV0dXJuCg==</text>
@@ -495,9 +495,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Home</last-search>
+      <last-search>y</last-search>
       <last-offset />
-      <last-pattern>Home</last-pattern>
+      <last-pattern>y</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>CourseType</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>course-th</entry>
         <entry>course-thumbnail</entry>
         <entry>j</entry>
         <entry>sass</entry>
@@ -525,6 +524,7 @@
         <entry>#r</entry>
         <entry>F2</entry>
         <entry>Home</entry>
+        <entry>y</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
