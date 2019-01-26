@@ -328,9 +328,12 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548473027051">
-        <mark key="'" line="41" column="21" />
-        <mark key="^" line="3" column="12" />
+      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548473960996">
+        <mark key="'" line="1535" column="0" />
+        <mark key="[" line="21" column="56" />
+        <mark key="]" line="21" column="63" />
+        <mark key="^" line="21" column="63" />
+        <mark key="." line="21" column="63" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
@@ -359,10 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
-      <jump line="7" column="0" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
-      <jump line="20" column="7" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
-      <jump line="33" column="6" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
       <jump line="103" column="0" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
       <jump line="23" column="44" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
       <jump line="17" column="0" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
@@ -459,10 +458,35 @@
       <jump line="37" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="36" column="5" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="41" column="21" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="20" column="4" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="19" column="4" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="10" column="4" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="1535" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>sendReport</text>
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="94" code="0" mods="0" />
+        </keys>
       </register>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIGRpc3RpbmN0VW50aWxDaGFuZ2VkLAogICAgc3RhcnRXaXRoLAogICAgdGFwLAogICAgZGVsYXksCiAgICBtYXAsCiAgICBjb25jYXRNYXAsCiAgICBzd2l0Y2hNYXAsCiAgICB3aXRoTGF0ZXN0RnJvbSwKICAgIGNvbmNhdEFsbCwgc2hhcmVSZXBsYXkKfSBmcm9tICdyeGpzL29wZXJhdG9ycyc7CmltcG9ydCB7bWVyZ2UsIGZyb21FdmVudCwgT2JzZXJ2YWJsZSwgY29uY2F0fSBmcm9tICdyeGpzJzsgaW1wb3J0IHtMZXNzb259IGZyb20gJy4uL21vZGVsL2xlc3Nvbic7IGltcG9ydCB7Y3JlYXRlSHR0cE9ic2VydmFibGV9IGZyb20gJy4uL2NvbW1vbi91dGlsJzsgaW1wb3J0IHtTdG9yZX0gZnJvbSAnLi4vY29tbW9uL3N0b3JlLnNlcnZpY2UnOwoKCkBDb21wb25lbnQoewogICAgc2VsZWN0b3I6ICdjb3Vyc2UnLAogICAgdGVtcGxhdGVVcmw6ICcuL2NvdXJzZS5jb21wb25lbnQuaHRtbCcsCiAgICBzdHlsZVVybHM6IFsnLi9jb3Vyc2UuY29tcG9uZW50LmNzcyddCn0pCmV4cG9ydCBjbGFzcyBDb3Vyc2VDb21wb25lbnQgaW1wbGVtZW50cyBPbkluaXQsIEFmdGVyVmlld0luaXQgewoKICAgIGNvdXJzZUlkOm51bWJlcjsKCiAgICBjb3Vyc2UkIDogT2JzZXJ2YWJsZTxDb3Vyc2U+OwoKICAgIGxlc3NvbnMkOiBPYnNlcnZhYmxlPExlc3NvbltdPjsKCg==</text>
@@ -492,6 +516,14 @@
       <register name="i" type="4">
         <text>tradePackageItem</text>
       </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="+" type="4">
         <text>sendReport</text>
       </register>
@@ -502,7 +534,7 @@
         <text>aws</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">XDx0aG9tYXN2YXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBzMyA9IG5ldyBhd3MuUzMoewogICAgICAgIGFjY2Vzc0tleUlkOiAnQUtJQUpIU0g0UkJCNjc3SURaREEnLAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogJ01MSFBMT2U1QVNOMFhtSzYvWGRrLzhQQUlUY2JiUEpDSkR0MzVwcWsnCiAgICB9KTsK</text>
@@ -548,17 +580,16 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search encoding="base64">XDx0aG9tYXN2YXJcPg==</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern encoding="base64">XDx0aG9tYXN2YXJcPg==</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute encoding="base64">XDw2XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>class</entry>
         <entry>insert</entry>
         <entry>ins</entry>
         <entry>home</entry>
@@ -578,6 +609,7 @@
         <entry>registers</entry>
         <entry>a</entry>
         <entry>&quot;</entry>
+        <entry encoding="base64">XDx0aG9tYXN2YXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
