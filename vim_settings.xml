@@ -328,12 +328,11 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548473960996">
-        <mark key="'" line="1535" column="0" />
-        <mark key="[" line="21" column="56" />
-        <mark key="]" line="21" column="63" />
-        <mark key="^" line="21" column="63" />
-        <mark key="." line="21" column="63" />
+      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548474919745">
+        <mark key="'" line="1552" column="23" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
@@ -362,12 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
-      <jump line="23" column="44" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
-      <jump line="17" column="0" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
-      <jump line="2" column="11" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
-      <jump line="35" column="3" filename="C:/AutoHotkey/HotKeyMac.ahk" />
-      <jump line="0" column="0" filename="C:/AutoHotkey/HotKeyMac.ahk" />
       <jump line="58" column="0" filename="C:/dev/git/rxjs-course/src/app/course/course.component.css" />
       <jump line="60" column="0" filename="C:/dev/git/rxjs-course/src/app/course/course.component.css" />
       <jump line="26" column="6" filename="C:/AutoHotkey/HotKey.ahk" />
@@ -439,7 +432,6 @@
       <jump line="28" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1542" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1531" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
-      <jump line="0" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="16" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1545" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1532" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
@@ -462,28 +454,20 @@
       <jump line="19" column="4" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="10" column="4" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1535" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="5" column="8" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="2" column="4" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="0" column="56" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="1526" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="1523" column="9" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="1520" column="32" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="1524" column="23" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
           <key char="106" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="60" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="36" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="60" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="62" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="94" code="0" mods="0" />
         </keys>
@@ -495,18 +479,38 @@
         <text>GroupBy</text>
       </register>
       <register name="c" type="4">
-        <text>content</text>
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="d" type="4">
         <keys>
+          <key char="106" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="94" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="e" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="37" mods="130" />
+          <key char="99" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
@@ -518,10 +522,16 @@
       </register>
       <register name="j" type="4">
         <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="107" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
         </keys>
       </register>
       <register name="+" type="4">
@@ -533,17 +543,46 @@
       <register name="-" type="4">
         <text>aws</text>
       </register>
+      <register name="m" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="94" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="n" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="94" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aG9tYXN2YXJcPg==</text>
+        <text encoding="base64">XDxob3N0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBzMyA9IG5ldyBhd3MuUzMoewogICAgICAgIGFjY2Vzc0tleUlkOiAnQUtJQUpIU0g0UkJCNjc3SURaREEnLAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogJ01MSFBMT2U1QVNOMFhtSzYvWGRrLzhQQUlUY2JiUEpDSkR0MzVwcWsnCiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICNhYmMxMjMgMTIzdGhvbWFzICAgIGhvc3Q6ICJvbmxpbmUtYXBwcy5jdnI0b3Aza3VlZmwuYXAtc291dGhlYXN0LTIucmRzLmFtYXpvbmF3cy5jb20iLC90aG9tYXMK</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBzMyA9IG5ldyBhd3MuUzMoewogICAgICAgIGFjY2Vzc0tleUlkOiAnQUtJQUpIU0g0UkJCNjc3SURaREEnLAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogJ01MSFBMT2U1QVNOMFhtSzYvWGRrLzhQQUlUY2JiUEpDSkR0MzVwcWsnCiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIHt9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHZhciBzMyA9IG5ldyBhd3MuUzMoewogICAgICAgIGFjY2Vzc0tleUlkOiAnQUtJQUpIU0g0UkJCNjc3SURaREEnLAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogJ01MSFBMT2U1QVNOMFhtSzYvWGRrLzhQQUlUY2JiUEpDSkR0MzVwcWsnCiAgICB9KTsK</text>
@@ -551,8 +590,8 @@
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBob3N0OiAib25saW5lLWFwcHMuY3ZyNG9wM2t1ZWZsLmFwLXNvdXRoZWFzdC0yLnJkcy5hbWF6b25hd3MuY29tIiwKICAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICAgdXNlcjogImRiYWRtaW4iLAogICAgICAgIHBhc3N3b3JkOiAiUll5aG42UjJoblRTYmFYMiIsCiAgICAgICAgZGF0YWJhc2U6ICJiYXJ0ZW5kZXIi</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBzMyA9IG5ldyBhd3MuUzMoewogICAgICAgIGFjY2Vzc0tleUlkOiAnQUtJQUpIU0g0UkJCNjc3SURaREEnLAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogJ01MSFBMT2U1QVNOMFhtSzYvWGRrLzhQQUlUY2JiUEpDSkR0MzVwcWsnCiAgICB9KTsK</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">ICAgICAgICBob3N0OiAib25saW5lLWFwcHMuY3ZyNG9wM2t1ZWZsLmFwLXNvdXRoZWFzdC0yLnJkcy5hbWF6b25hd3MuY29tIiwKICAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICAgdXNlcjogImRiYWRtaW4iLAogICAgICAgIHBhc3N3b3JkOiAiUll5aG42UjJoblRTYmFYMiIsCiAgICAgICAgZGF0YWJhc2U6ICJiYXJ0ZW5kZXIi</text>
@@ -560,37 +599,53 @@
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0cy5teUhhbmRsZXIgPSBmdW5jdGlvbiAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSB7CiAgICBjb25zb2xlLmxvZygnc3RhcnQgQmFydGVuZGVyIFF1b3RlIFZhbGlkYScpOwogICAgbGV0IG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKTsKICAgIGxldCBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7CiAgICBsZXQgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogICAgICAgaG9zdDogIm9ubGluZS1hcHBzLmN2cjRvcDNrdWVmbC5hcC1zb3V0aGVhc3QtMi5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICB1c2VyOiAiZGJhZG1pbiIsCiAgICAgICBwYXNzd29yZDogIlJZeWhuNlIyaG5UU2Jhc1gyIiwKICAgICAgIGRhdGFiYXNlOiAiYmFydGVuZGVyIgogICAgfSk7CiAgICBsZXQgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3NLZXlJZDogIkFERkFTREZTQURGNDEzMjQxMzI0IiwKICAgICAgICBzZWNyZXRBY2Nlc3NLZXk6ICJNTEhNTDMyNDMyMTQyMTM0IgogICAgfSk7Cgp9Owo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBob3N0OiAib25saW5lLWFwcHMuY3ZyNG9wM2t1ZWZsLmFwLXNvdXRoZWFzdC0yLnJkcy5hbWF6b25hd3MuY29tIiwKICAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICAgdXNlcjogImRiYWRtaW4iLAogICAgICAgIHBhc3N3b3JkOiAiUll5aG42UjJoblRTYmFYMiIsCiAgICAgICAgZGF0YWJhc2U6ICJiYXJ0ZW5kZXIi</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ZXhwb3J0cy5teUhhbmRsZXIgPSBmdW5jdGlvbiAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSB7CiAgICBjb25zb2xlLmxvZygnc3RhcnQgQmFydGVuZGVyIFF1b3RlIFZhbGlkYScpOwogICAgbGV0IG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKTsKICAgIGxldCBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7CiAgICBsZXQgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogICAgICAgaG9zdDogIm9ubGluZS1hcHBzLmN2cjRvcDNrdWVmbC5hcC1zb3V0aGVhc3QtMi5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICB1c2VyOiAiZGJhZG1pbiIsCiAgICAgICBwYXNzd29yZDogIlJZeWhuNlIyaG5UU2Jhc1gyIiwKICAgICAgIGRhdGFiYXNlOiAiYmFydGVuZGVyIgogICAgfSk7CiAgICBsZXQgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3NLZXlJZDogIkFERkFTREZTQURGNDEzMjQxMzI0IiwKICAgICAgICBzZWNyZXRBY2Nlc3NLZXk6ICJNTEhNTDMyNDMyMTQyMTM0IgogICAgfSk7Cgp9Owo=</text>
       </register>
+      <register name="v" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="37" mods="130" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0cy5teUhhbmRsZXIgPSBmdW5jdGlvbiAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSB7CiAgICBjb25zb2xlLmxvZygnc3RhcnQgQmFydGVuZGVyIFF1b3RlIFZhbGlkYScpOwogICAgbGV0IG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKTsKICAgIGxldCBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7CiAgICBsZXQgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogICAgICAgaG9zdDogIm9ubGluZS1hcHBzLmN2cjRvcDNrdWVmbC5hcC1zb3V0aGVhc3QtMi5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICB1c2VyOiAiZGJhZG1pbiIsCiAgICAgICBwYXNzd29yZDogIlJZeWhuNlIyaG5UU2Jhc1gyIiwKICAgICAgIGRhdGFiYXNlOiAiYmFydGVuZGVyIgogICAgfSk7CiAgICBsZXQgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3NLZXlJZDogIkFERkFTREZTQURGNDEzMjQxMzI0IiwKICAgICAgICBzZWNyZXRBY2Nlc3NLZXk6ICJNTEhNTDMyNDMyMTQyMTM0IgogICAgfSk7Cgp9OwpleHBvcnRzLm15SGFuZGxlciA9ICBmdW5jdGlvbihldmVudCwgY29udGV4dCwgY2FsbGJhY2spIHsK</text>
+        <text encoding="base64">ZXhwb3J0cy5teUhhbmRsZXIgPSBmdW5jdGlvbiAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSB7CiAgICBjb25zb2xlLmxvZygnc3RhcnQgQmFydGVuZGVyIFF1b3RlIFZhbGlkYScpOwogICAgbGV0IG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKTsKICAgIGxldCBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7CiAgICBsZXQgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogICAgICAgaG9zdDogIm9ubGluZS1hcHBzLmN2cjRvcDNrdWVmbC5hcC1zb3V0aGVhc3QtMi5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICB1c2VyOiAiZGJhZG1pbiIsCiAgICAgICBwYXNzd29yZDogIlJZeWhuNlIyaG5UU2Jhc1gyIiwKICAgICAgIGRhdGFiYXNlOiAiYmFydGVuZGVyIgogICAgfSk7CiAgICBsZXQgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3NLZXlJZDogIkFERkFTREZTQURGNDEzMjQxMzI0IiwKICAgICAgICBzZWNyZXRBY2Nlc3NLZXk6ICJNTEhNTDMyNDMyMTQyMTM0IgogICAgfSk7Cgp9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0cy5teUhhbmRsZXIgPSBmdW5jdGlvbiAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSB7CiAgICBjb25zb2xlLmxvZygnc3RhcnQgQmFydGVuZGVyIFF1b3RlIFZhbGlkYScpOwogICAgbGV0IG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKTsKICAgIGxldCBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7CiAgICBsZXQgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogICAgICAgaG9zdDogIm9ubGluZS1hcHBzLmN2cjRvcDNrdWVmbC5hcC1zb3V0aGVhc3QtMi5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICB1c2VyOiAiZGJhZG1pbiIsCiAgICAgICBwYXNzd29yZDogIlJZeWhuNlIyaG5UU2Jhc1gyIiwKICAgICAgIGRhdGFiYXNlOiAiYmFydGVuZGVyIgogICAgfSk7CiAgICBsZXQgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3NLZXlJZDogIkFERkFTREZTQURGNDEzMjQxMzI0IiwKICAgICAgICBzZWNyZXRBY2Nlc3NLZXk6ICJNTEhNTDMyNDMyMTQyMTM0IgogICAgfSk7Cgo=</text>
+        <text encoding="base64">ZXhwb3J0cy5teUhhbmRsZXIgPSBmdW5jdGlvbiAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSB7CiAgICBjb25zb2xlLmxvZygnc3RhcnQgQmFydGVuZGVyIFF1b3RlIFZhbGlkYScpOwogICAgbGV0IG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKTsKICAgIGxldCBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7CiAgICBsZXQgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogICAgICAgaG9zdDogIm9ubGluZS1hcHBzLmN2cjRvcDNrdWVmbC5hcC1zb3V0aGVhc3QtMi5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICB1c2VyOiAiZGJhZG1pbiIsCiAgICAgICBwYXNzd29yZDogIlJZeWhuNlIyaG5UU2Jhc1gyIiwKICAgICAgIGRhdGFiYXNlOiAiYmFydGVuZGVyIgogICAgfSk7CiAgICBsZXQgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3NLZXlJZDogIkFERkFTREZTQURGNDEzMjQxMzI0IiwKICAgICAgICBzZWNyZXRBY2Nlc3NLZXk6ICJNTEhNTDMyNDMyMTQyMTM0IgogICAgfSk7Cgp9OwpleHBvcnRzLm15SGFuZGxlciA9ICBmdW5jdGlvbihldmVudCwgY29udGV4dCwgY2FsbGJhY2spIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bXlzcWwuY3JlYXRlQ29ubmVjdGlvbih7CiAgICAgICBob3N0OiAib25saW5lLWFwcHMuY3ZyNG9wM2t1ZWZsLmFwLXNvdXRoZWFzdC0yLnJkcy5hbWF6b25hd3MuY29tIiwKICAgICAgIHBvcnQ6ICIzMzA2IiwKICAgICAgIHVzZXI6ICJkYmFkbWluIiwKICAgICAgIHBhc3N3b3JkOiAiUll5aG42UjJoblRTYmFzWDIiLAogICAgICAgZGF0YWJhc2U6ICJiYXJ0ZW5kZXIiCiAgICB9KTsKICAgIGxldCBzMyA9IG5ldyBhd3MuUzMoewogICAgICAgIGFjY2Vzc0tleUlkOiAiQURGQVNERlNBREY0MTMyNDEzMjQiLAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogIk1MSE1MMzI0MzIxNDIxMzQiCiAgICB9KTsK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZXhwb3J0cy5teUhhbmRsZXIgPSBmdW5jdGlvbiAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSB7CiAgICBjb25zb2xlLmxvZygnc3RhcnQgQmFydGVuZGVyIFF1b3RlIFZhbGlkYScpOwogICAgbGV0IG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKTsKICAgIGxldCBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7CiAgICBsZXQgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogICAgICAgaG9zdDogIm9ubGluZS1hcHBzLmN2cjRvcDNrdWVmbC5hcC1zb3V0aGVhc3QtMi5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICB1c2VyOiAiZGJhZG1pbiIsCiAgICAgICBwYXNzd29yZDogIlJZeWhuNlIyaG5UU2Jhc1gyIiwKICAgICAgIGRhdGFiYXNlOiAiYmFydGVuZGVyIgogICAgfSk7CiAgICBsZXQgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3NLZXlJZDogIkFERkFTREZTQURGNDEzMjQxMzI0IiwKICAgICAgICBzZWNyZXRBY2Nlc3NLZXk6ICJNTEhNTDMyNDMyMTQyMTM0IgogICAgfSk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aG9tYXN2YXJcPg==</last-search>
+      <last-search encoding="base64">XDxob3N0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aG9tYXN2YXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxob3N0XD4=</last-pattern>
       <last-replace>Id1</last-replace>
-      <last-substitute encoding="base64">XDw2XD4=</last-substitute>
+      <last-substitute encoding="base64">XDxob3N0XD4=</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>insert</entry>
         <entry>ins</entry>
         <entry>home</entry>
         <entry>Home</entry>
@@ -610,6 +665,7 @@
         <entry>a</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDx0aG9tYXN2YXJcPg==</entry>
+        <entry encoding="base64">XDxob3N0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
