@@ -33,6 +33,12 @@
         <mark key="^" line="22" column="10" />
         <mark key="." line="22" column="10" />
       </file>
+      <file name="C:/dev/git/bartender-lambda/BartenderUserActivityReport/package.json" timestamp="1548544541007">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.html" timestamp="1546916557159">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="23" />
@@ -110,18 +116,20 @@
       <file name="C:/dev/git/ngrx-course/node_modules/@angular-devkit/schematics/src/tree/virtual.js" timestamp="1547006286936">
         <mark key="'" line="16" column="54" />
       </file>
-      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548538965406">
+      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548543390329">
         <mark key="'" line="125" column="1" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="C:/AutoHotkey/HotKeyMac1.ahk" timestamp="1547008367049">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="C:/AutoHotkey/HotKeyMac1.ahk" timestamp="1548544793379">
+        <mark key="a" line="0" column="0" />
+        <mark key="j" line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" timestamp="1547296157335">
         <mark key="'" line="0" column="0" />
@@ -487,17 +495,7 @@
         </keys>
       </register>
       <register name="d" type="4">
-        <keys>
-          <key char="106" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="35" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="49" code="0" mods="0" />
-          <key char="50" code="0" mods="0" />
-          <key char="51" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="94" code="0" mods="0" />
-        </keys>
+        <text>dW</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -543,7 +541,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">I0NvbW1lbnRGbGFnIA==</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -584,28 +582,28 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5jYWxsYmFja1dhaXRzRm9yRW1wdHlFdmVudExvb3AgPSBmYWxzZTsK</text>
+        <text encoding="base64">RXNjOjpDYXBzTG9jawo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CgoK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGNvbnN0IHJlc3VsdEVsZW1lbnQgb2YgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5jYWxsYmFja1dhaXRzRm9yRW1wdHlFdmVudExvb3AgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGlhbnV0ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGNvbnN0IHJlc3VsdEVsZW1lbnQgb2YgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHMuaXRhciAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -625,21 +623,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHB1c2hSZWNvcmRUb0ZpbGUoKSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGlhbnV0ZTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-        var request = {
-            ACL: 'private',
-            Body: JSON.stringify(mismatchData),
-            Bucket: 'bartender-prod',
-            Key: 'live_stat/total_mismatch_data.json'
-        };
-        s3.putObject(request, function (err, data) {
-            if (err) throw err;
-            console.log('Data saved successfully');
-        });
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHMuaXRhciAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIHB1c2hSZWNvcmRUb0ZpbGUoKSAK</text>
