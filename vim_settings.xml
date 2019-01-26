@@ -328,12 +328,12 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548492253680">
-        <mark key="'" line="1494" column="77" />
-        <mark key="[" line="1500" column="40" />
-        <mark key="]" line="1505" column="84" />
-        <mark key="." line="1505" column="84" />
-        <mark key="^" line="1505" column="84" />
+      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548494643176">
+        <mark key="'" line="1597" column="22" />
+        <mark key="[" line="1607" column="20" />
+        <mark key="]" line="1607" column="49" />
+        <mark key="." line="1613" column="0" />
+        <mark key="^" line="1597" column="22" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
@@ -362,8 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
-      <jump line="82" column="17" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
       <jump line="88" column="0" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
       <jump line="67" column="35" filename="C:/dev/git/ngrx-course/src/app/store/actions.ts" />
       <jump line="68" column="0" filename="C:/dev/git/ngrx-course/src/app/store/actions.ts" />
@@ -462,6 +460,8 @@
       <jump line="334" column="8" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1424" column="16" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1494" column="77" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="1562" column="32" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="1597" column="22" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -542,7 +542,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>safd</text>
+        <text>error</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -576,46 +576,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtaXNtYXRjaGVkSGVhZGluZ1RhYmxlQ29udGVudFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICNhYmMxMjMgMTIzdGhvbWFzICAgIGhvc3Q6ICJvbmxpbmUtYXBwcy5jdnI0b3Aza3VlZmwuYXAtc291dGhlYXN0LTIucmRzLmFtYXpvbmF3cy5jb20iLC90aG9tYXMK</text>
+      <register name="0" type="4">
+        <text>callbackWaitsForEmptyEventLoop</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGNvbnN0IHJlc3VsdEVsZW1lbnQgb2YgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGNvbnN0IHJlc3VsdEVsZW1lbnQgb2YgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGlhbnV0ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHMuaXRhciAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGlhbnV0ZTsK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHB1c2hSZWNvcmRUb0ZpbGUoKSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHMuaXRhciAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-        var request = {
-            ACL: 'private',
-            Body: JSON.stringify(mismatchData),
-            Bucket: 'bartender-prod',
-            Key: 'live_stat/total_mismatch_data.json'
-        };
-        s3.putObject(request, function (err, data) {
-            if (err) throw err;
-            console.log('Data saved successfully');
-        });
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIHB1c2hSZWNvcmRUb0ZpbGUoKSAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -634,14 +623,25 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text>{
+        var request = {
+            ACL: 'private',
+            Body: JSON.stringify(mismatchData),
+            Bucket: 'bartender-prod',
+            Key: 'live_stat/total_mismatch_data.json'
+        };
+        s3.putObject(request, function (err, data) {
+            if (err) throw err;
+            console.log('Data saved successfully');
+        });
+    }</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIHB1c2hSZWNvcmRUb0ZpbGUoKSAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ewogICAgICAgIGNvbnN0IHJlcXVlc3QgPSB7CiAgICAgICAgICAgIEFDTDogJ3ByaXZhdGUnLAogICAgICAgICAgICBCb2R5OiBKU09OLnN0cmluZ2lmeShtaXNtYXRjaERhdGEpLAogICAgICAgICAgICBCdWNrZXQ6ICdiYXJ0ZW5kZXItcHJvZCcsCiAgICAgICAgICAgIEtleTogJ2xpdmVfc3RhdC90b3RhbF9taXNtYXRjaF9kYXRhLmpzb24nCiAgICAgICAgfTsKICAgICAgICBzMy5wdXRPYmplY3QocmVxdWVzdCwgKEVycm9yLCBkYXRhKSA9PiB7CiAgICAgICAgICAgIGlmIChlcnIpIHRocm93IEVycm9yOyAKICAgICAgICB9KTsKICAgICAgICAKICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">IHMzLnB1dE9iamVjdChyZXF1ZXN0LCAoZXJyLCBkYXRhKSA9PiB7CiAgICAgICAgICAgIGlmKGVycikgdGhyb3cgZXJyOwogICAgICAgICAgICBjb25zb2xlLmxvZygnZGF0YSBzYXZlZCBzdWNjZXNzZnVsbHknKQogICAgICAgIH0pCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
