@@ -110,11 +110,11 @@
       <file name="C:/dev/git/ngrx-course/node_modules/@angular-devkit/schematics/src/tree/virtual.js" timestamp="1547006286936">
         <mark key="'" line="16" column="54" />
       </file>
-      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548460494472">
-        <mark key="'" line="198" column="4" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548463885332">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="40" />
+        <mark key="." line="22" column="40" />
         <mark key="^" line="6" column="0" />
       </file>
       <file name="C:/AutoHotkey/HotKeyMac1.ahk" timestamp="1547008367049">
@@ -329,8 +329,12 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548329938421">
-        <mark key="'" line="1377" column="4" />
+      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548463810958">
+        <mark key="'" line="1503" column="13" />
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
@@ -359,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="31" column="4" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="50" column="4" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="52" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
@@ -437,7 +440,6 @@
       <jump line="60" column="0" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
       <jump line="58" column="0" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
       <jump line="50" column="0" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
-      <jump line="6" column="12" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="111" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="114" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="117" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
@@ -459,6 +461,8 @@
       <jump line="0" column="161" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="194" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="191" column="4" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="1499" column="13" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="6" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -483,10 +487,10 @@
         <text encoding="base64">I0NvbW1lbnRGbGFnIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyVGFibGVDb250ZW50XD4=</text>
+        <text>a</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0cy5teUhhbmRsZXIgPSBmdW5jdGlvbiAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSB7CiAgICBjb25zb2xlLmxvZygnU3RhcnRpbmcgZ2VuZXJhdGluZyBVc2VyIHVzYWdlIHJlcG9ydCcpOwogICAgdmFyIG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKTsKICAgIHZhciBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7CiAgICB2YXIgbW9tZW50ID0gcmVxdWlyZSgnbW9tZW50Jyk7CiAgICB2YXIgY29uID0gbXlzcWwuY3JlYXRlQ29ubmVjdGlvbih7CiAgICAgICAgaG9zdDogIm9ubGluZS1hcHBzLmN2cjRvcDNrdWVmbC5hcC1zb3V0aGVhc3QtMi5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICAgcG9ydDogIjMzMDYiLAogICAgICAgIHVzZXI6ICJkYmFkbWluIiwKICAgICAgICBwYXNzd29yZDogIlJZeWhuNlIyaG5UU2JhWDIiLAogICAgICAgIGRhdGFiYXNlOiAiYmFydGVuZGVyIgogICAgfSk7CgoKICAgIGNvbi5jb25uZWN0KGZ1bmN0aW9uIChlcnIpIHsKICAgICAgICBpZiAoZXJyKSB0aHJvdyBlcnI7CiAgICAgICAgY29uc29sZS5sb2coIkRCIENvbm5lY3RlZCEiKTsKICAgICAgICBjb24ucXVlcnkoJ1NFTEVDVCBBY2NvdW50LkRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uLCBjb3VudCgqKSBjb3VudCBGUk9NIEFjY291bnQgJyArCiAgICAgICAgICAgICdKT0lOIFVzZXIgJyArCiAgICAgICAgICAgICdPTiBBY2NvdW50LklkID0gVXNlci5BY2NvdW50SWQgJyArCiAgICAgICAgICAgICdXSEVSRSBBY2NvdW50LkN1c3RvbWVySWQgaXMgbm90IG51bGwgQU5EIFVzZXIuU3RhdHVzID0gMSAnICsKICAgICAgICAgICAgJ0dST1VQIEJZIEFjY291bnQuRGVzY3JpcHRpb247JywgZnVuY3Rpb24gKGVyciwgcmVzdWx0cykgewogICAgICAgICAgICBpZiAoZXJyKSB0aHJvdyBlcnI7CiAgICAgICAgICAgIHZhciBjb250ZW50ID0gJyc7CiAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgcmVzdWx0cy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgdmFyIGlzRXZlbiA9IGkgJSAyID09PSAwOwogICAgICAgICAgICAgICAgaWYgKGlzRXZlbikgewogICAgICAgICAgICAgICAgICAgIGNvbnRlbnQgKz0gJzx0ciBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjogI2YyZjJmMjsiPicKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgY29udGVudCArPSAnPHRyPic7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjb250ZW50ICs9ICc8dGQ+JyArIHJlc3VsdHNbaV0uZGVzY3JpcHRpb24gKyAnPC90ZD4nCiAgICAgICAgICAgICAgICAgICAgKyAnPHRkPicgKyByZXN1bHRzW2ldLmNvdW50ICsgJzwvdGQ+JwogICAgICAgICAgICAgICAgICAgICsgJzwvdHI+JzsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZW1haWxUZW1wbGF0ZSA9IGVtYWlsVGVtcGxhdGUucmVwbGFjZSgne3t1c2VyU3VtbWFyeUNvbnRlbnR9fScsIGNvbnRlbnQpOwogICAgICAgICAgICBjb24ucXVlcnkoJ1NFTEVDVCBBY2NvdW50Lk5hbWUgYWNjb3VudE5hbWUsICcgKwogICAgICAgICAgICAgICAgJ0FjY291bnQuRGVzY3JpcHRpb24gYWNjb3VudFR5cGUsICcgKwogICAgICAgICAgICAgICAgJ0FjY291bnQuQ3VzdG9tZXJJZCByZWdJZCwgJyArCiAgICAgICAgICAgICAgICAnY29uY2F0KFVzZXIuTmFtZSwgXCcgXCcsIFVzZXIuTGFzdE5hbWUpIG5hbWUsICcgKwogICAgICAgICAgICAgICAgJ3RpbWVzdGFtcGRpZmYoREFZLCBVc2VyLkFjY2Vzc2VkT24sIE5vdygpKSBkYXlzU2luY2VMYXN0QWNjZXNzLCAnICsKICAgICAgICAgICAgICAgICdVc2VyLkFjY2Vzc2VkT24gbGFzdEFjY2VzcyAnICsKICAgICAgICAgICAgICAgICdGUk9NIFVzZXIgJyArCiAgICAgICAgICAgICAgICAnSk9JTiBBY2NvdW50IE9OIEFjY291bnQuSWQgPSBVc2VyLkFjY291bnRJZCAnICsKICAgICAgICAgICAgICAgICdXSEVSRSBBY2NvdW50LkN1c3RvbWVySWQgaXMgbm90IG51bGwgJyArCiAgICAgICAgICAgICAgICAnQU5EIFVzZXIuc3RhdHVzID0gMSAnICsKICAgICAgICAgICAgICAgICdBTkQgdGltZXN0YW1wZGlmZihEQVksIFVzZXIuQWNjZXNzZWRPbiwgTm93KCkpID4gMiAnICsKICAgICAgICAgICAgICAgICdPUkRFUiBCWSBkYXlzU2luY2VMYXN0QWNjZXNzIGRlc2M7JywgZnVuY3Rpb24gKGVyciwgcmVzdWx0cykgewogICAgICAgICAgICAgICAgaWYgKGVycikgdGhyb3cgZXJyOwogICAgICAgICAgICAgICAgdmFyIGNvbnRlbnQgPSAnJzsKICAgICAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgcmVzdWx0cy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgICAgIHZhciBpc0V2ZW4gPSBpICUgMiA9PT0gMDsKICAgICAgICAgICAgICAgICAgICBpZiAoaXNFdmVuKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRlbnQgKz0gJzx0ciBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjogI2YyZjJmMjsiPicKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50ICs9ICc8dHI+JzsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgY29udGVudCArPSAnPHRkPicgKyByZXN1bHRzW2ldLmFjY291bnROYW1lICsgJzwvdGQ+JwogICAgICAgICAgICAgICAgICAgICAgICArICc8dGQ+JyArIHJlc3VsdHNbaV0uYWNjb3VudFR5cGUgKyAnPC90ZD4nCiAgICAgICAgICAgICAgICAgICAgICAgICsgJzx0ZD4nICsgcmVzdWx0c1tpXS5yZWdJZCArICc8L3RkPicKICAgICAgICAgICAgICAgICAgICAgICAgKyAnPHRkPicgKyByZXN1bHRzW2ldLm5hbWUgKyAnPC90ZD4nCiAgICAgICAgICAgICAgICAgICAgICAgICsgJzx0ZD4nICsgcmVzdWx0c1tpXS5kYXlzU2luY2VMYXN0QWNjZXNzICsgJzwvdGQ+JwogICAgICAgICAgICAgICAgICAgICAgICArICc8dGQ+JyArIG1vbWVudChyZXN1bHRzW2ldLmxhc3RBY2Nlc3MpLmZvcm1hdCgnTExMJykgKyAnPC90ZD4nCiAgICAgICAgICAgICAgICAgICAgICAgICsgJzwvdHI+JzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVtYWlsVGVtcGxhdGUgPSBlbWFpbFRlbXBsYXRlLnJlcGxhY2UoJ3t7dXNlclRhYmxlQ29udGVudH19JywgY29udGVudCk7CiAgICAgICAgICAgICAgICBzZW5kUmVwb3J0KGVtYWlsVGVtcGxhdGUpOwogICAgICAgICAgICB9KTsKICAgICAgICB9KTsKICAgIH0pOwoKICAgIGZ1bmN0aW9uIHNlbmRSZXBvcnQoY29udGVudCkgewogICAgICAgIGF3cy5jb25maWcudXBkYXRlKHtyZWdpb246ICd1cy1lYXN0LTEnfSk7CiAgICAgICAgLy8gQ3JlYXRlIHNlbmRFbWFpbCBwYXJhbXMKICAgICAgICB2YXIgcGFyYW1zID0gewogICAgICAgICAgICBEZXN0aW5hdGlvbjogewogICAgICAgICAgICAgICAgVG9BZGRyZXNzZXM6IFsKICAgICAgICAgICAgICAgICAgICAncGhvZW5peEBidWlsZHNvZnQuY29tLmF1JywKICAgICAgICAgICAgICAgICAgICAnc3RldmVAYnVpbGRzb2Z0LmNvbS5hdScsCiAgICAgICAgICAgICAgICAgICAgJ2phc29uQGJ1aWxkc29mdC5jb20uYXUnLAogICAgICAgICAgICAgICAgICAgICdmcmFua0BidWlsZHNvZnQuY29tLmF1JwogICAgICAgICAgICAgICAgXQogICAgICAgICAgICB9LAogICAgICAgICAgICBNZXNzYWdlOiB7CiAgICAgICAgICAgICAgICBCb2R5OiB7CiAgICAgICAgICAgICAgICAgICAgSHRtbDogewogICAgICAgICAgICAgICAgICAgICAgICBDaGFyc2V0OiAiVVRGLTgiLAogICAgICAgICAgICAgICAgICAgICAgICBEYXRhOiBjb250ZW50CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIFN1YmplY3Q6IHsKICAgICAgICAgICAgICAgICAgICBDaGFyc2V0OiAnVVRGLTgnLAogICAgICAgICAgICAgICAgICAgIERhdGE6ICdXZWVrbHkgQmFydGVuZGVyIExvdyBVc2FnZSBSZXBvcnQnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIFNvdXJjZTogJ2JhcnRlbmRlckBidWlsZHNvZnQuY29tLmF1JwogICAgICAgIH07CiAgICAgICAgdmFyIHNlcyA9IG5ldyBhd3MuU0VTKHsKICAgICAgICAgICAgYWNjZXNzS2V5SWQ6ICdBS0lBSk00VUpOU0hSM0tGRlpTUScsCiAgICAgICAgICAgIHNlY3JldEFjY2Vzc0tleTogJ0xCNHpqYW9XQTFIaS9oYXp5aGRyWGdEQ05XSmZaRGVRNSsyaEx0ZVQnLAogICAgICAgICAgICBhcGlWZXJzaW9uOiAnMjAxMC0xMi0wMScKICAgICAgICB9KTsKICAgICAgICBzZXMuc2VuZEVtYWlsKHBhcmFtcykucHJvbWlzZSgpLnRoZW4oZnVuY3Rpb24gKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygnUmVwb3J0IHNlbnQgc3VjY2Vzc2Z1bGx5Jyk7CiAgICAgICAgICAgIGNvbnRleHQuY2FsbGJhY2tXYWl0c0ZvckVtcHR5RXZlbnRMb29wID0gZmFsc2U7CiAgICAgICAgICAgIGNhbGxiYWNrKG51bGwsIHRydWUpOwogICAgICAgIH0pLmNhdGNoKGZ1bmN0aW9uIChlcnIpIHsKICAgICAgICAgICAgdGhyb3cgZXJyOwogICAgICAgIH0pOwogICAgfQp9Cg==</text>
+        <text encoding="base64">I2I6OgpTZW5kLCB7Q29udHJvbCBEb3dufXtBbHQgRG93bn17YiBEb3dufXtiIFVwfXtBbHQgVXB9e0NvbnRyb2wgVXB9ClJldHVybgo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
@@ -529,9 +533,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyVGFibGVDb250ZW50XD4=</last-search>
+      <last-search>a</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyVGFibGVDb250ZW50XD4=</last-pattern>
+      <last-pattern>a</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute encoding="base64">XDw2XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -539,7 +543,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ctrl</entry>
         <entry>l</entry>
         <entry>y</entry>
         <entry>course</entry>
@@ -559,6 +562,7 @@
         <entry>#+</entry>
         <entry encoding="base64">XDxDYW5BZGRUb0FkbWluR3JvdXBcPg==</entry>
         <entry encoding="base64">XDx1c2VyVGFibGVDb250ZW50XD4=</entry>
+        <entry>a</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
