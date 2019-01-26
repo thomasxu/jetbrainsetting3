@@ -328,11 +328,9 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548470284395">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="39" />
-        <mark key="." line="29" column="39" />
-        <mark key="^" line="29" column="39" />
+      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548473027051">
+        <mark key="'" line="41" column="21" />
+        <mark key="^" line="3" column="12" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
@@ -361,16 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="12" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
-      <jump line="47" column="9" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
-      <jump line="11" column="44" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
-      <jump line="31" column="0" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
-      <jump line="45" column="6" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
-      <jump line="15" column="12" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
-      <jump line="6" column="11" filename="C:/backup/AutoHotkey/HotKeyMac.ahk" />
-      <jump line="9" column="13" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
-      <jump line="42" column="61" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
-      <jump line="30" column="19" filename="C:/dev/git/rxjs-course/src/app/home/home.component.ts" />
       <jump line="4" column="0" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
       <jump line="7" column="0" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
       <jump line="20" column="7" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
@@ -449,7 +437,6 @@
       <jump line="110" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="125" column="1" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="25" column="9" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
-      <jump line="15" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="28" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1542" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1531" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
@@ -461,27 +448,30 @@
       <jump line="1453" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1406" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="30" column="9" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="7" column="3" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="29" column="7" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="12" column="8" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="13" column="8" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="11" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="15" column="6" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="14" column="8" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="4" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="37" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="36" column="5" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="41" column="21" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <keys>
-          <key char="106" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="98" code="0" mods="0" />
-        </keys>
+        <text>sendReport</text>
       </register>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIGRpc3RpbmN0VW50aWxDaGFuZ2VkLAogICAgc3RhcnRXaXRoLAogICAgdGFwLAogICAgZGVsYXksCiAgICBtYXAsCiAgICBjb25jYXRNYXAsCiAgICBzd2l0Y2hNYXAsCiAgICB3aXRoTGF0ZXN0RnJvbSwKICAgIGNvbmNhdEFsbCwgc2hhcmVSZXBsYXkKfSBmcm9tICdyeGpzL29wZXJhdG9ycyc7CmltcG9ydCB7bWVyZ2UsIGZyb21FdmVudCwgT2JzZXJ2YWJsZSwgY29uY2F0fSBmcm9tICdyeGpzJzsgaW1wb3J0IHtMZXNzb259IGZyb20gJy4uL21vZGVsL2xlc3Nvbic7IGltcG9ydCB7Y3JlYXRlSHR0cE9ic2VydmFibGV9IGZyb20gJy4uL2NvbW1vbi91dGlsJzsgaW1wb3J0IHtTdG9yZX0gZnJvbSAnLi4vY29tbW9uL3N0b3JlLnNlcnZpY2UnOwoKCkBDb21wb25lbnQoewogICAgc2VsZWN0b3I6ICdjb3Vyc2UnLAogICAgdGVtcGxhdGVVcmw6ICcuL2NvdXJzZS5jb21wb25lbnQuaHRtbCcsCiAgICBzdHlsZVVybHM6IFsnLi9jb3Vyc2UuY29tcG9uZW50LmNzcyddCn0pCmV4cG9ydCBjbGFzcyBDb3Vyc2VDb21wb25lbnQgaW1wbGVtZW50cyBPbkluaXQsIEFmdGVyVmlld0luaXQgewoKICAgIGNvdXJzZUlkOm51bWJlcjsKCiAgICBjb3Vyc2UkIDogT2JzZXJ2YWJsZTxDb3Vyc2U+OwoKICAgIGxlc3NvbnMkOiBPYnNlcnZhYmxlPExlc3NvbltdPjsKCg==</text>
       </register>
       <register name="b" type="4">
         <text>GroupBy</text>
+      </register>
+      <register name="c" type="4">
+        <text>content</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -502,76 +492,72 @@
       <register name="i" type="4">
         <text>tradePackageItem</text>
       </register>
+      <register name="+" type="4">
+        <text>sendReport</text>
+      </register>
       <register name="l" type="4">
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>aws</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwnXD4=</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IWE6OgpTZW5kLCB7Q29udHJvbCBEb3dufXthIERvd259e2EgVXB9e0NvbnRyb2wgVXB9ClJldHVybgo=</text>
+        <text encoding="base64">ICAgIHZhciBzMyA9IG5ldyBhd3MuUzMoewogICAgICAgIGFjY2Vzc0tleUlkOiAnQUtJQUpIU0g0UkJCNjc3SURaREEnLAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogJ01MSFBMT2U1QVNOMFhtSzYvWGRrLzhQQUlUY2JiUEpDSkR0MzVwcWsnCiAgICB9KTsK</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">UzMoewogICAgICAgIGFjY2Vzc0tleUlkOiAnQUtJQUpIU0g0UkJCNjc3SURaREEnLAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogJ01MSFBMT2U1QVNOMFhtSzYvWGRrLzhQQUlUY2JiUEpDSkR0MzVwcWsnCiAgICB9KTsK</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhciBzMyA9IG5ldyBhd3MuUzMoewogICAgICAgIGFjY2Vzc0tleUlkOiAnQUtJQUpIU0g0UkJCNjc3SURaREEnLAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogJ01MSFBMT2U1QVNOMFhtSzYvWGRrLzhQQUlUY2JiUEpDSkR0MzVwcWsnCiAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICh7fSlfe30pXygpe30K</text>
+        <text encoding="base64">ICAgIHZhciBzMyA9IG5ldyBhd3MuUzMoewogICAgICAgIGFjY2Vzc0tleUlkOiAnQUtJQUpIU0g0UkJCNjc3SURaREEnLAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogJ01MSFBMT2U1QVNOMFhtSzYvWGRrLzhQQUlUY2JiUEpDSkR0MzVwcWsnCiAgICB9KTsK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICp7fVtdKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBob3N0OiAib25saW5lLWFwcHMuY3ZyNG9wM2t1ZWZsLmFwLXNvdXRoZWFzdC0yLnJkcy5hbWF6b25hd3MuY29tIiwKICAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICAgdXNlcjogImRiYWRtaW4iLAogICAgICAgIHBhc3N3b3JkOiAiUll5aG42UjJoblRTYmFYMiIsCiAgICAgICAgZGF0YWJhc2U6ICJiYXJ0ZW5kZXIi</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bmV3IGF3cy5TMyh7CiAgICAgICAgYWNjZXNzS2V5SWQ6ICdBS0lBSkhTSDRSQkI2NzdJRFpEQScsCiAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiAnTUxIUExPZTVBU04wWG1LNi9YZGsvOFBBSVRjYmJQSkNKRHQzNXBxaycKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBob3N0OiAib25saW5lLWFwcHMuY3ZyNG9wM2t1ZWZsLmFwLXNvdXRoZWFzdC0yLnJkcy5hbWF6b25hd3MuY29tIiwKICAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICAgdXNlcjogImRiYWRtaW4iLAogICAgICAgIHBhc3N3b3JkOiAiUll5aG42UjJoblRTYmFYMiIsCiAgICAgICAgZGF0YWJhc2U6ICJiYXJ0ZW5kZXIi</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICB2YXIgczMgPSA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0cy5teUhhbmRsZXIgPSBmdW5jdGlvbiAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSB7CiAgICBjb25zb2xlLmxvZygnc3RhcnQgQmFydGVuZGVyIFF1b3RlIFZhbGlkYScpOwogICAgbGV0IG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKTsKICAgIGxldCBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7CiAgICBsZXQgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogICAgICAgaG9zdDogIm9ubGluZS1hcHBzLmN2cjRvcDNrdWVmbC5hcC1zb3V0aGVhc3QtMi5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICB1c2VyOiAiZGJhZG1pbiIsCiAgICAgICBwYXNzd29yZDogIlJZeWhuNlIyaG5UU2Jhc1gyIiwKICAgICAgIGRhdGFiYXNlOiAiYmFydGVuZGVyIgogICAgfSk7CiAgICBsZXQgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3NLZXlJZDogIkFERkFTREZTQURGNDEzMjQxMzI0IiwKICAgICAgICBzZWNyZXRBY2Nlc3NLZXk6ICJNTEhNTDMyNDMyMTQyMTM0IgogICAgfSk7Cgp9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBzMyA9IG5ldyBhd3MuUzMoewogICAgICAgIGFjY2Vzc0tleUlkOiAnQUtJQUpIU0g0UkJCNjc3SURaREEnLAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogJ01MSFBMT2U1QVNOMFhtSzYvWGRrLzhQQUlUY2JiUEpDSkR0MzVwcWsnCg==</text>
+        <text encoding="base64">ZXhwb3J0cy5teUhhbmRsZXIgPSBmdW5jdGlvbiAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSB7CiAgICBjb25zb2xlLmxvZygnc3RhcnQgQmFydGVuZGVyIFF1b3RlIFZhbGlkYScpOwogICAgbGV0IG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKTsKICAgIGxldCBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7CiAgICBsZXQgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogICAgICAgaG9zdDogIm9ubGluZS1hcHBzLmN2cjRvcDNrdWVmbC5hcC1zb3V0aGVhc3QtMi5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICB1c2VyOiAiZGJhZG1pbiIsCiAgICAgICBwYXNzd29yZDogIlJZeWhuNlIyaG5UU2Jhc1gyIiwKICAgICAgIGRhdGFiYXNlOiAiYmFydGVuZGVyIgogICAgfSk7CiAgICBsZXQgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3NLZXlJZDogIkFERkFTREZTQURGNDEzMjQxMzI0IiwKICAgICAgICBzZWNyZXRBY2Nlc3NLZXk6ICJNTEhNTDMyNDMyMTQyMTM0IgogICAgfSk7Cgp9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB2YXIgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3NLZXlJZDogJ0FLSUFKSFNINFJCQjY3N0lEWkRBJywKICAgICAgICBzZWNyZXRBY2Nlc3NLZXk6ICdNTEhQTE9lNUFTTjBYbUs2L1hkay84UEFJVGNiYlBKQ0pEdDM1cHFrJwogICAgfSk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0cy5teUhhbmRsZXIgPSBmdW5jdGlvbiAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSB7CiAgICBjb25zb2xlLmxvZygnc3RhcnQgQmFydGVuZGVyIFF1b3RlIFZhbGlkYScpOwogICAgbGV0IG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKTsKICAgIGxldCBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7CiAgICBsZXQgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogICAgICAgaG9zdDogIm9ubGluZS1hcHBzLmN2cjRvcDNrdWVmbC5hcC1zb3V0aGVhc3QtMi5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICB1c2VyOiAiZGJhZG1pbiIsCiAgICAgICBwYXNzd29yZDogIlJZeWhuNlIyaG5UU2Jhc1gyIiwKICAgICAgIGRhdGFiYXNlOiAiYmFydGVuZGVyIgogICAgfSk7CiAgICBsZXQgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3NLZXlJZDogIkFERkFTREZTQURGNDEzMjQxMzI0IiwKICAgICAgICBzZWNyZXRBY2Nlc3NLZXk6ICJNTEhNTDMyNDMyMTQyMTM0IgogICAgfSk7Cgp9OwpleHBvcnRzLm15SGFuZGxlciA9ICBmdW5jdGlvbihldmVudCwgY29udGV4dCwgY2FsbGJhY2spIHsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">S2V5SWQ6ICdBS0lBSkhTSDRSQkI2NzdJRFpEQScsCiAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiAnTUxIUExPZTVBU04wWG1LNi9YZGsvOFBBSVRjYmJQSkNKRHQzNXBxaycKICAgIH0pOwo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZXhwb3J0cy5teUhhbmRsZXIgPSBmdW5jdGlvbiAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSB7CiAgICBjb25zb2xlLmxvZygnc3RhcnQgQmFydGVuZGVyIFF1b3RlIFZhbGlkYScpOwogICAgbGV0IG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKTsKICAgIGxldCBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7CiAgICBsZXQgY29ubmVjdGlvbiA9IG15c3FsLmNyZWF0ZUNvbm5lY3Rpb24oewogICAgICAgaG9zdDogIm9ubGluZS1hcHBzLmN2cjRvcDNrdWVmbC5hcC1zb3V0aGVhc3QtMi5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICBwb3J0OiAiMzMwNiIsCiAgICAgICB1c2VyOiAiZGJhZG1pbiIsCiAgICAgICBwYXNzd29yZDogIlJZeWhuNlIyaG5UU2Jhc1gyIiwKICAgICAgIGRhdGFiYXNlOiAiYmFydGVuZGVyIgogICAgfSk7CiAgICBsZXQgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3NLZXlJZDogIkFERkFTREZTQURGNDEzMjQxMzI0IiwKICAgICAgICBzZWNyZXRBY2Nlc3NLZXk6ICJNTEhNTDMyNDMyMTQyMTM0IgogICAgfSk7Cgo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICB2YXIgczMgPSBuZXcgYXdzLlMzKHsKICAgICAgICBhY2Nlc3M=</text>
+        <text encoding="base64">bXlzcWwuY3JlYXRlQ29ubmVjdGlvbih7CiAgICAgICBob3N0OiAib25saW5lLWFwcHMuY3ZyNG9wM2t1ZWZsLmFwLXNvdXRoZWFzdC0yLnJkcy5hbWF6b25hd3MuY29tIiwKICAgICAgIHBvcnQ6ICIzMzA2IiwKICAgICAgIHVzZXI6ICJkYmFkbWluIiwKICAgICAgIHBhc3N3b3JkOiAiUll5aG42UjJoblRTYmFzWDIiLAogICAgICAgZGF0YWJhc2U6ICJiYXJ0ZW5kZXIiCiAgICB9KTsKICAgIGxldCBzMyA9IG5ldyBhd3MuUzMoewogICAgICAgIGFjY2Vzc0tleUlkOiAiQURGQVNERlNBREY0MTMyNDEzMjQiLAogICAgICAgIHNlY3JldEFjY2Vzc0tleTogIk1MSE1MMzI0MzIxNDIxMzQiCiAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwnXD4=</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute encoding="base64">XDw2XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CourseType</entry>
-        <entry>!</entry>
-        <entry>cl</entry>
-        <entry>course-th</entry>
-        <entry>course-thumbnail</entry>
-        <entry>j</entry>
-        <entry>sass</entry>
         <entry>class</entry>
         <entry>insert</entry>
         <entry>ins</entry>
@@ -581,10 +567,17 @@
         <entry>#+</entry>
         <entry encoding="base64">XDxDYW5BZGRUb0FkbWluR3JvdXBcPg==</entry>
         <entry encoding="base64">XDx1c2VyVGFibGVDb250ZW50XD4=</entry>
-        <entry>a</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDwnXD4=</entry>
+        <entry>}</entry>
+        <entry>2}</entry>
+        <entry>reg</entry>
+        <entry>:register</entry>
+        <entry>:reg</entry>
+        <entry>registers</entry>
+        <entry>a</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
