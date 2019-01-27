@@ -47,9 +47,6 @@
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.Move" />
-  <action id="ChangesView.Rename">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -65,6 +62,9 @@
   <action id="CodeInspection.OnEditor" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
@@ -88,7 +88,6 @@
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="Diff.ShowDiff">
-    <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorCodeBlockEnd">
@@ -108,6 +107,7 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -169,6 +169,7 @@
   <action id="Git.Commit.And.Push.Executor">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
     <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
@@ -202,10 +203,6 @@
     <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
   <action id="GotoNextBookmark" />
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="alt page_down" />
-    <keyboard-shortcut first-keystroke="alt open_bracket" />
-  </action>
   <action id="GotoPreviousBookmark" />
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="alt home" />
@@ -253,7 +250,6 @@
     <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
   <action id="JumpToStatement">
-    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
   <action id="LocateInSolutionView" />
@@ -307,6 +303,10 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="ReSharperGotoNextErrorInSolution">
+    <keyboard-shortcut first-keystroke="shift alt page_down" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
   <action id="ReSharperMoveStatementLeft" />
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
@@ -333,9 +333,10 @@
   <action id="RiderNuGetQuickListPopupAction" />
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestCoverSolutionAction" />
-  <action id="RiderUnitTestDebugContextAction" />
+  <action id="RiderUnitTestDebugContextAction">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="RiderUnitTestDotMemoryUnitAction" />
-  <action id="RiderUnitTestFocusSessionAction" />
   <action id="RiderUnitTestNewSessionAction" />
   <action id="RiderUnitTestQuickListPopupAction" />
   <action id="RiderUnitTestRepeatPreviousRunAction" />
@@ -379,12 +380,8 @@
     <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
   <action id="SilentCodeCleanup" />
-  <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="ctrl alt t" />
-  </action>
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="shift alt comma" />
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="ToggleBookmark" />
@@ -418,10 +415,15 @@
   <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
-  <action id="ViewBreakpoints" />
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
+  </action>
   <action id="XDebugger.AttachToProcess">
     <keyboard-shortcut first-keystroke="ctrl alt f5" />
     <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
