@@ -89,6 +89,9 @@
         <mark key="]" line="394" column="0" />
         <mark key="." line="394" column="0" />
       </file>
+      <file name="/user-preference.service.ts" timestamp="1548632923923">
+        <mark key="'" line="152" column="0" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Enums/QuoteLifecycleStatus.cs" timestamp="1543201764073">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -115,6 +118,12 @@
       </file>
       <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1548305569751">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" timestamp="1548633761494">
+        <mark key="[" line="77" column="81" />
+        <mark key="]" line="77" column="80" />
+        <mark key="." line="77" column="80" />
+        <mark key="^" line="77" column="80" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/HealthServer/Response/HealthServerResponse.cs" timestamp="1548280095656">
         <mark key="[" line="4" column="1" />
@@ -147,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="2" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="46" column="3" filename="C:/AutoHotkey/HotKeyMac.ahk" />
       <jump line="355" column="0" filename="C:/dev/git/rxjs-course/server/get-courses.route.ts" />
       <jump line="55" column="8" filename="C:/dev/git/rxjs-course/src/app/app.module.ts" />
@@ -247,6 +255,7 @@
       <jump line="36" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" />
       <jump line="13" column="33" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" />
       <jump line="12" column="20" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" />
+      <jump line="152" column="0" filename="/user-preference.service.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -280,37 +289,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFhYSA9ICJhYmMiOwogICAgICAgICAgICB2YXIgdGhvbWFzMiA9IHRob21hczsK</text>
+        <text encoding="base64">ICAgIHRoaXMuYWN0aXZhdGVkUm91dGUxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbUm91dGUoIntqb2JJZDppbnR9L3Jldmlld2dyaWQiKV0KICAgICAgICBbQXV0aG9yaXplKFJvbGVzID0gIkFjY291bnRVc2VyLCBBY2NvdW50TWFuYWdlciwgQWNjb3VudEFkbWluLCBBY2NvdW50VHJ1c3RlZFVzZXIiKV0KICAgICAgICBbVXNlclZpZXdPd25Kb2JdCiAgICAgICAgW0h0dHBHZXRdCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubG9hZGluZ0V4cGVyaWVuY2VTZXJ2aWNlLmVuYWJsZUxvYWRpbmdFeHBlcmllbmNlKCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubG9hZGluZ0V4cGVyaWVuY2VTZXJ2aWNlLmVuYWJsZUxvYWRpbmdFeHBlcmllbmNlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmFsaWRhdGVBcGlWZXJzaW9uQW5kU3RhdGUoc3RlcnNhZGYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFhYSA9ICJhYmMiOwogICAgICAgICAgICB2YXIgdGhvbWFzMiA9IHRob21hczsK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmFsaWRhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBbUm91dGUoIntqb2JJZDppbnR9L3Jldmlld2dyaWQiKV0KICAgICAgICBbQXV0aG9yaXplKFJvbGVzID0gIkFjY291bnRVc2VyLCBBY2NvdW50TWFuYWdlciwgQWNjb3VudEFkbWluLCBBY2NvdW50VHJ1c3RlZFVzZXIiKV0KICAgICAgICBbVXNlclZpZXdPd25Kb2JdCiAgICAgICAgW0h0dHBHZXRdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoISgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmFsaWRhdGVBcGlWZXJzaW9uQW5kU3RhdGUoc3RlcnNhZGYpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmFsaWRhdGUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90cmFkZVBhY2thZ2VJZCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiVHJhZGVQYWNrYWdlSWQgaXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFJlc29sdmVRdW90ZUFtb3VudFJlcXVlc3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
