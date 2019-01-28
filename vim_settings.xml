@@ -134,12 +134,12 @@
         <mark key="^" line="21" column="35" />
         <mark key="." line="21" column="35" />
       </file>
-      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" timestamp="1548665359273">
-        <mark key="'" line="1519" column="13" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="48" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="1523" column="51" />
+      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" timestamp="1548672013784">
+        <mark key="'" line="1312" column="26" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="14" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/thread-section/userNameSelector.ts" timestamp="1546938678266">
         <mark key="]" line="4" column="0" />
@@ -373,7 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
       <jump line="82" column="17" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
       <jump line="88" column="0" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
       <jump line="67" column="35" filename="C:/dev/git/ngrx-course/src/app/store/actions.ts" />
@@ -473,6 +472,7 @@
       <jump line="19" column="8" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
       <jump line="1378" column="17" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
       <jump line="1519" column="13" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1312" column="26" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -503,7 +503,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>handler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</text>
