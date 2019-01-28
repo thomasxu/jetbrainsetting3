@@ -108,12 +108,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/profile-popup/profile-popup.component.ts" timestamp="1548593674356" />
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.ts" timestamp="1548070806324">
-        <mark key="[" line="172" column="25" />
-        <mark key="]" line="172" column="24" />
-        <mark key="^" line="172" column="24" />
-        <mark key="." line="172" column="24" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.ts" timestamp="1548636925299">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="174" column="24" />
+        <mark key="^" line="174" column="24" />
+        <mark key="." line="174" column="24" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/store/reducers/uiStateReducer.ts" timestamp="1546919531353">
         <mark key="[" line="44" column="23" />
@@ -164,7 +164,6 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/comparison.component.html" timestamp="1548594037373" />
       <file name="C:/dev/git/ngrx-course/src/app/user-selection/user-selection.component.html" timestamp="1546931163448">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="28" />
@@ -187,6 +186,12 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/services/supplier-guard.service.ts" timestamp="1548636932552">
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="32" />
+        <mark key="^" line="37" column="32" />
+        <mark key="." line="37" column="32" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/chat-message/chat-message.component.html" timestamp="1546866830787">
         <mark key="[" line="0" column="64" />
@@ -339,7 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="13" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="42" column="61" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
       <jump line="30" column="19" filename="C:/dev/git/rxjs-course/src/app/home/home.component.ts" />
       <jump line="4" column="0" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
@@ -439,6 +443,7 @@
       <jump line="201" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="0" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/profile-popup-password/profile-popup-password.component.html" />
       <jump line="122" column="2" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/profile-popup-password/profile-popup-password.component.ts" />
+      <jump line="40" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -450,6 +455,15 @@
       <register name="b" type="4">
         <text>GroupBy</text>
       </register>
+      <register name="d" type="4">
+        <keys>
+          <key char="106" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="f" type="4">
         <text />
       </register>
@@ -460,13 +474,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>updateOiw</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
-        <text>message</text>
+        <text>jobTradePackage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmb3JtRmllbGQobmFtZTogc3RyaW5nKTogRm9ybUNvbnRyb2w7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVwbGF5U3ViamVjdCA9IG5ldyBSZXBsYXlTdWJqZWN0KDIpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
@@ -509,9 +523,9 @@
       </register>
     </registers>
     <search>
-      <last-search>message</last-search>
+      <last-search>jobTradePackage</last-search>
       <last-offset />
-      <last-pattern>message</last-pattern>
+      <last-pattern>jobTradePackage</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>CourseType</last-substitute>
       <last-dir>1</last-dir>
@@ -519,7 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>j</entry>
         <entry>sass</entry>
         <entry>class</entry>
         <entry encoding="base64">bWFwIDxDLUw+IDIwemwgIiBTY3JvbGwgMjAgY2hhcmFjdGVycyB0byB0aGUgcmlnaHQ=</entry>
@@ -539,6 +552,7 @@
         <entry>Home</entry>
         <entry>y</entry>
         <entry>message</entry>
+        <entry>jobTradePackage</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
