@@ -134,6 +134,13 @@
         <mark key="^" line="21" column="35" />
         <mark key="." line="21" column="35" />
       </file>
+      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" timestamp="1548665359273">
+        <mark key="'" line="1519" column="13" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="48" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="1523" column="51" />
+      </file>
       <file name="C:/dev/git/ngrx-course/src/app/thread-section/userNameSelector.ts" timestamp="1546938678266">
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="1" />
@@ -170,6 +177,7 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/Downloads/total_mismatch_data.json" timestamp="1548664219562" />
       <file name="C:/dev/git/ngrx-course/src/app/store/effects/server-notifications-effect.service.ts" timestamp="1546869285572">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="20" column="19" />
@@ -365,19 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="7" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
-      <jump line="33" column="6" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
-      <jump line="103" column="0" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
-      <jump line="23" column="44" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
-      <jump line="17" column="0" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
-      <jump line="2" column="11" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
-      <jump line="35" column="3" filename="C:/AutoHotkey/HotKeyMac.ahk" />
-      <jump line="0" column="0" filename="C:/AutoHotkey/HotKeyMac.ahk" />
-      <jump line="58" column="0" filename="C:/dev/git/rxjs-course/src/app/course/course.component.css" />
-      <jump line="60" column="0" filename="C:/dev/git/rxjs-course/src/app/course/course.component.css" />
-      <jump line="26" column="6" filename="C:/AutoHotkey/HotKey.ahk" />
-      <jump line="60" column="19" filename="C:/dev/git/rxjs-course/src/app/course/course.component.ts" />
-      <jump line="82" column="87" filename="C:/dev/git/rxjs-course/src/app/course/course.component.ts" />
       <jump line="42" column="0" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
       <jump line="82" column="17" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
       <jump line="88" column="0" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
@@ -465,6 +460,19 @@
       <jump line="55" column="181" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" />
       <jump line="115" column="20" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" />
       <jump line="7" column="44" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.html" />
+      <jump line="0" column="8" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1520" column="33" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="17" column="8" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1382" column="12" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1405" column="24" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1410" column="20" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1517" column="13" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1221" column="20" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1522" column="51" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1523" column="21" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="19" column="8" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1378" column="17" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1519" column="13" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -495,58 +503,58 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
-        <text>tradePackageLifeCycleList</text>
+        <text encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>tradePackageLifeCycleList</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBDaGFuZ2UgaXQgYmFjayB0byBiYXJ0ZW5kZXItcHJvZAo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJlbmRlcmVyMjogUmVuZGVyZXIyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9tYXQtbWVudT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBpID0gMDsKICAgICAgICAgICAgICAgIGZvciAobGV0IGogPSAwOyBqIDwgMTk7IGorKykgewoK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PG1hdC1tZW51ICNjb250ZXh0TWVudT0ibWF0TWVudSI+CiAgPGJ1dHRvbiBtYXQtbWVudS1pdGVtICpuZ0lmPSJpc0luRGVjbGluZVN0YXR1czsgZWxzZSBkZWNsaW5lIiAoY2xpY2spPSJvbkFjY2VwdEludml0YXRpb24oKSI+QWNjZXB0PC9idXR0b24+CiAgPG5nLXRlbXBsYXRlICNkZWNsaW5lPgogICAgPGJ1dHRvbiBtYXQtbWVudS1pdGVtICNkZWNsaW5lIChjbGljayk9Im9uRGVjbGluZUludml0YXRpb24oKSI+RGVjbGluZTwvYnV0dG9uPgogIDwvbmctdGVtcGxhdGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBuZy10ZQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHJlbmRlcmVyMjogUmVuZGVyZXIyLAo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAqbmdGb3I9IiIK</text>
+        <text encoding="base64">PC9tYXQtbWVudT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXBkYXRlT246ICdibHVyJwo=</text>
+        <text encoding="base64">PG1hdC1tZW51ICNjb250ZXh0TWVudT0ibWF0TWVudSI+CiAgPGJ1dHRvbiBtYXQtbWVudS1pdGVtICpuZ0lmPSJpc0luRGVjbGluZVN0YXR1czsgZWxzZSBkZWNsaW5lIiAoY2xpY2spPSJvbkFjY2VwdEludml0YXRpb24oKSI+QWNjZXB0PC9idXR0b24+CiAgPG5nLXRlbXBsYXRlICNkZWNsaW5lPgogICAgPGJ1dHRvbiBtYXQtbWVudS1pdGVtICNkZWNsaW5lIChjbGljayk9Im9uRGVjbGluZUludml0YXRpb24oKSI+RGVjbGluZTwvYnV0dG9uPgogIDwvbmctdGVtcGxhdGU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdXBkYXRlT246ICdibHVyJwo=</text>
+        <text encoding="base64">ICBuZy10ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqbmdGb3I9IiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvcm1GaWVsZChuYW1lOiBzdHJpbmcpOiBGb3JtQ29udHJvbDsK</text>
+        <text encoding="base64">ICAgICAgdXBkYXRlT246ICdibHVyJwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>tradePackageLifeCycleList</last-search>
+      <last-search encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>tradePackageLifeCycleList</last-pattern>
+      <last-pattern encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>CourseType</last-substitute>
       <last-dir>1</last-dir>
@@ -554,10 +562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sass</entry>
-        <entry>class</entry>
-        <entry encoding="base64">bWFwIDxDLUw+IDIwemwgIiBTY3JvbGwgMjAgY2hhcmFjdGVycyB0byB0aGUgcmlnaHQ=</entry>
-        <entry encoding="base64">bWFwIDxDLUw+IDIwemw=</entry>
         <entry>:nnoremap zL 20zl</entry>
         <entry>:nnoremap k gk</entry>
         <entry encoding="base64">XDxSZXBsYWNlUXVvdGVBbW91bnRSZXF1ZXN0XD4=</entry>
@@ -574,6 +578,10 @@
         <entry>message</entry>
         <entry>jobTradePackage</entry>
         <entry>tradePackageLifeCycleList</entry>
+        <entry encoding="base64">XDxtaXNtYXRjaERhdGFcPg==</entry>
+        <entry>bartender-staging</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
