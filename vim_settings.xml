@@ -205,10 +205,12 @@
       <file name="/job-tradepackage-life-cycle-item.component.ts" timestamp="1548204101456">
         <mark key="'" line="79" column="60" />
       </file>
-      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" timestamp="1548721736029">
-        <mark key="'" line="1480" column="27" />
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="57" />
+      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" timestamp="1548724204899">
+        <mark key="'" line="1481" column="0" />
+        <mark key="[" line="1380" column="31" />
+        <mark key="]" line="1381" column="7" />
+        <mark key="." line="1381" column="7" />
+        <mark key="^" line="1381" column="7" />
       </file>
       <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548720147761">
         <mark key="'" line="7" column="4" />
@@ -482,10 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="80" column="2" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="46" column="3" filename="C:/AutoHotkey/HotKeyMac.ahk" />
-      <jump line="355" column="0" filename="C:/dev/git/rxjs-course/server/get-courses.route.ts" />
       <jump line="55" column="8" filename="C:/dev/git/rxjs-course/src/app/app.module.ts" />
       <jump line="20" column="0" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="25" column="4" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
@@ -582,6 +580,10 @@
       <jump line="25" column="77" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-supplier-progress-item/job-tradepackage-supplier-progress-item.component.html" />
       <jump line="0" column="0" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
       <jump line="1480" column="27" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1377" column="32" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1378" column="0" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1448" column="46" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1474" column="0" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -603,27 +605,48 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>85</text>
+        <text>scan db</text>
       </register>
       <register name="/" type="4">
         <text>region</text>
       </register>
-      <register name="0" type="4">
-        <text>ap-southeast-2</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmVmb3JlIHJlZGlzIGdldCB2aW9sYXRpb24nKQo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RXNjOjoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnZXRUb29sdGlwKGNvbnRlbnQ6IHN0cmluZykgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcnKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXIgc2NhbiBkYicpOwo=</text>
+      </register>
+      <register name="t" type="4">
+        <text>TradePackag</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmVmb3JlIHNjYW4gZGInKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBiZWZvcmUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">RXNjOjoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBnZXRUb29sdGlwKGNvbnRlbnQ6IHN0cmluZykgCg==</text>
+      </register>
+      <register name="9" type="4">
         <text>{
     const options = new TooltipOptions();
     options.content = content;
@@ -631,27 +654,6 @@
     option.position = [TooltipPosition.Right, TooltipPosition.Center];
     return option;
   }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoISgpKQo=</text>
-      </register>
-      <register name="t" type="4">
-        <text>TradePackag</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90cmFkZVBhY2thZ2VJZCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiVHJhZGVQYWNrYWdlSWQgaXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFJlc29sdmVRdW90ZUFtb3VudFJlcXVlc3QiKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGhpZGRlbkRyb3Bkb3duSXRlbS5xdWVyeVNlbGVjdG9yKCcjaGlkZGVuLWRyb3Bkb3duLW1lbnUtbGlzdCcpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCB0aG9tYXMgPSAxOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
