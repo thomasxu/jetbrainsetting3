@@ -205,12 +205,11 @@
       <file name="/job-tradepackage-life-cycle-item.component.ts" timestamp="1548204101456">
         <mark key="'" line="79" column="60" />
       </file>
-      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" timestamp="1548729689523">
-        <mark key="'" line="1482" column="0" />
-        <mark key="[" line="1377" column="33" />
-        <mark key="]" line="1375" column="14" />
-        <mark key="." line="1375" column="14" />
-        <mark key="^" line="1375" column="14" />
+      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" timestamp="1548733734340">
+        <mark key="'" line="1487" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548720147761">
         <mark key="'" line="7" column="4" />
@@ -415,6 +414,7 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/package.json" timestamp="1548733770492" />
       <file name="C:/dev/git/rxjs-course/LICENSE" timestamp="1546840939907">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="9" column="23" />
@@ -605,55 +605,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>staging</text>
+        <text>aws</text>
       </register>
       <register name="/" type="4">
         <text>region</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmVmb3JlIHJlZGlzIGdldCB2aW9sYXRpb24nKQo=</text>
+        <text encoding="base64">ICAgIHZhciBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhciBleHRlcm5hbGlwID0gcmVxdWlyZSgnZXh0ZXJuYWxpcCcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpcCcgKyBleHRlcm5hbElwKTsK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcnKQo=</text>
+        <text encoding="base64">ICAgIHVzZSBleHRlcm5hbGlwIHBhY2thZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXIgc2NhbiBkYicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmVmb3JlIHNjYW4gZGInKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RXNjOjoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXIgc2NhbiBkYicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXRUb29sdGlwKGNvbnRlbnQ6IHN0cmluZykgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmVmb3JlIHNjYW4gZGInKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-    const options = new TooltipOptions();
-    options.content = content;
-    options.visibility = TooltipVisibility.Always;
-    option.position = [TooltipPosition.Right, TooltipPosition.Center];
-    return option;
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBiZWZvcmUK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
