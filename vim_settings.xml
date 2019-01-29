@@ -319,6 +319,15 @@
         <mark key="^" line="44" column="29" />
         <mark key="." line="44" column="23" />
       </file>
+      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548720147761">
+        <mark key="'" line="7" column="4" />
+        <mark key="x" line="11" column="0" />
+        <mark key="y" line="13" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/Core/SingleJobSeedConfiguration.cs" timestamp="1547542700245">
         <mark key="[" line="51" column="12" />
         <mark key="]" line="82" column="11" />
@@ -587,7 +596,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>content:string</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>isS</text>
@@ -599,9 +608,15 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">RXNjOjoK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICBnZXRUb29sdGlwKGNvbnRlbnQ6IHN0cmluZykgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="r" type="4">
+        <text>Repository</text>
+      </register>
+      <register name="3" type="4">
         <text>{
     const options = new TooltipOptions();
     options.content = content;
@@ -610,29 +625,23 @@
     return option;
   }</text>
       </register>
-      <register name="r" type="4">
-        <text>Repository</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoISgpKQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoISgpKQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90cmFkZVBhY2thZ2VJZCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiVHJhZGVQYWNrYWdlSWQgaXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFJlc29sdmVRdW90ZUFtb3VudFJlcXVlc3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhpZGRlbkRyb3Bkb3duSXRlbS5xdWVyeVNlbGVjdG9yKCcjaGlkZGVuLWRyb3Bkb3duLW1lbnUtbGlzdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90cmFkZVBhY2thZ2VJZCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiVHJhZGVQYWNrYWdlSWQgaXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFJlc29sdmVRdW90ZUFtb3VudFJlcXVlc3QiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCB0aG9tYXMgPSAxOwo=</text>
+        <text encoding="base64">ICAgIGhpZGRlbkRyb3Bkb3duSXRlbS5xdWVyeVNlbGVjdG9yKCcjaGlkZGVuLWRyb3Bkb3duLW1lbnUtbGlzdCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCB0aG9tYXMgPSAxOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
