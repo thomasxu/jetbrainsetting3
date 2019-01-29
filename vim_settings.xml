@@ -205,11 +205,11 @@
       <file name="/job-tradepackage-life-cycle-item.component.ts" timestamp="1548204101456">
         <mark key="'" line="79" column="60" />
       </file>
-      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" timestamp="1548733734340">
-        <mark key="'" line="1487" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" timestamp="1548736421048">
+        <mark key="'" line="1544" column="13" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548720147761">
         <mark key="'" line="7" column="4" />
@@ -484,8 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="8" filename="C:/dev/git/rxjs-course/src/app/app.module.ts" />
-      <jump line="20" column="0" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="25" column="4" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="1" column="12" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="47" column="9" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
@@ -584,6 +582,8 @@
       <jump line="1378" column="0" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
       <jump line="1448" column="46" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
       <jump line="1474" column="0" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="95" column="33" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1544" column="13" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -605,10 +605,10 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>aws</text>
+        <text>SSZWv9Ka3F78raJS</text>
       </register>
       <register name="/" type="4">
-        <text>region</text>
+        <text encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBhd3MgPSByZXF1aXJlKCdhd3Mtc2RrJyk7Cg==</text>
@@ -654,9 +654,9 @@
       </register>
     </registers>
     <search>
-      <last-search>region</last-search>
+      <last-search encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>region</last-pattern>
+      <last-pattern encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -668,6 +668,7 @@
         <entry encoding="base64">XDxBZGRBY2NvdW50VXNlcnNcPg==</entry>
         <entry>isS</entry>
         <entry>region</entry>
+        <entry encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
