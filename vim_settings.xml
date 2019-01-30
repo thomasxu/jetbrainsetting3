@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/Services/BaseClient.cs" timestamp="1548044460680" />
       <file name="C:/dev/git/ngrx-course/src/app/home/home.component.css" timestamp="1546936849964">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="14" column="45" />
@@ -41,7 +40,6 @@
       <file name="/Dummy.jql" timestamp="1548070459298">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Extensions/PlugExtension.cs" timestamp="1548023530650" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Services/JobMergeService.cs" timestamp="1547547558559">
         <mark key="[" line="63" column="65" />
         <mark key="]" line="63" column="64" />
@@ -79,11 +77,6 @@
         <mark key="[" line="15" column="2" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="15" column="33" />
-      </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" timestamp="1548390492937">
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
       </file>
       <file name="C:/dev/git/bartender/Bartender.ApiHost/Bartender.ApiHost.csproj" timestamp="1547981867087">
         <mark key="[" line="18" column="43" />
@@ -150,7 +143,6 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="/QuoteAmountUpdater.cs" timestamp="1548375803785" />
       <file name="C:/dev/git/ngrx-course/src/app/about/about1.component.ts" timestamp="1546260835912">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -255,6 +247,12 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="27" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FixHeaderQuoteAmountUpdater.cs" timestamp="1548890689168">
+        <mark key="[" line="50" column="82" />
+        <mark key="]" line="50" column="82" />
+        <mark key="^" line="50" column="82" />
+        <mark key="." line="50" column="82" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/RepositoryCache/RepositoryCache.cs" timestamp="1544950950478">
         <mark key="[" line="75" column="16" />
         <mark key="]" line="75" column="22" />
@@ -272,7 +270,6 @@
         <mark key="^" line="22" column="10" />
         <mark key="." line="22" column="10" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/TradePackage/TradePackageController.Query.cs" timestamp="1548041206536" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/TradePackage/Response/TradeCategoryResponse.cs" timestamp="1545274305607">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="38" />
@@ -291,7 +288,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/LoadTestPlugins/BartenderLoadTestPlugin.cs" timestamp="1548043292487" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" timestamp="1548145064095">
         <mark key="'" line="81" column="0" />
         <mark key="[" line="64" column="92" />
@@ -311,7 +307,6 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Migrations/201811130213027_SCP-3233 Update Quote Fill Stored Procedure to not copy Estimate Fill Plug from Supplier Quote.cs" timestamp="1548037701482" />
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid-toolbar/job-tradepackages-grid-toolbar.component.ts" timestamp="1548113264440">
         <mark key="[" line="394" column="0" />
         <mark key="]" line="394" column="0" />
@@ -344,7 +339,6 @@
         <mark key="]" line="364" column="12" />
         <mark key="." line="364" column="12" />
       </file>
-      <file name="/FillQuoteAmountUpdater.cs" timestamp="1548374485818" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/Core/SingleJobSeedConfiguration.cs" timestamp="1547542700245">
         <mark key="[" line="51" column="12" />
         <mark key="]" line="82" column="11" />
@@ -635,7 +629,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>tradepackage</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -647,37 +641,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZW9mIEV2ZW50QXJncyAhPT0gInN0cmluZyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoISkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoISgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZW9mIEV2ZW50QXJncyAhPT0gInN0cmluZyIK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoISgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90cmFkZVBhY2thZ2VJZCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiVHJhZGVQYWNrYWdlSWQgaXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFJlc29sdmVRdW90ZUFtb3VudFJlcXVlc3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhpZGRlbkRyb3Bkb3duSXRlbS5xdWVyeVNlbGVjdG9yKCcjaGlkZGVuLWRyb3Bkb3duLW1lbnUtbGlzdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90cmFkZVBhY2thZ2VJZCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiVHJhZGVQYWNrYWdlSWQgaXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFJlc29sdmVRdW90ZUFtb3VudFJlcXVlc3QiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCB0aG9tYXMgPSAxOwo=</text>
+        <text encoding="base64">ICAgIGhpZGRlbkRyb3Bkb3duSXRlbS5xdWVyeVNlbGVjdG9yKCcjaGlkZGVuLWRyb3Bkb3duLW1lbnUtbGlzdCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCB0aG9tYXMgPSAxOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwoX3RyYWRlUGFja2FnZUlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
