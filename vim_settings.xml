@@ -116,8 +116,8 @@
       <file name="C:/dev/git/ngrx-course/node_modules/@angular-devkit/schematics/src/tree/virtual.js" timestamp="1547006286936">
         <mark key="'" line="16" column="54" />
       </file>
-      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548543390329">
-        <mark key="'" line="125" column="1" />
+      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1548845391728">
+        <mark key="'" line="116" column="30" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -337,12 +337,12 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548538050056">
-        <mark key="'" line="1598" column="22" />
-        <mark key="[" line="1612" column="11" />
-        <mark key="]" line="30" column="7" />
-        <mark key="." line="30" column="7" />
-        <mark key="^" line="30" column="7" />
+      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548846264148">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="77" column="17" />
+        <mark key="]" line="77" column="17" />
+        <mark key="." line="77" column="17" />
+        <mark key="^" line="77" column="22" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
@@ -371,10 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
-      <jump line="67" column="35" filename="C:/dev/git/ngrx-course/src/app/store/actions.ts" />
-      <jump line="68" column="0" filename="C:/dev/git/ngrx-course/src/app/store/actions.ts" />
-      <jump line="33" column="0" filename="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.ts" />
       <jump line="57" column="0" filename="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.ts" />
       <jump line="56" column="1" filename="C:/dev/git/ngrx-course/src/app/store/actions.ts" />
       <jump line="31" column="31" filename="C:/dev/git/ngrx-course/src/app/store/utils.ts" />
@@ -430,7 +426,6 @@
       <jump line="78" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="110" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="125" column="1" filename="C:/AutoHotkey/HotKey.ahk" />
-      <jump line="25" column="9" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="28" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1542" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1531" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
@@ -471,6 +466,11 @@
       <jump line="1494" column="77" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1562" column="32" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="1597" column="22" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="19" column="5" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="12" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="116" column="30" filename="C:/AutoHotkey/HotKey.ahk" />
+      <jump line="42" column="6" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="25" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -541,7 +541,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">I0NvbW1lbnRGbGFnIA==</text>
+        <text>asdfasfdafdasfasdf</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -573,7 +573,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaXNtYXRjaGVkSGVhZGluZ1RhYmxlQ29udGVudFw+</text>
+        <text>Home</text>
       </register>
       <register name="0" type="4">
         <text>callbackWaitsForEmptyEventLoop</text>
@@ -582,28 +582,28 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RXNjOjpDYXBzTG9jawo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGEgPSAnPCFkb2N0eXBlIGh0bWw+XG4nICsgCiAgICAgICAgJzxoZWFkPlxuJyArCiAgICAnPC9oZWFkPic7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5jYWxsYmFja1dhaXRzRm9yRW1wdHlFdmVudExvb3AgPSBmYWxzZTsK</text>
+        <text encoding="base64">RXNjOjpDYXBzTG9jawo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CgoK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGNvbnN0IHJlc3VsdEVsZW1lbnQgb2YgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5jYWxsYmFja1dhaXRzRm9yRW1wdHlFdmVudExvb3AgPSBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -623,22 +623,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGlhbnV0ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGNvbnN0IHJlc3VsdEVsZW1lbnQgb2YgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHMuaXRhciAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHB1c2hSZWNvcmRUb0ZpbGUoKSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGlhbnV0ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtaXNtYXRjaGVkSGVhZGluZ1RhYmxlQ29udGVudFw+</last-search>
+      <last-search>Home</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaXNtYXRjaGVkSGVhZGluZ1RhYmxlQ29udGVudFw+</last-pattern>
+      <last-pattern>Home</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute encoding="base64">XDxob3N0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -646,8 +646,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Home</entry>
-        <entry encoding="base64">XDw2XD4=</entry>
         <entry>#+</entry>
         <entry encoding="base64">XDxDYW5BZGRUb0FkbWluR3JvdXBcPg==</entry>
         <entry encoding="base64">XDx1c2VyVGFibGVDb250ZW50XD4=</entry>
@@ -666,6 +664,8 @@
         <entry encoding="base64">XDxob3N0XD4=</entry>
         <entry>scanDb</entry>
         <entry encoding="base64">XDxtaXNtYXRjaGVkSGVhZGluZ1RhYmxlQ29udGVudFw+</entry>
+        <entry>HOME</entry>
+        <entry>Home</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
