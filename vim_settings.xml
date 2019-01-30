@@ -33,6 +33,13 @@
         <mark key="^" line="14" column="45" />
         <mark key="." line="14" column="45" />
       </file>
+      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderUserActivityReport/index.js" timestamp="1548807075665">
+        <mark key="'" line="824" column="0" />
+        <mark key="[" line="831" column="8" />
+        <mark key="]" line="826" column="13" />
+        <mark key="." line="826" column="13" />
+        <mark key="^" line="826" column="13" />
+      </file>
       <file name="C:/dev/git/ngrx-course/shared/to/all-user-data.ts" timestamp="1546866171709">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -74,7 +81,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/function.json" timestamp="1548804963348">
+      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/function.json" timestamp="1548807170700">
         <mark key="[" line="4" column="42" />
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
@@ -140,9 +147,9 @@
         <mark key="^" line="21" column="35" />
         <mark key="." line="21" column="35" />
       </file>
-      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" timestamp="1548805214866">
-        <mark key="'" line="1433" column="17" />
-        <mark key="[" line="1488" column="0" />
+      <file name="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" timestamp="1548806774873">
+        <mark key="'" line="1490" column="23" />
+        <mark key="[" line="5" column="11" />
         <mark key="]" line="1488" column="0" />
         <mark key="." line="1488" column="0" />
       </file>
@@ -239,8 +246,8 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="C:/dev/git/bas-bartender-lambda/project.json" timestamp="1548801318486">
-        <mark key="[" line="4" column="13" />
+      <file name="C:/dev/git/bas-bartender-lambda/project.json" timestamp="1548807183786">
+        <mark key="[" line="6" column="19" />
         <mark key="]" line="4" column="13" />
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
@@ -269,7 +276,7 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547698382632">
+      <file name="/Dummy.txt" timestamp="1548806231102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -370,10 +377,6 @@
         <mark key="^" line="24" column="1" />
         <mark key="." line="24" column="1" />
       </file>
-      <file name="C:/dev/git/bartender/Resources/database/InitDatabase.sql" timestamp="1547977624030">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="23" />
-      </file>
       <file name="C:/dev/git/rxjs-course/src/app/common4/store.service.ts" timestamp="1546742934059">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="19" />
@@ -382,8 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.viminfo" />
-      <jump line="323" column="4" filename="$USER_HOME$/.viminfo" />
       <jump line="2" column="16" filename="$USER_HOME$/.ideavimrc" />
       <jump line="3" column="11" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="336" column="35" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
@@ -482,6 +483,8 @@
       <jump line="21" column="40" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
       <jump line="1522" column="9" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
       <jump line="1433" column="17" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="1490" column="23" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderQuoteValidator/index.js" />
+      <jump line="824" column="0" filename="C:/dev/git/bas-bartender-lambda/functions/BartenderUserActivityReport/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -512,7 +515,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>thomas</text>
+        <text>myHandler</text>
       </register>
       <register name="/" type="4">
         <text>thomas</text>
