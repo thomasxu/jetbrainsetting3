@@ -78,6 +78,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="15" column="33" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" timestamp="1548896243416">
+        <mark key="[" line="322" column="9" />
+      </file>
       <file name="C:/dev/git/bartender/Bartender.ApiHost/Bartender.ApiHost.csproj" timestamp="1547981867087">
         <mark key="[" line="18" column="43" />
         <mark key="]" line="18" column="42" />
@@ -247,11 +250,12 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FixHeaderQuoteAmountUpdater.cs" timestamp="1548890689168">
-        <mark key="[" line="50" column="82" />
-        <mark key="]" line="50" column="82" />
-        <mark key="^" line="50" column="82" />
-        <mark key="." line="50" column="82" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FixHeaderQuoteAmountUpdater.cs" timestamp="1548896236029">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="97" column="103" />
+        <mark key="]" line="111" column="46" />
+        <mark key="." line="111" column="46" />
+        <mark key="^" line="111" column="46" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/RepositoryCache/RepositoryCache.cs" timestamp="1544950950478">
         <mark key="[" line="75" column="16" />
@@ -508,10 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="19" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="20" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
-      <jump line="21" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="22" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="23" column="5" filename="C:/AutoHotkey/Hotkey.ahk" />
       <jump line="80" column="2" filename="C:/AutoHotkey/Hotkey.ahk" />
@@ -608,6 +608,10 @@
       <jump line="11" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/HealthServerController.cs" />
       <jump line="27" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/HealthServerController.cs" />
       <jump line="33" column="19" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Handlers/HttpMessageHandler.cs" />
+      <jump line="93" column="42" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FixHeaderQuoteAmountUpdater.cs" />
+      <jump line="100" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FixHeaderQuoteAmountUpdater.cs" />
+      <jump line="96" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FixHeaderQuoteAmountUpdater.cs" />
+      <jump line="86" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FixHeaderQuoteAmountUpdater.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -629,7 +633,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>tradepackage</text>
+        <text>Fill</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -641,37 +645,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoISkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1b3RlQW1vdW50cyA9IFF1b3RlQW1vdW50c0dyb3VwZWRCeVBhcmVudElkWyhxdW90ZUFtb3VudC5UcmFkZVBhY2thZ2VJdGVtSWQsIHF1b3RlQW1vdW50LlF1b3RlSWQpXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZW9mIEV2ZW50QXJncyAhPT0gInN0cmluZyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoISgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHF1b3RlQW1vdW50IGluIHF1b3RlQW1vdW50cykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGl0ZW0gPSBxdW90ZUFtb3VudC5UcmFkZVBhY2thZ2VJdGVtOwogICAgICAgICAgICAgICAgaWYoIWl0ZW0uSXNIZWFkaW5nICYmIGl0ZW0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90cmFkZVBhY2thZ2VJZCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiVHJhZGVQYWNrYWdlSWQgaXMgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIFJlc29sdmVRdW90ZUFtb3VudFJlcXVlc3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhpZGRlbkRyb3Bkb3duSXRlbS5xdWVyeVNlbGVjdG9yKCcjaGlkZGVuLWRyb3Bkb3duLW1lbnUtbGlzdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBDYWNoZWRRdW90ZUlkcy5MZW5ndGg7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGNhY2hlZFF1b3RlSWQgPSBDYWNoZWRRdW90ZUlkc1tpXTsKICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCB0aG9tYXMgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGNoaWxkIGluIHRvdGFsUmVjYWxjdWxhdGlvblJlcXVpcmVkKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBRQUdCCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRvdGFsUmVjYWxjdWxhdGlvblJlcXVpcmVkMSA9IG5ldyBTdGFjazxFbnRpdGllcy5Db3JlLlF1b3RlQW1vdW50PigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
