@@ -337,12 +337,12 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548846264148">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="77" column="17" />
-        <mark key="]" line="77" column="17" />
-        <mark key="." line="77" column="17" />
-        <mark key="^" line="77" column="22" />
+      <file name="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" timestamp="1548850549895">
+        <mark key="'" line="1529" column="20" />
+        <mark key="[" line="1484" column="21" />
+        <mark key="]" line="44" column="42" />
+        <mark key="." line="44" column="42" />
+        <mark key="^" line="44" column="42" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
@@ -371,11 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.ts" />
-      <jump line="56" column="1" filename="C:/dev/git/ngrx-course/src/app/store/actions.ts" />
-      <jump line="31" column="31" filename="C:/dev/git/ngrx-course/src/app/store/utils.ts" />
-      <jump line="1" column="2" filename="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.css" />
-      <jump line="16" column="54" filename="C:/dev/git/ngrx-course/node_modules/@angular-devkit/schematics/src/tree/virtual.js" />
       <jump line="14" column="17" filename="C:/dev/git/ngrx-course/src/app/home/home.component.ts" />
       <jump line="73" column="12" filename="C:/AutoHotkey/HotKeyMac.ahk" />
       <jump line="40" column="27" filename="C:/dev/git/ngrx-course/src/app/thread-section/thread-section.component.ts" />
@@ -471,6 +466,11 @@
       <jump line="116" column="30" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="42" column="6" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
       <jump line="25" column="0" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="44" column="37" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="1622" column="12" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="1635" column="12" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="1642" column="11" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
+      <jump line="1519" column="20" filename="C:/dev/git/bartender-lambda/BartenderQuoteValidator/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -573,7 +573,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Home</text>
+        <text encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>callbackWaitsForEmptyEventLoop</text>
@@ -636,9 +636,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Home</last-search>
+      <last-search encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>Home</last-pattern>
+      <last-pattern encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute encoding="base64">XDxob3N0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -646,8 +646,6 @@
     </search>
     <history>
       <history-search>
-        <entry>#+</entry>
-        <entry encoding="base64">XDxDYW5BZGRUb0FkbWluR3JvdXBcPg==</entry>
         <entry encoding="base64">XDx1c2VyVGFibGVDb250ZW50XD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
@@ -666,6 +664,8 @@
         <entry encoding="base64">XDxtaXNtYXRjaGVkSGVhZGluZ1RhYmxlQ29udGVudFw+</entry>
         <entry>HOME</entry>
         <entry>Home</entry>
+        <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
+        <entry encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
