@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.jql" timestamp="1548070459298">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Job/JobController.Query.cs" timestamp="1548543426287">
         <mark key="[" line="80" column="9" />
         <mark key="]" line="66" column="68" />
@@ -15,19 +12,8 @@
       <file name="/job-tradepackage-life-cycle-item.component.html" timestamp="1548590187449">
         <mark key="'" line="18" column="49" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V2/Integration/IntegrationV2Controller.cs" timestamp="1548978095556">
-        <mark key="[" line="41" column="49" />
-        <mark key="]" line="41" column="47" />
-        <mark key="^" line="41" column="47" />
-        <mark key="." line="41" column="47" />
-      </file>
-      <file name="/fragment.ts" timestamp="1548070993057">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1548157461787">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Filters/LastActiveFilter.cs" timestamp="1548974293694" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/WebApiConfig.cs" timestamp="1548980670462" />
       <file name="/FixHeaderQuoteAmountUpdater.cs" timestamp="1548298305729">
         <mark key="'" line="97" column="8" />
       </file>
@@ -51,16 +37,8 @@
       <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1548305569751">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/HealthServer/Response/HealthServerResponse.cs" timestamp="1548280095656">
-        <mark key="[" line="4" column="1" />
-      </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/profile-popup-password/profile-popup-password.component.html" timestamp="1548587302641">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="8" filename="C:/dev/git/rxjs-course/src/app/app.module.ts" />
-      <jump line="20" column="0" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="25" column="4" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="1" column="12" filename="C:/dev/git/rxjs-course/src/app/home/home.component.html" />
       <jump line="47" column="9" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
@@ -159,6 +137,8 @@
       <jump line="152" column="0" filename="/user-preference.service.ts" />
       <jump line="38" column="106" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V2/Integration/IntegrationV2Controller.cs" />
       <jump line="26" column="30" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V2/Integration/IntegrationV2Controller.cs" />
+      <jump line="43" column="34" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V2/Integration/IntegrationV2Controller.cs" />
+      <jump line="51" column="1" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V2/Integration/IntegrationV2Controller.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -180,7 +160,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Enum</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>formField</text>
@@ -192,41 +172,41 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgVGFzayBJbXBvcnRKb2IoSW1wb3J0Sm9iUmVxdWVzdCBpbXBvcnRKb2JSZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IGJhc2UuSW1wb3J0Sm9iKGltcG9ydEpvYlJlcXVlc3QpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>{
-            return base.ImportJob(importJobRequest);
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-            return base.ImportJob(importJobRequest);
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgYXN5bmMgdm9pZCBJbXBvcnRKb2IoSW1wb3J0Sm9iUmVxdWVzdCBpbXBvcnRKb2JSZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICBpZiAoIWltcG9ydEpvYlJlcXVlc3QuSWdub3JlTWVyZ2VBbmFseXNpcykKICAgICAgICAgICB7CiAgICAgICAgICAgICAgIHZhciBhbmFseXNpc1Jlc3VsdCA9IGF3YWl0IF9qb2JNZXJnZVNlcnZpY2UuQW5hbHl6ZU1lcmdlQXN5bmMoaW1wb3J0Sm9iUmVxdWVzdCwgQ3VycmVudEFjY291bnRJZCk7CiAgICAgICAgICAgICAgIHN3aXRjaCAoYW5hbHlzaXNSZXN1bHQpCiAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgIGNhc2UgSm9iTWVyZ2VFZmZlY3QuTW9kaWZpZWQ6CiAgICAgICAgICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gTWFwcGVyLk1hcDxKb2JNZXJnZUFuYWx5c2lzUmVzcG9uc2U+KGFuYWx5c2lzUmVzdWx0KTsKICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IEN1c3RvbVN0YXR1c1Jlc3VsdDxKb2JNZXJnZUFuYWx5c2lzUmVzcG9uc2U+KEh0dHBTdGF0dXNDb2RlLk11bHRpcGxlQ2hvaWNlcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UpOwogICAgICAgICAgICAgICB9CiAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIGF3YWl0IGJhc2UuSW1wb3J0Sm9iKGltcG9ydEpvYlJlcXVlc3QpOwogICAgICAgIH0KCgogICAgICAgIHB1YmxpYyBvdmVycmlkZSBhc3luYyBUYXNrIEltcG9ydEpvYihJbXBvcnRKb2JSZXF1ZXN0IGltcG9ydEpvYlJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICBpZiAoIWltcG9ydEpvYlJlcXVlc3QuSWdub3JlTWVyZ2VBbmFseXNpcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGFuYWx5c2lzUmVzdWx0ID0gYXdhaXQgX2pvYk1lcmdlU2VydmljZS5BbmFseXplTWVyZ2VBc3luYyhpbXBvcnRKb2JSZXF1ZXN0LCBDdXJyZW50QWNjb3VudElkKTsKICAgICAgICAgICAgICAgIHN3aXRjaCAoYW5hbHlzaXNSZXN1bHQuSm9iTWVyZ2VFZmZlY3QpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgY2FzZSBKb2JNZXJnZUVmZmVjdC5Nb2RpZmllZDoKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gTWFwcGVyLk1hcDxKb2JNZXJnZUFuYWx5c2lzUmVzcG9uc2U+KGFuYWx5c2lzUmVzdWx0KTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBDdXN0b21TdGF0dXNSZXN1bHQ8Sm9iTWVyZ2VBbmFseXNpc1Jlc3BvbnNlPihIdHRwU3RhdHVzQ29kZS5NdWx0aXBsZUNob2ljZXMsIHJlc3BvbnNlKTsKCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGF3YWl0IGJhc2UuSW1wb3J0Sm9iKGltcG9ydEpvYlJlcXVlc3QpOwogICAgICAgIH0KICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IEN1c3RvbVN0YXR1c1Jlc3VsdDxKb2JNZXJnZUFuYWx5c2lzUmVzcG9uc2U+KEh0dHBTdGF0dXNDb2RlLk11bHRpcGxlQ2hvaWNlcywgcmVzcG9zbmUpOwo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgYXN5bmMgVGFzayAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gTWFwcGVyLk1hcDxKb2JNZXJnZUFuYWx5c2lzUmVzcG9uc2U+KGFuYWx5c2lzUmVzdWx0KTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBDdXN0b21TdGF0dXNSZXN1bHQ8Sm9iTWVyZ2VBbmFseXNpc1Jlc3BvbnNlPihIdHRwU3RhdHVzQ29kZS5NdWx0aXBsZUNob2ljZXMsIHJlc3BvbnNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBCdXNpbmVzc0V4Y2VwdGlvbigiSW52YWxpZCBPcGVyYXRpb25zIiwgIkNhc2Ugbm90IHN1cHBvcnRlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgVGFzayBJbXBvcnRKb2IoSW1wb3J0Sm9iUmVxdWVzdCBpbXBvcnRKb2JSZXF1ZXN0KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1fQo=</text>
+      <register name="7" type="4">
+        <text>{
+            return base.ImportJob(importJobRequest);
+        }</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cHVibGljIEludGVncmF0aW9uVjJDb250cm9sbGVyKElCYXJ0ZW5kZXJDb250ZXh0IGNvbnRleHQsIElKb2JJbnRlZ3JhdGlvblNlcnZpY2Ugam9iSW50ZWdyYXRpb25TZXJ2aWNlLCBJSm9iTWVyZ2VTZXJ2aWNlIGpvYk1lcmdlU2VydmljZSwgSUpvYlJlc3RvcmVTZXJ2aWNlIGpvYlJlc3RvcmVTZXJ2aWNlLCBJQWRtaW5Eb2N1bWVudFNlcnZpY2UgYWRtaW5Eb2N1bWVudFNlcnZpY2UsIElVc2VyRG9jdW1lbnRTZXJ2aWNlIHVzZXJEb2N1bWVudFNlcnZpY2UsIElOb3RpZmljYXRpb25Qcm94eSBub3RpZmljYXRpb25Qcm94eSwgSVF1b3RlQW1vdW50VXBkYXRlcjxRdW90ZUFtb3VudFZhbHVlQmFzZT4gcmVzb2x2ZVF1b3RlQW1vdW50VXBkYXRlciwgSUxvZyBsb2cpIDogYmFzZShjb250ZXh0LCBqb2JJbnRlZ3JhdGlvblNlcnZpY2UsIGpvYk1lcmdlU2VydmljZSwgam9iUmVzdG9yZVNlcnZpY2UsIGFkbWluRG9jdW1lbnRTZXJ2aWNlLCB1c2VyRG9jdW1lbnRTZXJ2aWNlLCBub3RpZmljYXRpb25Qcm94eSwgcmVzb2x2ZVF1b3RlQW1vdW50VXBkYXRlciwgbG9nKQogICAgICAgIHsKICAgICAgICB9</text>
+        <text>{
+            return base.ImportJob(importJobRequest);
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgYXN5bmMgdm9pZCBJbXBvcnRKb2IoSW1wb3J0Sm9iUmVxdWVzdCBpbXBvcnRKb2JSZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICBpZiAoIWltcG9ydEpvYlJlcXVlc3QuSWdub3JlTWVyZ2VBbmFseXNpcykKICAgICAgICAgICB7CiAgICAgICAgICAgICAgIHZhciBhbmFseXNpc1Jlc3VsdCA9IGF3YWl0IF9qb2JNZXJnZVNlcnZpY2UuQW5hbHl6ZU1lcmdlQXN5bmMoaW1wb3J0Sm9iUmVxdWVzdCwgQ3VycmVudEFjY291bnRJZCk7CiAgICAgICAgICAgICAgIHN3aXRjaCAoYW5hbHlzaXNSZXN1bHQpCiAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgIGNhc2UgSm9iTWVyZ2VFZmZlY3QuTW9kaWZpZWQ6CiAgICAgICAgICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gTWFwcGVyLk1hcDxKb2JNZXJnZUFuYWx5c2lzUmVzcG9uc2U+KGFuYWx5c2lzUmVzdWx0KTsKICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IEN1c3RvbVN0YXR1c1Jlc3VsdDxKb2JNZXJnZUFuYWx5c2lzUmVzcG9uc2U+KEh0dHBTdGF0dXNDb2RlLk11bHRpcGxlQ2hvaWNlcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2UpOwogICAgICAgICAgICAgICB9CiAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIGF3YWl0IGJhc2UuSW1wb3J0Sm9iKGltcG9ydEpvYlJlcXVlc3QpOwogICAgICAgIH0KCgogICAgICAgIHB1YmxpYyBvdmVycmlkZSBhc3luYyBUYXNrIEltcG9ydEpvYihJbXBvcnRKb2JSZXF1ZXN0IGltcG9ydEpvYlJlcXVlc3QpCiAgICAgICAgewogICAgICAgICAgICBpZiAoIWltcG9ydEpvYlJlcXVlc3QuSWdub3JlTWVyZ2VBbmFseXNpcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGFuYWx5c2lzUmVzdWx0ID0gYXdhaXQgX2pvYk1lcmdlU2VydmljZS5BbmFseXplTWVyZ2VBc3luYyhpbXBvcnRKb2JSZXF1ZXN0LCBDdXJyZW50QWNjb3VudElkKTsKICAgICAgICAgICAgICAgIHN3aXRjaCAoYW5hbHlzaXNSZXN1bHQuSm9iTWVyZ2VFZmZlY3QpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgY2FzZSBKb2JNZXJnZUVmZmVjdC5Nb2RpZmllZDoKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gTWFwcGVyLk1hcDxKb2JNZXJnZUFuYWx5c2lzUmVzcG9uc2U+KGFuYWx5c2lzUmVzdWx0KTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBDdXN0b21TdGF0dXNSZXN1bHQ8Sm9iTWVyZ2VBbmFseXNpc1Jlc3BvbnNlPihIdHRwU3RhdHVzQ29kZS5NdWx0aXBsZUNob2ljZXMsIHJlc3BvbnNlKTsKCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGF3YWl0IGJhc2UuSW1wb3J0Sm9iKGltcG9ydEpvYlJlcXVlc3QpOwogICAgICAgIH0KICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
