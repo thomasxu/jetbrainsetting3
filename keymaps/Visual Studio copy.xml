@@ -121,6 +121,7 @@
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore" />
+  <action id="EditorToggleCase" />
   <action id="EditorToggleShowWhitespaces" />
   <action id="EditorToggleUseSoftWraps" />
   <action id="EditorUnSelectWord">
@@ -179,6 +180,7 @@
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="alt n" />
@@ -283,6 +285,9 @@
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="NextTab" />
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="ctrl pause" />
+  </action>
   <action id="PerforceDirect.Edit" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -350,6 +355,7 @@
   <action id="SelectAllOccurrences" />
   <action id="SelectNextOccurrence" />
   <action id="SetNextStatement" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -373,9 +379,6 @@
   <action id="SilentCodeCleanup" />
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="shift alt comma" />
-  </action>
-  <action id="Switcher">
-    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="ToggleBookmark" />
