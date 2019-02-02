@@ -70,6 +70,9 @@
     <keyboard-shortcut first-keystroke="alt f5" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="Debugger.MarkObject" />
   <action id="Diagram.DeselectAll" />
   <action id="Diff.ApplyLeftSide">
@@ -137,6 +140,10 @@
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EmmetPreviousEditPoint" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
   <action id="ExportToTextFile" />
   <action id="ExternalJavaDoc">
     <keyboard-shortcut first-keystroke="shift f1" />
@@ -160,6 +167,9 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift f12" />
     <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="alt f11" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt l" />
@@ -317,7 +327,6 @@
   <action id="ReSharperMoveStatementLeft" />
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
-    <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
