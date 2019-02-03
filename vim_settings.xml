@@ -143,13 +143,6 @@
         <mark key="]" line="88" column="12" />
         <mark key="." line="88" column="12" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/FillQuoteAmountUpdater.cs" timestamp="1549151680964">
-        <mark key="'" line="146" column="8" />
-        <mark key="[" line="66" column="16" />
-        <mark key="]" line="66" column="15" />
-        <mark key="." line="66" column="15" />
-        <mark key="^" line="66" column="15" />
-      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Notifications/NotificationProxy.cs" timestamp="1548584524562">
         <mark key="[" line="29" column="9" />
       </file>
@@ -703,6 +696,12 @@
       <file name="vm:694" timestamp="1549085317277">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/QuoteAmountRepository.cs" timestamp="1549153175004">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="34" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="20" column="34" />
+      </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/profile-popup-password/profile-popup-password.component.html" timestamp="1548589910472">
         <mark key="'" line="0" column="0" />
       </file>
@@ -898,7 +897,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>.AsNoTracking()</text>
       </register>
       <register name="m" type="4">
         <keys>
@@ -939,7 +938,7 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Ub0RpY3Rpb25hcnlBc3luYyhrPT5rLlRyYWRlUGFja2FnZUl0ZW1JZCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
@@ -948,19 +947,19 @@
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUXVvdGVBbW91bnRzR3JvdXBlZEJ5UGFyZW50SWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1b3RlcyA9IGF3YWl0IFF1b3RlUmVwb3NpdG9yeS5HZXREaWN0aW9uYXJ5QXN5bmMocXVvdGVzSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUXVvdGVBbW91bnRzR3JvdXBlZEJ5UGFyZW50SWQuCg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NvbnRleHQyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1b3RlcyA9IGF3YWl0IFF1b3RlUmVwb3NpdG9yeS5HZXREaWN0aW9uYXJ5QXN5bmMocXVvdGVzSWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVFBSCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NvbnRleHQyCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -980,13 +979,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVFBSCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHBpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlUXVvdGUoQ2FjaGVkUXVvdGVJZHMuVG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJyCg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
