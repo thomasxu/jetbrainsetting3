@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1549315748409">
-        <mark key="'" line="1917" column="0" />
-        <mark key="[" line="506" column="0" />
-        <mark key="]" line="506" column="0" />
-        <mark key="." line="506" column="0" />
-        <mark key="^" line="895" column="39" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1549317322649">
+        <mark key="'" line="502" column="10" />
+        <mark key="[" line="516" column="0" />
+        <mark key="]" line="516" column="0" />
+        <mark key="^" line="514" column="20" />
+        <mark key="." line="516" column="0" />
       </file>
       <file name="$USER_HOME$/Inbox/DeployParameterXml/Staging" timestamp="1547983161627">
         <mark key="[" line="21" column="81" />
@@ -202,9 +202,9 @@
         <mark key="." line="24" column="71" />
         <mark key="^" line="24" column="71" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.html" timestamp="1549312891597">
-        <mark key="[" line="41" column="126" />
-        <mark key="]" line="41" column="128" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.html" timestamp="1549317080199">
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="45" />
         <mark key="^" line="41" column="128" />
         <mark key="." line="41" column="128" />
       </file>
@@ -420,7 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="39" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="42" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="45" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
@@ -520,6 +519,7 @@
       <jump line="1839" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="897" column="6" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="1918" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
+      <jump line="508" column="10" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -550,49 +550,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>canClear</text>
+        <text>clearGrandTotal</text>
       </register>
       <register name="/" type="4">
         <text>Add</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGlmIChjYW5DbGVhcikgewogICAgICB0aGlzLnNhdmVHcmlkQ2hhbmdlcyh0aGlzLnF1b3RlQW1vdW50VmFsdWVzKTsKICAgIH0gZWxzZSB7CiAgICAgIGlmICghdGhpcy5pc0hhbmRzb250YWJsZURhdGFNb2RpZmllZCkgewogICAgICAgIHJldHVybjsKICAgICAgfQogICAgICB0aGlzLnJlZnJlc2hEYXRhKCk7CiAgICAgIGlmICh0aGlzLmlzSGFuZHNvbnRhYmxlRGF0YU1vZGlmaWVkKSB7CiAgICAgICAgdGhpcy5pc0hhbmRzb250YWJsZURhdGFNb2RpZmllZCA9IGZhbHNlOwogICAgICB9CiAgICB9</text>
+        <text>confirmAddManualTotalPopup</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSB0aGlzLmFueUhlYWRpbmdRdW90ZUFtb3VudFRvQmVDbGVhcmVkKGNoYW5nZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChyZXN1bHQgPT09IEhlYWRpbmdUeXBlLkhlYWRlcikgewogICAgICAgICAgICB0aGlzLmNsZWFySGVhZGluZ1RvdGFsUG9wdXAub3BlblBvcHVwKCk7CiAgICAgICAgICB9IGVsc2UgaWYgKHJlc3VsdCA9PT0gSGVhZGluZ1R5cGUuR3JhbmRUb3RhbCkgewogICAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSB7CiAgICAgICAgCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jbGVhckdyYW5kVG90YWxQb3B1cC5vcGVuUG9wdXAoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvbkFkZE1hbnVhbFRvdGFsKGNhbkFkZE1hbnVhbFRvdGFsOiBib29sZWFuKSB7CiAgCiAgfQogIAo=</text>
+        <text encoding="base64">ICAgICAgJycsCg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvbkFkZE1hbnVhbFRvdGFsKGlzQ29uZmlybWVkOiBib29sZWFuKSB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXN1bHQgPSB0aGlzLmFueUhlYWRpbmdRdW90ZUFtb3VudFRvQmVDbGVhcmVkKGNoYW5nZXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">NSAgIDU2ICAgNScnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">NSAgIDU2ICAgNScnCg==</text>
+        <text encoding="base64">ICAgICAgZWxzZSB7CiAgICAgICAgCiAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVuIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICBvbkFkZE1hbnVhbFRvdGFsKGNhbkFkZE1hbnVhbFRvdGFsOiBib29sZWFuKSB7CiAgCiAgfQogIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25maXJtQWRkTWFudWFsVG90YWxQb3B1cENvbnRlbnQ6IGFueTsK</text>
+        <text encoding="base64">ICBvbkFkZE1hbnVhbFRvdGFsKGlzQ29uZmlybWVkOiBib29sZWFuKSB7CiAgICAKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
