@@ -10,11 +10,12 @@
         <mark key="." line="9" column="9" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job/job.component.html" timestamp="1549359123009" />
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Job/JobCreator.cs" timestamp="1549364933506">
-        <mark key="[" line="43" column="12" />
-        <mark key="]" line="43" column="12" />
-        <mark key="^" line="43" column="13" />
-        <mark key="." line="43" column="12" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Job/JobCreator.cs" timestamp="1549366361438">
+        <mark key="'" line="209" column="44" />
+        <mark key="[" line="262" column="175" />
+        <mark key="]" line="265" column="11" />
+        <mark key="." line="265" column="11" />
+        <mark key="^" line="265" column="11" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Migrations/201810142319284_SCP-3025 RenameSupplierPreference.cs" timestamp="1549324891572" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Job/JobController.Query.cs" timestamp="1548543426287">
@@ -69,6 +70,20 @@
       </file>
       <file name="/QuoteService.cs" timestamp="1549344454073" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Migrations/201811130213027_SCP-3233 Update Quote Fill Stored Procedure to not copy Estimate Fill Plug from Supplier Quote.cs" timestamp="1549327775190" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Notifications/NotificationProxy.cs" timestamp="1549001411367">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="109" column="82" />
+        <mark key="]" line="109" column="99" />
+        <mark key="." line="92" column="81" />
+        <mark key="^" line="92" column="81" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/Job.cs" timestamp="1549365418027">
+        <mark key="'" line="165" column="49" />
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="19" column="55" />
+        <mark key="^" line="19" column="55" />
+        <mark key="." line="19" column="55" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Utils/CentralizedPrefixProvider.cs" timestamp="1549009199537">
         <mark key="[" line="24" column="77" />
         <mark key="]" line="24" column="76" />
@@ -91,9 +106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="61" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
-      <jump line="30" column="19" filename="C:/dev/git/rxjs-course/src/app/home/home.component.ts" />
-      <jump line="4" column="0" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
       <jump line="7" column="0" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
       <jump line="13" column="1" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
       <jump line="20" column="7" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
@@ -191,6 +203,9 @@
       <jump line="140" column="4" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V1/Logs/LogController.Query.cs" />
       <jump line="139" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V1/Logs/LogController.Query.cs" />
       <jump line="162" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V1/Logs/LogController.Query.cs" />
+      <jump line="96" column="78" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Job/JobCreator.cs" />
+      <jump line="159" column="49" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/Job.cs" />
+      <jump line="209" column="44" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Job/JobCreator.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -212,7 +227,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>ii</text>
+        <text>.Length('</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -224,37 +239,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV1dHJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBuYW1lb2Yoa2spCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGltcG9ydGpvYnJlcXVlc3QgPSAiaW1wb3J0Sm9iUmVxdWVzdCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNBZGRRdW90ZT8gcXVvdGVVcGRhdGUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEpvYkVudGl0eQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBHbG9iYWxJZCA9IAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV1dHJuIAo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnBlbmRpbmdSZXF1ZXN0cykgewogICAgICAgIHRoaXMucGVuZGluZ1JlcXVlc3RzID0gW107CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGltcG9ydGpvYnJlcXVlc3QgPSAiaW1wb3J0Sm9iUmVxdWVzdCI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbQXV0aG9yaXplKFJvbGVzID0gbmFtZW9mKFJvbGVzLlN1cGVyQWRtaW4pKV0KICAgICAgICBbUm91dGUoInRhc2tzIildCiAgICAgICAgW0h0dHBHZXRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNBZGRRdW90ZT8gcXVvdGVVcGRhdGUnCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnBlbmRpbmdSZXF1ZXN0cykgewogICAgICAgIHRoaXMucGVuZGluZ1JlcXVlc3RzID0gW107CiAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJykK</text>
+        <text encoding="base64">ICAgICAgICBbQXV0aG9yaXplKFJvbGVzID0gbmFtZW9mKFJvbGVzLlN1cGVyQWRtaW4pKV0KICAgICAgICBbUm91dGUoInRhc2tzIildCiAgICAgICAgW0h0dHBHZXRdCg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
