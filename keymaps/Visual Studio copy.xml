@@ -162,6 +162,7 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt l" />
     <keyboard-shortcut first-keystroke="alt right" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt b" />

@@ -24,10 +24,6 @@
         <mark key="]" line="60" column="29" />
         <mark key="." line="60" column="29" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V2/Integration/IntegrationV2Controller.cs" timestamp="1548981977749">
-        <mark key="[" line="27" column="43" />
-        <mark key="." line="27" column="66" />
-      </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/core/services/log.service.ts" timestamp="1549342176682">
         <mark key="]" line="21" column="0" />
         <mark key="^" line="21" column="0" />
@@ -65,6 +61,7 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="9" />
       </file>
+      <file name="/QuoteService.cs" timestamp="1549344454073" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PlugQuoteAmountUpdater.cs" timestamp="1549084271488">
         <mark key="[" line="15" column="1" />
       </file>
@@ -86,11 +83,12 @@
         <mark key="." line="24" column="76" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Migrations/201902040121112_SCP-3210 UseusertokeninsteadofadmintokentohandleBoxAPICalls.cs" timestamp="1549328038037" />
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Quote/Services/QuoteService.cs" timestamp="1549342476921">
-        <mark key="[" line="113" column="41" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Quote/Services/QuoteService.cs" timestamp="1549343920735">
+        <mark key="[" line="223" column="59" />
+        <mark key="l" line="68" column="24" />
+        <mark key="]" line="72" column="24" />
+        <mark key="^" line="72" column="24" />
+        <mark key="." line="72" column="24" />
       </file>
       <file name="/AuthenticationController.Command.cs" timestamp="1549020600050">
         <mark key="'" line="38" column="0" />
@@ -227,7 +225,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -238,38 +236,38 @@
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXNBZGRRdW90ZT8gcXVvdGVVcGRhdGUnCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnBlbmRpbmdSZXF1ZXN0cykgewogICAgICAgIHRoaXMucGVuZGluZ1JlcXVlc3RzID0gW107CiAgICAgIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbQXV0aG9yaXplKFJvbGVzID0gbmFtZW9mKFJvbGVzLlN1cGVyQWRtaW4pKV0KICAgICAgICBbUm91dGUoInRhc2tzIildCiAgICAgICAgW0h0dHBHZXRdCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnBlbmRpbmdSZXF1ZXN0cykgewogICAgICAgIHRoaXMucGVuZGluZ1JlcXVlc3RzID0gW107CiAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBbQXV0aG9yaXplKFJvbGVzID0gbmFtZW9mKFJvbGVzLlN1cGVyQWRtaW4pKV0KICAgICAgICBbUm91dGUoInRhc2tzIildCiAgICAgICAgW0h0dHBHZXRdCg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBidWlsZGVyOwogICAgICAgICAgICBidWlsZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBidWlsZGVyOwogICAgICAgICAgICBidWlsZGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2V0SGFzaENvZGUoKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
