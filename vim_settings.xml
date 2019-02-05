@@ -70,7 +70,7 @@
         <mark key="." line="39" column="12" />
         <mark key="^" line="39" column="13" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/core/services/log.service.ts" timestamp="1549338172610">
+      <file name="C:/dev/git/bartender/WebApp/src/app/core/services/log.service.ts" timestamp="1549338982974">
         <mark key="[" line="55" column="11" />
         <mark key="]" line="55" column="10" />
         <mark key="." line="55" column="10" />
@@ -162,6 +162,13 @@
       </file>
       <file name="/" timestamp="1549331171705">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/app.component.ts" timestamp="1549340509528">
+        <mark key="'" line="82" column="24" />
+        <mark key="[" line="59" column="16" />
+        <mark key="]" line="59" column="39" />
+        <mark key="^" line="82" column="24" />
+        <mark key="." line="82" column="24" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/models/user-preference.object.ts" timestamp="1548639180197">
         <mark key="[" line="21" column="35" />
@@ -426,7 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="42" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="45" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="48" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
@@ -526,6 +532,7 @@
       <jump line="897" column="6" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="1918" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="508" column="10" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
+      <jump line="82" column="24" filename="C:/dev/git/bartender/WebApp/src/app/app.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -559,55 +566,55 @@
         <text>errorOccurredSubjec1t1</text>
       </register>
       <register name="/" type="4">
-        <text>Add</text>
+        <text>modelStat</text>
       </register>
       <register name="0" type="4">
-        <text>confirmAddManualTotalPopup</text>
+        <text encoding="base64">bW9kZWxTdGF0ZUVycm9yTWVzc2FnZXMg</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGVycm9yUmVxdWVzdHM6IENsaWVudDsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGVycm9ySGFuZGxlcjE6IEVycm9ySGFuZGxlciwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMucGVuZGluZ1JlcXVlc3RzMSkgCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGVycm9yUmVxdWVzdHM6IENsaWVudDsK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMucGVuZGluZ1JlcXVlc3RzMSkgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLmdyaWQuaXNHcmFuZFRvdGFsKHJvdykpIHsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0Ogo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLmdyaWQuaXNHcmFuZFRvdGFsKHJvdykpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChyZXN1bHQgPT09IEhlYWRpbmdUeXBlLkhlYWRlcikgewogICAgICAgICAgICB0aGlzLmNsZWFySGVhZGluZ1RvdGFsUG9wdXAub3BlblBvcHVwKCk7CiAgICAgICAgICB9IGVsc2UgaWYgKHJlc3VsdCA9PT0gSGVhZGluZ1R5cGUuR3JhbmRUb3RhbCkgewogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jbGVhckdyYW5kVG90YWxQb3B1cC5vcGVuUG9wdXAoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChyZXN1bHQgPT09IEhlYWRpbmdUeXBlLkhlYWRlcikgewogICAgICAgICAgICB0aGlzLmNsZWFySGVhZGluZ1RvdGFsUG9wdXAub3BlblBvcHVwKCk7CiAgICAgICAgICB9IGVsc2UgaWYgKHJlc3VsdCA9PT0gSGVhZGluZ1R5cGUuR3JhbmRUb3RhbCkgewogICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>Add</last-search>
+      <last-search>modelStat</last-search>
       <last-offset />
-      <last-pattern>Add</last-pattern>
+      <last-pattern>modelStat</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>CourseType</last-substitute>
       <last-dir>1</last-dir>
@@ -615,7 +622,6 @@
     </search>
     <history>
       <history-search>
-        <entry>#+</entry>
         <entry>#</entry>
         <entry>r</entry>
         <entry>#r</entry>
@@ -635,6 +641,7 @@
         <entry>progress</entry>
         <entry>supplier</entry>
         <entry>Add</entry>
+        <entry>modelStat</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
