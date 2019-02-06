@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1549411419574">
-        <mark key="[" line="1766" column="0" />
-        <mark key="]" line="1766" column="0" />
-        <mark key="^" line="1766" column="1" />
-        <mark key="." line="1766" column="0" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1549419042327">
+        <mark key="'" line="891" column="32" />
+        <mark key="[" line="891" column="32" />
+        <mark key="]" line="891" column="32" />
+        <mark key="^" line="891" column="34" />
+        <mark key="." line="891" column="32" />
       </file>
       <file name="/report-list.component.ts" timestamp="1548048129780">
         <mark key="'" line="141" column="27" />
@@ -161,6 +162,12 @@
         <mark key="]" line="8" column="37" />
         <mark key="^" line="8" column="37" />
         <mark key="." line="8" column="37" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/grid.service.ts" timestamp="1549420248461">
+        <mark key="[" line="747" column="16" />
+        <mark key="]" line="747" column="15" />
+        <mark key="." line="747" column="15" />
+        <mark key="^" line="747" column="15" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/QuoteAmounts/QuoteAmountController.Command.cs" timestamp="1547546242196">
         <mark key="[" line="137" column="0" />
@@ -446,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
       <jump line="45" column="6" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
       <jump line="15" column="12" filename="C:/dev/git/rxjs-course/src/app/app.component.html" />
       <jump line="6" column="11" filename="C:/backup/AutoHotkey/HotKeyMac.ahk" />
@@ -546,6 +552,7 @@
       <jump line="629" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="23" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="41" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.html" />
+      <jump line="891" column="32" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -567,58 +574,58 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>onAddManualTotal</text>
+        <text>J</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</text>
+        <text encoding="base64">XDxyaXdcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>onHeadingOperationDecisionMade</text>
+        <text>startRowIndex</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdXNlclByZWZlcmVuY2Uuam9iVHJhZGVMaWZlQ3ljbGVQZWZlcmVuY2VzTWFwcGluZ3MgPSBuZXcgTWFwPG51bWJlciwgSm9iVHJhZGVQYWNrYWdlTGlmZUN5Y2xlUHJlZmVyZW5jZT4oKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICghdXNlclByZWZlcmVuY2Uuam9iVHJhZGVMaWZlQ3ljbGVQZWZlcmVuY2VzTWFwcGluZ3Nbam9iSWRdKSB7CiAgICAgIHVzZXJQcmVmZXJlbmNlLmpvYlRyYWRlTGlmZUN5Y2xlUGVmZXJlbmNlc01hcHBpbmdzID0gbmV3IE1hcCgpIDwgbnVtYmVyLCBKb2JUcmFkZVBhY2thZ2VMaWZlQ3ljbGVQcmVmZXJlbmNlPigpO3oKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJlZmVyZW5jZQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgUHJlZmVyZW5jZURyb3Bkb3duQ29tcG9uZW50LicnCg==</text>
+        <text encoding="base64">ICAgIGZvciAobGV0IGkgPSBzdGFydFJvd0luZGV4OyBpIDwgdGhpcy5yb3dJbmRleEl0ZW1zLmxlbmd0aDsgaSsrKSB7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbmVlZFNhdmUgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaXRlbXMuY2hpbGRyZW4ubWFwKGMgPT4gYy5pZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9hZGluZ0V4cGVyaWVuY2VTZXJ2aWNlLmVuYWJsZUxvYWRpbmdFeHBlcmllbmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdXNlclByZWZlcmVuY2Uuam9iVHJhZGVMaWZlQ3ljbGVQZWZlcmVuY2VzTWFwcGluZ3MgPSBuZXcgTWFwPG51bWJlciwgSm9iVHJhZGVQYWNrYWdlTGlmZUN5Y2xlUHJlZmVyZW5jZT4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29tbWVudEV2ZW50ID0ge29iamVjdElkOiB0cmFkZVBhY2thZ2VMaWZlY3ljbGUudHJhZGVQYWNrYWdlSWQsIG9iamVjdFR5cGU6IE9iamVjdFR5cGUuVHJhZGVQYWNrYWdlLCB0aXRsZTogdHJhZGVQYWNrYWdlTGlmZWN5Y2xlLnRyYWRlUGFja2FnZU5hbWV9Owo=</text>
+        <text encoding="base64">ICAgIGlmICghdXNlclByZWZlcmVuY2Uuam9iVHJhZGVMaWZlQ3ljbGVQZWZlcmVuY2VzTWFwcGluZ3Nbam9iSWRdKSB7CiAgICAgIHVzZXJQcmVmZXJlbmNlLmpvYlRyYWRlTGlmZUN5Y2xlUGVmZXJlbmNlc01hcHBpbmdzID0gbmV3IE1hcCgpIDwgbnVtYmVyLCBKb2JUcmFkZVBhY2thZ2VMaWZlQ3ljbGVQcmVmZXJlbmNlPigpO3oKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmNvbW1lbnRFdmVudCAmJiB0aGlzLmNvbW1lbnRFdmVudC5vYmplY3RJZCA9PT0gdHJhZGVQYWNrYWdlSWQgJiYgdGhpcy5jb21tZW50RXZlbnQub2JqZWN0VHlwZSA9PT0gT2JqZWN0VHlwZS5UcmFkZVBhY2thZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJlZmVyZW5jZQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</last-search>
+      <last-search encoding="base64">XDxyaXdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyaXdcPg==</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute encoding="base64">XDwpXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -631,6 +638,7 @@
         <entry>isS</entry>
         <entry>region</entry>
         <entry encoding="base64">XDxwdXNoUmVjb3JkVG9GaWxlXD4=</entry>
+        <entry encoding="base64">XDxyaXdcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
