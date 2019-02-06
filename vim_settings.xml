@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1549453617715">
+        <mark key="[" line="134" column="14" />
+        <mark key="]" line="134" column="32" />
+        <mark key="^" line="135" column="1" />
+        <mark key="." line="135" column="1" />
+      </file>
       <file name="$USER_HOME$/Inbox/DeployParameterXml/Staging" timestamp="1547983161627">
         <mark key="[" line="21" column="81" />
         <mark key="]" line="21" column="100" />
@@ -126,11 +132,10 @@
       <file name="webpack:///src/libs/bartender-core/bartendercore.js" timestamp="1549085028016">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/grid.service.ts" timestamp="1549451821869">
-        <mark key="[" line="537" column="21" />
-        <mark key="]" line="537" column="21" />
-        <mark key="." line="537" column="21" />
-        <mark key="^" line="537" column="20" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/grid.service.ts" timestamp="1549453544543">
+        <mark key="]" line="512" column="1" />
+        <mark key="^" line="512" column="1" />
+        <mark key="." line="512" column="1" />
       </file>
       <file name="$USER_HOME$/Downloads/util_vim_hotkey_0.4.1/viatc.ini" timestamp="1546697858829">
         <mark key="[" line="4" column="0" />
@@ -208,11 +213,12 @@
         <mark key="." line="24" column="71" />
         <mark key="^" line="24" column="71" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.html" timestamp="1549317080199">
-        <mark key="[" line="54" column="20" />
-        <mark key="]" line="54" column="45" />
-        <mark key="^" line="54" column="128" />
-        <mark key="." line="54" column="128" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.html" timestamp="1549452949073">
+        <mark key="'" line="56" column="136" />
+        <mark key="[" line="38" column="57" />
+        <mark key="]" line="56" column="45" />
+        <mark key="^" line="56" column="128" />
+        <mark key="." line="56" column="128" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/user-selection/user-selection.component.html" timestamp="1546931163448">
         <mark key="[" line="4" column="26" />
@@ -422,7 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="48" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="54" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="57" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
@@ -522,6 +527,7 @@
       <jump line="508" column="10" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="82" column="24" filename="C:/dev/git/bartender/WebApp/src/app/app.component.ts" />
       <jump line="107" column="30" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Quote/Services/QuoteService.cs" />
+      <jump line="54" column="136" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -552,13 +558,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>'asdf';</text>
+        <text>ErrorHandler</text>
       </register>
       <register name="/" type="4">
-        <text>modelStat</text>
+        <text>handsonTableTooltip</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bW9kZWxTdGF0ZUVycm9yTWVzc2FnZXMg</text>
+        <text>handsonTableTooltip</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
@@ -601,9 +607,9 @@
       </register>
     </registers>
     <search>
-      <last-search>modelStat</last-search>
+      <last-search>handsonTableTooltip</last-search>
       <last-offset />
-      <last-pattern>modelStat</last-pattern>
+      <last-pattern>handsonTableTooltip</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>CourseType</last-substitute>
       <last-dir>1</last-dir>
@@ -611,7 +617,6 @@
     </search>
     <history>
       <history-search>
-        <entry>#</entry>
         <entry>r</entry>
         <entry>#r</entry>
         <entry>F2</entry>
@@ -631,6 +636,7 @@
         <entry>supplier</entry>
         <entry>Add</entry>
         <entry>modelStat</entry>
+        <entry>handsonTableTooltip</entry>
       </history-search>
       <history-cmd>
         <entry>show ln</entry>
