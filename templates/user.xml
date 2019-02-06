@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="func" value="public void $func_name$()&#10;        {&#10;            $END$&#10;        }" toReformat="true" toShortenFQNames="true">
+  <template name="func" value="public void $func_name$()&#10;        {&#10;            $END$&#10;        }" description="" toReformat="true" toShortenFQNames="true">
     <variable name="func_name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />
@@ -19,7 +19,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="lamb" value="$p1$ =&gt; $p1$.$END$" toReformat="true" toShortenFQNames="true">
+  <template name="lamb" value="$p1$ =&gt; $p1$.$END$" description="" toReformat="true" toShortenFQNames="true">
     <variable name="p1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />
