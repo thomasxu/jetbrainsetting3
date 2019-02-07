@@ -375,6 +375,12 @@
         <mark key="]" line="7" column="28" />
         <mark key="." line="14" column="15" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/TradePackageSummary/TradePackageSummaryService.cs" timestamp="1549580409668">
+        <mark key="[" line="44" column="12" />
+        <mark key="]" line="44" column="11" />
+        <mark key="^" line="44" column="11" />
+        <mark key="." line="44" column="11" />
+      </file>
       <file name="C:/dev/git/ngrx-course/src/app/store/effects/write-new-message-effect.service.ts" timestamp="1546869766455">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="22" column="37" />
@@ -474,6 +480,13 @@
         <mark key="^" line="429" column="79" />
         <mark key="." line="429" column="78" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageSummaryRepository.cs" timestamp="1549581225422">
+        <mark key="'" line="67" column="38" />
+        <mark key="[" line="135" column="147" />
+        <mark key="]" line="135" column="103" />
+        <mark key="." line="135" column="103" />
+        <mark key="^" line="135" column="103" />
+      </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="30" />
@@ -510,7 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="19" filename="C:/dev/git/rxjs-course/src/app/course/course.component.ts" />
       <jump line="82" column="87" filename="C:/dev/git/rxjs-course/src/app/course/course.component.ts" />
       <jump line="42" column="0" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
       <jump line="82" column="17" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
@@ -610,6 +622,7 @@
       <jump line="417" column="31" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="477" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="456" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
+      <jump line="82" column="38" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Repositories/TradePackageSummaryRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -631,7 +644,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>eeeeeeeeeeeeeeeeeeeeeeeeqe</text>
+        <text>TradePackageSummary</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJc0NoYW5nZWRRdW90ZUFtb3VudFJlY2FsY3VsYWJsZVw+</text>
@@ -643,37 +656,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBsdWdUeXBlcy5BbGwocHQgPT4gKHBsdWdzICYgcHQpICE9IDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWRlUGFja2FnZUFic29sdXRlU3VtbWFyeS5UcmFkZVBhY2thZ2VBYnNvbHV0ZVF1b3RlU3VtbWFyaWVzRGljdGlvbmFyeSA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHZhbHVlIGluIHZhbHVlcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ2hlYXBlc3RUb3RhbCA9IHRwaWcuQXZlcmFnZSgpCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjUUEgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIF90cmFkZVBhY2thZ2UgPSBhd2FpdCBfdHJhZGVQYWNrYWdlU3VtbWFyeVJlcG9zaXRvcnkuR2V0VHJhZGVQYWNrYWdlQXN5bmModHJhZGVQYWNrYWdlSWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBsdWdUeXBlcy5BbGwocHQgPT4gKHBsdWdzICYgcHQpICE9IDApOwo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHF1b3RlQW1vdW50IGluIHF1b3RlQW1vdW50cykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX3NyY1F1b3RlQW1vdW50c0RpY3Rpb25hcnlbcXVvdGVBbW91bnQuaWRdICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHZhbHVlIGluIHZhbHVlcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldENvbWJpbmVkUGx1ZyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjUUEgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldENvbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlUXVvdGVBbW91bnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHF1b3RlQW1vdW50IGluIHF1b3RlQW1vdW50cykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX3NyY1F1b3RlQW1vdW50c0RpY3Rpb25hcnlbcXVvdGVBbW91bnQuaWRdICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldENvbWJpbmVkUGx1ZyA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
