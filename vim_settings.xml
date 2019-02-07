@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1549502446094">
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1549504758942">
         <mark key="'" line="534" column="16" />
-        <mark key="[" line="548" column="12" />
-        <mark key="]" line="548" column="12" />
-        <mark key="^" line="548" column="11" />
-        <mark key="." line="548" column="12" />
+        <mark key="[" line="550" column="84" />
+        <mark key="]" line="549" column="56" />
+        <mark key="^" line="549" column="56" />
+        <mark key="." line="549" column="56" />
       </file>
       <file name="$USER_HOME$/Inbox/DeployParameterXml/Staging" timestamp="1547983161627">
         <mark key="[" line="21" column="81" />
@@ -131,6 +131,7 @@
         <mark key="." line="6" column="40" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/change-contact-dialog-content/change-contact-dialog-content.component.ts" timestamp="1549497090128" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-popup/confirm-popup.component.html" timestamp="1549504816004" />
       <file name="C:/dev/git/experiment_project/test-webstorm-debug2/src/app/app.component.html" timestamp="1549096869209">
         <mark key="[" line="10" column="82" />
         <mark key="]" line="10" column="82" />
@@ -142,13 +143,6 @@
         <mark key="]" line="44" column="23" />
         <mark key="^" line="44" column="29" />
         <mark key="." line="44" column="23" />
-      </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/app.component.ts" timestamp="1549341076889">
-        <mark key="'" line="82" column="24" />
-        <mark key="[" line="59" column="17" />
-        <mark key="]" line="59" column="39" />
-        <mark key="^" line="82" column="24" />
-        <mark key="." line="82" column="24" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/models/user-preference.object.ts" timestamp="1548639180197">
         <mark key="[" line="21" column="35" />
@@ -163,6 +157,7 @@
         <mark key="^" line="249" column="3" />
         <mark key="." line="249" column="3" />
       </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-popup/confirm-popup.component.less" timestamp="1549505057406" />
       <file name="C:/dev/git/ngrx-course/src/app/messages/messages.component.html" timestamp="1546867336397">
         <mark key="[" line="2" column="61" />
         <mark key="]" line="3" column="3" />
@@ -301,10 +296,12 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-dialog/confirm-dialog.component.less" timestamp="1549502354606">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-dialog/confirm-dialog.component.less" timestamp="1549505198029">
+        <mark key="'" line="35" column="18" />
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/store/actions.ts" timestamp="1546918799388">
         <mark key="[" line="55" column="2" />
@@ -361,10 +358,16 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="27" column="28" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/services/mat-dialog.service.ts" timestamp="1549502801297">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-dialog/confirm-dialog.component.ts" timestamp="1549504512921">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/services/mat-dialog.service.ts" timestamp="1549504018761">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="18" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/core/services/mat-dialog-service.service.ts" timestamp="1549498730740">
         <mark key="[" line="12" column="18" />
@@ -384,10 +387,11 @@
         <mark key="^" line="993" column="0" />
         <mark key="." line="993" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-dialog/confirm-dialog.component.html" timestamp="1549502367809">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-dialog/confirm-dialog.component.html" timestamp="1549505417041">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="C:/dev/git/ngrx-course/src/app/message-section/messageParticipantNamesSelector.ts" timestamp="1546405116482">
         <mark key="[" line="7" column="23" />
@@ -422,7 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="76" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="112" column="4" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" />
       <jump line="16" column="6" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.html" />
@@ -522,6 +525,7 @@
       <jump line="534" column="16" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="214" column="3" filename="C:/dev/git/bartender/WebApp/src/app/comparison/comparison.module.ts" />
       <jump line="3" column="21" filename="C:/dev/git/bartender/WebApp/src/app/comparison/comparison.module.ts" />
+      <jump line="34" column="18" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-dialog/confirm-dialog.component.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -552,19 +556,19 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>ConfirmDialogComponent</text>
+        <text>contentHeader</text>
       </register>
       <register name="/" type="4">
         <text>MatDialog</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5tYXREaWFsb2dTZXJ2aWNlLm9wZW5Db25maXJtRGlhbG9nKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>mat-dialog-content</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiNjb250YWN0U2VsZWN0aW9uIHsKICBtYXJnaW4tbGVmdDogMXJlbTsKfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">bGFiZWwgewogIHdoaXRlLXNwYWNlOiBub3dyYXA7CiAgYWxpZ24tc2VsZjogY2VudGVyOwp9CgoKLmJ1dHRvbkNvbnRhaW5lciB7CiAgZGlzcGxheTogZmxleDsKICBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtZW5kOwogIGJ1dHRvbiB7CiAgICBtYXJnaW46IDAgLjVyZW07CiAgfQp9CgoudGl0bGVDb250YWluZXIgewogIG1hcmdpbjogMCAtMjRweDsKICBtYXJnaW4tdG9wOiAtMjRweDsKICBwYWRkaW5nLXRvcDogMjRweDsKICBwYWRkaW5nLWJvdHRvbTogNnB4OwogIGJhY2tncm91bmQ6ICMzMzMzMzM7CiAgY29sb3I6ICNDQUNBQ0E7CiAgaDIgewogICAgbWFyZ2luLWxlZnQ6IDI1cHg7CiAgfQp9CiNjb250ZW50IHsKICBkaXNwbGF5OiBmbGV4Owp9CgojY29udGVudC10ZXh0IHsKICBwYWRkaW5nLWxlZnQ6IDhweDsKfQoKI2NvbnRlbnQtdGV4dC1oZWFkZXIgewogIGNvbG9yOiBAYnJhbmQtcHJpbWFyeTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -576,27 +580,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>.mat-dialog-container {
-  padding: 0px !important;
+        <text>.content {
+  display: flex;
+  flex-flow: row;
+  margin: 3rem 0;
+  padding: 0 .5rem !important;
 }</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8bGFiZWwgZm9yPSJjb250YWN0U2VsZWN0aW9uIj5TZWxlY3QgQ29udGFjdDo8L2xhYmVsPgo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGVudCIgbWF0LWRpYWxvZy1jb250ZW50PgogICAge3tkYXRhLmNvbnRlbnRCb2R5fX0KPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8c2VsZWN0IGlkPSJjb250YWN0U2VsZWN0aW9uIiBjbGFzcz0iZm9ybS1jb250cm9sIiBhcmlhLWxhYmVsPSJTZWxlY3QgQ29udGFjdCIgWyhuZ01vZGVsKV09InNlbGVjdGVkQ29udGFjdElkIj4KICAgIDxvcHRpb24gW3ZhbHVlXT0ibnVsbCIgaGlkZGVuPkNob29zZSBTdXBwbGllciBDb250YWN0PC9vcHRpb24+CiAgICA8b3B0aW9uICpuZ0Zvcj0ibGV0IGNvbnRhY3Qgb2YgY29udGFjdHMiIFt2YWx1ZV09ImNvbnRhY3QuaWQiPnt7Y29udGFjdC5uYW1lfX08L29wdGlvbj4KICA8L3NlbGVjdD4K</text>
+        <text encoding="base64">ICBibGFibGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcG9zaXRpb246IHt0b3A6ICcxMHB4J30K</text>
+        <text encoding="base64">ICAgIHRoaXMuZGlhbG9nRGF0YSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZGlhbG9nQ29udGVudHMgPSBkZQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtNYXREaWFsb2d9IGZyb20gJ0Bhbmd1bGFyL21hdGVyaWFsJzsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiNjb250YWN0U2VsZWN0aW9uIHsKICBtYXJnaW4tbGVmdDogMXJlbTsKfQ==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
