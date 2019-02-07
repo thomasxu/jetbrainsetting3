@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1549513643036">
-        <mark key="'" line="516" column="64" />
-        <mark key="[" line="558" column="97" />
-        <mark key="]" line="141" column="53" />
-        <mark key="^" line="141" column="72" />
-        <mark key="." line="141" column="53" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1549518160728">
+        <mark key="'" line="141" column="69" />
+        <mark key="[" line="1068" column="3" />
+        <mark key="]" line="1068" column="3" />
+        <mark key="^" line="544" column="9" />
+        <mark key="." line="1068" column="3" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/grid.service.ts" timestamp="1549510229072">
         <mark key="[" line="752" column="4" />
@@ -26,7 +26,7 @@
         <mark key="." line="249" column="3" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-popup/confirm-popup.component.less" timestamp="1549505057406" />
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.html" timestamp="1549512877751">
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.html" timestamp="1549514412306">
         <mark key="'" line="41" column="136" />
         <mark key="]" line="41" column="45" />
         <mark key="^" line="41" column="128" />
@@ -38,7 +38,7 @@
         <mark key="^" line="78" column="33" />
         <mark key="." line="78" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549511867133">
+      <file name="/Dummy.txt" timestamp="1549518027000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -58,7 +58,7 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/services/mat-dialog.service.ts" timestamp="1549513509526">
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/services/mat-dialog.service.ts" timestamp="1549514784128">
         <mark key="[" line="14" column="51" />
         <mark key="]" line="14" column="51" />
         <mark key="." line="14" column="51" />
@@ -70,7 +70,7 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="13" column="2" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-dialog/confirm-dialog.component.html" timestamp="1549513390282">
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-dialog/confirm-dialog.component.html" timestamp="1549514797366">
         <mark key="[" line="20" column="60" />
         <mark key="]" line="20" column="60" />
         <mark key="." line="20" column="60" />
@@ -79,8 +79,6 @@
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/change-contact-dialog-content/change-contact-dialog-content.component.html" timestamp="1549497188887" />
     </filemarks>
     <jumps>
-      <jump line="112" column="4" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" />
-      <jump line="16" column="6" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.html" />
       <jump line="97" column="4" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="99" column="4" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="72" column="3" filename="C:/AutoHotkey/HotKey.ahk" />
@@ -179,6 +177,8 @@
       <jump line="3" column="21" filename="C:/dev/git/bartender/WebApp/src/app/comparison/comparison.module.ts" />
       <jump line="34" column="18" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-dialog/confirm-dialog.component.less" />
       <jump line="516" column="64" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
+      <jump line="554" column="81" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
+      <jump line="558" column="69" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -209,49 +209,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWF0RGlhbG9nUmVmPENvbmZpcm1EaWFsb2dDb21wb25lbnQsIA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>MatDialog</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmNvbmZpcm1EaWFsb2dTZXJ2aWNlLm9wZW5Db25maXJtRGlhbG9nKHRoaXMuY29uZmlybUNsZWFyR3JhbmRUb3RhbFF1b3RlQW1vdW50UG9wdXBDb250ZW50KQo=</text>
+      <register name="0" type="4">
+        <text>saveQuoteAmountPlug</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2hvd1JlbW92ZU1hbnVhbFRvdGFsUG9wdXAodGhpcy5zYXZlUXVvdGVBbW91bnRQbHVnLCB2YWx1ZXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRpYWxvZ0RhdGE6IE1hdERpYWxvZzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2hvd1JlbW92ZU1hbnVhbFRvdGFsUG9wdXAodGhpcy5zYXZlUXVvdGVBbW91bnRQbHVnLCB2YWx1ZXMpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIG1hdERpYWxvZ1JlZjogTWF0RGlhbG9nUmVmLAo=</text>
+        <text encoding="base64">IHRoaXMuc2hvd1JlbW92ZU1hbnVhbFRvdGFsUG9wdXAodGhpcy5zYXZlUXVvdGVBbW91bnQsIHZhbHVlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2hvd1JlbW92ZU1hbnVhbFRvdGFsUG9wdXAodGhpcy5maWxsUXVvdGVBbW91bnQsIHZhbHVlcyk7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2hvd1JlbW92ZU1hbnVhbFRvdGFsUG9wdXAodGhpcy5maWxsUXVvdGVBbW91bnQsIHZhbHVlcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBIZWFkaW5nVHlwZS5TZXRNYW51YWxUb3RhbDoKICAgICAgICAgICAgICB0aGlzLmNvbmZpcm1EaWFsb2dTZXJ2aWNlLm9wZW5Db25maXJtRGlhbG9nKHRoaXMuY29uZmlybUNsZWFyR3JhbmRUb3RhbERpYWxvZ0NvbnRlbnQpCiAgICAgICAgICAgICAgICAuYWZ0ZXJDbG9zZWQoKS5zdWJzY3JpYmUodiA9PiB0aGlzLm9uSGVhZGluZ09wZXJhdGlvbkRlY2lzaW9uTWFkZSh2KSk7CiAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGNvbmZpcm1Qcm9yYXRhSXRzZWxmUG9wdXBDb250ZW50OiBDb25maXJtUG9wdXBDb250ZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUodGhpcy5vbkhlYWRpbmdPcGVyYXRpb25EZWNpc2lvbk1hZGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmNvbmZpcm1EaWFsb2dTZXJ2aWNlLm9wZW5Db25maXJtRGlhbG9nKHRoaXMuY29uZmlybUNsZWFyR3JhbmRUb3RhbFF1b3RlQW1vdW50UG9wdXBDb250ZW50KQogICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZnRlckNsb3NlZCgpLnN1YnNjcmliZSh2ID0+IHRoaXMub25IZWFkaW5nT3BlcmF0aW9uRGVjaXNpb25NYWRlKHYpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmNsZWFyR3JhbmRUb3RhbFBvcHVwLm9wZW5Qb3B1cCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBicmVha2RkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
