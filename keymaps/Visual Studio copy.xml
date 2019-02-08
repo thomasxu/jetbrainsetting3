@@ -335,6 +335,10 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="Replace" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="RiderNuGetQuickListPopupAction" />
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestCoverSolutionAction" />
