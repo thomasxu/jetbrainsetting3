@@ -36,12 +36,12 @@
       <file name="/job-tradepackage-life-cycle-item.component.html" timestamp="1548590187449">
         <mark key="'" line="18" column="49" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" timestamp="1549617178549">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="18" column="62" />
-        <mark key="." line="18" column="62" />
-        <mark key="^" line="18" column="62" />
+      <file name="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" timestamp="1549623495668">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/core/services/log.service.ts" timestamp="1549342176682">
         <mark key="]" line="21" column="0" />
@@ -233,18 +233,58 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>int[] numbers</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ0FzeW5jKGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJhbkdlbi5OZXh0KCk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgYXN5bmMgVGFzazxpbnQ+IE1haW4oc3RyaW5nW10gYXJncykK</text>
+      </register>
+      <register name="2" type="4">
+        <text>{
+            int length = 0;
+            using (var streamReader = new StreamReader())
+            {
+                var content = await streamReader.ReadToEndAsync();
+                length = content.Length;
+                Thread.Sleep(5000);
+            }
+
+            return length;
+        }</text>
+      </register>
+      <register name="r" type="4">
+        <text>Repository</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+      </register>
+      <register name="t" type="4">
+        <text>TradePackag</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRhc2sgPSBuZXcgVGFzazxpbnQ+KCgpID0+IE1haW4oKSk7CiAgICAgICAgICAgIHRhc2suU3RhcnQoICk7CiAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCJwcm9jZXNzIik7CiAgICAgICAgICAgIE1haW4obmV3W10geyIxIiwgIjIiLCAiMyJ9KTsKICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoImNvbXA7Iik7CiAgICAgICAgICAgIHZhciByID0gKHM6IDAsIGM6IDApOwogICAgICAgICAgICBmb3JlYWNoICh2YXIgbnVtYmVyIGluIG51bWJlcnMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEFkZChudW1iZXIpOwogICAgICAgICAgICB9CgoKICAgICAgICAgICAgcmV0dXJuIHI7CgogICAgICAgICAgICB2b2lkIEFkZChpbnQgbnVtYmVyKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByID0gKHIucyArIG51bWJlciwgci5zICsgMSk7CiAgICAgICAgICAgICAgICByLnMgKz0gbnVtYmVyOwogICAgICAgICAgICAgICAgci5jKys7CiAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="9" type="4">
         <text>{
             try
             {
@@ -264,80 +304,6 @@
             var (sum, count) = Tally(numbers);
             Console.WriteLine($&quot;Sum: {sum}, Count:{count}&quot;);
         }</text>
-      </register>
-      <register name="2" type="4">
-        <text>{
-        static void Main(string[] args)
-        {
-            try
-            {
-
-            }
-            catch (InvalidCastException e) when (e.IsSevere)
-            {
-                await LogAsync(e)
-            }
-            finally
-            {
-                await CloseAsync()
-            }
-
-            int[] numbers = {0b1, 0b10, 0b11, 0b1000_0110};
-
-            var (sum, count) = Tally(numbers);
-            Console.WriteLine($&quot;Sum: {sum}, Count:{count}&quot;);
-        }
-
-        private static (int sum, int count) Tally(int[] numbers)
-        {
-            var r = (s: 0, c: 0);
-            foreach (var number in numbers)
-            {
-                Add(number);
-            }
-
-
-            return r;
-
-            void Add(int number)
-            {
-                r = (r.s + number, r.s + 1);
-                r.s += number;
-                r.c++;
-            }
-        }
-
-        public void PrintStars(object o, Shape shape)
-        {
-        }
-    }</text>
-      </register>
-      <register name="r" type="4">
-        <text>Repository</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGZ1bicgCg==</text>
-      </register>
-      <register name="t" type="4">
-        <text>TradePackag</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgICAgIHB1YmxpYyBpbnQgWCB7IGdldDsgfSA9IDQ7CiAgICAgICAgcHVibGljIGludCBZIHsgZ2V0OyB9ID0gNTsKCiAgICAgICAgcHVibGljIFBvaW50KGludCB4LCBpbnQgeSkKICAgICAgICB7CiAgICAgICAgICAgIFggPSB4OwogICAgICAgICAgICBZID0geTsKICAgICAgICAgICAgdmFyIGpPYmplY3QgPSBuZXcgSk9iamVjdCgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFsieCJdID0gWCwKICAgICAgICAgICAgICAgIFsieSJdID0gWQogICAgICAgICAgICB9OwoKICAgICAgICAgICAgaWYgKGpPYmplY3Q/WyJ4Il0uVHlwZSA9PSBKVG9rZW5UeXBlLkludGVnZXIgJiYKICAgICAgICAgICAgICAgIGpzb24/WyJ5Il0udHlwZSA9PSBKc29uSWdub3JlQXR0cmlidXRlKQoKCgogICAgICAgICAgICAgICAgaWYoT25DaGFuZ2VkICE9IG51bGwpCiAgICAgICAgICAgICAgICBPbkNoYW5nZWQ/Lmludm9rZSAodGhpcywgYXJncyk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgZG91YmxlIERpc3QgPT4gU3FydChYICogWCArIFkgKiBZKTsKCiAgICAgICAgcHVibGljIG92ZXJyaWRlIHN0cmluZyBUb1N0cmluZygpID0+ICQiWDp7WH0sIFk6IHtZfSI7CiAgICB9</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVjdGFuZ2xlIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJhc2UuVG9TdHJpbmcoKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFggeyBnZXQ7IH0K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFggeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
