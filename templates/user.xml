@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="propgo" value="public int $PropName$ { get; }&#10;$END$" toReformat="true" toShortenFQNames="true">
+  <template name="propgo" value="public int $PropName$ { get; }&#10;$END$" description="" toReformat="true" toShortenFQNames="true">
     <variable name="PropName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />
