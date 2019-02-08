@@ -9,13 +9,18 @@
         <mark key="^" line="16" column="47" />
         <mark key="." line="9" column="9" />
       </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job/job.component.html" timestamp="1549616816790">
+        <mark key="[" line="84" column="23" />
+        <mark key="]" line="84" column="8" />
+        <mark key="^" line="84" column="8" />
+        <mark key="." line="84" column="8" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Business/Job/JobCreator.cs" timestamp="1549367922478">
         <mark key="[" line="34" column="9" />
         <mark key="]" line="35" column="90" />
         <mark key="^" line="35" column="90" />
         <mark key="." line="35" column="90" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Enums/EstimateCalculationType.cs" timestamp="1549489548234" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Job/JobController.Query.cs" timestamp="1548543426287">
         <mark key="[" line="80" column="9" />
         <mark key="]" line="66" column="68" />
@@ -30,6 +35,13 @@
       </file>
       <file name="/job-tradepackage-life-cycle-item.component.html" timestamp="1548590187449">
         <mark key="'" line="18" column="49" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" timestamp="1549617178549">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="18" column="62" />
+        <mark key="." line="18" column="62" />
+        <mark key="^" line="18" column="62" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/core/services/log.service.ts" timestamp="1549342176682">
         <mark key="]" line="21" column="0" />
@@ -100,18 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="7" filename="C:/dev/git/rxjs-course/src/app/common/store.service.ts" />
-      <jump line="33" column="6" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
-      <jump line="103" column="0" filename="C:/AutoHotkey/HotKeyWindows.ahk" />
-      <jump line="23" column="44" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
-      <jump line="17" column="0" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
-      <jump line="2" column="11" filename="C:/dev/git/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" />
-      <jump line="35" column="3" filename="C:/AutoHotkey/HotKeyMac.ahk" />
-      <jump line="0" column="0" filename="C:/AutoHotkey/HotKeyMac.ahk" />
-      <jump line="58" column="0" filename="C:/dev/git/rxjs-course/src/app/course/course.component.css" />
-      <jump line="60" column="0" filename="C:/dev/git/rxjs-course/src/app/course/course.component.css" />
-      <jump line="26" column="6" filename="C:/AutoHotkey/HotKey.ahk" />
-      <jump line="65" column="4" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="60" column="19" filename="C:/dev/git/rxjs-course/src/app/course/course.component.ts" />
       <jump line="82" column="87" filename="C:/dev/git/rxjs-course/src/app/course/course.component.ts" />
       <jump line="42" column="0" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
@@ -200,6 +200,18 @@
       <jump line="209" column="44" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Job/JobCreator.cs" />
       <jump line="18" column="146" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Integration/Job/Request/EstimateTotal.cs" />
       <jump line="9" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Job/Export/JobExport.cs" />
+      <jump line="19" column="15" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
+      <jump line="21" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
+      <jump line="24" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
+      <jump line="39" column="24" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
+      <jump line="42" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
+      <jump line="44" column="28" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
+      <jump line="55" column="35" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
+      <jump line="52" column="30" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
+      <jump line="2" column="25" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
+      <jump line="47" column="15" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
+      <jump line="28" column="37" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
+      <jump line="26" column="8" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -221,49 +233,111 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>jjj</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
-      <register name="0" type="4">
-        <text>jobMergeInProgress</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ0FzeW5jKGUpCg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhZGVQYWNrYWdlSXRlbS5Ub3RhbFR5cGUuSW4oKQo=</text>
+      <register name="1" type="4">
+        <text>{
+            try
+            {
+
+            }
+            catch (InvalidCastException e) when (e.IsSevere)
+            {
+                await LogAsync(e)
+            }
+            finally
+            {
+                await CloseAsync()
+            }
+
+            int[] numbers = {0b1, 0b10, 0b11, 0b1000_0110};
+
+            var (sum, count) = Tally(numbers);
+            Console.WriteLine($&quot;Sum: {sum}, Count:{count}&quot;);
+        }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBuYW1lb2Yoa2spCiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>{
+        static void Main(string[] args)
+        {
+            try
+            {
+
+            }
+            catch (InvalidCastException e) when (e.IsSevere)
+            {
+                await LogAsync(e)
+            }
+            finally
+            {
+                await CloseAsync()
+            }
+
+            int[] numbers = {0b1, 0b10, 0b11, 0b1000_0110};
+
+            var (sum, count) = Tally(numbers);
+            Console.WriteLine($&quot;Sum: {sum}, Count:{count}&quot;);
+        }
+
+        private static (int sum, int count) Tally(int[] numbers)
+        {
+            var r = (s: 0, c: 0);
+            foreach (var number in numbers)
+            {
+                Add(number);
+            }
+
+
+            return r;
+
+            void Add(int number)
+            {
+                r = (r.s + number, r.s + 1);
+                r.s += number;
+                r.c++;
+            }
+        }
+
+        public void PrintStars(object o, Shape shape)
+        {
+        }
+    }</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEpvYkVudGl0eQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBHbG9iYWxJZCA9IAo=</text>
+        <text encoding="base64">ICAgICAgIGZ1bicgCg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV1dHJuIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ewogICAgICAgIHB1YmxpYyBpbnQgWCB7IGdldDsgfSA9IDQ7CiAgICAgICAgcHVibGljIGludCBZIHsgZ2V0OyB9ID0gNTsKCiAgICAgICAgcHVibGljIFBvaW50KGludCB4LCBpbnQgeSkKICAgICAgICB7CiAgICAgICAgICAgIFggPSB4OwogICAgICAgICAgICBZID0geTsKICAgICAgICAgICAgdmFyIGpPYmplY3QgPSBuZXcgSk9iamVjdCgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFsieCJdID0gWCwKICAgICAgICAgICAgICAgIFsieSJdID0gWQogICAgICAgICAgICB9OwoKICAgICAgICAgICAgaWYgKGpPYmplY3Q/WyJ4Il0uVHlwZSA9PSBKVG9rZW5UeXBlLkludGVnZXIgJiYKICAgICAgICAgICAgICAgIGpzb24/WyJ5Il0udHlwZSA9PSBKc29uSWdub3JlQXR0cmlidXRlKQoKCgogICAgICAgICAgICAgICAgaWYoT25DaGFuZ2VkICE9IG51bGwpCiAgICAgICAgICAgICAgICBPbkNoYW5nZWQ/Lmludm9rZSAodGhpcywgYXJncyk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgZG91YmxlIERpc3QgPT4gU3FydChYICogWCArIFkgKiBZKTsKCiAgICAgICAgcHVibGljIG92ZXJyaWRlIHN0cmluZyBUb1N0cmluZygpID0+ICQiWDp7WH0sIFk6IHtZfSI7CiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGltcG9ydGpvYnJlcXVlc3QgPSAiaW1wb3J0Sm9iUmVxdWVzdCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVjdGFuZ2xlIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNBZGRRdW90ZT8gcXVvdGVVcGRhdGUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJhc2UuVG9TdHJpbmcoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFggeyBnZXQ7IH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLnBlbmRpbmdSZXF1ZXN0cykgewogICAgICAgIHRoaXMucGVuZGluZ1JlcXVlc3RzID0gW107CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFggeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
