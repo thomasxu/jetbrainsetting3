@@ -15,10 +15,10 @@
         <mark key="^" line="16" column="47" />
         <mark key="." line="9" column="9" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Models/Model.cs" timestamp="1549711418293">
+      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Models/Model.cs" timestamp="1549750900070">
         <mark key="'" line="4" column="11" />
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="16" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="12" column="37" />
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
@@ -39,9 +39,9 @@
         <mark key="]" line="7" column="85" />
         <mark key="." line="7" column="85" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Models/Make.cs" timestamp="1549711310754">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="16" />
+      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Models/Make.cs" timestamp="1549750819348">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="20" column="5" />
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
@@ -109,13 +109,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/B8C6DCF6-8FC9-437D-A15B-83AE064ADE8D/9a/18f4bac0/RegistrationExtensions.cs" timestamp="1548981211469">
         <mark key="'" line="120" column="23" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Startup.cs" timestamp="1549714874549">
-        <mark key="c" line="27" column="23" />
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="24" />
-        <mark key="." line="39" column="24" />
-        <mark key="^" line="39" column="24" />
+      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Startup.cs" timestamp="1549751538626">
+        <mark key="c" line="29" column="23" />
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="27" column="118" />
+        <mark key="]" line="28" column="36" />
+        <mark key="." line="28" column="36" />
+        <mark key="^" line="28" column="36" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Vega/Vega/Migrations/20190209112620_Initial migration.cs" timestamp="1549713707435">
         <mark key="'" line="35" column="54" />
@@ -131,17 +131,23 @@
       <file name="/user-preference.service.ts" timestamp="1548632923923">
         <mark key="'" line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Controllers/MakesController.cs" timestamp="1549716331763">
-        <mark key="[" line="26" column="86" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="28" />
+      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Controllers/MakesController.cs" timestamp="1549751678400">
+        <mark key="[" line="30" column="86" />
+        <mark key="]" line="18" column="66" />
+        <mark key="^" line="18" column="66" />
+        <mark key="." line="18" column="66" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/Utils/CentralizedPrefixProvider.cs" timestamp="1549009199537">
         <mark key="[" line="24" column="77" />
         <mark key="]" line="24" column="76" />
         <mark key="^" line="24" column="76" />
         <mark key="." line="24" column="76" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Controllers/Dtos/MakeDto.cs" timestamp="1549750955969">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="/AuthenticationController.Command.cs" timestamp="1549020600050">
         <mark key="'" line="38" column="0" />
@@ -157,6 +163,9 @@
         <mark key="]" line="2" column="45" />
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Mappings/MappingProfile.cs" timestamp="1549751829374">
+        <mark key="[" line="6" column="31" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Exceptions/ModelStateException.cs" timestamp="1549341357596">
         <mark key="[" line="31" column="43" />
@@ -287,49 +296,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>clas</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">SW5pdGlhbG1pZ3JhdGlvbiA=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IElkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW1N0cmluZ0xlbmd0aCgyNTYpXQogICAgICAgIHB1YmxpYyBzdHJpbmcgTmFtZSB7IGdldDsgc2V0OyB9CgogICAgICAgIHB1YmxpYyBpbnQgTWFrZUlkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgTWFrZSBNYWtlIHsgZ2V0OyBzZXQ7IH0=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgTWFrZSBNYWtlIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW1N0cmluZ0xlbmd0aCgyNTYpXQo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW1N0cmluZ0xlbmd0aCgyNTYpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIikK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlIGZyb20gTWFrZXMgd2hlcmUgbmFtZSBpbiAoJ01ha2UxJywgJ01ha2UyJywgJ01ha2UzJykK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBNYWtlRHRvCiAgICB7CiAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gTWFrZXMgd2hlcmUgbmFtZSBpbiAoJ01ha2UxJywgJ01ha2UyJywgJ01ha2UzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gTW9kZWxzIChOYW1lLCBNYWtlSWQpIHZhbHVlcyAoJ01ha2UxLU1vZGVsQScsIHNlbGVjdCAqIGZyb20gTWFrZXMgd2hlcmUgTmFtZSA9ICdNYWtlMScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gTWFrZXMgKE5hbWUpIHZhbHVlcyAoJ01ha2UxJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIikK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>

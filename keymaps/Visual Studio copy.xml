@@ -21,9 +21,6 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
-  <action id="ActivateStacktraceToolWindow">
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt 7" />
     <keyboard-shortcut first-keystroke="alt 7" />
@@ -356,9 +353,10 @@
     <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
-  <action id="RiderNuGetQuickListPopupAction">
+  <action id="RiderNuGetManagePackagesForCurrentProjectAction">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="RiderNuGetQuickListPopupAction" />
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestCoverSolutionAction" />
   <action id="RiderUnitTestDebugContextAction">
