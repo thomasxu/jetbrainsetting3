@@ -28,6 +28,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt 7" />
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+    <keyboard-shortcut first-keystroke="alt f12" />
+  </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 9" />
   </action>
@@ -351,7 +355,9 @@
     <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
-  <action id="RiderNuGetQuickListPopupAction" />
+  <action id="RiderNuGetQuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestCoverSolutionAction" />
   <action id="RiderUnitTestDebugContextAction">
