@@ -66,11 +66,11 @@
       <file name="/job-tradepackage-life-cycle-item.component.html" timestamp="1548590187449">
         <mark key="'" line="18" column="49" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Data/VegaDbContext.cs" timestamp="1549711494763">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="5" column="16" />
+      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Data/VegaDbContext.cs" timestamp="1549755711492">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="27" />
       </file>
       <file name="/Dummy.cs" timestamp="1549661326593">
         <mark key="[" line="0" column="0" />
@@ -155,6 +155,13 @@
       <file name="C:/dev/git/bartender/Bartender.ApiHost/Web.config" timestamp="1548305569751">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Data/Vehicle.cs" timestamp="1549755343215">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="42" />
+      </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Job/Export/JobExport.cs" timestamp="1549368030988">
         <mark key="'" line="9" column="17" />
       </file>
@@ -173,10 +180,14 @@
         <mark key="." line="31" column="43" />
         <mark key="^" line="31" column="43" />
       </file>
+      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Data/VehicleFeature.cs" timestamp="1549755400097">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="C:/dev/git/rxjs-course/src/app/course-dialog/course-dialog.component.ts" />
-      <jump line="67" column="35" filename="C:/dev/git/ngrx-course/src/app/store/actions.ts" />
       <jump line="68" column="0" filename="C:/dev/git/ngrx-course/src/app/store/actions.ts" />
       <jump line="33" column="0" filename="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.ts" />
       <jump line="57" column="0" filename="C:/dev/git/ngrx-course/src/app/message-list/message-list.component.ts" />
@@ -275,6 +286,8 @@
       <jump line="2" column="11" filename="$USER_HOME$/RiderProjects/Vega/Vega/Models/Model.cs" />
       <jump line="12" column="0" filename="$USER_HOME$/RiderProjects/Vega/Vega/Startup.cs" />
       <jump line="35" column="54" filename="$USER_HOME$/RiderProjects/Vega/Vega/Migrations/20190209112620_Initial migration.cs" />
+      <jump line="6" column="17" filename="$USER_HOME$/RiderProjects/Vega/Vega/Data/Vehicle.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/Vega/Vega/Data/Vehicle.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -296,49 +309,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>VehicleFeatures</text>
       </register>
       <register name="/" type="4">
         <text>clas</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IElkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW1N0cmluZ0xlbmd0aCgyNTYpXQogICAgICAgIHB1YmxpYyBzdHJpbmcgTmFtZSB7IGdldDsgc2V0OyB9CgogICAgICAgIHB1YmxpYyBpbnQgTWFrZUlkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgTWFrZSBNYWtlIHsgZ2V0OyBzZXQ7IH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGJTZXQ8VmVoaWNsZUZlYXR1cmU+IFZlaGljbGVGZWF0dXJlcyB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgTWFrZSBNYWtlIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIDU0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW1N0cmluZ0xlbmd0aCgyNTYpXQo=</text>
+        <text encoding="base64">ICAgICAgICBQcmluY2lwYWxQZXJtaXNzaW9uCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW1N0cmluZ0xlbmd0aCgyNTYpXQo=</text>
+        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW1N0cmluZ0xlbmd0aCgyNTUpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBNYWtlRHRvCiAgICB7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQ29udGFjdCBDb250YWN0IHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgTWFrZSBNYWtlIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW1N0cmluZ0xlbmd0aCgyNTYpXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIikK</text>
+        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW1N0cmluZ0xlbmd0aCgyNTYpXQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
