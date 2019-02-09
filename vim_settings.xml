@@ -101,7 +101,7 @@
         <mark key="^" line="62" column="16" />
         <mark key="." line="62" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549335048356">
+      <file name="/Dummy.txt" timestamp="1549706295859">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/FixHeaderQuoteAmountUpdater.cs" timestamp="1548298305729">
@@ -110,12 +110,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/B8C6DCF6-8FC9-437D-A15B-83AE064ADE8D/9a/18f4bac0/RegistrationExtensions.cs" timestamp="1548981211469">
         <mark key="'" line="120" column="23" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Startup.cs" timestamp="1549702582722">
+      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Startup.cs" timestamp="1549706272284">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="26" column="81" />
-        <mark key="]" line="17" column="43" />
-        <mark key="^" line="17" column="43" />
-        <mark key="." line="17" column="43" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/utils/notification-hub.ts" timestamp="1548635056748">
         <mark key="[" line="24" column="33" />
@@ -141,11 +140,11 @@
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Job/Export/JobExport.cs" timestamp="1549368030988">
         <mark key="'" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Vega/Vega/appsettings.json" timestamp="1549702880073">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-        <mark key="^" line="2" column="39" />
+      <file name="$USER_HOME$/RiderProjects/Vega/Vega/appsettings.json" timestamp="1549706129971">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Exceptions/ModelStateException.cs" timestamp="1549341357596">
         <mark key="[" line="31" column="43" />
@@ -276,7 +275,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>DefaultConnection</text>
+        <text>user id=sa;password=0000</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -288,27 +287,30 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5Db25maWd1cmF0aW9uLkNvbmZpZ3VyYXRpb25NYW5hZ2VyLkdldENvbm5lY3Rpb24oY29ubmVjdGlvblN0cmluZ05hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbcmNdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5Db25maWd1cmF0aW9uLkNvbmZpZ3VyYXRpb25NYW5hZ2VyLkdldENvbm5lY3Rpb24oY29ubmVjdGlvblN0cmluZ05hbWUpCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHYxID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBbcmNdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ0IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHYxID0gMQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ0IK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0aWMgYXN5bmMgVGFzazxpbnQ+IE1haW4oc3RyaW5nW10gYXJncykK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
             int length = 0;
             using (var streamReader = new StreamReader())
@@ -321,14 +323,11 @@
             return length;
         }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
