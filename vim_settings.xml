@@ -79,7 +79,11 @@
         <mark key="[" line="37" column="12" />
         <mark key="]" line="37" column="58" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Prorata.cs" timestamp="1550010968866" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Prorata.cs" timestamp="1550012671988">
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="34" column="87" />
+      </file>
       <file name="/Dummy.cs" timestamp="1549661326593">
         <mark key="[" line="0" column="0" />
       </file>
@@ -104,12 +108,12 @@
         <mark key="^" line="25" column="84" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" timestamp="1550009769402">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" timestamp="1550012752611">
         <mark key="'" line="79" column="19" />
-        <mark key="[" line="87" column="104" />
-        <mark key="]" line="87" column="104" />
-        <mark key="." line="87" column="104" />
-        <mark key="^" line="75" column="47" />
+        <mark key="[" line="235" column="9" />
+        <mark key="]" line="231" column="14" />
+        <mark key="." line="231" column="14" />
+        <mark key="^" line="231" column="14" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/WebApiConfig.cs" timestamp="1549010002030">
         <mark key="[" line="50" column="100" />
@@ -117,12 +121,12 @@
         <mark key="^" line="62" column="16" />
         <mark key="." line="62" column="16" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fix.cs" timestamp="1550011003293">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fix.cs" timestamp="1550012701125">
         <mark key="'" line="5" column="4" />
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="34" />
-        <mark key="^" line="14" column="34" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1550006311908">
         <mark key="[" line="0" column="0" />
@@ -326,7 +330,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>3306</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>clas</text>
@@ -338,39 +342,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5SZWdpc3RlckdlbmVyaWModHlwZW9mKFF1b3RlQW1vdW50VXBkYXRlcjw+KSkuQXModHlwZW9mKElRdW90ZUFtb3VudFVwZGF0ZXI8PikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQocXVvdGVBbW91bnRSZXNwb25zZS5QbHVncy5Db3VudCwgSXMuRXF1YWxUbygxKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBRdW90ZUFtb3VudFJlc3BvbnNlIEFzc2VydFJlc3BvbnNlKElFbnVtZXJhYmxlPFF1b3RlQW1vdW50UmVzcG9uc2U+IHF1b3RlQW1vdW50UmVzcG9uc2VzLAo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5SZWdpc3RlckdlbmVyaWModHlwZW9mKFF1b3RlQW1vdW50VXBkYXRlcjw+KSkuQXModHlwZW9mKElRdW90ZUFtb3VudFVwZGF0ZXI8PikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbSWdub3JlKCJTQ1AtMzE5ODogVGhpcyBpcyBmb3IgdGVzdGluZyBjaGlsZHMgaXRlbXMgbm90IEFkZCBVcCBjYXVzZSBxdW90ZSBub3QgYWRkIHVwIGlmIHJlbW92ZSB0aGUgbGFzdCBub25lIDAgaW5jbHVkZSIpXQo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbSWdub3JlKCJTQ1AtMzE5ODogVGhpcyBpcyBmb3IgdGVzdGluZyBjaGlsZHMgaXRlbXMgbm90IEFkZCBVcCBjYXVzZSBxdW90ZSBub3QgYWRkIHVwIGlmIHJlbW92ZSB0aGUgbGFzdCBub25lIDAgaW5jbHVkZSIpXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBbSWdub3JlKCJTQ1AtMzE5ODogVGhpcyBpcyBmb3IgdGVzdGluZyBjaGlsZHMgaXRlbXMgbm90IEFkZCBVcCBjYXVzZSBxdW90ZSBub3QgYWRkIHVwIGlmIHJlbW92ZSB0aGUgbGFzdCBub25lIDAgaW5jbHVkZSIpXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbSWdub3JlKCJFbmFibGUgdGhlIHRlc3QgYWZ0ZXIgd2UgZml4IHRoZSBidWcgb2YgZmlsbGluZyBmcm9tIGVtcHR5IHN1YiBoZWFkZXIgbm90IHVucGljayB0aGUgdGFyZ2V0IHF1b3RlIGFtb3VudCIpXQo=</text>
+        <text encoding="base64">ICAgICAgICBbSWdub3JlKCJTQ1AtMzE5ODogVGhpcyBpcyBmb3IgdGVzdGluZyBjaGlsZHMgaXRlbXMgbm90IEFkZCBVcCBjYXVzZSBxdW90ZSBub3QgYWRkIHVwIGlmIHJlbW92ZSB0aGUgbGFzdCBub25lIDAgaW5jbHVkZSIpXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBbSWdub3JlKCJTQ1AtMzE5ODogVGhpcyBpcyBmb3IgdGVzdGluZyBjaGlsZHMgaXRlbXMgbm90IEFkZCBVcCBjYXVzZSBxdW90ZSBub3QgYWRkIHVwIGlmIHJlbW92ZSB0aGUgbGFzdCBub25lIDAgaW5jbHVkZSIpXQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>_seedConfiguration.User.Id,
-                    quoteAmountPlugRequest.TradePackageId,
-                    quoteAmountPlugRequest.QuoteAmountValues</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBbSWdub3JlKCJFbmFibGUgdGhlIHRlc3QgYWZ0ZXIgd2UgZml4IHRoZSBidWcgb2YgZmlsbGluZyBmcm9tIGVtcHR5IHN1YiBoZWFkZXIgbm90IHVucGljayB0aGUgdGFyZ2V0IHF1b3RlIGFtb3VudCIpXQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
