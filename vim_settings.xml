@@ -109,11 +109,11 @@
         <mark key="^" line="25" column="84" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" timestamp="1550016183787">
-        <mark key="[" line="252" column="144" />
-        <mark key="]" line="252" column="191" />
-        <mark key="." line="252" column="144" />
-        <mark key="^" line="251" column="18" />
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" timestamp="1550017308732">
+        <mark key="[" line="259" column="94" />
+        <mark key="]" line="259" column="94" />
+        <mark key="." line="259" column="94" />
+        <mark key="^" line="246" column="32" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/WebApiConfig.cs" timestamp="1549010002030">
         <mark key="[" line="50" column="100" />
@@ -330,7 +330,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>plugs</text>
+        <text>checkNullTotal</text>
       </register>
       <register name="/" type="4">
         <text>clas</text>
@@ -342,37 +342,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCJuZXcgW10ge30iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBjaGVja051bGxUb3RhbCA9IHN0clRvdGFsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocGx1Z3MgPT0gbnVsbCkgcGx1Z3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzUGx1Z1R5cGUgPSBFbnVtVG9TdHJpbmc8UGx1Z1R5cGU+KHBsdWdUeXBlKTsK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCJuZXcgW10ge30iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVjaW1hbD8gdG90YWwgPSBudWxsLCBib29sIGNoZWNrTnVsbFRvdGFsID0gZmFsc2UsIEJvb2xlYW5PcHRpb24/IGlzTWFudWFsVG90YWwgPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocGx1Z3MgPT0gbnVsbCkgcGx1Z3MK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQocXVvdGVBbW91bnRSZXNwb25zZS5QbHVncy5Db3VudCwgSXMuRXF1YWxUbygxKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBRdW90ZUFtb3VudFJlc3BvbnNlIEFzc2VydFJlc3BvbnNlKElFbnVtZXJhYmxlPFF1b3RlQW1vdW50UmVzcG9uc2U+IHF1b3RlQW1vdW50UmVzcG9uc2VzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVjaW1hbD8gdG90YWwgPSBudWxsLCBib29sIGNoZWNrTnVsbFRvdGFsID0gZmFsc2UsIEJvb2xlYW5PcHRpb24/IGlzTWFudWFsVG90YWwgPSBudWxsLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5SZWdpc3RlckdlbmVyaWModHlwZW9mKFF1b3RlQW1vdW50VXBkYXRlcjw+KSkuQXModHlwZW9mKElRdW90ZUFtb3VudFVwZGF0ZXI8PikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRoYXQocXVvdGVBbW91bnRSZXNwb25zZS5QbHVncy5Db3VudCwgSXMuRXF1YWxUbygxKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBRdW90ZUFtb3VudFJlc3BvbnNlIEFzc2VydFJlc3BvbnNlKElFbnVtZXJhYmxlPFF1b3RlQW1vdW50UmVzcG9uc2U+IHF1b3RlQW1vdW50UmVzcG9uc2VzLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5SZWdpc3RlckdlbmVyaWModHlwZW9mKFF1b3RlQW1vdW50VXBkYXRlcjw+KSkuQXModHlwZW9mKElRdW90ZUFtb3VudFVwZGF0ZXI8PikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
