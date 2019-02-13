@@ -83,7 +83,8 @@
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Extensions/Enum.cs" timestamp="1549366699945">
         <mark key="[" line="6" column="20" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.cs" timestamp="1550033135037">
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.cs" timestamp="1550039603556">
+        <mark key="'" line="344" column="39" />
         <mark key="[" line="311" column="93" />
         <mark key="]" line="325" column="0" />
         <mark key="." line="325" column="0" />
@@ -95,6 +96,7 @@
         <mark key="^" line="25" column="84" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" timestamp="1550039381005" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/WebApiConfig.cs" timestamp="1549010002030">
         <mark key="[" line="50" column="100" />
         <mark key="]" line="62" column="16" />
@@ -117,6 +119,7 @@
         <mark key="." line="23" column="71" />
         <mark key="^" line="23" column="71" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Properties/Resources.resx" timestamp="1550039781305" />
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/utils/notification-hub.ts" timestamp="1548635056748">
         <mark key="[" line="24" column="33" />
         <mark key="]" line="24" column="33" />
@@ -164,6 +167,18 @@
         <mark key="." line="430" column="78" />
         <mark key="^" line="430" column="71" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/Core/IntegrationTestContext.cs" timestamp="1550039895990">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Resources/QuoteAmountHeadingNotMatchCalculated.sql" timestamp="1550039492618">
+        <mark key="[" line="5" column="67" />
+        <mark key="]" line="5" column="67" />
+        <mark key="." line="5" column="67" />
+        <mark key="^" line="3" column="71" />
+      </file>
       <file name="$USER_HOME$/RiderProjects/Vega/Vega/appsettings.json" timestamp="1549710201336">
         <mark key="[" line="2" column="42" />
         <mark key="]" line="2" column="45" />
@@ -187,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/App.config" />
       <jump line="181" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
       <jump line="13" column="13" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/Core/IntegrationTestContext.cs" />
       <jump line="57" column="32" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Autofac/IntegrationTestModule.cs" />
@@ -287,6 +301,7 @@
       <jump line="233" column="21" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="240" column="71" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="261" column="161" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
+      <jump line="344" column="39" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -308,7 +323,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>Resources.bb</text>
       </register>
       <register name="/" type="4">
         <text>clas</text>
