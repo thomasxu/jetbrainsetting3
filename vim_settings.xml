@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/ApiClient/ICandidateClient.cs" timestamp="1550354589157">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/ApiClient.cs" timestamp="1550354849507">
         <mark key="[" line="8" column="93" />
@@ -31,11 +31,11 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/CandidateClient.cs" timestamp="1550354070824">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="50" />
-        <mark key="." line="6" column="32" />
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/CandidateClient.cs" timestamp="1550358082611">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="32" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Extensions/Enum.cs" timestamp="1549366699945">
         <mark key="[" line="6" column="20" />
@@ -58,16 +58,20 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/JobClient.cs" timestamp="1550354866581">
-        <mark key="[" line="16" column="50" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/JobClient.cs" timestamp="1550360485035">
+        <mark key="[" line="17" column="50" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/Dtos/CandidateDto.cs" timestamp="1550354998347">
         <mark key="[" line="4" column="44" />
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/Dtos/MatchedJobDto.cs" timestamp="1550360272761">
+        <mark key="[" line="3" column="5" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/JobAdder.Infrastructure.csproj" timestamp="1550345664468">
         <mark key="[" line="3" column="37" />
@@ -79,11 +83,12 @@
         <mark key="]" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/JobService.cs" timestamp="1550356101526">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-        <mark key="^" line="21" column="34" />
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/JobService.cs" timestamp="1550360397036">
+        <mark key="'" line="34" column="66" />
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="36" column="22" />
+        <mark key="^" line="36" column="22" />
+        <mark key="." line="36" column="22" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Domain/JobAdder.Domain.csproj" timestamp="1550345309423">
         <mark key="[" line="3" column="37" />
@@ -112,8 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="72" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
-      <jump line="64" column="45" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Integration/IntegrationController.Command.cs" />
       <jump line="25" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/AutofacRegister.cs" />
       <jump line="104" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="313" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
@@ -212,6 +215,8 @@
       <jump line="220" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PickQuoteAmountUpdater.cs" />
       <jump line="12" column="35" filename="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/JobClient.cs" />
       <jump line="5" column="25" filename="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/CandidateClient.cs" />
+      <jump line="35" column="51" filename="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/JobService.cs" />
+      <jump line="33" column="66" filename="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/JobService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -233,7 +238,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>.ToLower()</text>
+        <text>[jobSkill.Key] != nul</text>
       </register>
       <register name="/" type="4">
         <text>clas</text>
@@ -245,7 +250,7 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5EaXN0aW5jdCgpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -257,25 +262,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JEdG8gR2V0QWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGpvYlNraWxscyA9IGdldAo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSm9iRHRvIGpvYnNEdG87Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgSUpvYkNsaWVudAogICAgewogICAgICAgIEpvYkR0byBHZXRKb2JzKCk7CiAgICB9CgogICAgcHVibGljIGNsYXNzIEpvYkNsaWVudCA6IElKb2JDbGllbnQKICAgIHsKICAgICAgICBwcml2YXRlIG9iamVjdCBfcmVzdENsaWVudDsKCiAgICAgICAgcHVibGljIEpvYkR0byBHZXRKb2JzKCkKICAgICAgICB7CiAgICAgICAgICAgIF9yZXN0Q2xpZW50CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKb2JEdG8gR2V0QWxsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
