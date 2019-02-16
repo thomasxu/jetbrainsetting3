@@ -12,12 +12,18 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/JobClient.cs" timestamp="1550351518436">
+        <mark key="[" line="63" column="28" />
+        <mark key="]" line="63" column="28" />
+        <mark key="." line="63" column="28" />
+      </file>
       <file name="C:/dev/git/jobAdder-Tech-Challenge-master/JobMatch.Api/JobMatch.BusinessServices/BaseBusinessServices.cs" timestamp="1550294605929">
         <mark key="[" line="42" column="46" />
         <mark key="]" line="21" column="41" />
         <mark key="^" line="21" column="41" />
         <mark key="." line="21" column="41" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/Services/BaseClient.cs" timestamp="1550347643376" />
       <file name="C:/dev/git/jobAdder-Tech-Challenge-master/JobMatch.Api/JobMatch.BusinessServices/CandidateBusinessServices.cs" timestamp="1550298545059">
         <mark key="[" line="37" column="16" />
       </file>
@@ -62,23 +68,30 @@
         <mark key="]" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="C:/dev/git/jobAdder-Tech-Challenge-master/JobMatch.Api/JobMatch.Models/AddValueForRepeatedSkills.cs" timestamp="1550283763050">
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/RiderProjects/Vega/Vega/Mappings/MappingProfile.cs" timestamp="1549751829374">
         <mark key="[" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobMatcher2/Controllers/JobsController.cs" timestamp="1550345342996">
         <mark key="[" line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/Job.cs" timestamp="1550350132757">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+      </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/Services/RestSharpClient.cs" timestamp="1550351170200">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="44" column="4" />
+      </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Domain/Class1.cs" timestamp="1550343542107">
         <mark key="[" line="4" column="16" />
       </file>
+      <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/Services/QuoteClient.cs" timestamp="1550350497869">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="25" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="20" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
       <jump line="103" column="46" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="166" column="72" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Fill.cs" />
       <jump line="64" column="45" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/Integration/IntegrationController.Command.cs" />
@@ -178,6 +191,7 @@
       <jump line="24" column="26" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="18" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PickQuoteAmountUpdater.cs" />
       <jump line="220" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PickQuoteAmountUpdater.cs" />
+      <jump line="12" column="35" filename="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/JobClient.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -199,49 +213,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>MatchedJobDto</text>
+        <text>string url, Method method, object request = null</text>
       </register>
       <register name="/" type="4">
         <text>clas</text>
       </register>
       <register name="0" type="4">
-        <text>actionContext.GetAccountId()</text>
+        <text encoding="base64">ICAgICBwdWJsaWMgY2xhc3MgUmVzdFNoYXJwQ2xpZW50CiAgICB7CiAgICAgICAgcHJpdmF0ZSByZWFkb25seSBzdHJpbmcgX2FjY2Vzc1Rva2VuOwogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgUmVzdENsaWVudCBfY2xpZW50OwoKICAgICAgICBwdWJsaWMgUmVzdFNoYXJwQ2xpZW50KHN0cmluZyBhcGlVcmwsIHN0cmluZyBhY2Nlc3NUb2tlbikKICAgICAgICB7CiAgICAgICAgICAgIF9hY2Nlc3NUb2tlbiA9IGFjY2Vzc1Rva2VuOwogICAgICAgICAgICBfY2xpZW50ID0gbmV3IFJlc3RDbGllbnQoYXBpVXJsKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBUIFBvc3Q8VD4oc3RyaW5nIHVybCwgb2JqZWN0IHJlcXVlc3QpIHdoZXJlIFQgOiBuZXcoKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIEV4ZWN1dGU8VD4odXJsLCBNZXRob2QuUE9TVCwgcmVxdWVzdCk7CiAgICAgICAgfQogICAgICAgIHB1YmxpYyBUIFB1dDxUPihzdHJpbmcgdXJsLCBvYmplY3QgcmVxdWVzdCkgd2hlcmUgVCA6IG5ldygpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gRXhlY3V0ZTxUPih1cmwsIE1ldGhvZC5QVVQsIHJlcXVlc3QpOwogICAgICAgIH0KICAgICAgICBwdWJsaWMgVCBEZWxldGU8VD4oc3RyaW5nIHVybCkgd2hlcmUgVCA6IG5ldygpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gRXhlY3V0ZTxUPih1cmwsIE1ldGhvZC5ERUxFVEUpOwogICAgICAgIH0KICAgICAgICBwdWJsaWMgVCBHZXQ8VD4oc3RyaW5nIHVybCkgd2hlcmUgVDogbmV3KCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBFeGVjdXRlPFQ+KHVybCwgTWV0aG9kLkdFVCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgVCBFeGVjdXRlPFQ+KHN0cmluZyB1cmwsIE1ldGhvZCBtZXRob2QsIG9iamVjdCByZXF1ZXN0ID0gbnVsbCkgd2hlcmUgVDogbmV3KCkgCiAgICAgICAgewogICAgICAgICAgICB2YXIganNvbkJvZHkgPSBKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3QocmVxdWVzdCk7CiAgICAgICAgICAgIHZhciByZXN0UmVxdWVzdCA9IG5ldyBSZXN0UmVxdWVzdCh1cmwsIG1ldGhvZCk7CgogICAgICAgICAgICByZXN0UmVxdWVzdC5BZGRIZWFkZXIoIkF1dGhvcml6YXRpb24iLCBfYWNjZXNzVG9rZW4pOwogICAgICAgICAgICByZXN0UmVxdWVzdC5BZGRQYXJhbWV0ZXIoImFwcGxpY2F0aW9uL2pzb24iLCBqc29uQm9keSwgUGFyYW1ldGVyVHlwZS5SZXF1ZXN0Qm9keSk7CgogICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBfY2xpZW50LkV4ZWN1dGU8VD4ocmVzdFJlcXVlc3QpOwogICAgICAgICAgICByZXR1cm4gSnNvbkNvbnZlcnQuRGVzZXJpYWxpemVPYmplY3Q8VD4ocmVzcG9uc2UuQ29udGVudCk7CiAgICAgICAgfSAKICAgIH0=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBSZXN0c2hhcnBDbGllbnQKICAgIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICBwdWJsaWMgY2xhc3MgUmVzdFNoYXJwQ2xpZW50CiAgICB7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBzdHJpbmdbXSB7ICJ2YWx1ZTEiLCAidmFsdWUyIiB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Jlc3RDbGllbnQgPSBuZXcgUmVzdENsaWVudCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdlbmVyaWNSZXNwb25zZS5SZXN1bHQ7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVybCA9ICQie0FwaUJhc2VVcmx9L3t0cmFkZVBhY2thZ2VJZH0vcXVvdGVhbW91bnRzZ3JpZCI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Jlc3RDbGllbnQuUG9zdDxHZW5lcmljUmVzcG9uc2U8b2JqZWN0Pj4odXJsLCByZXF1ZXN0KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlUXVvdGVBbW91bnQoMzQsIHRvdGFsOiBudWxsKTsKICAgICAgICAgICAgVXBkYXRlUXVvdGVBbW91bnQoNjUsIHRvdGFsOiBudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBBZGRRdW90ZShVcGRhdGVRdW90ZVJlcXVlc3QgcmVxdWVzdCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciB1cmwgPSAkIntBcGlCYXNlVXJsfS9tZXJnZSI7ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgUXVvdGVDbGllbnQoc3RyaW5nIGhvc3RVcmwsIHN0cmluZyBhY2Nlc3NUb2tlbik6YmFzZSgkIntob3N0VXJsfS9hcGkvdjEvcXVvdGVzIiwgYWNjZXNzVG9rZW4pCiAgICAgICAgewogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlUXVvdGVBbW91bnQoMzQsIHRvdGFsOiBudWxsKTsKICAgICAgICAgICAgVXBkYXRlUXVvdGVBbW91bnQoNjUsIHRvdGFsOiBudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
