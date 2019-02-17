@@ -27,12 +27,12 @@
         <mark key="." line="8" column="93" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application/Services/Jobs/JobService.cs" timestamp="1550400454083">
+      <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application/Services/Jobs/JobService.cs" timestamp="1550401276789">
         <mark key="'" line="59" column="32" />
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-        <mark key="^" line="27" column="39" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="69" column="4" />
       </file>
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application/Interfaces/ApiClients/IJobClient.cs" timestamp="1550400267882">
         <mark key="[" line="7" column="8" />
@@ -90,7 +90,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550400692214">
+      <file name="/Dummy.txt" timestamp="1550402260431">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -152,8 +152,11 @@
         <mark key="." line="71" column="34" />
         <mark key="^" line="71" column="34" />
       </file>
-      <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application.Test/JobServiceTest.cs" timestamp="1550400821721">
-        <mark key="[" line="9" column="9" />
+      <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application.Test/JobServiceTest.cs" timestamp="1550402302383">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Domain/JobAdder.Domain.csproj" timestamp="1550345309423">
         <mark key="[" line="3" column="37" />
@@ -288,7 +291,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>SkillCaseNotMatch</text>
       </register>
       <register name="/" type="4">
         <text>react</text>
@@ -300,37 +303,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hdGNoZWRDYW5kaWRhdGVzRHRvID0gbmV3IExpc3Q8TWF0Y2hlZENhbmRpZGF0ZUR0bz4oKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGpvYlNraWxscyA9IFBhcnNlU2tpbGxzKGpvYkR0by5Ta2lsbHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgam9iQ2xpZW50LkdldEFsbCgpLlJldHVybnMoam9icyk7CiAgICAgICAgICAgIGNhbmRpZGF0ZUNsaWVudC5HZXRBbGwoKS5SZXR1cm5zKGNhbmRpZGF0ZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogICAgICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGpvYlNraWxscyA9IFBhcnNlU2tpbGxzKGpvYkR0by5Ta2lsbHMpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">W0ZhY3RdCiAgICAgICAgcHVibGljIHZvaWQgR2V0Sm9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlX1NraWxsQ2FzZU5vdE1hdGNoX0lzUGlja2VkV2l0aFJpZ2h0U2NvcmUoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGNhbmRpZGF0ZUNsaWVudCA9IFN1YnN0aXR1dGUuRm9yPElDYW5kaWRhdGVDbGllbnQ+KCk7CiAgICAgICAgICAgIHZhciBqb2JDbGllbnQgPSBTdWJzdGl0dXRlLkZvcjxJSm9iQ2xpZW50PigpOwoKICAgICAgICAgICAgSUxpc3Q8Q2FuZGlkYXRlRHRvPiBjYW5kaWRhdGVzID0gbmV3IExpc3Q8Q2FuZGlkYXRlRHRvPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuZXcgQ2FuZGlkYXRlRHRvCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ2FuZGlkYXRlSWQgPSAxLAogICAgICAgICAgICAgICAgICAgIE5hbWUgPSAiVGhvbWFzIiwKICAgICAgICAgICAgICAgICAgICBTa2lsbFRhZ3MgPSAiQW5ndWxhcjcsIERvdE5ldENvcmUiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CiAgICAgICAgICAgIGNhbmRpZGF0ZUNsaWVudC5HZXRBbGwoKS5SZXR1cm5zKGNhbmRpZGF0ZXMpOwoKCiAgICAgICAgICAgIElMaXN0PEpvYkR0bz4gam9icyA9IG5ldyBMaXN0PEpvYkR0bz4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmV3IEpvYkR0bwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIEpvYklkID0gMSwKICAgICAgICAgICAgICAgICAgICBDb21wYW55ID0gIkpvYkFkZGVyIiwKICAgICAgICAgICAgICAgICAgICBTa2lsbHMgPSAiQW5ndWxhcjcsIERvdE5ldENvcmUiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CiAgICAgICAgICAgIGpvYkNsaWVudC5HZXRBbGwoKS5SZXR1cm5zKGpvYnMpOwoKCiAgICAgICAgICAgIHZhciBzdXQgPSBuZXcgSm9iU2VydmljZShqb2JDbGllbnQsIGNhbmRpZGF0ZUNsaWVudCk7CiAgICAgICAgICAgIHZhciBqb2JzV2l0aE1hdGNoZWRDYW5kaWRhdGUgPSBzdXQuR2V0Sm9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlcygpOwoKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDEsIGpvYnNXaXRoTWF0Y2hlZENhbmRpZGF0ZS5Db3VudCk7CgogICAgICAgICAgICB2YXIgbWF0Y2hlZENhbmRpZGF0ZSA9IGpvYnNXaXRoTWF0Y2hlZENhbmRpZGF0ZVswXS5NYXRjaGVkQ2FuZGlkYXRlc0R0bzsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDEsIG1hdGNoZWRDYW5kaWRhdGUuQ291bnQpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMSwgbWF0Y2hlZENhbmRpZGF0ZVswXS5DYW5kaWRhdGUuQ2FuZGlkYXRlSWQpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMiwgbWF0Y2hlZENhbmRpZGF0ZVswXS5NYXRjaGVkU2tpbGxzLkxlbmd0aCk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgzOTgsIG1hdGNoZWRDYW5kaWRhdGVbMF0uTWF0Y2hlZFNjb3JlKTsKICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHZhciBjYW5kaWRhdGVDbGllbnQgPSBTdWJzdGl0dXRlLkZvcjxJQ2FuZGlkYXRlQ2xpZW50PigpOwogICAgICAgICAgICB2YXIgam9iQ2xpZW50ID0gU3Vic3RpdHV0ZS5Gb3I8SUpvYkNsaWVudD4oKTsKCiAgICAgICAgICAgIElMaXN0PENhbmRpZGF0ZUR0bz4gY2FuZGlkYXRlcyA9IG5ldyBMaXN0PENhbmRpZGF0ZUR0bz4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmV3IENhbmRpZGF0ZUR0bwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENhbmRpZGF0ZUlkID0gMSwKICAgICAgICAgICAgICAgICAgICBOYW1lID0gIlRob21hcyIsCiAgICAgICAgICAgICAgICAgICAgU2tpbGxUYWdzID0gInJlYWN0LCBOb2RlSnMiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CgogICAgICAgICAgICBJTGlzdDxKb2JEdG8+IGpvYnMgPSBuZXcgTGlzdDxKb2JEdG8+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5ldyBKb2JEdG8KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBKb2JJZCA9IDEsCiAgICAgICAgICAgICAgICAgICAgQ29tcGFueSA9ICJKb2JBZGRlciIsCiAgICAgICAgICAgICAgICAgICAgU2tpbGxzID0gIkFuZ3VsYXI3LCBEb3ROZXRDb3JlIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Ow==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNhbmRpZGF0ZVNraWxscyA9IFBhcnNlU2tpbGxzKGNhbmRpZGF0ZUR0by5Ta2lsbFRhZ3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
