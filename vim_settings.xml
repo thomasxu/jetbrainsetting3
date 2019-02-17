@@ -16,20 +16,17 @@
         <mark key="^" line="8" column="42" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/ApiClient/IApiClient.cs" timestamp="1550354079027" />
-      <file name="C:/dev/git/jobAdder-Tech-Challenge-master/JobMatch.Api/JobMatch.BusinessServices/CandidateBusinessServices.cs" timestamp="1550298545059">
-        <mark key="[" line="37" column="16" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobMatcher2/JobMatcher2.csproj" timestamp="1550343887090">
-        <mark key="[" line="17" column="14" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1550203069483">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/Dtos/JobDto.cs" timestamp="1550354802567">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="43" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application.UnitTest/JobServiceTest.cs" timestamp="1550371246595">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="4" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/CandidateClient.cs" timestamp="1550363301496">
         <mark key="[" line="17" column="42" />
@@ -37,29 +34,11 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="32" />
       </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.Core/Extensions/Enum.cs" timestamp="1549366699945">
-        <mark key="[" line="6" column="20" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/IJobService.cs" timestamp="1550345092040">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
-      </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobMatcher2/Controllers/JobsController.cs" timestamp="1550363376569">
         <mark key="[" line="23" column="83" />
         <mark key="]" line="23" column="60" />
         <mark key="^" line="23" column="60" />
         <mark key="." line="23" column="60" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1550294208846">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobMatcher2/Controllers/Job.cs" timestamp="1550343845181">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-        <mark key="." line="4" column="27" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/JobClient.cs" timestamp="1550363246525">
         <mark key="[" line="17" column="42" />
@@ -89,7 +68,7 @@
         <mark key="]" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/JobService.cs" timestamp="1550363491426">
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/JobService.cs" timestamp="1550370442112">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -98,9 +77,6 @@
         <mark key="[" line="3" column="37" />
         <mark key="]" line="3" column="38" />
         <mark key="." line="3" column="38" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/Vega/Vega/Mappings/MappingProfile.cs" timestamp="1549751829374">
-        <mark key="[" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/Job.cs" timestamp="1550350132757">
         <mark key="[" line="14" column="38" />
@@ -111,9 +87,7 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Domain/Class1.cs" timestamp="1550343542107">
-        <mark key="[" line="4" column="16" />
-      </file>
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application.UnitTest/UnitTest1.cs" timestamp="1550370379495" />
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/ApiClient/IJobClient.cs" timestamp="1550354269620" />
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/Services/QuoteClient.cs" timestamp="1550350497869">
         <mark key="[" line="9" column="0" />
@@ -242,7 +216,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>IList</text>
+        <text>new JobClient()</text>
       </register>
       <register name="/" type="4">
         <text>clas</text>
