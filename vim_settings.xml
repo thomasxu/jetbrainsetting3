@@ -41,7 +41,7 @@
         <mark key="." line="7" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/B3824083-29EE-4512-A838-FCA9F4A05F42/8a/fc57aee9/IServiceCollection.cs" timestamp="1550379645047" />
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobMatcher2/Controllers/JobsController.cs" timestamp="1550377902392">
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobMatcher2/Controllers/JobsController.cs" timestamp="1550387965783">
         <mark key="[" line="23" column="17" />
         <mark key="]" line="23" column="60" />
         <mark key="^" line="23" column="60" />
@@ -53,22 +53,17 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="46" />
       </file>
+      <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Api/Controllers/JobsController.cs" timestamp="1550387973047">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/Dtos/CandidateDto.cs" timestamp="1550381758809" />
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/Dtos/MatchedJobDto.cs" timestamp="1550362677746">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
         <mark key="^" line="8" column="6" />
         <mark key="." line="7" column="21" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/JobAdder.Infrastructure.csproj" timestamp="1550345664468">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="38" />
-        <mark key="." line="3" column="38" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/JobAdder.Application.csproj" timestamp="1550345303020">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="38" />
-        <mark key="." line="3" column="38" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/JobService.cs" timestamp="1550382392302">
         <mark key="[" line="71" column="31" />
@@ -77,26 +72,8 @@
         <mark key="^" line="71" column="34" />
       </file>
       <file name="C:/dev/git/bartender/Buildsoft.Bartender.Api/AppStart/AutofacRegister.cs" timestamp="1550378655693" />
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Domain/JobAdder.Domain.csproj" timestamp="1550345309423">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="38" />
-        <mark key="." line="3" column="38" />
-      </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/Job.cs" timestamp="1550350132757">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="14" column="38" />
-        <mark key="." line="14" column="38" />
-      </file>
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/Services/RestSharpClient.cs" timestamp="1550353383089">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="44" column="4" />
-      </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application.UnitTest/UnitTest1.cs" timestamp="1550370379495" />
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/ApiClient/IJobClient.cs" timestamp="1550354269620" />
-      <file name="C:/dev/git/bartender/Buildsoft.Bartender.PerformanceTest/Services/QuoteClient.cs" timestamp="1550350497869">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="25" column="8" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="202" column="43" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
@@ -220,7 +197,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gMTk4Ow==</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>react</text>
@@ -232,19 +209,19 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkNvbGxlY3Rpb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYW5kaWRhdGVTa2lsbHMuQ29udGFpbnNLZXkoam9iU2tpbGwuS2V5KSA/IGNhbmRpZGF0ZVNraWxsc1tqb2JTa2lsbC5LZXldICsgam9iU2tpbGwuVmFsdWUgOiAwKQo=</text>
+        <text encoding="base64">ICAgIAogICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkNvbGxlY3Rpb24oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYW5kaWRhdGVTa2lsbHMuQ29udGFpbnNLZXkoam9iU2tpbGwuS2V5KSA/IGNhbmRpZGF0ZVNraWxsc1tqb2JTa2lsbC5LZXldICsgam9iU2tpbGwuVmFsdWUgOiAwKQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
@@ -253,16 +230,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBDYW5kaWRhdGVEdG8oY2FuZGlkYXRlRHRvKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBDYW5kaWRhdGVEdG8oY2FuZGlkYXRlRHRvKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
