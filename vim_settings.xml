@@ -22,12 +22,11 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application.UnitTest/JobServiceTest.cs" timestamp="1550374006126">
-        <mark key="'" line="178" column="65" />
-        <mark key="[" line="189" column="43" />
-        <mark key="]" line="189" column="43" />
-        <mark key="." line="189" column="43" />
-        <mark key="^" line="189" column="42" />
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application.UnitTest/JobServiceTest.cs" timestamp="1550376557814">
+        <mark key="'" line="237" column="0" />
+        <mark key="[" line="235" column="10" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/CandidateClient.cs" timestamp="1550363301496">
         <mark key="[" line="17" column="42" />
@@ -97,7 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="36" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Plug.cs" />
       <jump line="111" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Plug.cs" />
       <jump line="30" column="12" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Resolve.cs" />
       <jump line="202" column="43" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
@@ -197,6 +195,7 @@
       <jump line="66" column="49" filename="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application.UnitTest/JobServiceTest.cs" />
       <jump line="37" column="42" filename="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application.UnitTest/JobServiceTest.cs" />
       <jump line="178" column="65" filename="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application.UnitTest/JobServiceTest.cs" />
+      <jump line="295" column="0" filename="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application.UnitTest/JobServiceTest.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -218,49 +217,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>DotNetCore</text>
+        <text>398</text>
       </register>
       <register name="/" type="4">
         <text>react</text>
       </register>
-      <register name="0" type="4">
-        <text>MachtedCandidateDto</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2hlZENhbmRpZGF0ZXNbMF0uQ2FuZGlkYXRlSWQgPSAzOwogICAgICAgICAgICBtYXRjaGVkQ2FuZGlkYXRlc1swXS5NYXRjaGVkU2NvcmUgPSAzOTg7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBHZXRKb2JzV2l0aE1hdGNoZWRDYW5kaWRhdGVfU2tpbGxDYXNlTm90TWF0Y2hfSXNQaWNrZWRXaXRoUmlnaHRTY29yZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlNhbWUoMiwgbWF0Y2hlZENhbmRpZGF0ZVswXS5NYXRjaGVkU2tpbGxzKTsKICAgICAgICAgICAgQXNzZXJ0LlNhbWUoMzk4LCBtYXRjaGVkQ2FuZGlkYXRlWzBdLk1hdGNoZWRTY29yZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDM5OCwgbWF0Y2hlZENhbmRpZGF0ZXNbMF0uTWF0Y2hlZFNjb3JlKTsK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y2xhc3MgSm9iU2VydmljZVRlc3QKICAgIHsKCiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIHZvaWQgR2V0Sm9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlX1NraWxsQ2FzZU5vdE1hdGNoX0lzUGlja2VkV2l0aFJpZ2h0U2NvcmUoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGNhbmRpZGF0ZUNsaWVudCA9IFN1YnN0aXR1dGUuRm9yPElDYW5kaWRhdGVDbGllbnQ+KCk7CiAgICAgICAgICAgIHZhciBqb2JDbGllbnQgPSBTdWJzdGl0dXRlLkZvcjxJSm9iQ2xpZW50PigpOwoKICAgICAgICAgICAgSUxpc3Q8Q2FuZGlkYXRlRHRvPiBjYW5kaWRhdGVzID0gbmV3IExpc3Q8Q2FuZGlkYXRlRHRvPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuZXcgQ2FuZGlkYXRlRHRvCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ2FuZGlkYXRlSWQgPSAxLAogICAgICAgICAgICAgICAgICAgIE5hbWUgPSAiVGhvbWFzIiwKICAgICAgICAgICAgICAgICAgICBTa2lsbFRhZ3MgPSAiYW5ndWxhcjcsIGRvdE5ldENvcmUiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CiAgICAgICAgICAgIGNhbmRpZGF0ZUNsaWVudC5HZXRBbGwoKS5SZXR1cm5zKGNhbmRpZGF0ZXMpOwoKCiAgICAgICAgICAgIElMaXN0PEpvYkR0bz4gam9icyA9IG5ldyBMaXN0PEpvYkR0bz4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmV3IEpvYkR0bwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIEpvYklkID0gMSwKICAgICAgICAgICAgICAgICAgICBDb21wYW55ID0gIkpvYkFkZGVyIiwKICAgICAgICAgICAgICAgICAgICBTa2lsbHMgPSAiQW5ndWxhcjcsIERvdE5ldENvcmUiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CiAgICAgICAgICAgIGpvYkNsaWVudC5HZXRBbGwoKS5SZXR1cm5zKGpvYnMpOwoKCiAgICAgICAgICAgIHZhciBzdXQgPSBuZXcgSm9iU2VydmljZShqb2JDbGllbnQsIGNhbmRpZGF0ZUNsaWVudCk7CiAgICAgICAgICAgIHZhciBqb2JzV2l0aE1hdGNoZWRDYW5kaWRhdGUgPSBzdXQuR2V0Sm9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlKCk7CgogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMSwgam9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlLkNvdW50KTsKCiAgICAgICAgICAgIHZhciBtYXRjaGVkQ2FuZGlkYXRlID0gam9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlWzBdLk1hdGNoZWRDYW5kaWRhdGVzRHRvOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMSwgbWF0Y2hlZENhbmRpZGF0ZS5Db3VudCk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgyLCBtYXRjaGVkQ2FuZGlkYXRlWzBdLk1hdGNoZWRTa2lsbHMuTGVuZ3RoKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDM5OCwgbWF0Y2hlZENhbmRpZGF0ZVswXS5NYXRjaGVkU2NvcmUpOwogICAgICAgIH0KCiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIHZvaWQgR2V0Sm9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlX1NraWxsTm90TWF0Y2hfSXNOb3RQaWNrZWQoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGNhbmRpZGF0ZUNsaWVudCA9IFN1YnN0aXR1dGUuRm9yPElDYW5kaWRhdGVDbGllbnQ+KCk7CiAgICAgICAgICAgIHZhciBqb2JDbGllbnQgPSBTdWJzdGl0dXRlLkZvcjxJSm9iQ2xpZW50PigpOwoKICAgICAgICAgICAgSUxpc3Q8Q2FuZGlkYXRlRHRvPiBjYW5kaWRhdGVzID0gbmV3IExpc3Q8Q2FuZGlkYXRlRHRvPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuZXcgQ2FuZGlkYXRlRHRvCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ2FuZGlkYXRlSWQgPSAxLAogICAgICAgICAgICAgICAgICAgIE5hbWUgPSAiVGhvbWFzIiwKICAgICAgICAgICAgICAgICAgICBTa2lsbFRhZ3MgPSAicmVhY3QsIEQ=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKCwgbWF0Y2hlZENhbmRpZGF0ZVswXS5NYXRjaGVkU2tpbGxzLkxlbmd0aCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBHZXRKb2JzV2l0aE1hdGNoZWRDYW5kaWRhdGVfU2tpbGxDYXNlTm90TWF0Y2hfSXNQaWNrZWRXaXRoUmlnaHRTY29yZSgpCg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlNhbWUoMSwgZmlyc3RNYXRjaGVkSm9iLk1hdGNoZWRDYW5kaWRhdGVEdG8uQ291bnQpOwoKICAgICAgICAgICAgdmFyIG1hdGNoZWRDYW5kaWRhdGUgPSBmaXJzdE1hdGNoZWRKb2IuTWF0Y2hlZENhbmRpZGF0ZUR0by5GaXJzdCgpOwogICAgICAgICAgICBBc3NlcnQuU2FtZSgzOTgsIG1hdGNoZWRDYW5kaWRhdGUuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlNhbWUoMiwgbWF0Y2hlZENhbmRpZGF0ZVswXS5NYXRjaGVkU2tpbGxzKTsKICAgICAgICAgICAgQXNzZXJ0LlNhbWUoMzk4LCBtYXRjaGVkQ2FuZGlkYXRlWzBdLk1hdGNoZWRTY29yZSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y2xhc3MgSm9iU2VydmljZVRlc3QKICAgIHsKCiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIHZvaWQgR2V0Sm9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlX1NraWxsQ2FzZU5vdE1hdGNoX0lzUGlja2VkV2l0aFJpZ2h0U2NvcmUoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGNhbmRpZGF0ZUNsaWVudCA9IFN1YnN0aXR1dGUuRm9yPElDYW5kaWRhdGVDbGllbnQ+KCk7CiAgICAgICAgICAgIHZhciBqb2JDbGllbnQgPSBTdWJzdGl0dXRlLkZvcjxJSm9iQ2xpZW50PigpOwoKICAgICAgICAgICAgSUxpc3Q8Q2FuZGlkYXRlRHRvPiBjYW5kaWRhdGVzID0gbmV3IExpc3Q8Q2FuZGlkYXRlRHRvPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuZXcgQ2FuZGlkYXRlRHRvCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ2FuZGlkYXRlSWQgPSAxLAogICAgICAgICAgICAgICAgICAgIE5hbWUgPSAiVGhvbWFzIiwKICAgICAgICAgICAgICAgICAgICBTa2lsbFRhZ3MgPSAiYW5ndWxhcjcsIGRvdE5ldENvcmUiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CiAgICAgICAgICAgIGNhbmRpZGF0ZUNsaWVudC5HZXRBbGwoKS5SZXR1cm5zKGNhbmRpZGF0ZXMpOwoKCiAgICAgICAgICAgIElMaXN0PEpvYkR0bz4gam9icyA9IG5ldyBMaXN0PEpvYkR0bz4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmV3IEpvYkR0bwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIEpvYklkID0gMSwKICAgICAgICAgICAgICAgICAgICBDb21wYW55ID0gIkpvYkFkZGVyIiwKICAgICAgICAgICAgICAgICAgICBTa2lsbHMgPSAiQW5ndWxhcjcsIERvdE5ldENvcmUiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CiAgICAgICAgICAgIGpvYkNsaWVudC5HZXRBbGwoKS5SZXR1cm5zKGpvYnMpOwoKCiAgICAgICAgICAgIHZhciBzdXQgPSBuZXcgSm9iU2VydmljZShqb2JDbGllbnQsIGNhbmRpZGF0ZUNsaWVudCk7CiAgICAgICAgICAgIHZhciBqb2JzV2l0aE1hdGNoZWRDYW5kaWRhdGUgPSBzdXQuR2V0Sm9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlKCk7CgogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMSwgam9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlLkNvdW50KTsKCiAgICAgICAgICAgIHZhciBtYXRjaGVkQ2FuZGlkYXRlID0gam9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlWzBdLk1hdGNoZWRDYW5kaWRhdGVzRHRvOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMSwgbWF0Y2hlZENhbmRpZGF0ZS5Db3VudCk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgyLCBtYXRjaGVkQ2FuZGlkYXRlWzBdLk1hdGNoZWRTa2lsbHMuTGVuZ3RoKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDM5OCwgbWF0Y2hlZENhbmRpZGF0ZVswXS5NYXRjaGVkU2NvcmUpOwogICAgICAgIH0KCiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIHZvaWQgR2V0Sm9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlX1NraWxsTm90TWF0Y2hfSXNOb3RQaWNrZWQoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGNhbmRpZGF0ZUNsaWVudCA9IFN1YnN0aXR1dGUuRm9yPElDYW5kaWRhdGVDbGllbnQ+KCk7CiAgICAgICAgICAgIHZhciBqb2JDbGllbnQgPSBTdWJzdGl0dXRlLkZvcjxJSm9iQ2xpZW50PigpOwoKICAgICAgICAgICAgSUxpc3Q8Q2FuZGlkYXRlRHRvPiBjYW5kaWRhdGVzID0gbmV3IExpc3Q8Q2FuZGlkYXRlRHRvPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuZXcgQ2FuZGlkYXRlRHRvCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ2FuZGlkYXRlSWQgPSAxLAogICAgICAgICAgICAgICAgICAgIE5hbWUgPSAiVGhvbWFzIiwKICAgICAgICAgICAgICAgICAgICBTa2lsbFRhZ3MgPSAicmVhY3QsIEQ=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1hdGNoZWRDYW5kaWRhdGUgPSBqb2JzV2l0aE1hdGNoZWRDYW5kaWRhdGVbMF0uTWF0Y2hlZENhbmRpZGF0ZUR0bzsK</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9BbGdvcml0aG0gaXMgdGhlIGZpcnN0IG1hdGNoIGZvciAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlNhbWUoMSwgZmlyc3RNYXRjaGVkSm9iLk1hdGNoZWRDYW5kaWRhdGVEdG8uQ291bnQpOwoKICAgICAgICAgICAgdmFyIG1hdGNoZWRDYW5kaWRhdGUgPSBmaXJzdE1hdGNoZWRKb2IuTWF0Y2hlZENhbmRpZGF0ZUR0by5GaXJzdCgpOwogICAgICAgICAgICBBc3NlcnQuU2FtZSgzOTgsIG1hdGNoZWRDYW5kaWRhdGUuKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
