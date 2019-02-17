@@ -27,7 +27,7 @@
         <mark key="." line="8" column="93" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application/Services/Jobs/JobService.cs" timestamp="1550397370890">
+      <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application/Services/Jobs/JobService.cs" timestamp="1550398056677">
         <mark key="'" line="43" column="32" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -40,7 +40,7 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application.UnitTest/JobServiceTest.cs" timestamp="1550395969234">
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application.UnitTest/JobServiceTest.cs" timestamp="1550398144935">
         <mark key="'" line="253" column="51" />
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="72" />
@@ -98,13 +98,13 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application.Tests/JobServiceTest.cs" timestamp="1550396072134">
-        <mark key="[" line="89" column="25" />
-        <mark key="]" line="89" column="25" />
-        <mark key="^" line="89" column="26" />
-        <mark key="." line="89" column="25" />
+      <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application.Tests/JobServiceTest.cs" timestamp="1550397694572">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="91" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/JobService.cs" timestamp="1550396556225">
+      <file name="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/JobService.cs" timestamp="1550397398785">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="61" />
         <mark key="." line="71" column="34" />
@@ -233,7 +233,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>GetJobsWithMatchedCandidate</text>
       </register>
       <register name="/" type="4">
         <text>react</text>
@@ -248,34 +248,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGpvYkR0by5Ta2lsbHMgPT0gY2FuZGlkYXRlRHRvLlNraWxsVGFncykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbWF0Y2hlZFNraWxscy5BZGQoam9iRHRvLlNraWxscyk7CgoKICAgICAgICAgICAgICAgIHNjb3JlICs9ICArIDEwMDsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgIAoKCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9Bc3N1bXB0aW9uIGp1c3Qgb25lIHNraWxsIGluIGJvdGggQ2FuZGlkYXRlIGFuZCBKb2IK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IFtGYWN0XQogICAgICAgIHB1YmxpYyB2b2lkIEdldEpvYnNXaXRoTWF0Y2hlZENhbmRpZGF0ZV9PbmVKb2JPbmVDYW5kaWRhdGVXaXRoT25lU2tpbGxfSXNQaWNrZWRXaXRoUmlnaHRTY29yZSgpCiAgICAgICAgewogICAgICAgICAgICB2YXIgY2FuZGlkYXRlQ2xpZW50ID0gU3Vic3RpdHV0ZS5Gb3I8SUNhbmRpZGF0ZUNsaWVudD4oKTsKICAgICAgICAgICAgdmFyIGpvYkNsaWVudCA9IFN1YnN0aXR1dGUuRm9yPElKb2JDbGllbnQ+KCk7CgogICAgICAgICAgICBJTGlzdDxDYW5kaWRhdGVEdG8+IGNhbmRpZGF0ZXMgPSBuZXcgTGlzdDxDYW5kaWRhdGVEdG8+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5ldyBDYW5kaWRhdGVEdG8KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBDYW5kaWRhdGVJZCA9IDEsCiAgICAgICAgICAgICAgICAgICAgTmFtZSA9ICJUaG9tYXMiLAogICAgICAgICAgICAgICAgICAgIFNraWxsVGFncyA9ICJBbmd1bGFyNyIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTsKICAgICAgICAgICAgY2FuZGlkYXRlQ2xpZW50LkdldEFsbCgpLlJldHVybnMoY2FuZGlkYXRlcyk7CgoKICAgICAgICAgICAgSUxpc3Q8Sm9iRHRvPiBqb2JzID0gbmV3IExpc3Q8Sm9iRHRvPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuZXcgSm9iRHRvCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgSm9iSWQgPSAxLAogICAgICAgICAgICAgICAgICAgIENvbXBhbnkgPSAiSm9iQWRkZXIiLAogICAgICAgICAgICAgICAgICAgIFNraWxscyA9ICJBbmd1bGFyNyIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTsKICAgICAgICAgICAgam9iQ2xpZW50LkdldEFsbCgpLlJldHVybnMoam9icyk7CgoKICAgICAgICAgICAgdmFyIHN1dCA9IG5ldyBKb2JTZXJ2aWNlKGpvYkNsaWVudCwgY2FuZGlkYXRlQ2xpZW50KTsKICAgICAgICAgICAgdmFyIGpvYnNXaXRoTWF0Y2hlZENhbmRpZGF0ZSA9IHN1dC5HZXRKb2JzV2l0aE1hdGNoZWRDYW5kaWRhdGVzKCk7CgogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMSwgam9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlLkNvdW50KTsKCiAgICAgICAgICAgIHZhciBtYXRjaGVkQ2FuZGlkYXRlID0gam9ic1dpdGhNYXRjaGVkQ2FuZGlkYXRlWzBdLk1hdGNoZWRDYW5kaWRhdGVzRHRvOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMSwgbWF0Y2hlZENhbmRpZGF0ZS5Db3VudCk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgxLCBtYXRjaGVkQ2FuZGlkYXRlWzBdLkNhbmRpZGF0ZS5DYW5kaWRhdGVJZCk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgxLCBtYXRjaGVkQ2FuZGlkYXRlWzBdLk1hdGNoZWRTa2lsbHMuTGVuZ3RoKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDIwMCwgbWF0Y2hlZENhbmRpZGF0ZVswXS5NYXRjaGVkU2NvcmUpOwogICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5EaXN0aW5jdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGpvYkR0by5Ta2lsbHMgPT0gY2FuZGlkYXRlRHRvLlNraWxsVGFncykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbWF0Y2hlZFNraWxscy5BZGQoam9iRHRvLlNraWxscyk7CgoKICAgICAgICAgICAgICAgIHNjb3JlICs9ICArIDEwMDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3QoanMgPT4ganMuVHJpbSgpLlRvTG93ZXIoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9Bc3N1bXB0aW9uIGp1c3Qgb25lIHNraWxsIGluIGJvdGggQ2FuZGlkYXRlIGFuZCBKb2IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5EaXN0aW5jdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hdGNoZWRDYW5kaWRhdGVzRHRvID0gbmV3IExpc3Q8TWF0Y2hlZENhbmRpZGF0ZUR0bz4KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3QoanMgPT4ganMuVHJpbSgpLlRvTG93ZXIoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
