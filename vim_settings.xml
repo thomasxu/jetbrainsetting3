@@ -48,12 +48,6 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="13" column="2" />
       </file>
-      <file name="C:/AutoHotkey/HotKey.ahk" timestamp="1549711881737">
-        <mark key="'" line="200" column="0" />
-        <mark key="[" line="54" column="39" />
-        <mark key="]" line="54" column="40" />
-        <mark key="." line="54" column="40" />
-      </file>
       <file name="C:/dev/git/experiment_project/rxjs-course/src/app/home/home.component.html" timestamp="1550384618723" />
       <file name="C:/dev/git/experiment_project/rxjs-course/src/app/app.module.ts" timestamp="1550385391128" />
       <file name="C:/dev/git/experiment_project/rxjs-course/src/app/courses-card-list/courses-card-list.component.html" timestamp="1550384558019" />
@@ -190,7 +184,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFt2YWx1ZV09</text>
+        <text>/WebApp/package-lock.json</text>
       </register>
       <register name="/" type="4">
         <text>MatDialog</text>
@@ -202,7 +196,7 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmV0dXJuCg==</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -211,28 +205,42 @@
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3k6Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtCcm93c2VyQWltYXRpb25zTW9kdWxlfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyL2FuaW1hdGlvbnMnOwo=</text>
+      <register name="4" type="4">
+        <text># Bartender logs folder
+/Bartender.ApiHost/logs
+
+# Bartender deployment package
+/web-package
+
+# Bartender frontend
+/WebApp/src/.vscode/launch.json
+/WebApp/bin
+/WebApp/dist
+/WebApp/node_modules
+/WebApp/obj/Debug
+/WebApp/npm-debug.log
+/WebApp/src/styles.css
+/WebApp/*.user</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtNYXREaWFsb2dNb2R1bGV9IGZyb20gJ0Bhbmd1bGFyL21hdGVyaWFsL2RpYWxvZyc7Cg==</text>
+        <text encoding="base64">UmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbm90aWZpY2F0aW9uU2VydmljZTogTm90aWZpY2F0aW9uSHViLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtOb3RpZmljYXRpb25IdWJ9IGZyb20gJy4uL3V0aWxzL25vdGlmaWNhdGlvbi1odWInOwo=</text>
+        <text encoding="base64">I3k6Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FsbGJhY2sodGhpcy5xdW90ZUFtb3VudFZhbHVlcyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtCcm93c2VyQWltYXRpb25zTW9kdWxlfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyL2FuaW1hdGlvbnMnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE1hdERpYWxvZ01vZHVsZSwK</text>
+        <text encoding="base64">aW1wb3J0IHtNYXREaWFsb2dNb2R1bGV9IGZyb20gJ0Bhbmd1bGFyL21hdGVyaWFsL2RpYWxvZyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
