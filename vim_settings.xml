@@ -9,11 +9,11 @@
         <mark key="^" line="199" column="1" />
         <mark key="." line="199" column="1" />
       </file>
-      <file name="C:/dev/git/JobAdder/JobMatcher-App/src/app/jobs/jobs.component.less" timestamp="1550535425703">
-        <mark key="[" line="36" column="43" />
-        <mark key="]" line="36" column="35" />
-        <mark key="." line="36" column="35" />
-        <mark key="^" line="36" column="35" />
+      <file name="C:/dev/git/JobAdder/JobMatcher-App/src/app/jobs/jobs.component.less" timestamp="1550539014634">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="16" />
+        <mark key="." line="29" column="16" />
+        <mark key="^" line="29" column="15" />
       </file>
       <file name="C:/dev/git/JobAdder/JobMatcher-App/package.json" timestamp="1550487431859">
         <mark key="[" line="19" column="0" />
@@ -68,7 +68,7 @@
       <file name="C:/dev/git/bartender/WebApp/src/app/core/services/loader.service.ts" timestamp="1550458446518">
         <mark key="[" line="17" column="32" />
       </file>
-      <file name="C:/dev/git/JobAdder/JobMatcher-App/src/app/jobs/jobs.component.ts" timestamp="1550523854823">
+      <file name="C:/dev/git/JobAdder/JobMatcher-App/src/app/jobs/jobs.component.ts" timestamp="1550538130313">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="12" column="11" />
         <mark key="." line="12" column="11" />
@@ -124,11 +124,11 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="C:/dev/git/JobAdder/JobMatcher-App/src/app/jobs/jobs.component.html" timestamp="1550533539510">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="10" column="60" />
-        <mark key="." line="12" column="0" />
+      <file name="C:/dev/git/JobAdder/JobMatcher-App/src/app/jobs/jobs.component.html" timestamp="1550538252629">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="4" />
+        <mark key="." line="17" column="13" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/core/services/mat-dialog-service.service.ts" timestamp="1549498730740">
         <mark key="[" line="12" column="18" />
@@ -300,7 +300,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>@offset-candidate;</text>
       </register>
       <register name="/" type="4">
         <text>candidate-name</text>
@@ -321,28 +321,30 @@
         <text>Repository</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PGgxIFttYXRCYWRnZV09Im1hdGNoZWRDYW5kaWRhdGUubWF0Y2hlZFNraWxscy5sZW5ndGgiPjwvaDE+CjxzcGFuIGNsYXNzPSJza2lsbC10ZXh0Ij5za2lsbHMgbWF0Y2g8L3NwYW4+CjxtYXQtY2hpcC1saXN0ICpuZ0Zvcj0ibGV0IG1hdGNoZWRTa2lsbCBvZiBtYXRjaGVkQ2FuZGlkYXRlLm1hdGNoZWRTa2lsbHMiPgogIDxtYXQtY2hpcD57e21hdGNoZWRTa2lsbH19PC9tYXQtY2hpcD4KPC9tYXQtY2hpcC1saXN0Pg==</text>
+        <text>.primary {
+  color: @primary;
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGl0bGU9IkFsbCBtYXRjaGVkIGNhbmRpZGF0ZSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmNhbmRpZGF0ZXMtY291bnQgewogIHBhZGRpbmctbGVmdDogM3B4Owp9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuY2FuZGlkYXRlcy1jb3VudCB7CiAgICBwYWRkaW5nLWxlZnQ6IDNweDsKICB9Cgouc2tpbGwtdGV4dCB7CiAgcGFkZGluZy1sZWZ0OiAxNnB4OwogIHBhZGRpbmctcmlnaHQ6IDVweDsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGgxIFttYXRCYWRnZV09Im1hdGNoZWRDYW5kaWRhdGUubWF0Y2hlZFNraWxscy5sZW5ndGgiPjwvaDE+CjxzcGFuIGNsYXNzPSJza2lsbC10ZXh0Ij5za2lsbHMgbWF0Y2g8L3NwYW4+CjxtYXQtY2hpcC1saXN0ICpuZ0Zvcj0ibGV0IG1hdGNoZWRTa2lsbCBvZiBtYXRjaGVkQ2FuZGlkYXRlLm1hdGNoZWRTa2lsbHMiPgogIDxtYXQtY2hpcD57e21hdGNoZWRTa2lsbH19PC9tYXQtY2hpcD4KPC9tYXQtY2hpcC1saXN0Pg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIAogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
