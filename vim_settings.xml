@@ -34,7 +34,11 @@
       <file name="C:/dev/git/bartender/WebApp/src/styles.less" timestamp="1550724804323">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/e2e/login/login.e2e-spec.ts" timestamp="1550790719586" />
+      <file name="C:/dev/git/bartender/WebApp/e2e/login/login.e2e-spec.ts" timestamp="1550794897848">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/core/services/idle.service.ts" timestamp="1550724004351">
         <mark key="[" line="14" column="21" />
         <mark key="]" line="14" column="20" />
@@ -48,24 +52,27 @@
     </jumps>
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHBhZ2UuY2xlYXJTdG9yYWdlKCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgCiAgbmF2aWdhdGVUbygpIHsKICAgIHJldHVybiBicm93c2VyLmdldCgnLycpOwogIH0KCiAgZ2V0RXJyb3JNZXNzYWdlKCkgewogICAgYnJvd3Nlci53YWl0KGVsZW1lbnQoYnkuY3NzKCcudG9vbHRpcC5lcnJvclZpc2libGUnKSkuaXNQcmVzZW50KCksIDUwMDApOwogICAgcmV0dXJuIGVsZW1lbnQoYnkuY3NzKCcudG9vbHRpcC5lcnJvclZpc2libGUnKSkuZ2V0VGV4dCgpOwogIH0KCiAgZ2V0TG9nb0xpbmsoKSB7CiAgICBjb25zdCBsb2dvRWxlbWVudCA9IGVsZW1lbnQoYnkuaWQoJ2xvZ28nKSk7CiAgICByZXR1cm4gbG9nb0VsZW1lbnQuZWxlbWVudChieS50YWdOYW1lKCdhJykpLmdldEF0dHJpYnV0ZSgnaHJlZicpOwogIH0KCiAgY2xlYXJTdG9yYWdlKCkgewogICAgYnJvd3Nlci5leGVjdXRlU2NyaXB0KCd3aW5kb3cuc2Vzc2lvblN0b3JhZ2UuY2xlYXIoKTsnKTsKICAgIGJyb3dzZXIuZXhlY3V0ZVNjcmlwdCgnd2luZG93LmxvY2FsU3RvcmFnZS5jbGVhcigpOycpOwogIH0KfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBwcml2YXRlIF9yb3V0ZXI6IFJvdXRlciwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAuQ2hhbmdpbmcgYSBoZWFkaW5nIHRvdGFsIHdpbGwgcmVjYWxjdWxhdGUgeW91ciBxdW90ZWQgaXRlbXMgdG8gbWF0Y2ggdGhlIG5ldyBUb3RhbCB2YWx1ZS4gQXJlIHlvdSBzdXJlIHlvdSB3YW50IHRvIG1vZGlmeSB0aGUgdmFsdWVzPwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICdDaGFuZ2luZyBhIGhlYWRpbmcgdG90YWwgd2lsbCByZWNhbGN1bGF0ZSB5b3VyIHF1b3RlZCBpdGVtcyB0byBtYXRjaCB0aGUgbmV3IFRvdGFsIHZhbHVlLiBBcmUgeW91IHN1cmUgeW91IHdhbnQgdG8gbW9kaWZ5IHRoZSB2YWx1ZXMuIEFyZSB5b3Ugc3VyZSB5b3Ugd2FudCB0byBtb2RpZnkgdGhlIHZhbHVlcz8nLAo=</text>
       </register>
       <register name="-" type="4">
