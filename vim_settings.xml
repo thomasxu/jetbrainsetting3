@@ -17,6 +17,13 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/package.json" timestamp="1550980805501">
+        <mark key="'" line="13" column="28" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="C:/dev/git/jobAdder-Tech-Challenge-master/jobMatch/src/app/jobs/jobs.component.html" timestamp="1550293212249">
         <mark key="[" line="11" column="70" />
         <mark key="]" line="11" column="15" />
@@ -41,7 +48,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/AutoHotkey/temp.ts" timestamp="1550966308493" />
+      <file name="C:/AutoHotkey/temp.ts" timestamp="1550980304505" />
       <file name="C:/dev/git/experiment_project/rxjs-course/README.md" timestamp="1550966051809">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="36" />
@@ -107,6 +114,9 @@
         <mark key="]" line="14" column="1" />
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/temp.js" timestamp="1550980253519">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/grid.service.ts" timestamp="1549510229072">
         <mark key="[" line="752" column="4" />
@@ -183,10 +193,15 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="43" column="16" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" timestamp="1550980411919">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/profile-popup-password/profile-popup-password.component.html" />
-      <jump line="122" column="2" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/profile-popup-password/profile-popup-password.component.ts" />
       <jump line="40" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.ts" />
       <jump line="213" column="103" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.ts" />
       <jump line="78" column="9" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.ts" />
@@ -285,6 +300,8 @@
       <jump line="3" column="11" filename="C:/AutoHotkey/temp.ts" />
       <jump line="8" column="0" filename="C:/AutoHotkey/temp.ts" />
       <jump line="0" column="0" filename="C:/AutoHotkey/temp.ts" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" />
+      <jump line="13" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -315,49 +332,55 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>All</text>
       </register>
       <register name="/" type="4">
         <text>back</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGIuY3JlYXRlVXNlcigKewogIHVzZXI6ICJ0aG9tYXMiLAogIHB3ZDogIjAwMDAiLAogIHJvbGVzOiBbCiAgICAicmVhZFdyaXRlIiwKICAgICJkYkFkbWluIgogIF0KfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>{
+  &quot;departureAirport&quot;: &quot;MUC&quot;,
+  &quot;arrivalAirport&quot;: &quot;SFO&quot;,
+  &quot;aircraft&quot;: &quot;Airbus A380&quot;,
+  &quot;distance&quot;: 12000,
+  &quot;intercontinental&quot;: true
+}</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGIuY3JlYXRlVXNlcigK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAibmFtZSI6ICJzY3JhdGNoZXMiLAogICJ2ZXJzaW9uIjogIjEuMC4wIiwKICAiZGVwZW5kZW5jaWVzIjogewogICAgCiAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGIuY3JlYXRlCg==</text>
+        <text encoding="base64">ICAgY29uc3QgdmFyMSA9IHsKICAgICAgICBkZXBhcnR1cmVBaXJwb3J0OiAiTVVDIiwKICAgICAgICBhcnJpdmFsQWlycG9ydDogIksiCiAgICB9Owo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuam9iU2VydmljZS5HZXRKb2JzV2l0aE1hdGNoZWRDYW5kaWRhdGVzKCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICB1c2VyOiAidGhvbWFzIiwKICAgICAgICBwd2Q6ICIwMDAwIiwKICAgICAgICAKICAgICAgICByb2xlczogWwogICAgICAgICAgICAicmVhZFdyaXRlIiwKICAgICAgICAgICAgImRiQWRtaW4iCiAgICAgICAgXQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMubWF0Y2hlZEpvYnMkID0gb2YoW3sKICAgIC8vICAgam9iSWQ6IDEsCiAgICAvLyAgIGNvbXBhbnk6ICdKb2JBZGRlcicsCiAgICAvLyAgIG5hbWU6ICdGdWxsIHN0YWNrIGRldmVsb3BlcicsCiAgICAvLyAgIG1hdGNoZWRDYW5kaWRhdGVzOiBbCiAgICAvLyAgICAgewogICAgLy8gICAgICAgY2FuZGlkYXRlSWQ6IDEsCiAgICAvLyAgICAgICBuYW1lOiAnVGhvbWFzJywKICAgIC8vICAgICAgIG1hdGNoZWRTY29yZTogMzk5LAogICAgLy8gICAgICAgbWF0Y2hlZFNraWxsczogWydBbmd1bGFyJywgJ0FzcG5ldENvcmUnXQogICAgLy8gICAgIH0KICAgIC8vICAgXQogICAgLy8gfV0pOwo=</text>
+        <text encoding="base64">ZGIuY3JlY2NhdGVVc2VyKAo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ZGIuY3JlY2NhdGVVc2VyKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhlIGFwcGxpY2F0aW9uIHdpbGwgZmluZCB0aGUgdG9wIGFuZCBtYXRjaGVkIHNraWxscyBjYW5kaWRhdGVzIGZvciBhbGwgam9icyBsaXN0ZWQgb24gCmh0dHA6Ly9wcml2YXRlLTc2NDMyLWpvYmFkZGVyMS5hcGlhcnktbW9jay5jb20K</text>
+        <text encoding="base64">W3sKICAgIG5hbWU6InRob21hcyIsCiAgICBpZCIiCn1dCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGZvciBhbmd1bGFyIGFuZCBwbGVhc2UKcmVmZXIgdG8gdA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZGIuY3JlYXRlVXNlcigK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBKb2JNYXRjaGVyQXBwCgpUaGlzIHByb2plY3Qgd2FzIGdlbmVyYXRlZCB3aXRoIFtBbmd1bGFyIENMSV0oaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXIvYW5ndWxhci1jbGkpIHZlcnNpb24gNy4zLjAuCgojIyBDb2RlICBgbmcgZ2VuZXJhdGUgY29tcG9uZW50IGNvbXBvbmVudC1uYW1lYCB0byBnZW5lcmF0ZSBhIG5ldyBjb21wb25lbnQuIFlvdSBjYW4gYWxzbyB1c2UgYG5nIGdlbmVyYXRlIGRpcmVjdGl2ZXxwaXBlfHNlcnZpY2V8Y2xhc3N8Z3VhcmR8aW50ZXJmYWNlfGVudW18bW9kdWxlYC4KCiMjIEJ1aWxkCgpSdW4gYG5nIGJ1aWxkYCB0byBidWlsZCB0aGUgcHJvamVjdC4gVGhlIGJ1aWxkIGFydGlmYWN0cyB3aWxsIGJlIHN0b3JlZCBpbiB0aGUgYGRpc3QvYCBkaXJlY3RvcnkuIFVzZSB0aGUgYC0tcHJvZGAgZmxhZyBmb3IgYSBwcm9kdWN0aW9uIGJ1aWxkLgoKIyMgUnVubmluZyB1bml0IHRlc3RzCgpSdW4gYG5nIHRlc3RgIHRvIGV4ZWN1dGUgdGhlIHVuaXQgdGVzdHMgdmlhIFtLYXJtYV0oaHR0cHM6Ly9rYXJtYS1ydW5uZXIuZ2l0aHViLmlvKS4KCiMjIFJ1bm5pbmcgZW5kLXRvLWVuZCB0ZXN0cwoKUnVuIGBuZyBlMmVgIHRvIGV4ZWN1dGUgdGhlIGVuZC10by1lbmQgdGVzdHMgdmlhIFtQcm90cmFjdG9yXShodHRwOi8vd3d3LnByb3RyYWN0b3J0ZXN0Lm9yZy8pLgoKIyMgRnVydGhlciBoZWxwCgpUbyBnZXQgbW9yZSBoZWxwIG9uIHRoZSBBbmd1bGFyIENMSSB1c2UgYG5nIGhlbHBgIG9yIGdvIGNoZWNrIG91dCB0aGUgW0FuZ3VsYXIgQ0xJIFJFQURNRV0oaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXIvYW5ndWxhci1jbGkvYmxvYi9tYXN0ZXIvUkVBRE1FLm1kKS4K</text>
+        <text encoding="base64">ZGIuY3JlYXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ClJ1biBgbmcgc2VydmVgIGZvciBhIGRldiBzZXJ2ZXIuIE5hdmlnYXRlIHRvIGBodHRwOi8vbG9jYWxob3N0OjQyMDAvYC4gVGhlIGFwcCB3aWxsIGF1dG9tYXRpY2FsbHkgcmVsb2FkIGlmIHlvdSBjaGFuZ2UgYW55IG9mIHRoZSBzb3VyY2UgZmlsZXMuCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuam9iU2VydmljZS5HZXRKb2JzV2l0aE1hdGNoZWRDYW5kaWRhdGVzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
