@@ -75,6 +75,9 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="16" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.regexp" timestamp="1551057265347">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Domain/ApiClients/Jobs/Response/CandidateDto.cs" timestamp="1550493968270">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="2" column="36" />
@@ -115,6 +118,12 @@
         <mark key="]" line="6" column="43" />
         <mark key="^" line="2" column="16" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cs" timestamp="1551057480992">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -239,7 +248,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>123</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>react</text>
@@ -251,10 +260,10 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRmlsZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBjYyB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
@@ -263,25 +272,25 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBjYyB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJpZCI6IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBjYyB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoIkhlbGxvIFdvcmxkISIpOwo=</text>
+        <text encoding="base64">ICAgICJpZCI6IDEsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhlIGJhY2stZW5kIHJlYWRtZS5tZCBpcyBjb21iaW5lZCB3aXRoIHRoZSBmcm9udC1lbmQgYW5kIHlvdSBjYW4gZmluZCBpdCBpbiB0aGUgcm9vdCBmb2xkZXIgb2YgdGhlIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoIkhlbGxvIFdvcmxkISIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U2luY2UgaXQgaXMgbW9yZSBjbGVhciB0byBpbmNsdWRlIGJvdGggdGhlIGZyb250LWVuZCBhbmQgYmFjay1lbmQgCg==</text>
+        <text encoding="base64">VGhlIGJhY2stZW5kIHJlYWRtZS5tZCBpcyBjb21iaW5lZCB3aXRoIHRoZSBmcm9udC1lbmQgYW5kIHlvdSBjYW4gZmluZCBpdCBpbiB0aGUgcm9vdCBmb2xkZXIgb2YgdGhlIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">U2luY2UgaXQgaXMgbW9yZSBjbGVhciB0byBpbmNsdWRlIGJvdGggdGhlIGZyb250LWVuZCBhbmQgYmFjay1lbmQgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgSm9iTWF0Y2hlciBBcHAgYW5kIEFQSQoKVGhpcyByZXBvc2l0b3J5IGNvbnRhaW5zIHRoZSBjb2RlIG9mIHRoZSBjb2RlIGNoYWxsZW5nZSBmcm9tIEpvYkFkZGVyLgpUaGUgYXBwbGljYXRpb24gd2lsbCBmaW5kIHRoZSB0b3AgYW5kIG1hdGNoZWQgc2tpbGxzIGNhbmRpZGF0ZXMgZm9yIGFsbCBqb2JzIGxpc3RlZCBvbgpodHRwOi8vcHJpdmF0ZS03NjQzMi1qb2JhZGRlcjEuYXBpYXJ5LW1vY2suY29tCgoKIyBJbnN0YWxsYXRpb24gcHJlLXJlcXVpc2l0ZXMKUGxlYXNlIGluc3RhbGwgdGhlIGxhdGVzdCB2ZXJzaW9uIG9mIEFuZ3VsYXIgQ0xJIGFuZCBOb2RlSnMKCiMgU291cmNlIGNvZGUgc3RydWN0dXJlCkl0IGNvbnRhaW5zIDIgYXBwbGljYXRpb25zCiAxLiBKb2JNYXRjaGVyLkFwaSB3aGljaCBpcyB0aGUgZnJvbnRlbmQgYW5ndWxhcjcgYXBwCiAyLiBKb2JNYXRjaGVyIHdoaWNoIGlzIGJhY2tlbmQgdXNpbmcgRG90bmV0IENvcmUgMi4yCgogCiMgSG93IHRvIHJ1biBiYWNrZW5kIHNlcnZlciwgCk1ha2Ugc3VyZSB5b3UgYXJlIGluIERldmVsb3BtZW50IE1vZGUKCnVzZSBSaWRlciBvciBWaXN1YWwgU3R1ZGlvIEY1IApvciBjZCBpbnRvIEpvYkFkZGVyLkFwaSBhbmQgdHlwZToKICAgIGRvdG5ldCBydW4gICAgIApJdCB3aWxsIGJyaW5nIHVwIHRoZSBkZXZlbG9wbWVudCBzZXJ2ZXIgb24gW2h0dHA6Ly9sb2NhbGhvc3Q6NTA1MF0oaHR0cDovL2xvY2FsaG9zdDo1MDUwKQoKI0hvdyB0byBydW4gZnJvbnRlbmQgc2VydmVyCm9wZW4gY29tbWFuZCBwcm9tcHQgYW5kIGNkIHRvIGRpcmVjdG9yeSBKb2JBZGRlci9Kb2JNYXRjaGVyLkFwcApucG0gaW5zdGFsbApuZyBydW4KVGhlIGFwcGxpY2F0aW9uIGlzIHZpc2libGUgYXQgcG9ydCA0MjAwOiBbaHR0cDovL2xvY2FsaG9zdDo0MjAwXShodHRwOi8vbG9jYWxob3N0OjQyMDApCgojQWxnb3JpdGhtClRoZSBhcHBsaWNhdGlvbiBpcyB0cnlpbmcgdG8gZmluZCB0aGUgYmVzdCBhbmQgbWF0Y2hlZCBjYW5kaWRhdGVzIGZvciB0aGUgam9iLgpBIG1hdGNoIG1lYW5zIHRoZXJlIGFyZSBjb21tb24gc2tpbGxzIGZyb20gam9iIGFuZCBjYW5kaWRhdGUKU2tpbGxzIGNvbXBhcmlzb24gaXMgY2FzZSBpbnNlbnNpdGl2ZSwgd2lsbCBpZ25vcmUgbGVhZGluZyBhbmQgdHJhaWxpbmcgd2hpdGUgc3BhY2UKYW5kIGlmIGR1cGxpY2F0ZSBza2lsbCBpdCBmaW5kcyB3aWxsIHVzZSB0aGUgZmlyc3Qgb25lIGFuZCBpZ25vcmUgdGhlIG90aGVycy4KVGhlIG9yZGVyIG9mIHRoZSBza2lsbCBpcyBjb25zaWRlcmVkIGFuZCB1c2luZyB0aGUgc2NvcmUgdG8gY29tcGFyZSBtYXJrLApib3RoIGNhbmRpZGF0ZSBhbmQgam9iIHRoZSAxc3Qgc2tpbGwgaW4gdGhlIHNraWxsIGxpc3Qgd2lsbCBoYXZlIHNjb3JlIDEwMCwgMm5kCjk5LCAzcmQgOTggLi4uIDEwMHRoIDAsIGUuZy4gIENhbmRpZGF0ZSBoYXMgc2tpbGxzIFsnZG90bmV0JywgJ2FuZ3VsYXInLCAnYXdzJ10KYW5kIENvbXBhbnkgaGFzIHNraWxscyBbJ2F3cycsICdzcWwnLCAnYW5ndWxhciddLiBUd28gbWF0Y2hlcyB3aWxsIGJlIGZvdW5kIGJldHdlZW4gY2FuZGlkYXRlIGFuZCBjb21wYW55IHNraWxscyBhbmQgdGhlIHRvdGFsIHNjb3JlIG9mIHRoZSBtYXRjaCBpcyAoOTkgKyA5OCkgKyAoOTggKyAxMDApID0gMzk1LCB0aGUgaGlnaGVyIHRoZSBzY29yZSB0aGUgYmV0dGVyIHRoZSBtYXRjaC4gQW5kIHRoZSBoaWdoZXN0CnNjb3JlIG1hdGNoIHdpbGwgYmUgcHV0IGFzIHRoZSBmZWF0dXJlZCBjYW5kaWRhdGUgZm9yIHRoZSBjb21wYW55LgoKI0Fzc3VtcHRpb246ClRoZXJlIHdpbGwgbm90IGJlIG1vcmUgdGhhbiAxMDAgc2tpbGxzIGZvciBqb2Igb3IgY2FuZGlkYXRlLgo=</text>
+        <text encoding="base64">U2luY2UgaXQgaXMgbW9yZSBjbGVhciB0byBpbmNsdWRlIGJvdGggdGhlIGZyb250LWVuZCBhbmQgYmFjay1lbmQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
