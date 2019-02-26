@@ -4,27 +4,29 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" timestamp="1550723841106">
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="^" line="179" column="0" />
-        <mark key="." line="179" column="0" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="^" line="178" column="0" />
+        <mark key="." line="178" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-dialog/confirm-dialog.component.ts" timestamp="1550724696414">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="21" />
-        <mark key="." line="28" column="21" />
-        <mark key="^" line="18" column="10" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-dialog/confirm-dialog.component.ts" timestamp="1551142316374">
+        <mark key="[" line="38" column="23" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550725761129">
+      <file name="/Dummy.txt" timestamp="1551142572581">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/e2e/login/login.po.ts" timestamp="1550790334861">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/services/mat-dialog.service.ts" timestamp="1551142073669" />
       <file name="C:/dev/git/bartender/WebApp/e2e/protractor.conf.js" timestamp="1550789937497" />
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/confirm-dialog/confirm-dialog.component.html" timestamp="1550722141876">
         <mark key="[" line="2" column="26" />
@@ -45,35 +47,42 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/models/popup.objects.ts" timestamp="1551141680273" />
     </filemarks>
     <jumps>
       <jump line="174" column="140" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-grid/job-tradepackages-grid.component.ts" />
       <jump line="3" column="0" filename="C:/dev/git/bartender/WebApp/src/styles.less" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text>SCP-3415: Address code review</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZ2UuY2xlYXJTdG9yYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubmdPbkRlc3Ryb3koKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAK</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgCiAgbmF2aWdhdGVUbygpIHsKICAgIHJldHVybiBicm93c2VyLmdldCgnLycpOwogIH0KCiAgZ2V0RXJyb3JNZXNzYWdlKCkgewogICAgYnJvd3Nlci53YWl0KGVsZW1lbnQoYnkuY3NzKCcudG9vbHRpcC5lcnJvclZpc2libGUnKSkuaXNQcmVzZW50KCksIDUwMDApOwogICAgcmV0dXJuIGVsZW1lbnQoYnkuY3NzKCcudG9vbHRpcC5lcnJvclZpc2libGUnKSkuZ2V0VGV4dCgpOwogIH0KCiAgZ2V0TG9nb0xpbmsoKSB7CiAgICBjb25zdCBsb2dvRWxlbWVudCA9IGVsZW1lbnQoYnkuaWQoJ2xvZ28nKSk7CiAgICByZXR1cm4gbG9nb0VsZW1lbnQuZWxlbWVudChieS50YWdOYW1lKCdhJykpLmdldEF0dHJpYnV0ZSgnaHJlZicpOwogIH0KCiAgY2xlYXJTdG9yYWdlKCkgewogICAgYnJvd3Nlci5leGVjdXRlU2NyaXB0KCd3aW5kb3cuc2Vzc2lvblN0b3JhZ2UuY2xlYXIoKTsnKTsKICAgIGJyb3dzZXIuZXhlY3V0ZVNjcmlwdCgnd2luZG93LmxvY2FsU3RvcmFnZS5jbGVhcigpOycpOwogIH0KfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHt0YWtlVW50aWx9IGZyb20gInJ4anMtY29tcGF0L29wZXJhdG9yL3Rha2VVbnRpbCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
+        <text encoding="base64">ICAgIHBhZ2UuY2xlYXJTdG9yYWdlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9yb3V0ZXI6IFJvdXRlciwK</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgCiAgbmF2aWdhdGVUbygpIHsKICAgIHJldHVybiBicm93c2VyLmdldCgnLycpOwogIH0KCiAgZ2V0RXJyb3JNZXNzYWdlKCkgewogICAgYnJvd3Nlci53YWl0KGVsZW1lbnQoYnkuY3NzKCcudG9vbHRpcC5lcnJvclZpc2libGUnKSkuaXNQcmVzZW50KCksIDUwMDApOwogICAgcmV0dXJuIGVsZW1lbnQoYnkuY3NzKCcudG9vbHRpcC5lcnJvclZpc2libGUnKSkuZ2V0VGV4dCgpOwogIH0KCiAgZ2V0TG9nb0xpbmsoKSB7CiAgICBjb25zdCBsb2dvRWxlbWVudCA9IGVsZW1lbnQoYnkuaWQoJ2xvZ28nKSk7CiAgICByZXR1cm4gbG9nb0VsZW1lbnQuZWxlbWVudChieS50YWdOYW1lKCdhJykpLmdldEF0dHJpYnV0ZSgnaHJlZicpOwogIH0KCiAgY2xlYXJTdG9yYWdlKCkgewogICAgYnJvd3Nlci5leGVjdXRlU2NyaXB0KCd3aW5kb3cuc2Vzc2lvblN0b3JhZ2UuY2xlYXIoKTsnKTsKICAgIGJyb3dzZXIuZXhlY3V0ZVNjcmlwdCgnd2luZG93LmxvY2FsU3RvcmFnZS5jbGVhcigpOycpOwogIH0KfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuQ2hhbmdpbmcgYSBoZWFkaW5nIHRvdGFsIHdpbGwgcmVjYWxjdWxhdGUgeW91ciBxdW90ZWQgaXRlbXMgdG8gbWF0Y2ggdGhlIG5ldyBUb3RhbCB2YWx1ZS4gQXJlIHlvdSBzdXJlIHlvdSB3YW50IHRvIG1vZGlmeSB0aGUgdmFsdWVzPwo=</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdDaGFuZ2luZyBhIGhlYWRpbmcgdG90YWwgd2lsbCByZWNhbGN1bGF0ZSB5b3VyIHF1b3RlZCBpdGVtcyB0byBtYXRjaCB0aGUgbmV3IFRvdGFsIHZhbHVlLiBBcmUgeW91IHN1cmUgeW91IHdhbnQgdG8gbW9kaWZ5IHRoZSB2YWx1ZXMuIEFyZSB5b3Ugc3VyZSB5b3Ugd2FudCB0byBtb2RpZnkgdGhlIHZhbHVlcz8nLAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIF9yb3V0ZXI6IFJvdXRlciwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
