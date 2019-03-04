@@ -21,12 +21,14 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
-  <action id="ActivateStacktraceToolWindow">
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt 7" />
     <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 9" />
@@ -69,6 +71,9 @@
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
   <action id="Console.TableResult.SelectRow" />
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="Debugger.MarkObject" />
   <action id="Diagram.DeselectAll" />
   <action id="Diff.ApplyLeftSide">
@@ -112,6 +117,10 @@
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="EditorNextWord" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
@@ -135,6 +144,7 @@
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EmmetPreviousEditPoint" />
+  <action id="EvaluateExpression" />
   <action id="ExportToTextFile" />
   <action id="ExternalJavaDoc">
     <keyboard-shortcut first-keystroke="shift f1" />
@@ -159,9 +169,14 @@
     <keyboard-shortcut first-keystroke="shift f12" />
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
+  <action id="ForceRunToCursor">
+    <keyboard-shortcut first-keystroke="ctrl alt f9" />
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt l" />
     <keyboard-shortcut first-keystroke="alt right" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
@@ -182,6 +197,7 @@
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="alt n" />
@@ -204,7 +220,7 @@
   </action>
   <action id="GotoNextBookmark" />
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt page_down" />
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="GotoPreviousBookmark" />
@@ -272,6 +288,9 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="NewScratchBuffer">
+    <keyboard-shortcut first-keystroke="shift ctrl alt i" />
+  </action>
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="alt right" />
@@ -285,6 +304,9 @@
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="NextTab" />
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="ctrl pause" />
+  </action>
   <action id="PerforceDirect.Edit" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -302,14 +324,14 @@
   </action>
   <action id="PreviousTab" />
   <action id="Print" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="alt f8" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
     <keyboard-shortcut first-keystroke="ctrl q" />
     <keyboard-shortcut first-keystroke="alt q" />
-  </action>
-  <action id="ReSharperGotoNextErrorInSolution">
-    <keyboard-shortcut first-keystroke="shift alt page_down" />
-    <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="ReSharperMoveStatementLeft" />
   <action id="RecentChangedFiles">
@@ -334,6 +356,13 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="Replace" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="RiderNuGetManagePackagesForCurrentProjectAction">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="RiderNuGetQuickListPopupAction" />
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestCoverSolutionAction" />
@@ -354,6 +383,7 @@
   <action id="RiderUnitTestSessionAbortAction" />
   <action id="RiderUnitTestSessionRerunFailedTestsAction" />
   <action id="RunInspection" />
+  <action id="RunToCursor" />
   <action id="Runner.CloseAllUnpinnedViews">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -384,6 +414,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
   <action id="SilentCodeCleanup" />
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift f5" />
+    <keyboard-shortcut first-keystroke="shift f8" />
+  </action>
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
@@ -400,6 +434,7 @@
   </action>
   <action id="Unscramble" />
   <action id="UnselectPreviousOccurrence" />
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.Push" />
   <action id="Vcs.ReformatCommitMessage">
