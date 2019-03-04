@@ -4,14 +4,22 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-quotes/job-tradepackage-quotes.component.ts" timestamp="1551673577204">
-        <mark key="[" line="506" column="36" />
-        <mark key="]" line="509" column="0" />
-        <mark key="." line="509" column="0" />
+        <mark key="]" line="500" column="0" />
+        <mark key="." line="500" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1551059056569">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-add-supplier-dialog/job-tradepackage-life-cycle-add-supplier-dialog.component.html" timestamp="1551670391498" />
+      <file name="/a.dummy" timestamp="1551674776532">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/core/services/loading-experience.service.ts" timestamp="1551674889960">
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="33" column="18" />
+      </file>
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Infrastructure/ApiClients/JobClient.cs" timestamp="1550494590385">
         <mark key="[" line="18" column="47" />
         <mark key="]" line="18" column="47" />
@@ -30,6 +38,9 @@
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
       </file>
+      <file name="/fragment.ts" timestamp="1551674776521">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.cs" timestamp="1551065117370">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,11 +57,6 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1551058792773">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
       </file>
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Infrastructure/ApiClients/ApiClient.cs" timestamp="1550557274176">
         <mark key="[" line="10" column="52" />
@@ -91,6 +97,12 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.ts" timestamp="1551676189046">
+        <mark key="[" line="203" column="7" />
+        <mark key="]" line="203" column="6" />
+        <mark key="." line="203" column="6" />
+        <mark key="^" line="203" column="6" />
+      </file>
       <file name="/" timestamp="1551061790498">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,8 +118,12 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" timestamp="1551673646004">
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" timestamp="1551675348744">
         <mark key="'" line="17" column="33" />
+        <mark key="[" line="50" column="43" />
+        <mark key="]" line="50" column="43" />
+        <mark key="^" line="50" column="40" />
+        <mark key="." line="50" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cs" timestamp="1551058649423">
         <mark key="[" line="6" column="8" />
@@ -136,12 +152,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" timestamp="1551673669857">
-        <mark key="'" line="67" column="34" />
-        <mark key="[" line="70" column="68" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" timestamp="1551675180520" />
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.html" timestamp="1551671859098">
         <mark key="[" line="6" column="123" />
         <mark key="]" line="6" column="85" />
@@ -275,7 +286,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>trade</text>
       </register>
       <register name="/" type="4">
         <text>takeUtil</text>
@@ -287,37 +298,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICF0aGlzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0YWtlVW50aWwodGhpcy5uZ1Vuc3Vic2NyaWJlKQo=</text>
+        <text encoding="base64">ICAgIGhpcwo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci90YWtlVW50aWwnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRha2VVbnRpbCh0aGlzLm5nVW5zdWJzY3JpYmUpLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBnZXRKb2JzKHJlcXVlc3Q6IEpvYkxpc3RSZXF1ZXN0KTogT2JzZXJ2YWJsZTxHZW5lcmljUmVzcG9uc2U8Sm9iTGlzdFJlc3BvbnNlPj57CiAgICBjb25zdCBhcGlVcmwxID0gdGhpcy5hcGlVcmwxOyAKICAgIAogIH0KICBnZXRKb2JzKHJlcXVlc3Q6IEpvYkxpc3RSZXF1ZXN0KToK</text>
+        <text encoding="base64">ICAgICF0aGlzYwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHBDbGllbnQucG9zdDxHZW5lcmljUmVzcG9uc2U8Sm9iTGlzdFJlc3BvbnNlPj4oVVJMLCAgSlNPTi5zdHJpbmdpZnkocmVxdWVzdCkpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMubm90aWZpY2F0aW9uSHViLnRyYWRlQ2F0ZWdvcnlMaWZlY3ljbGVJblByb2Nlc3NpbmckCiAgICAgIC5waXBlKHRha2VVbnRpbCh0aGlzLm5nVW5zdWJzY3JpYmUpKQogICAgICAuc3Vic2NyaWJlKGlzUHJvY2VzcyA9PiBpc1Byb2Nlc3M/IAogICAgICAgICAgdGhpcy5sb2FkaW5nRXhwZXJpZW5jZVNlcnZpY2UuZW5hYmxlTG9hZGluZ0V4cGVyaWVuY2UoKTogdGhpcy5sb2FkaW5nRXhwZXJpZW5jZVNlcnZpY2UuZGlzYWJsZUxvYWRpbmdFeHBlcmllbmNlKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9ic2VydmFibGU8R2VuZXJpY1Jlc3BvbnNlPEpvYkxpc3RSZXNwb25zZT4+Cg==</text>
+        <text encoding="base64">ICAgICF0aGlzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gdGhpcy5odHRwQ2xpZW50LnBvc3Q8R2VuZXJpY1Jlc3BvbnNlPEpvYkxpc3RSZXNwb25zZT4+KHVybCwgIEpTT04uc3RyaW5naWZ5KHJlcXVlc3QpKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRpbmdFeHBlcmllbmNlU2VydmljZS5kaXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHBDbGllbnQuZ2V0PEdlbmVyaWNSZXNwb25zZTxKb2JEZXRhaWw+Pih1cmwpOwo=</text>
+        <text encoding="base64">ICAgIGluZGV4ZWREQih0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
