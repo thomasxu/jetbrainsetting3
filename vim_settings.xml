@@ -25,6 +25,12 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="16" />
       </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/services/user-preference.service.ts" timestamp="1551672853905">
+        <mark key="[" line="192" column="48" />
+        <mark key="]" line="25" column="21" />
+        <mark key="^" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+      </file>
       <file name="/Dummy.cs" timestamp="1551065117370">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,11 +134,16 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.html" timestamp="1551671298407">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="2" column="99" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" timestamp="1551672392217">
+        <mark key="'" line="67" column="34" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.html" timestamp="1551671859098">
+        <mark key="[" line="6" column="123" />
+        <mark key="]" line="6" column="85" />
+        <mark key="." line="6" column="85" />
+        <mark key="^" line="6" column="85" />
       </file>
       <file name="$USER_HOME$/RiderProjects/ConsoleApp4/ConsoleApp4/Program.cs" timestamp="1551046165981">
         <mark key="'" line="10" column="40" />
@@ -146,7 +157,6 @@
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/models/tradepackage-lifecycle/responses/trade-package-life-cycle.response.ts" timestamp="1551669902483" />
     </filemarks>
     <jumps>
-      <jump line="164" column="40" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="168" column="23" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="174" column="40" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="15" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
@@ -246,6 +256,7 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="1" column="25" filename="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Api/README.md" />
       <jump line="8" column="40" filename="$USER_HOME$/RiderProjects/ConsoleApp4/ConsoleApp4/Program.cs" />
+      <jump line="71" column="34" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -267,49 +278,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>swithma</text>
       </register>
       <register name="/" type="4">
         <text>react</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IEpvYklkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgc3RyaW5nIE5hbWUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgQ29tcGFueSB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgLnBpcGUodGFwKHBhcmFtID0+IHsKICAgICAgICAgIHRoaXMuam9iSWQgPSBwYXJhbS5qb2JpZDsKICAgICAgICAgIHRoaXMuam9iVHJhZGVMaWZlQ3ljbGVQcmVmZXJlbmNlID0gdGhpcy51c2VyUHJlZmVyZW5jZVNlcnZpY2UuZ2V0Sm9iVHJhZGVQYWNrYWdlTGlmZUN5Y2xlUHJlZmVyZW5jZSh0aGlzLmpvYklkKTsKICAgICAgICB9KSwKICAgICAgICBzd2l0Y2hNYXAoKCkgPT4gdGhpcy5qb2JTZXJ2aWNlLmdldERldGFpbGVkSm9iKHRoaXMuam9iSWQpKSwK</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYXBwLWpvYi10cmFkZS10cmFkCg==</text>
+        <text encoding="base64">ICBnZXRKb2JzKHJlcXVlc3Q6IEpvYkxpc3RSZXF1ZXN0KTogT2JzZXJ2YWJsZTxHZW5lcmljUmVzcG9uc2U8Sm9iTGlzdFJlc3BvbnNlPj57CiAgICBjb25zdCBhcGlVcmwxID0gdGhpcy5hcGlVcmwxOyAKICAgIAogIH0KICBnZXRKb2JzKHJlcXVlc3Q6IEpvYkxpc3RSZXF1ZXN0KToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLm9wZW4oKTsKICAgIHRoaXMubG9hZFN1cHBsaWVycygpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHBDbGllbnQucG9zdDxHZW5lcmljUmVzcG9uc2U8Sm9iTGlzdFJlc3BvbnNlPj4oVVJMLCAgSlNPTi5zdHJpbmdpZnkocmVxdWVzdCkpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1bmNhdGVnb3JpZXNlZFN1cHBsaWVyRmlsdGVyUHJlZGljYXRlID0gKCkgPT4gKGVsZW1lbnQ6IFRyYWRlUGFja2FnZUxpZmVDeWNsZVN1cHBsaWVyKSA9PiAhZWxlbWVudC5pc1JlY29tbWVuZGVkICYmICFlbGVtZW50Lmhhc1F1b3RlTGlmZWN5Y2xlICYmIGVsZW1lbnQudHJhZGVDYXRlZ29yaWVzLmxlbmd0aCA9PT0gMDsK</text>
+        <text encoding="base64">ICAgIE9ic2VydmFibGU8R2VuZXJpY1Jlc3BvbnNlPEpvYkxpc3RSZXNwb25zZT4+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1bkNhdGVnb3JpZXNlZFN1cHBsaWVyRmlsdGVyUHJlZGljYXRlID0gKCkgPT4gKGVsZW1lbnQ6IFRyYWRlUGFja2FnZUxpZmVDeWNsZVN1cHBsaWVyKSA9PiAhZWxlbWVudC5pc1JlY29tbWVuZGVkCg==</text>
+        <text encoding="base64">ICByZXR1cm4gdGhpcy5odHRwQ2xpZW50LnBvc3Q8R2VuZXJpY1Jlc3BvbnNlPEpvYkxpc3RSZXNwb25zZT4+KHVybCwgIEpTT04uc3RyaW5naWZ5KHJlcXVlc3QpKTsK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHBDbGllbnQuZ2V0PEdlbmVyaWNSZXNwb25zZTxKb2JEZXRhaWw+Pih1cmwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZWNvbW1lbmRlZFN1cHBsaWVyRmlsdGVyUHJlZGljYXRlMSA9ICgpID0+IChlbGVtZW50OiBUcmFkZVBhY2thZ2VMaWZlQ3ljbGVTdXBwbGllcikgPT4gZWxlbWVudC5pc1JlY29tbWVuZGVkOwo=</text>
+        <text encoding="base64">ICAgIGAke3RoaXMuYXBpVXJsMX1gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoaW50MSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2hNYXAoKCkgPT4gdGhpcy5qb2JTZXJ2aWNlLmdldERldGFpbGVkSm9iKHRoaXMuam9iSWQpKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLnBpcGUodGFwKHBhcmFtID0+IHt0aGlzLmpvYklkID0gcGFyYW0uam9iSWQ7IHRoaXMuam9iVHJhZGVMaWZlQ3ljbGVQcmVmZXJlbmNlID0gdGhpcy51c2VyUHJlZmVyZW5jZVNlcnZpY2UuZ2V0Sm9iVHJhZGVQYWNrYWdlTGlmZUN5Y2xlUHJlZmVyZW5jZSg7KX0pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG12b2lkIE1haW4oKQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHRpdGxlU2VydmljZTE6IFRpdGxlU2VydmljZSwK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
