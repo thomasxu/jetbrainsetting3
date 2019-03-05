@@ -11,6 +11,9 @@
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-add-supplier-dialog/job-tradepackage-life-cycle-add-supplier-dialog.component.html" timestamp="1551784649956">
+        <mark key="[" line="25" column="17" />
+      </file>
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application/Services/Jobs/JobService.cs" timestamp="1550519920704">
         <mark key="'" line="33" column="62" />
         <mark key="[" line="57" column="26" />
@@ -53,12 +56,15 @@
       <file name="/JavaScript Console" timestamp="1551061788463">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier-datasource.ts" timestamp="1551780303272">
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-add-supplier-dialog/job-tradepackage-life-cycle-add-supplier-dialog.component.ts" timestamp="1551787042983">
+        <mark key="[" line="97" column="11" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier-datasource.ts" timestamp="1551786966101">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="59" />
-        <mark key="]" line="48" column="59" />
-        <mark key="." line="48" column="59" />
-        <mark key="^" line="47" column="48" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="75" column="23" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Infrastructure/ApiClients/ApiClient.cs" timestamp="1550557274176">
         <mark key="[" line="10" column="52" />
@@ -66,10 +72,11 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550559864760">
-        <mark key="'" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1551787731463">
+        <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
+        <mark key="m" line="0" column="10" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/C# Console" timestamp="1551062845752">
@@ -93,6 +100,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier.component.html" timestamp="1551788206996">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="30" column="80" />
+        <mark key="." line="30" column="80" />
+        <mark key="^" line="30" column="80" />
+      </file>
       <file name="/" timestamp="1551061790498">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,6 +126,12 @@
       </file>
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Domain/ApiClients/Configuration/ApiClientSetting.cs" timestamp="1550556761626">
         <mark key="[" line="4" column="7" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier.component.ts" timestamp="1551786888657">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="78" />
+        <mark key="." line="10" column="67" />
+        <mark key="^" line="10" column="67" />
       </file>
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Api/appsettings.json" timestamp="1550557080027">
         <mark key="[" line="1" column="19" />
@@ -242,10 +261,10 @@
       <jump line="43" column="32" filename="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application/Services/Jobs/JobService.cs" />
       <jump line="148" column="53" filename="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application.Test/JobServiceTest.cs" />
       <jump line="28" column="62" filename="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application/Services/Jobs/JobService.cs" />
-      <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="1" column="25" filename="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Api/README.md" />
       <jump line="8" column="40" filename="$USER_HOME$/RiderProjects/ConsoleApp4/ConsoleApp4/Program.cs" />
       <jump line="0" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier-datasource.ts" />
+      <jump line="0" column="11" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -267,49 +286,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>suppliers</text>
+        <text>supplier</text>
       </register>
       <register name="/" type="4">
         <text>react</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IEpvYklkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgc3RyaW5nIE5hbWUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgQ29tcGFueSB7IGdldDsgc2V0OyB9Cg==</text>
+      <register name="0" type="4">
+        <text>supplier</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoaW50MSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5ZWRDb2x1bW5zOiBzdHJpbmdbXSA9IFsnaXNTZWxlY3RlZCcsICdzdXBwbGllcicsICdzdXBwbGllckNvbnRhY3RzJ107Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbbGVuZ3RoXT0iMTAiCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG12b2lkIE1haW4oKQo=</text>
+        <text encoding="base64">ICAvKiogQ29sdW1ucyBkaXNwbGF5ZWQgaW4gdGhlIHRhYmxlLiBDb2x1bW5zIElEcyBjYW4gYmUgYWRkZWQsIHJlbW92ZWQsIG9yIHJlb3JkZXJlZC4gKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
+        <text encoding="base64">ICAvKiogQ29sdW1ucyBkaXNwbGF5ZWQgaW4gdGhlIHRhYmxlLiBDb2x1bW5zIElEcyBjYW4gYmUgYWRkZWQsIHJlbW92ZWQsIG9yIHJlb3JkZXJlZC4gKi8K</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCJwbHVmc2QiKTsKICAgICAgIHZhciBiY2QgPSAiYWJjIjsKICAgICAgIHZhciBmaWxlSW5mbyA9IG5ldyBGaWxlSW5mbyhiY2QpOwogICAgICAgdmFyIGZpbGVJbmZvRXhpc3RzID0gZmlsZUluZm8uRXhpc3RzKCk7CiAgICAgICB2YXIgbGlzdDEgPSBuZXcgTGlzdDxzdHJpbmc+KCk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aSA9PiB7CiAgICBzdW0gPSBzdW0gKyBpOwp9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRmlsZSgpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBjYyB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICBuZ0FmdGVyVmlld0luaXQoKTogdm9pZCB7CiAgICBjb25zb2xlLmxvZyhgYWZ0ZXJ2aWV3aW5pdDogcGFnaW5hdG9yOiAke3RoaXMucGFnaW5hdG9yfWApOwogICAgY29uc29sZS5sb2coYGFmdGVyVmlld0luaXQ6IHNvcnRlcjogJHt0aGlzLnNvcnR9YCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
