@@ -47,12 +47,6 @@
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier.component.html" timestamp="1551743718319">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.ts" timestamp="1551751605071">
-        <mark key="[" line="43" column="2" />
-        <mark key="]" line="38" column="22" />
-        <mark key="." line="38" column="22" />
-        <mark key="^" line="38" column="22" />
-      </file>
       <file name="$USER_HOME$/RiderProjects/ConsoleApp5/ConsoleApp5/Program.cs" timestamp="1551064919499">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="16" />
@@ -138,7 +132,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/utils/notification-hub.ts" timestamp="1551673618943">
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/utils/notification-hub.ts" timestamp="1551753108454">
+        <mark key="'" line="34" column="10" />
         <mark key="[" line="62" column="52" />
         <mark key="]" line="38" column="4" />
         <mark key="^" line="38" column="4" />
@@ -162,12 +157,12 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" timestamp="1551752984789">
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" timestamp="1551755608279">
         <mark key="'" line="9" column="8" />
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="9" />
-        <mark key="^" line="14" column="9" />
-        <mark key="." line="14" column="9" />
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="42" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/core/services/app-local-storage.service.ts" timestamp="1551745399500">
         <mark key="[" line="6" column="0" />
@@ -199,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="12" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="19" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="11" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
@@ -299,6 +293,7 @@
       <jump line="9" column="8" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" />
       <jump line="34" column="2" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" />
       <jump line="143" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" />
+      <jump line="34" column="10" filename="C:/dev/git/bartender/WebApp/src/app/comparison/utils/notification-hub.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -320,58 +315,58 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>this.tradePackageLifeCycleScroll[]</text>
+        <text>tradeMenu</text>
       </register>
       <register name="/" type="4">
-        <text>merge</text>
+        <text encoding="base64">XDx0cmFkZUxpZmVjeWNsZUluUHJvY2Vzc1NvdXJjZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>app-add-package-lifecycle-supplier</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgZXhpc3RzID0gdGhpcy5qb2JUcmFkZVBhY2thZ2VQcmVmZXJlbmNlLmV4cGFuZGVkVHJhZGVJZHMuc29tZShpZCA9PiBpZCA9PT0gdGhpcy50cmFkZVBhY2thZ2VMaWZlY3ljbGUudHJhZGVQYWNrYWdlSWQpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxtYXQtZm9ybS1maWVsZD48L21hdC1mb3JtLWZpZWxkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG1hdC1tZW51ICN0cmFkZU1lbnU9Im1hdE1lbnUiPjwvbWF0LW1lbnU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxtYXQtZm9ybS1maWVsZCBjbGFzcz0iZm9ybUZpZWxkIj48L21hdC1mb3JtLWZpZWxkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAoY2xpICAK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBleHBhbmRhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBbbWF0TWVudVRyaWdnZXJEYXRhXT0idHJhZGVNZW51Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAT3V0cHV0KCkKICBsb2FkVHJhZGVQYWNha2dlQ29tbWVudHMxID0gbmV3IEV2ZW50RW1pdHRlcjxJQ29tbWVudEV2ZW50PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBbbWF0TWVudVRyaWdnZXJEYXRhXT0iY2MiCg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBuZXcgRXZlbnRFbWl0dG9yPElDb21tZW50RXZlbnQ+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGluZGV4MSA9IHRoaXMudHJhZGVQYWNrYWdlTGlmZWN5Y2xlLnF1b3RlTGlmZWN5Y2xlcy5pbmRleE9mKHF1b3RlTGlmZWN5Y2xlRGVsZXRlZCk7CiAgICB0aGlzLnRyYWRlUGFja2FnZUxpZmVjeWNsZS5xdW90ZUxpZmVjeWNsZXMuc3BsaWNlKGluZGV4LCAxKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW3Nob3dDb21tZW50c109InNob3dUcmFkZUNvbW1lbnQodGgpIgo=</text>
+        <text encoding="base64">ICAgIHRoaXMudHJhZGVQYWNrYWdlTGlmZWN5Y2xlLmZpbHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW3Nob3dDCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYWJjID0gey4uLnRyYWRlQ2F0ZWdvcnl9Owo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0LmFzc2lnbih7fSwgdHJhZGVDYXRlZ29yeSwgdGMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmpvYlRyYWRlUGFja2FnZVByZWZlcmVuY2UK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search>merge</last-search>
+      <last-search encoding="base64">XDx0cmFkZUxpZmVjeWNsZUluUHJvY2Vzc1NvdXJjZVw+</last-search>
       <last-offset />
-      <last-pattern>merge</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFkZUxpZmVjeWNsZUluUHJvY2Vzc1NvdXJjZVw+</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
@@ -379,7 +374,6 @@
     </search>
     <history>
       <history-search>
-        <entry>)</entry>
         <entry encoding="base64">XDxxdW90ZUxpZmVjeWNsZUlkXD4=</entry>
         <entry>;</entry>
         <entry>,</entry>
@@ -399,6 +393,7 @@
         <entry>takeUtil</entry>
         <entry encoding="base64">XDxKb2JUcmFkZXBhY2thZ2VMaWZlQ3ljbGVBZGRTdXBwbGllckRpYWxvZ0NvbXBvbmVudFw+</entry>
         <entry>merge</entry>
+        <entry encoding="base64">XDx0cmFkZUxpZmVjeWNsZUluUHJvY2Vzc1NvdXJjZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>set ;m</entry>
