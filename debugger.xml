@@ -1,6 +1,7 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
+      <option name="showLibraryStackFrames" value="false" />
       <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="150" />
     </data-views>
@@ -12,6 +13,7 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="allowTypingDuringDebug" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="enableExternalSourceDebug" value="false" />
           <option name="showFullyQualifiedTypeNames" value="true" />
