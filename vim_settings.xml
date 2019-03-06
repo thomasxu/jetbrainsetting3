@@ -47,9 +47,18 @@
       <file name="/JavaScript Console" timestamp="1551061788463">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-add-supplier-dialog/job-tradepackage-life-cycle-add-supplier-dialog.component.ts" timestamp="1551865296081">
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-add-supplier-dialog/job-tradepackage-life-cycle-add-supplier-dialog.component.ts" timestamp="1551869818808">
         <mark key="'" line="37" column="2" />
         <mark key="[" line="70" column="134" />
+        <mark key="]" line="70" column="150" />
+        <mark key="^" line="70" column="150" />
+        <mark key="." line="70" column="150" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/supplier-list/supplier-list.component.html" timestamp="1551869748486">
+        <mark key="[" line="66" column="72" />
+        <mark key="]" line="66" column="72" />
+        <mark key="^" line="66" column="45" />
+        <mark key="." line="66" column="72" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier-datasource.ts" timestamp="1551865190481">
         <mark key="'" line="0" column="0" />
@@ -57,6 +66,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/supplier-list/supplier-list.component.ts" timestamp="1551870004299">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="179" column="3" />
+        <mark key="." line="190" column="37" />
+        <mark key="^" line="190" column="37" />
       </file>
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Infrastructure/ApiClients/ApiClient.cs" timestamp="1550557274176">
         <mark key="[" line="10" column="52" />
@@ -92,12 +107,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier.component.html" timestamp="1551866826669">
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier.component.html" timestamp="1551870078220">
         <mark key="'" line="2" column="30" />
-        <mark key="[" line="17" column="60" />
-        <mark key="]" line="17" column="62" />
-        <mark key="^" line="17" column="62" />
-        <mark key="." line="17" column="62" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="73" />
       </file>
       <file name="/" timestamp="1551061790498">
         <mark key="[" line="0" column="0" />
@@ -120,11 +135,11 @@
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Domain/ApiClients/Configuration/ApiClientSetting.cs" timestamp="1550556761626">
         <mark key="[" line="4" column="7" />
       </file>
-      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier.component.ts" timestamp="1551866975117">
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="17" column="61" />
-        <mark key="^" line="17" column="61" />
-        <mark key="." line="17" column="61" />
+      <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier.component.ts" timestamp="1551870170997">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Api/appsettings.json" timestamp="1550557080027">
         <mark key="[" line="1" column="19" />
@@ -162,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="138" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="54" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="56" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
@@ -262,6 +276,7 @@
       <jump line="0" column="11" filename="/Dummy.txt" />
       <jump line="37" column="2" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-add-supplier-dialog/job-tradepackage-life-cycle-add-supplier-dialog.component.ts" />
       <jump line="2" column="30" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier.component.html" />
+      <jump line="41" column="20" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -283,13 +298,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Supplier</text>
+        <text>TooltipOptions</text>
       </register>
       <register name="/" type="4">
         <text>mat-cell</text>
       </register>
-      <register name="0" type="4">
-        <text>primaryContactName</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBnZXRUb29sdGlwT3B0aW9ucyhjb250ZW50OiBhbnksIHBvc2l0aW9uOiBUb29sdGlwUG9zaXRpb25bXSk6IFRvb2x0aXBPcHRpb25zIHsKICAgIGNvbnN0IHRvb2x0aXBPcHRpb25zID0gbmV3IFRvb2x0aXBPcHRpb25zKCk7CgogICAgdG9vbHRpcE9wdGlvbnMuY29udGVudCAgPSBjb250ZW50OwogICAgdG9vbHRpcE9wdGlvbnMucG9zaXRpb24gPSBwb3NpdGlvbjsKICAgIHJldHVybiB0b29sdGlwT3B0aW9uczsKICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
@@ -298,34 +313,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxuZy1jb250YWluZXIgbWF0Q29sdW1uRGVmPSJzdXBwbGllciI+CiAgICAgIDx0aCBtYXQtaGVhZGVyLWNlbGwgKm1hdEhlYWRlckNlbGxEZWYgbWF0LXNvcnQtaGVhZGVyPlN1cHBsaWVyPC90aD4KICAgICAgPHRkIG1hdC1jZWxsICptYXRDZWxsRGVmPSJsZXQgcm93IiAgKGNsaWNrKT0ib25DZWxsQ2xpY2socm93KSI+e3tyb3cubmFtZX19PC90ZD4KICAgIDwvbmctY29udGFpbmVyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91cAo=</text>
+        <text encoding="base64">ICBnZXRUb29sdGlwT3B0aW9ucyhwcmVmZXJlbmNlVGV4dDogc3RyaW5nLCBhbmllczogYW55W10pIHsKICAgIAogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHI6bm90KCk6aG92ZXIgewogIGJhY2tncm91bmQ6ICNlZWVlZWU7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtNYXRQYWdpbmF0b3IsIE1hdFNvcnR9IGZyb20gJ0Bhbmd1bGFyL21hdGVyaWFsJzsKaW1wb3J0IHttYXB9IGZyb20gJ3J4anMvb3BlcmF0b3JzJzsKaW1wb3J0IHttZXJnZSwgT2JzZXJ2YWJsZSwgb2YgYXMgb2JzZXJ2YWJsZU9mfSBmcm9tICdyeGpzJzsKaW1wb3J0IHtUcmFkZVBhY2thZ2VMaWZlQ3ljbGVTdXBwbGllcn0gZnJvbSAnLi4vLi4vbW9kZWxzL3RyYWRlcGFja2FnZS1saWZlY3ljbGUvcmVzcG9uc2VzL3RyYWRlLXBhY2thZ2UtbGlmZS1jeWNsZS5yZXNwb25zZSc7CgoKLyoqCiAqIERhdGEgc291cmNlIGZvciB0aGUgQWRkUGFja2FnZUxpZmVjeWNsZVN1cHBsaWVyIHZpZXcuIFRoaXMgY2xhc3Mgc2hvdWxkCiAqIGVuY2Fwc3VsYXRlIGFsbCBsb2dpYyBmb3IgZmV0Y2hpbmcgYW5kIG1hbmlwdWxhdGluZyB0aGUgZGlzcGxheWVkIGRhdGEKICogKGluY2x1ZGluZyBzb3J0aW5nLCBwYWdpbmF0aW9uLCBhbmQgZmlsdGVyaW5nKS4KICovCmV4cG9ydCBjbGFzcyBBZGRQYWNrYWdlTGlmZWN5Y2xlU3VwcGxpZXJEYXRhU291cmNlIGV4dGVuZHMgRGF0YVNvdXJjZTxUcmFkZVBhY2thZ2VMaWZlQ3ljbGVTdXBwbGllcj4gewoKICBjb25zdHJ1Y3RvcihwdWJsaWMgZGF0YTogVHJhZGVQYWNrYWdlTGlmZUN5Y2xlU3VwcGxpZXJbXSwgcHJpdmF0ZSBzb3J0OiBNYXRTb3J0KSB7CiAgICBzdXBlcigpOwogIH0KCiAgLyoqCiAgICogQ29ubmVjdCB0aGlzIGRhdGEgc291cmNlIHRvIHRoZSB0YWJsZS4gVGhlIHRhYmxlIHdpbGwgb25seSB1cGRhdGUgd2hlbgogICAqIHRoZSByZXR1cm5lZCBzdHJlYW0gZW1pdHMgbmV3IGl0ZW1zLgogICAqIEByZXR1cm5zIEEgc3RyZWFtIG9mIHRoZSBpdGVtcyB0byBiZSByZW5kZXJlZC4KICAgKi8K</text>
+        <text encoding="base64">ICBwcml2YXRlIHVzZXJQcmVmZXJlbmNlU2VydmljZTogVXNlclByZWZlcmVuY2VTZXJ2aWNlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtNYXRQYWdpbmF0b3IsIE1hdFNvcnR9IGZyb20gJ0Bhbmd1bGFyL21hdGVyaWFsJzsK</text>
+        <text encoding="base64">ICBnZXRQcmVmZXJlbmNlVGV4dChwcmVmZXJlbmNlPyBib29sZWFuKSB7CgogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtNYXRQYWdpbmF0b3IsIE1hdFNvcnR9IGZyb20gJ0Bhbmd1bGFyL21hdGVyaWFsJzsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBQYWdpbmF0ZSB0aGUgZGF0YSAoY2xpZW50LXNpZGUpLiBJZiB5b3UncmUgdXNpbmcgc2VydmVyLXNpZGUgcGFnaW5hdGlvbiwKICAgKiB0aGlzIHdvdWxkIGJlIHJlcGxhY2VkIGJ5IHJlcXVlc3RpbmcgdGhlIGFwcHJvcHJpYXRlIGRhdGEgZnJvbSB0aGUgc2VydmVyLgogICAqLwogIHByaXZhdGUgZ2V0UGFnZWREYXRhKGRhdGE6IFRyYWRlUGFja2FnZUxpZmVDeWNsZVN1cHBsaWVyW10pIHsKICAgIGNvbnN0IHN0YXJ0SW5kZXggPSB0aGlzLnBhZ2luYXRvci5wYWdlSW5kZXggKiB0aGlzLnBhZ2luYXRvci5wYWdlU2l6ZTsKICAgIHJldHVybiBkYXRhLnNwbGljZShzdGFydEluZGV4LCB0aGlzLnBhZ2luYXRvci5wYWdlU2l6ZSk7CiAgfQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN1cHBsaWVyU2VydmljZTogU3VwcGxpZXJTZXJ2aWNlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
