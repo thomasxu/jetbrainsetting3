@@ -48,11 +48,11 @@
         <mark key="^" line="70" column="34" />
         <mark key="." line="70" column="34" />
       </file>
-      <file name="C:/dev/git/selz/API/PetAppClient/src/app/pet/pet.component.ts" timestamp="1553516236562">
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="32" column="0" />
+      <file name="C:/dev/git/selz/API/PetAppClient/src/app/pet/pet.component.ts" timestamp="1553555293767">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="2" />
         <mark key="^" line="32" column="15" />
-        <mark key="." line="30" column="23" />
+        <mark key="." line="11" column="2" />
       </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier-datasource.ts" timestamp="1551918192440">
         <mark key="[" line="66" column="39" />
@@ -114,7 +114,7 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="C:/dev/git/selz/API/PetAppClient/src/app/pet-list/pet-list.component.html" timestamp="1553552075328">
+      <file name="C:/dev/git/selz/API/PetAppClient/src/app/pet-list/pet-list.component.html" timestamp="1553555336043">
         <mark key="'" line="39" column="64" />
         <mark key="[" line="40" column="33" />
         <mark key="]" line="27" column="36" />
@@ -139,7 +139,7 @@
         <mark key="." line="41" column="18" />
         <mark key="^" line="41" column="18" />
       </file>
-      <file name="C:/dev/git/selz/API/PetAppClient/src/app/create-pet/create-pet.component.ts" timestamp="1553551411414">
+      <file name="C:/dev/git/selz/API/PetAppClient/src/app/create-pet/create-pet.component.ts" timestamp="1553555220608">
         <mark key="'" line="52" column="24" />
         <mark key="[" line="45" column="29" />
         <mark key="]" line="13" column="12" />
@@ -159,10 +159,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/PetAppClient/src/app/pet/pet.component.html" timestamp="1553542981499">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/dev/git/selz/API/PetAppClient/src/app/pet/pet.component.html" timestamp="1553555159060">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="C:/dev/git/selz/API/PetAppClient/src/karma.conf.js" timestamp="1553508711957">
         <mark key="[" line="18" column="56" />
@@ -170,7 +170,7 @@
         <mark key="." line="18" column="67" />
         <mark key="^" line="18" column="67" />
       </file>
-      <file name="C:/dev/git/selz/API/PetAppClient/src/environments/environment.ts" timestamp="1553510048159">
+      <file name="C:/dev/git/selz/API/PetAppClient/src/environments/environment.ts" timestamp="1553555364295">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
@@ -254,7 +254,7 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="40" />
       </file>
-      <file name="C:/dev/git/selz/API/PetAppClient/src/app/create-pet/create-pet.component.html" timestamp="1553551514465">
+      <file name="C:/dev/git/selz/API/PetAppClient/src/app/create-pet/create-pet.component.html" timestamp="1553555194773">
         <mark key="[" line="11" column="78" />
         <mark key="]" line="11" column="78" />
         <mark key="^" line="10" column="12" />
@@ -383,7 +383,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>is.</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFkZUxpZmVjeWNsZUluUHJvY2Vzc1NvdXJjZVw+</text>
@@ -395,37 +395,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBldCA9IHJlcy5kYXRhOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGV0U2VydmljZS51cGRhdGUoYCR7YXBpVXJsfS8ke3RoaXMuaWR9YCwgcGV0VXBkYXRlKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgPCEtLTxtYXQtZm9ybS1maWVsZD4tLT4KICAgICAgICA8IS0tPG1hdC1zZWxlY3QgcGxhY2Vob2xkZXI9IlNob3cgYWNjb3VudHMiIChzZWxlY3Rpb25DaGFuZ2UpPSJvbkNoYW5nZSgkZXZlbnQpIj4tLT4KICAgICAgICAgIDwhLS08bWF0LW9wdGlvbiAqbmdGb3I9ImxldCBvcHQgb2Ygc2VsZWN0T3B0aW9ucyIgW3ZhbHVlXT0ib3B0LnZhbHVlIj4tLT4KICAgICAgICAgICAgPCEtLXt7b3B0Lm5hbWV9fS0tPgogICAgICAgICAgPCEtLTwvbWF0LW9wdGlvbj4tLT4KICAgICAgICA8IS0tPC9tYXQtc2VsZWN0Pi0tPgogICAgICA8IS0tPC9tYXQtZm9ybS1maWVsZD4tLT4=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBldCA9IHJlcy5kYXRhOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHRoaXMucGV0U2VydmljZS51cGRhdGUoYCR7YXBpVXJsfS8ke3RoaXMuaWR9YCwgcGV0VXBkYXRlKQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZG9GaWx0ZXIgPSAodmFsdWU6IHN0cmluZykgPT4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHJvdXRlOiBBY3RpdmF0ZWRSb3V0ZTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnN1YnNjcmliZSgoKSA9PiB7Cgo=</text>
+        <text encoding="base64">ICBwdWJsaWMgZG9GaWx0ZXIgPSAodmFsdWU6IHN0cmluZykgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmUK</text>
+        <text encoding="base64">ICBwcml2YXRlIHJvdXRlOiBBY3RpdmF0ZWRSb3V0ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVybCA9IGBwZXRzL2RlbGV0ZS8ke2lkfWA7Cg==</text>
+        <text encoding="base64">ICAgICAgLnN1YnNjcmliZSgoKSA9PiB7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
