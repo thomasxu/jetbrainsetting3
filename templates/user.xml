@@ -1,5 +1,6 @@
 <templateSet group="user">
-  <template name="propgo" value="public int $PropName$ { get; }&#10;$END$" description="" toReformat="true" toShortenFQNames="true">
+  <template name="propgo" value="public $PropType$ $PropName$ { get; }$END$" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="PropType" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PropName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />
@@ -9,6 +10,45 @@
       <option name="HTML" value="false" />
       <option name="Handlebars" value="false" />
       <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="met" value="public void $FuncName$() {&#10;    $END$&#10;}&#10;" toReformat="true" toShortenFQNames="true">
+    <variable name="FuncName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="&lt;abbreviation&gt;" value="public int Thomas { get; }" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_CODE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
