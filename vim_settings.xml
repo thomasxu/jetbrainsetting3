@@ -14,6 +14,7 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="9" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Fluid/Ast/Statement.cs" timestamp="1556248416811" />
       <file name="C:/dev/git/selz/API/PetAppClient/package.json" timestamp="1553508653828">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
@@ -48,7 +49,7 @@
         <mark key="^" line="32" column="15" />
         <mark key="." line="11" column="2" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1556247899992">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1556248050441">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -77,7 +78,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1556247265816" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1556249810133">
+        <mark key="[" line="88" column="24" />
+        <mark key="]" line="88" column="36" />
+        <mark key="^" line="88" column="36" />
+        <mark key="." line="88" column="36" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1556229063472">
         <mark key="[" line="2770" column="40" />
         <mark key="]" line="2770" column="39" />
@@ -203,12 +209,25 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1556247703443" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockColumn.cs" timestamp="1556245579998" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1556249556197">
+        <mark key="[" line="153" column="35" />
+        <mark key="]" line="153" column="35" />
+        <mark key="." line="153" column="35" />
+        <mark key="^" line="153" column="21" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockColumn.cs" timestamp="1556248605077">
+        <mark key="[" line="17" column="0" />
+      </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-supplier-contact-table/job-tradepackage-life-cycle-supplier-contact-table.component.ts" timestamp="1553504412113">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556249531731">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/API/PetAppClient/src/app/pet/pet.component.less" timestamp="1553516362340">
         <mark key="[" line="1" column="0" />
@@ -322,7 +341,6 @@
       <jump line="43" column="32" filename="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application/Services/Jobs/JobService.cs" />
       <jump line="148" column="53" filename="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application.Test/JobServiceTest.cs" />
       <jump line="28" column="62" filename="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Application/Services/Jobs/JobService.cs" />
-      <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="1" column="25" filename="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Api/README.md" />
       <jump line="8" column="40" filename="$USER_HOME$/RiderProjects/ConsoleApp4/ConsoleApp4/Program.cs" />
       <jump line="71" column="34" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" />
@@ -356,6 +374,7 @@
       <jump line="46" column="24" filename="C:/dev/git/selz/API/PetAppClient/src/app/create-pet/create-pet.component.ts" />
       <jump line="21" column="10" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Pages/ContentBlock.cs" />
       <jump line="348" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B182083D-5048-4347-8DAC-3F04C9E7EB7F/c3/e1575b7b/HtmlSanitizer.cs" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -377,7 +396,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>Registers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFkZUxpZmVjeWNsZUluUHJvY2Vzc1NvdXJjZVw+</text>
@@ -389,37 +408,43 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRleHQuUmVhZGVyLkN1cnJlbnRCc29uVHlwZSAhPSBCc29uVHlwZS5TdHJpbmcpIHJldHVybiBudWxsOwogICAgICAgICAgICB2YXIganNvbjEgPSBjb250ZXh0LlJlYWRlci5SZWFkU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbXBsZXRpb24uTm9ybWFsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IEpzb25Db252ZXJ0LkRlc2VyaWFsaXplT2JqZWN0PERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+Pihqc29uKTsKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5SZW5kZXIoY29udGV4dCwgcmVzdWx0KTsK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9CgoKCgogICAgICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIFJlbmRlcihDb250ZXh0IGNvbnRleHQsIFRleHRXcml0ZXIgcmVzdWx0KQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgPCEtLTxtYXQtZm9ybS1maWVsZD4tLT4KICAgICAgICA8IS0tPG1hdC1zZWxlY3QgcGxhY2Vob2xkZXI9IlNob3cgYWNjb3VudHMiIChzZWxlY3Rpb25DaGFuZ2UpPSJvbkNoYW5nZSgkZXZlbnQpIj4tLT4KICAgICAgICAgIDwhLS08bWF0LW9wdGlvbiAqbmdGb3I9ImxldCBvcHQgb2Ygc2VsZWN0T3B0aW9ucyIgW3ZhbHVlXT0ib3B0LnZhbHVlIj4tLT4KICAgICAgICAgICAgPCEtLXt7b3B0Lm5hbWV9fS0tPgogICAgICAgICAgPCEtLTwvbWF0LW9wdGlvbj4tLT4KICAgICAgICA8IS0tPC9tYXQtc2VsZWN0Pi0tPgogICAgICA8IS0tPC9tYXQtZm9ybS1maWVsZD4tLT4=</text>
+        <text>}
+
+
+
+
+        public override void Render(Context context, TextWriter result)
+        {</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBldCA9IHJlcy5kYXRhOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgcHVibGljIG92ZXJyaWRlIHZvaWQgSW5pdGlhbGl6ZShzdHJpbmcgdGFnTmFtZSwgc3RyaW5nIG1hcmt1cCwgTGlzdDxzdHJpbmc+IHRva2VucykKICAgICAgICB7CiAgICAgICAgICAgIGJhc2UuSW5pdGlhbGl6ZSh0YWdOYW1lLCBtYXJrdXAsIHRva2Vucyk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGV0U2VydmljZS51cGRhdGUoYCR7YXBpVXJsfS8ke3RoaXMuaWR9YCwgcGV0VXBkYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
