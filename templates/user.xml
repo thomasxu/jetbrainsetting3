@@ -39,7 +39,8 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="&lt;abbreviation&gt;" value="public int Thomas { get; }" description="" toReformat="true" toShortenFQNames="true">
+  <template name="class" value="public class $VAR$ {&#10;    $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />

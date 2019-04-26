@@ -126,6 +126,7 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Fluid/Ast/IncludeStatement.cs" timestamp="1556251051690" />
       <file name="C:/dev/git/selz/API/PetAppClient/src/app/jobs/jobs.component.ts" timestamp="1553505527404">
         <mark key="[" line="16" column="40" />
         <mark key="]" line="16" column="40" />
@@ -209,11 +210,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1556250816334">
-        <mark key="[" line="72" column="33" />
-        <mark key="]" line="72" column="47" />
-        <mark key="." line="72" column="47" />
-        <mark key="^" line="72" column="47" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1556252647451">
+        <mark key="'" line="452" column="58" />
+        <mark key="[" line="494" column="0" />
+        <mark key="]" line="497" column="5" />
+        <mark key="." line="496" column="7" />
+        <mark key="^" line="496" column="7" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockColumn.cs" timestamp="1556248605077">
         <mark key="[" line="17" column="0" />
@@ -258,6 +260,7 @@
         <mark key="^" line="35" column="58" />
         <mark key="." line="35" column="46" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/21520621-5D58-4DD7-BA95-8B2615677B15/37/1acc2aef/Hash.cs" timestamp="1556252583712" />
       <file name="C:/dev/git/selz/API/PetAppClient/src/app/update-pet/update-pet.component.ts" timestamp="1553552319345">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="28" column="40" />
@@ -273,9 +276,11 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/JsonExtensions.cs" timestamp="1556236061678">
         <mark key="[" line="15" column="9" />
       </file>
+      <file name="/fragment.java" timestamp="1556252774307">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="33" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" />
       <jump line="12" column="20" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" />
       <jump line="152" column="0" filename="/user-preference.service.ts" />
       <jump line="38" column="106" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V2/Integration/IntegrationV2Controller.cs" />
@@ -375,6 +380,7 @@
       <jump line="21" column="10" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Pages/ContentBlock.cs" />
       <jump line="348" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B182083D-5048-4347-8DAC-3F04C9E7EB7F/c3/e1575b7b/HtmlSanitizer.cs" />
       <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="443" column="58" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -396,39 +402,42 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Context</text>
+        <text>encoder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFkZUxpZmVjeWNsZUluUHJvY2Vzc1NvdXJjZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>BsonIgnoreExtraElements</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBDCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbXBsZXRpb24uTm9ybWFsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2VuY29kZXIgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5SZW5kZXIoY29udGV4dCwgcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbXBsZXRpb24uTm9ybWFsOwo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5SZW5kZXIoY29udGV4dCwgcmVzdWx0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9CgoKCgogICAgICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIFJlbmRlcihDb250ZXh0IGNvbnRleHQsIFRleHRXcml0ZXIgcmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9CgoKCgogICAgICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIFJlbmRlcihDb250ZXh0IGNvbnRleHQsIFRleHRXcml0ZXIgcmVzdWx0KQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>}
 
 
@@ -437,14 +446,11 @@
         public override void Render(Context context, TextWriter result)
         {</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgcHVibGljIG92ZXJyaWRlIHZvaWQgSW5pdGlhbGl6ZShzdHJpbmcgdGFnTmFtZSwgc3RyaW5nIG1hcmt1cCwgTGlzdDxzdHJpbmc+IHRva2VucykKICAgICAgICB7CiAgICAgICAgICAgIGJhc2UuSW5pdGlhbGl6ZSh0YWdOYW1lLCBtYXJrdXAsIHRva2Vucyk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
