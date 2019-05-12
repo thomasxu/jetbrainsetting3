@@ -9,11 +9,22 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Infrastructure/Security/CurrentUser.cs" timestamp="1557622789382" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/App_Start/Routes/RouteConfig.cs" timestamp="1557622367743" />
       <file name="/fragment.js" timestamp="1551059056569">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Infrastructure/MvcModule.cs" timestamp="1557621875912" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Infrastructure/MvcModule.cs" timestamp="1557622722050">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Startup.cs" timestamp="1557623738592">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="57" column="140" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Infrastructure/ApiClients/JobClient.cs" timestamp="1550494590385">
         <mark key="[" line="18" column="47" />
         <mark key="]" line="18" column="47" />
@@ -119,6 +130,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Web.config" timestamp="1557623345484">
+        <mark key="[" line="90" column="46" />
+        <mark key="]" line="90" column="88" />
       </file>
       <file name="/" timestamp="1551061790498">
         <mark key="[" line="0" column="0" />
@@ -293,22 +308,22 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>https://identityserver.local-selz.com:44333</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I2I6OgpTZW5kLCB7Q29udHJvbCBEb3dufXtBbHQgRG93bn17YiBEb3dufXtiIFVwfXtBbHQgVXB9e0NvbnRyb2wgVXB9ClJldHVybgojZjo6Cg==</text>
+      <register name="0" type="4">
+        <text>https://identityserver.local-selz.com:44333</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2Y6Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2M6OgpTZW5kLCB7Q29udHJvbCBEb3dufXtBbHQgRG93bn17YyBEb3dufXtjIFVwfXtBbHQgVXB9e0NvbnRyb2wgVXB9ClJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
@@ -316,26 +331,26 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgogICAgICAgICAgICBNb2RlbEJpbmRlcnMuQmluZGVyczsKICAgICAgICAgICAgUm91dGVUYWJsZS5Sb3V0ZXM7CiAgICAgICAgICAgIFZpZXdFbmdpbmVzLkVuZ2luZXM7CgogICAgICAgICAgICBNb2RlbEJpbmRlcnMuQmluZGVyczsKICAgICAgICAgICAgUm91dGVUYWJsZS5Sb3V0ZXM7CiAgICAgICAgICAgIFZpZXdFbmdpbmVzLkVuZ2luZXM7</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBnZXRUb29sdGlwT3B0aW9ucyhwcmVmZXJlbmNlVGV4dDogc3RyaW5nLCBhbmllczogYW55W10pIHsKICAgIAogIH0K</text>
+        <text encoding="base64">I2Y6Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2M6OgpTZW5kLCB7Q29udHJvbCBEb3dufXtBbHQgRG93bn17YyBEb3dufXtjIFVwfXtBbHQgVXB9e0NvbnRyb2wgVXB9ClJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHVzZXJQcmVmZXJlbmNlU2VydmljZTogVXNlclByZWZlcmVuY2VTZXJ2aWNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXRQcmVmZXJlbmNlVGV4dChwcmVmZXJlbmNlPyBib29sZWFuKSB7CgogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQ7Cg==</text>
+        <text encoding="base64">ICBnZXRUb29sdGlwT3B0aW9ucyhwcmVmZXJlbmNlVGV4dDogc3RyaW5nLCBhbmllczogYW55W10pIHsKICAgIAogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
