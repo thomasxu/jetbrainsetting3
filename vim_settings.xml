@@ -9,16 +9,22 @@
         <mark key="^" line="35" column="22" />
         <mark key="." line="35" column="22" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/LiquidCacheAttribute.cs" timestamp="1557702991259">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Drachma.Web.csproj" timestamp="1557698786565">
         <mark key="[" line="3529" column="2" />
         <mark key="]" line="3529" column="2" />
         <mark key="." line="3529" column="2" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Ajax/Controllers/GoogleMerchantController.cs" timestamp="1557701917710">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="28" column="0" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Ajax/Controllers/GoogleMerchantController.cs" timestamp="1557702364733">
+        <mark key="[" line="261" column="55" />
+        <mark key="]" line="261" column="63" />
+        <mark key="^" line="261" column="63" />
+        <mark key="." line="261" column="63" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Startup.cs" timestamp="1557653433146">
         <mark key="[" line="209" column="53" />
@@ -65,7 +71,6 @@
         <mark key="^" line="66" column="45" />
         <mark key="." line="66" column="72" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Drachma.Tests.csproj" timestamp="1557699022855" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1557664093824">
         <mark key="'" line="42" column="29" />
         <mark key="[" line="42" column="62" />
@@ -94,8 +99,10 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557700672302">
+      <file name="/Dummy.txt" timestamp="1557703223566">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.ts" timestamp="1551061649597">
         <mark key="[" line="0" column="21" />
@@ -308,7 +315,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R29vZ2xlRXVtdUhlbHBlciA9IA==</text>
+        <text>, Uncomment the cache code</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -329,28 +336,28 @@
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgR29vZ2xlRXVtdUhlbHBlciA9IFNlbHouQ29yZS5Eb21haW5zLkdvb2dsZS5FbnVtSGVscGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5NZW1iZXJBY2Nlc3NTdHJhdGVneS5SZWdpc3Rlcih0eXBlb2YoQmxvZ1Bvc3REcm9wKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5NZW1iZXJBY2Nlc3NTdHJhdGVneS5SZWdpc3Rlcih0eXBlb2YoQmxvZ1Bvc3REcm9wKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVGVtcGxhdGVDb250ZXh0IENvbnRleHQgeyBnZXQ7IH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVGVtcGxhdGVDb250ZXh0IENvbnRleHQgeyBnZXQ7IH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb2JqZWN0IER5bmFtaWNQcm9wZXJ0eShzdHJpbmcgbWV0aG9kKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKG1ldGhvZCA9PSAiYXJ0aWNsZXMiKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAvLyBCbG9nIGJsb2NrCiAgICAgICAgICAgICAgICB2YXIgYmxvY2tWYWx1ZSA9IENvbnRleHQuR2V0VmFsdWUoImJsb2NrIik7CiAgICAgICAgICAgICAgICBpZiAoIWJsb2NrVmFsdWUuSXNOaWwoKQogICAgICAgICAgICAgICAgICAgICYmIGJsb2NrVmFsdWUuVG9PYmplY3RWYWx1ZSgpIGlzIEZsdWlkSGFzaCBzZXR0aW5nCiAgICAgICAgICAgICAgICAgICAgJiYgc2V0dGluZy5HZXRWYWx1ZSgic2V0dGluZ3MiKSBpcyBJRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4gc2V0dGluZ3MKICAgICAgICAgICAgICAgICAgICAmJiBzZXR0aW5ncy5Db250YWluc0tleSgidGFnIikpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIF9hcnRpY2xlczsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAvLyBCbG9nIHRlbXBsYXRlCiAgICAgICAgICAgICAgICByZXR1cm4gR2V0QmxvZ1Bvc3RzKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
