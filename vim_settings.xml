@@ -70,12 +70,7 @@
         <mark key="^" line="104" column="15" />
         <mark key="." line="104" column="15" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/TagPageDrop.cs" timestamp="1557666180765">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="70" />
-        <mark key="^" line="42" column="23" />
-        <mark key="." line="42" column="23" />
-      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/TagPageDrop.cs" timestamp="1557667955231" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1557651659085">
         <mark key="[" line="849" column="23" />
         <mark key="]" line="846" column="25" />
@@ -162,6 +157,11 @@
         <mark key="^" line="6" column="15" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/BlogDrop.cs" timestamp="1557666062917" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1557667101396">
+        <mark key="[" line="340" column="73" />
+        <mark key="]" line="339" column="0" />
+        <mark key="." line="339" column="0" />
+      </file>
       <file name="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier.component.ts" timestamp="1551871401223">
         <mark key="[" line="21" column="41" />
         <mark key="]" line="21" column="47" />
@@ -179,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
-      <jump line="12" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="19" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="11" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="17" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
@@ -279,6 +277,8 @@
       <jump line="9" column="11" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/MockFileProvider.cs" />
       <jump line="11" column="49" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/MockFileProvider.cs" />
       <jump line="42" column="29" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" />
+      <jump line="45" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/TagPageDrop.cs" />
+      <jump line="36" column="78" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/TagPageDrop.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -300,49 +300,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>base.BeforeMethod(method);</text>
+        <text>typeof(TagPageDrop)</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAmJiBibG9ja1ZhbHVlLlRvT2JqZWN0VmFsdWUoKSBpcyBGbHVpZEhhc2ggc2V0dGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5NZW1iZXJBY2Nlc3NTdHJhdGVneS5SZWdpc3Rlcih0eXBlb2YoVGFnRHJvcCkpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgb2JqZWN0IEJlZm9yZU1ldGhvZChzdHJpbmcgbWV0aG9kKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhd2FpdCBjYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZWN1cml0eVRva2VuUmVjZWl2ZWQgPSBuID0+IFRhc2suRnJvbVJlc3VsdCgwKSwKICAgICAgICAgICAgICAgICAgICBTZWN1cml0eVRva2VuVmFsaWRhdGVkID0gbiA9PiBUYXNrLkZyb21SZXN1bHQoMCksCiAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5NZW1iZXJBY2Nlc3NTdHJhdGVneS5SZWdpc3Rlcih0eXBlb2YoQmxvZ1Bvc3REcm9wKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNZXNzYWdlUmVjaWV2ZWQgPSBudWxsID0+IFRhc2suRnJvbVJlc3VsdCgwKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHByaW5jaXBhbC5JZGVudGl0eS5HZXRJZFRva2VuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVGVtcGxhdGVDb250ZXh0IENvbnRleHQgeyBnZXQ7IH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhaW1zSWRlbnRpdHkxPy5DbGFpbXMuRmlyc3RPckRlZmF1bHQoYyA9PiBjLlR5cGUgPSBrZXkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG4uT3dpbkNvbnRleHQuR2V0PHN0cmluZz4oIlNoICAgICIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgb2JqZWN0IER5bmFtaWNQcm9wZXJ0eShzdHJpbmcgbWV0aG9kKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKG1ldGhvZCA9PSAiYXJ0aWNsZXMiKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAvLyBCbG9nIGJsb2NrCiAgICAgICAgICAgICAgICB2YXIgYmxvY2tWYWx1ZSA9IENvbnRleHQuR2V0VmFsdWUoImJsb2NrIik7CiAgICAgICAgICAgICAgICBpZiAoIWJsb2NrVmFsdWUuSXNOaWwoKQogICAgICAgICAgICAgICAgICAgICYmIGJsb2NrVmFsdWUuVG9PYmplY3RWYWx1ZSgpIGlzIEZsdWlkSGFzaCBzZXR0aW5nCiAgICAgICAgICAgICAgICAgICAgJiYgc2V0dGluZy5HZXRWYWx1ZSgic2V0dGluZ3MiKSBpcyBJRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4gc2V0dGluZ3MKICAgICAgICAgICAgICAgICAgICAmJiBzZXR0aW5ncy5Db250YWluc0tleSgidGFnIikpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIF9hcnRpY2xlczsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAvLyBCbG9nIHRlbXBsYXRlCiAgICAgICAgICAgICAgICByZXR1cm4gR2V0QmxvZ1Bvc3RzKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF9hdXRoSGVscGVyLkdldFVzZXJJbmZvKCkK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgb2JqZWN0IEJlZm9yZU1ldGhvZChzdHJpbmcgbWV0aG9kKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgX2F1dGhIZWxwZXIuR2V0QQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhd2FpdCBjYwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
