@@ -36,6 +36,7 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1557752503139">
         <mark key="'" line="245" column="28" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/DeveloperController.cs" timestamp="1557755830177" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Contacts.Api/Selz.Shops.Api/Dockerfile" timestamp="1557742072113" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Indexer/Selz.Search.Indexer/Program.cs" timestamp="1557741157810" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Hosting/IHost.cs" timestamp="1557751388466" />
@@ -51,6 +52,8 @@
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Program.cs" timestamp="1557737611153" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Infrastructure/Sqs/SqsService.cs" timestamp="1557740679447" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Api/ShopRoleService.cs" timestamp="1557754485457" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Api/AuthService.cs" timestamp="1557755300394" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/.dockerignore" timestamp="1557737542383" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Infrastructure/Sqs/DefaultSqsQueueNameResolver.cs" timestamp="1557740609424" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonFactory.cs" timestamp="1557752014670">
@@ -106,6 +109,7 @@
         <mark key="." line="49" column="16" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/appsettings.json" timestamp="1557737583507" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Infrastructure/Security/AuthHelper.cs" timestamp="1557755989661" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Environment/WorkContext.cs" timestamp="1557750858412" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7248E314-D490-497D-AD4A-48F9988673A8/f9/00ad49c1/IAmazonCloudWatchLogs.cs" timestamp="1557737959498">
         <mark key="'" line="54" column="19" />
@@ -118,15 +122,11 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/InstalledTheme.cs" timestamp="1557749244478" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBBB3881-9578-4077-93BC-F97D23D1152E/ef/14b0763b/AmazonSQSClient.cs" timestamp="1557752397541" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Api/UserService.cs" timestamp="1557755888216" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/221FA654-76FD-4A6A-A7BE-C2CD9B5A08D9/a1/b4f69383/IConfiguration.cs" timestamp="1557742919638" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Helpers/EnvironmentHelper.cs" timestamp="1557743004407" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Indexer/Selz.Search.Indexer/appsettings.json" timestamp="1557741425790" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Shops/Shop.cs" timestamp="1557745285172" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CultureHelper.cs" timestamp="1557745628037">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Environment/WorkContextModule.cs" timestamp="1557751275090" />
     </filemarks>
     <jumps>
