@@ -32,6 +32,11 @@
         <mark key="^" line="218" column="1" />
         <mark key="." line="218" column="1" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Tags/Shortcut.cs" timestamp="1557705012183">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Infrastructure/ApiClients/JobClient.cs" timestamp="1550494590385">
         <mark key="[" line="18" column="47" />
         <mark key="]" line="18" column="47" />
@@ -56,11 +61,23 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Tags/FormBlock.cs" timestamp="1557704860736">
+        <mark key="'" line="25" column="17" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/SocialLinkDrop.cs" timestamp="1557705249173">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/Drachma.sln" timestamp="1557706410410" />
       <file name="C:/mongodb/mongd.cfg" timestamp="1551699830200">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="1" column="14" />
         <mark key="^" line="4" column="32" />
         <mark key="." line="1" column="14" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/FluidRendering.cs" timestamp="1557704767670">
+        <mark key="[" line="54" column="14" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/FileSystems/MongoFileSystem.cs" timestamp="1557701776740">
         <mark key="'" line="39" column="36" />
@@ -99,7 +116,7 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557703223566">
+      <file name="/Dummy.txt" timestamp="1557705848728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -194,8 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
-      <jump line="17" column="0" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="9" column="3" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="7" column="4" filename="C:/AutoHotkey/HotKey.ahk" />
       <jump line="14" column="31" filename="C:/dev/git/bartender/Bartender.ApiHost/Web.config" />
@@ -294,6 +309,8 @@
       <jump line="45" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/TagPageDrop.cs" />
       <jump line="36" column="78" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/TagPageDrop.cs" />
       <jump line="39" column="36" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/FileSystems/MongoFileSystem.cs" />
+      <jump line="25" column="17" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Tags/FormBlock.cs" />
+      <jump line="32" column="27" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Tags/Shortcut.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -327,19 +344,19 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgR29vZ2xlRXVtdUhlbHBlciA9IFNlbHouQ29yZS5Eb21haW5zLkdvb2dsZS5FbnVtSGVscGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgR29vZ2xlRXVtdUhlbHBlciA9IFNlbHouQ29yZS5Eb21haW5zLkdvb2dsZS5FbnVtSGVscGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgIHJldHVybiBfYWxsU29jaWFsTGlua3MuR2V0RW51bWVyYXRvcigpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgR29vZ2xlRXVtdUhlbHBlciA9IFNlbHouQ29yZS5Eb21haW5zLkdvb2dsZS5FbnVtSGVscGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgcHVibGljIElFbnVtZXJhdG9yIEdldEVudW1lcmF0b3IoKQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
@@ -348,16 +365,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5NZW1iZXJBY2Nlc3NTdHJhdGVneS5SZWdpc3Rlcih0eXBlb2YoQmxvZ1Bvc3REcm9wKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gTW92ZWQgc2V0dGluZ3MgZm9yIGxvZ28gaW50byBicmFuZGluZwogICAgICAgICAgICAvLyBUT0RPOiBXZSBjYW4gcmVtb3ZlIHRoaXMgYXQgc29tZSBwb2ludAogICAgICAgICAgICAvLyBDaGFuZ2VkIDA4LzE3CiAgICAgICAgICAgIGlmICh0YWIgPT0gInNldHRpbmdzIikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGFiID0gImJyYW5kaW5nIjsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVGVtcGxhdGVDb250ZXh0IENvbnRleHQgeyBnZXQ7IH0K</text>
+        <text encoding="base64">dXNpbmcgR29vZ2xlRXVtdUhlbHBlciA9IFNlbHouQ29yZS5Eb21haW5zLkdvb2dsZS5FbnVtSGVscGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgR29vZ2xlRXVtdUhlbHBlciA9IFNlbHouQ29yZS5Eb21haW5zLkdvb2dsZS5FbnVtSGVscGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
