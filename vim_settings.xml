@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/140125AF-6CC4-470B-B814-7A6C4240E775/91/9f856343/ElasticClient.cs" timestamp="1557737906754">
+        <mark key="'" line="2634" column="11" />
+      </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchOrderCommand.cs" timestamp="1557739446598" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Infrastructure/Security/CurrentUser.cs" timestamp="1557744793963">
+        <mark key="[" line="271" column="23" />
+      </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Startup.cs" timestamp="1557738318562" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Models/StopwordEnglish.cs" timestamp="1557741015566" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/RepositoryExtension.cs" timestamp="1557743704145" />
@@ -32,6 +38,9 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/596E0EBE-46F2-45D9-833E-F929E428C400/cd/e336d694/SessionIDManager.cs" timestamp="1557744816323">
+        <mark key="'" line="223" column="26" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/AddressExtensions.cs" timestamp="1557742582037" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Indexer/Selz.Search.Indexer/docker-compose-indexing-local.yml" timestamp="1557741484889" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Domains/TwoCheckout/TwoCheckoutDetail.cs" timestamp="1557744158433" />
@@ -44,13 +53,24 @@
         <mark key="." line="27" column="27" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/.dockerignore" timestamp="1557737542383" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7248E314-D490-497D-AD4A-48F9988673A8/f9/00ad49c1/IAmazonCloudWatchLogs.cs" timestamp="1557737959498">
+        <mark key="'" line="54" column="19" />
+      </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Infrastructure/Sqs/DefaultSqsQueueNameResolver.cs" timestamp="1557740609424" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/221FA654-76FD-4A6A-A7BE-C2CD9B5A08D9/a1/b4f69383/IConfiguration.cs" timestamp="1557742919638" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Helpers/EnvironmentHelper.cs" timestamp="1557743004407" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Indexer/Selz.Search.Indexer/appsettings.json" timestamp="1557741425790" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Shops/Shop.cs" timestamp="1557745285172" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CultureHelper.cs" timestamp="1557745628037">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/378306D0-F70E-48B5-8827-55CD0F781644/be/e25ebfea/HealthCheckResult.cs" timestamp="1557737785474">
+        <mark key="'" line="62" column="36" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="16" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/HealthServerController.cs" />
       <jump line="33" column="19" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Handlers/HttpMessageHandler.cs" />
       <jump line="97" column="8" filename="/FixHeaderQuoteAmountUpdater.cs" />
       <jump line="27" column="10" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/profile-popup-password/profile-popup-password.component.html" />
@@ -150,6 +170,7 @@
       <jump line="62" column="36" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/378306D0-F70E-48B5-8827-55CD0F781644/be/e25ebfea/HealthCheckResult.cs" />
       <jump line="2634" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/140125AF-6CC4-470B-B814-7A6C4240E775/91/9f856343/ElasticClient.cs" />
       <jump line="54" column="19" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7248E314-D490-497D-AD4A-48F9988673A8/f9/00ad49c1/IAmazonCloudWatchLogs.cs" />
+      <jump line="223" column="26" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/596E0EBE-46F2-45D9-833E-F929E428C400/cd/e336d694/SessionIDManager.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -183,37 +204,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuTG9nRXJyb3IoMCwgZXgsICJ7MH0gZmFpbGVkIHByb2Nlc3NpbmcgbWVzc2FnZSBpZDogezF9XHJcbm1lc3NhZ2U6IHsyfSIsIFRhc2tOYW1lLCBtZXNzYWdlLlJlY2VpcHRIYW5kbGUsIG1lc3NhZ2UuQm9keSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBHZXREZWZhdWx0Q3VsdHVyZSgpCiAgICAgICAgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuTG9nRGVidWcoInswfSByZW1vdmVkIG1lc3NhZ2UsIGlkOiB7MX0iLCBUYXNrTmFtZSwgbWVzc2FnZS5SZWNlaXB0SGFuZGxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuTG9nRXJyb3IoMCwgZXgsICJ7MH0gZmFpbGVkIHByb2Nlc3NpbmcgbWVzc2FnZSBpZDogezF9XHJcbm1lc3NhZ2U6IHsyfSIsIFRhc2tOYW1lLCBtZXNzYWdlLlJlY2VpcHRIYW5kbGUsIG1lc3NhZ2UuQm9keSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuTG9nRGVidWcoInswfSByZW1vdmVkIG1lc3NhZ2UsIGlkOiB7MX0iLCBUYXNrTmFtZSwgbWVzc2FnZS5SZWNlaXB0SGFuZGxlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuTG9nRGVidWcoInswfSBzdGFydGVkIHByb2Nlc3NpbmcgbWVzc2FnZSwgaWQ6IHsxfSIsIFRhc2tOYW1lLCBtZXNzYWdlLlJlY2VpcHRIYW5kbGUpOwogICAgICAgICAgICAgICAgICAgIExvZ2dlci5Mb2dJbmZvcm1hdGlvbigiezB9IHByb2Nlc3NpbmcgbWVzc2FnZSB7MX0iLCBUYXNrTmFtZSwgbWVzc2FnZS5Cb2R5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLkxvZ0RlYnVnKCJ7MH0gZm91bmQgezF9IG1lc3NhZ2UocykgaW4gcXVldWUgezJ9IHVybCB7M30iLCBUYXNrTmFtZSwgbWVzc2FnZXMuQ291bnQsIHF1ZXVlTmFtZSwgcXVldWVVcmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuTG9nRGVidWcoInswfSBzdGFydGVkIHByb2Nlc3NpbmcgbWVzc2FnZSwgaWQ6IHsxfSIsIFRhc2tOYW1lLCBtZXNzYWdlLlJlY2VpcHRIYW5kbGUpOwogICAgICAgICAgICAgICAgICAgIExvZ2dlci5Mb2dJbmZvcm1hdGlvbigiezB9IHByb2Nlc3NpbmcgbWVzc2FnZSB7MX0iLCBUYXNrTmFtZSwgbWVzc2FnZS5Cb2R5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLkxvZ0RlYnVnKCJ7MH0gZmV0Y2hpbmcgbWVzc2FnZSBmcm9tIHF1ZXVlIHsxfSB1cmwgezJ9IiwgVGFza05hbWUsIHF1ZXVlTmFtZSwgcXVldWVVcmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLkxvZ0RlYnVnKCJ7MH0gZm91bmQgezF9IG1lc3NhZ2UocykgaW4gcXVldWUgezJ9IHVybCB7M30iLCBUYXNrTmFtZSwgbWVzc2FnZXMuQ291bnQsIHF1ZXVlTmFtZSwgcXVldWVVcmwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIlRPRE86IHRlbXAgcmVhc29uIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLkxvZ0RlYnVnKCJ7MH0gZmV0Y2hpbmcgbWVzc2FnZSBmcm9tIHF1ZXVlIHsxfSB1cmwgezJ9IiwgVGFza05hbWUsIHF1ZXVlTmFtZSwgcXVldWVVcmwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgIlRPRE86IHRlbXAgcmVhc29uIgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgLy8gICAgICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIE1vbmV5V2l0aEN1cnJlbmN5KENvbnRleHQgY29udGV4dCwgZGVjaW1hbCBpbnB1dCwgc3RyaW5nIGN1cnJlbmN5Q29kZSA9IG51bGwsCiAgICAgICAgLy8gICAgICAgICAgICBib29sIGlzRmxleGlibGUgPSBmYWxzZSwgc3RyaW5nIHF1YW50aXR5VW5pdCA9IG51bGwpCiAgICAgICAgLy8gICAgICAgIHsKICAgICAgICAvLyAgICAgICAgICAgIHJldHVybiBHZXRJdGVtUHJpY2UoY29udGV4dCwgaW5wdXQsIGN1cnJlbmN5Q29kZSwgdHJ1ZSwgaXNGbGV4aWJsZSwgcXVhbnRpdHlVbml0KTsKICAgICAgICAvLyAgICAgICAgfQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
