@@ -19,7 +19,9 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CryptoHelper.cs" timestamp="1557788264857">
         <mark key="'" line="344" column="29" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/ProductDrop.cs" timestamp="1557820931698" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/ProductDrop.cs" timestamp="1557821591596">
+        <mark key="'" line="217" column="11" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemeController.cs" timestamp="1557816765527" />
       <file name="/Dummy.txt" timestamp="1557809690075">
         <mark key="[" line="0" column="0" />
@@ -41,7 +43,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7248E314-D490-497D-AD4A-48F9988673A8/f9/00ad49c1/IAmazonCloudWatchLogs.cs" timestamp="1557737959498">
         <mark key="'" line="54" column="19" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1557816665707">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1557821567033">
         <mark key="[" line="468" column="44" />
         <mark key="]" line="468" column="42" />
         <mark key="." line="468" column="42" />
@@ -58,8 +60,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="34" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V2/Integration/IntegrationV2Controller.cs" />
-      <jump line="51" column="1" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V2/Integration/IntegrationV2Controller.cs" />
       <jump line="120" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/B8C6DCF6-8FC9-437D-A15B-83AE064ADE8D/9a/18f4bac0/RegistrationExtensions.cs" />
       <jump line="89" column="104" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/RepositoryCache/CacheRepository.cs" />
       <jump line="32" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Notifications/NotificationProxy.cs" />
@@ -158,6 +158,8 @@
       <jump line="61" column="41" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" />
       <jump line="109" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" />
       <jump line="344" column="29" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CryptoHelper.cs" />
+      <jump line="203" column="23" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/ProductDrop.cs" />
+      <jump line="217" column="11" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/ProductDrop.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -182,7 +184,7 @@
         <text>wThemeFileProvider</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYW1hem9uU2V0dGluZ3NcPg==</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">MTI3LjAuMC4xIHNlYXJjaC1hcGkubG9jYWwtc2Vsei5jb20K</text>
@@ -228,9 +230,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYW1hem9uU2V0dGluZ3NcPg==</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYW1hem9uU2V0dGluZ3NcPg==</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
@@ -241,8 +243,8 @@
         <entry>mat-cell</entry>
         <entry>w</entry>
         <entry encoding="base64">XDxTaG9wUm9sZUVuZFBvaW50XD4=</entry>
-        <entry>class</entry>
         <entry encoding="base64">XDxfYW1hem9uU2V0dGluZ3NcPg==</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd />
       <history-expr />
