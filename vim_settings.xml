@@ -37,6 +37,7 @@
         <mark key="^" line="72" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="C:/dev/git/selz/fluid/Fluid/Values/FluidValue.cs" timestamp="1557924343878" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/FormTag.cs" timestamp="1557918797705">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
@@ -47,17 +48,25 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" timestamp="1557896491782" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/GoogleWrappers/IGoogleWebFonts.cs" timestamp="1557910944099" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1557893121028" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1557923673220">
-        <mark key="'" line="846" column="23" />
-        <mark key="]" line="662" column="16" />
-        <mark key="^" line="662" column="16" />
-        <mark key="." line="662" column="16" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1557925313266">
+        <mark key="'" line="874" column="31" />
+        <mark key="[" line="888" column="19" />
+        <mark key="]" line="888" column="19" />
+        <mark key="^" line="885" column="38" />
+        <mark key="." line="888" column="19" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1557909972574">
         <mark key="[" line="121" column="85" />
         <mark key="]" line="108" column="41" />
         <mark key="." line="108" column="41" />
         <mark key="^" line="108" column="41" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Checkout/Controllers/HomeController.cs" timestamp="1557882640248">
+        <mark key="'" line="1838" column="24" />
+        <mark key="[" line="48" column="40" />
+        <mark key="]" line="1838" column="24" />
+        <mark key="^" line="1838" column="24" />
+        <mark key="." line="1838" column="24" />
       </file>
       <file name="C:/dev/git/selz/poc/Fluid/Ast/ForStatement.cs" timestamp="1557827331904">
         <mark key="[" line="121" column="20" />
@@ -81,6 +90,7 @@
         <mark key="'" line="3384" column="33" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1557910908554" />
+      <file name="C:/dev/git/selz/fluid/Fluid/ExtensionMethods.cs" timestamp="1557925428117" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Web.config" timestamp="1557897155118" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1557900983109" />
       <file name="/SelzLiquidFilter.cs" timestamp="1557919537045" />
@@ -99,7 +109,6 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Shops/Shop.cs" timestamp="1557897699957" />
     </filemarks>
     <jumps>
-      <jump line="141" column="3" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V1/Logs/LogController.Query.cs" />
       <jump line="140" column="4" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V1/Logs/LogController.Query.cs" />
       <jump line="139" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V1/Logs/LogController.Query.cs" />
       <jump line="162" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V1/Logs/LogController.Query.cs" />
@@ -199,6 +208,7 @@
       <jump line="3384" column="33" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D9C33146-14CD-4FD8-803C-4BB2847ABD51/13/40a09ffb/AmazonS3Client.cs" />
       <jump line="2568" column="18" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35B14027-6B2F-460C-88E9-BBFD32CEFF37/77/eaedf26e/String.cs" />
       <jump line="822" column="23" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" />
+      <jump line="874" column="31" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -220,7 +230,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>ToStringValue</text>
+        <text>StringValue.Create</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -231,38 +241,38 @@
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKGlucHV0IGlzIElFbnVtZXJhYmxlPG9iamVjdD4gbGlzdCkKICAgICAgICAgICAgew==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aWYgKGlucHV0ID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgICAgIA==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBuZXcgQXJyYXlWYWx1ZShpdGVtQXJyYXkpOwoKCgogICAgICAgICAgICB2YXIgaXRlbSA9IGFyZ3VtZW50cy5BdCgwKS5Ub09iamVjdFZhbHVlKCk7CiAgICAgICAgICAgIEFycmF5VmFsdWUuQ3JlYXRlKCkKICAgICAgICAgICAgdmFyIGl0ZW1BcnJheSA9IG5ld1tdIHsgaXRlbSB9OwoKICAgICAgICAgICAgaWYgKGlucHV0VmFsdWUuVHlwZSAhPSBGbHVpZFZhbHVlcy5BcnJheSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIEZsdWlkVmFsdWUuQ3JlYXRlKGl0ZW1BcnJheSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBpbnB1dHMgPSBpbnB1dFZhbHVlLkVudW1lcmF0ZSgpOwogICAgICAgICAgICBmb3JlYWNoICh2YXIgaW5wdXQgaW4gaW5wdXRzKQogICAgICAgICAgICB7CgogICAgICAgICAgICB9CgoKICAgICAgICAgICAgLy8gSm9pbiBhcnJheXMKICAgICAgICAgICAgaWYgKGlucHV0IGlzIElFbnVtZXJhYmxlPG9iamVjdD4gbGlzdCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIEZsdWlkVmFsdWUuQ3JlYXRlKGxpc3QuQ29uY2F0KGl0ZW1BcnJheSkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBJZiBub3QgYW4gYXJyYXkgcmV0dXJuIG5ldyBhcnJheSB3aXRoIHRoZSBpbnB1dAogICAgICAgICAgICByZXR1cm4gRmx1aWRWYWx1ZS5DcmVhdGUoaXRlbUFycmF5KTsKCgogICAgICAgICAgICB2YXIgbGlzdCA9IG5ldyBMaXN0PEZsdWlkVmFsdWU+KCk7CgogICAgICAgICAgICBmb3JlYWNoICh2YXIgaXRlbSBpbiBpbnB1dFZhbHVlLkVudW1lcmF0ZSgpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBsaXN0LkFkZChpdGVtLkdldFZhbHVlQXN5bmMobWVtYmVyLCBjb250ZXh0KS5HZXRBd2FpdGVyKCkuR2V0UmVzdWx0KCkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gbmV3IEFycmF5VmFsdWUobGlzdCk7CgoKCgogICAgICAgICAgICB2YXIgaW5wdXQgPSBpbnB1dFZhbHVlLlRvT2JqZWN0VmFsdWUoKTsKICAgICAgICAgICAgdmFyIGl0ZW0gPSBhcmd1bWVudHMuQXQoMSkuVG9PYmplY3RWYWx1ZSgpOwoKCgogICAgICAgICAgICAvLyBJZiBudWxsIHJldHVybiBuZXcgYXJyYXkgd2l0aCB0aGUgaW5wdXQKICAgICAgICAgICAgaWYgKGlucHV0ID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBGbHVpZFZhbHVlLkNyZWF0ZShpdGVtQXJyYXkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBKb2luIGFycmF5cwogICAgICAgICAgICBpZiAoaW5wdXQgaXMgSUVudW1lcmFibGU8b2JqZWN0PiBsaXN0KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gRmx1aWRWYWx1ZS5DcmVhdGUobGlzdC5Db25jYXQoaXRlbUFycmF5KSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIElmIG5vdCBhbiBhcnJheSByZXR1cm4gbmV3IGFycmF5IHdpdGggdGhlIGlucHV0CiAgICAgICAgICAgIHJldHVybiBGbHVpZFZhbHVlLkNyZWF0ZShpdGVtQXJyYXkpOw==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGZvcmVhY2godmFyIGl0ZW0gaW4gZW51bWVyYWJsZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgZmx1aWRWYWx1ZXMuQWRkKENyZWF0ZShpdGVtKSk7CiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKGlucHV0IGlzIElFbnVtZXJhYmxlPG9iamVjdD4gbGlzdCkKICAgICAgICAgICAgew==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICNyZWdpb24gU3RyaW5ncwoKCgogICAgICAgICNlbmRyZWdpb24=</text>
+        <text encoding="base64">aWYgKGlucHV0ID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBGb3JtRmllbGQoQ29udGV4dCBjb250ZXh0LCBGb3JtRmllbGREcm9wIGZpZWxkLCBzdHJpbmcgY2xhc3NOYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRUeXBlcy50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBUb0ZvbnRTdGFjayhDb250ZXh0IGNvbnRleHQsIHN0cmluZyBmYW1pbHkpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICNyZWdpb24gU3RyaW5ncwoKCgogICAgICAgICNlbmRyZWdpb24=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgVXJpRHJvcCBUb1VyaShzdHJpbmcgaW5wdXQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gVXJpRHJvcC5NYXAoaW5wdXQuVG9VcmkoKSk7CiAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBGb3JtRmllbGQoQ29udGV4dCBjb250ZXh0LCBGb3JtRmllbGREcm9wIGZpZWxkLCBzdHJpbmcgY2xhc3NOYW1lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
