@@ -6,8 +6,9 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/JavaScriptHelper.cs" timestamp="1557971505460">
         <mark key="'" line="18" column="52" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/GenericHtmlHelper.cs" timestamp="1557971530931" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/GenericHtmlHelper.cs" timestamp="1557977199352" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" timestamp="1557968806135" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/AssetBuilder/AssetBuilder.cs" timestamp="1557976144170" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1557966680106">
         <mark key="'" line="1404" column="31" />
         <mark key="[" line="638" column="101" />
@@ -23,7 +24,7 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Assets/BundleHelper.cs" timestamp="1557974428542" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1557967208289" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1557972307635" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1557975582156" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Infrastructure/TempData/CookieTempDataControllerFactory.cs" timestamp="1557963938658" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Categories/CategoryService.cs" timestamp="1557966432694" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1557967335886" />
@@ -32,6 +33,9 @@
         <mark key="[" line="350" column="0" />
         <mark key="]" line="350" column="0" />
         <mark key="." line="350" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DA37BC3-9D9C-44AA-9BAE-20889701F24A/b5/3f8dda13/AmazonLambdaClient.cs" timestamp="1557975825689">
+        <mark key="'" line="118" column="11" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Downloads/DownloadService.cs" timestamp="1557969081836" />
       <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Tasks/Sqs/ShopRoleSqsTask.cs" timestamp="1557958174307" />
@@ -45,7 +49,7 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzFluidFilterHelper.cs" timestamp="1557962524686">
         <mark key="'" line="20" column="26" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1557974617067" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1557976252352" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Shops/Shop.cs" timestamp="1557973768675" />
     </filemarks>
     <jumps>
@@ -130,7 +134,6 @@
       <jump line="223" column="26" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/596E0EBE-46F2-45D9-833E-F929E428C400/cd/e336d694/SessionIDManager.cs" />
       <jump line="49" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D8F7B128-F6A9-4BB2-9956-B5C44B1B0C0E/25/d8c11265/Module.cs" />
       <jump line="93" column="33" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Hosting/HostStarter.cs" />
-      <jump line="118" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DA37BC3-9D9C-44AA-9BAE-20889701F24A/b5/3f8dda13/AmazonLambdaClient.cs" />
       <jump line="51" column="41" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" />
       <jump line="113" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" />
       <jump line="244" column="40" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" />
@@ -149,6 +152,7 @@
       <jump line="20" column="26" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzFluidFilterHelper.cs" />
       <jump line="263" column="20" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" />
       <jump line="18" column="52" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/JavaScriptHelper.cs" />
+      <jump line="118" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DA37BC3-9D9C-44AA-9BAE-20889701F24A/b5/3f8dda13/AmazonLambdaClient.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
