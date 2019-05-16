@@ -3,13 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Downloads/DownloadService.cs" timestamp="1557969081836" />
       <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Tasks/Sqs/ShopRoleSqsTask.cs" timestamp="1557958174307" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1557902789586">
         <mark key="[" line="320" column="0" />
         <mark key="]" line="320" column="0" />
         <mark key="." line="320" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1557966826733" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" timestamp="1557968806135" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1557969006159">
+        <mark key="'" line="263" column="20" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/PageContentListDrop.cs" timestamp="1557967414082" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1557966680106">
         <mark key="'" line="1404" column="31" />
@@ -32,7 +36,7 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Categories/CategoryService.cs" timestamp="1557966432694" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1557967335886" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1557968566021">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1557970551126">
         <mark key="[" line="1296" column="73" />
         <mark key="]" line="1296" column="73" />
         <mark key="." line="1296" column="73" />
@@ -44,7 +48,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V1/Logs/LogController.Query.cs" />
       <jump line="162" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V1/Logs/LogController.Query.cs" />
       <jump line="96" column="78" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Job/JobCreator.cs" />
       <jump line="159" column="49" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/Job.cs" />
@@ -144,6 +147,7 @@
       <jump line="822" column="23" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" />
       <jump line="874" column="31" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" />
       <jump line="20" column="26" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzFluidFilterHelper.cs" />
+      <jump line="263" column="20" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -168,7 +172,7 @@
         <text>arguments.At(0).</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text encoding="base64">XDxzZXR0aW5nXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIEZsdWlkVmFsdWUgSXNOdWxsT3JFbXB0eShGbHVpZFZhbHVlIGlucHV0VmFsdWUsIEZpbHRlckFyZ3VtZW50cyBhcmd1bWVudHMsIFRlbXBsYXRlQ29udGV4dCBjb250ZXh0KQo=</text>
@@ -214,9 +218,9 @@
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search encoding="base64">XDxzZXR0aW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern encoding="base64">XDxzZXR0aW5nXD4=</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
@@ -229,6 +233,7 @@
         <entry encoding="base64">XDxTaG9wUm9sZUVuZFBvaW50XD4=</entry>
         <entry encoding="base64">XDxfYW1hem9uU2V0dGluZ3NcPg==</entry>
         <entry>class</entry>
+        <entry encoding="base64">XDxzZXR0aW5nXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
