@@ -4,12 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Downloads/DownloadService.cs" timestamp="1557969081836" />
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Tasks/Sqs/ShopRoleSqsTask.cs" timestamp="1557958174307" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1557902789586">
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="320" column="0" />
-        <mark key="." line="320" column="0" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/JavaScriptHelper.cs" timestamp="1557971505460">
+        <mark key="'" line="18" column="52" />
       </file>
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Tasks/Sqs/ShopRoleSqsTask.cs" timestamp="1557958174307" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/GenericHtmlHelper.cs" timestamp="1557971530931" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" timestamp="1557968806135" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1557969006159">
         <mark key="'" line="263" column="20" />
@@ -23,32 +22,21 @@
         <mark key="." line="639" column="46" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" timestamp="1557960950594" />
-      <file name="/Dummy.txt" timestamp="1557927465612">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1557967208289" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1557968250342" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1557972307635" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Infrastructure/TempData/CookieTempDataControllerFactory.cs" timestamp="1557963938658" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzFluidFilterHelper.cs" timestamp="1557962524686">
         <mark key="'" line="20" column="26" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Categories/CategoryService.cs" timestamp="1557966432694" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1557967335886" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1557970551126">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1557972428642">
         <mark key="[" line="1296" column="73" />
         <mark key="]" line="1296" column="73" />
         <mark key="." line="1296" column="73" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Apps/AppService.cs" timestamp="1557899477081">
-        <mark key="[" line="350" column="0" />
-        <mark key="]" line="350" column="0" />
-        <mark key="." line="350" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api/Controllers/V1/Logs/LogController.Query.cs" />
       <jump line="96" column="78" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Job/JobCreator.cs" />
       <jump line="159" column="49" filename="C:/dev/git/bartender/Buildsoft.Bartender.Entities/Core/Job.cs" />
       <jump line="209" column="44" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/Job/JobCreator.cs" />
@@ -148,6 +136,7 @@
       <jump line="874" column="31" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" />
       <jump line="20" column="26" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzFluidFilterHelper.cs" />
       <jump line="263" column="20" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" />
+      <jump line="18" column="52" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/JavaScriptHelper.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -172,7 +161,7 @@
         <text>arguments.At(0).</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXR0aW5nXD4=</text>
+        <text encoding="base64">XDx0aGVtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIEZsdWlkVmFsdWUgSXNOdWxsT3JFbXB0eShGbHVpZFZhbHVlIGlucHV0VmFsdWUsIEZpbHRlckFyZ3VtZW50cyBhcmd1bWVudHMsIFRlbXBsYXRlQ29udGV4dCBjb250ZXh0KQo=</text>
@@ -218,9 +207,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXR0aW5nXD4=</last-search>
+      <last-search encoding="base64">XDx0aGVtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXR0aW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0aGVtZVw+</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
@@ -234,6 +223,7 @@
         <entry encoding="base64">XDxfYW1hem9uU2V0dGluZ3NcPg==</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxzZXR0aW5nXD4=</entry>
+        <entry encoding="base64">XDx0aGVtZVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
