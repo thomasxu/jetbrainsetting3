@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Contacts.Api/Selz.Shops.Api/appsettings.json" timestamp="1557994176536" />
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Startup.cs" timestamp="1557997711996">
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Startup.cs" timestamp="1557997791069">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -54,6 +54,10 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DA37BC3-9D9C-44AA-9BAE-20889701F24A/b5/3f8dda13/AmazonLambdaClient.cs" timestamp="1557975825689">
         <mark key="'" line="118" column="11" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Extensions/ServiceCollectionExtensions.cs" timestamp="1557997951193">
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/89E901F5-02EC-4DB4-BBC5-F7BFEA24CDDA/a5/714a7097/WebHostDefaults.cs" timestamp="1557995095446" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Downloads/DownloadService.cs" timestamp="1557969081836" />
@@ -212,37 +216,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkRGVmYXVsdEFXU09wdGlvbnMoQ29uZmlndXJhdGlvbi5HZXRBV1NPcHRpb25zKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRIZWFsdGhDaGVja3MoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VTZXR0aW5nKFdlYkhvc3REZWZhdWx0cy5EZXRhaWxlZEVycm9yc0tleSwgInRydWUiKQogICAgICAgICAgICAgICAgLkNhcHR1cmVTdGFydHVwRXJyb3JzKHRydWUpCiAgICAgICAgICAgICAgICAuVXNlU3RhcnR1cDxTdGFydHVwPigpCiAgICAgICAgICAgICAgICAuVXNlU2VyaWxvZygpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkRGVmYXVsdEFXU09wdGlvbnMoQ29uZmlndXJhdGlvbi5HZXRBV1NPcHRpb25zKCkpCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLkFkZEVudmlyb25tZW50VmFyaWFibGVzKCQiYXBwc2V0dGluZ3Mue2Vudi5FbnZpcm9ubWVudE5hbWV9Lmpzb24iLCB0cnVlLCB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VTZXR0aW5nKFdlYkhvc3REZWZhdWx0cy5EZXRhaWxlZEVycm9yc0tleSwgInRydWUiKQogICAgICAgICAgICAgICAgLkNhcHR1cmVTdGFydHVwRXJyb3JzKHRydWUpCiAgICAgICAgICAgICAgICAuVXNlU3RhcnR1cDxTdGFydHVwPigpCiAgICAgICAgICAgICAgICAuVXNlU2VyaWxvZygpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VTZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLkFkZEVudmlyb25tZW50VmFyaWFibGVzKCQiYXBwc2V0dGluZ3Mue2Vudi5FbnZpcm9ubWVudE5hbWV9Lmpzb24iLCB0cnVlLCB0cnVlKQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VTZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VTZXR0aW5nKFdlYkhvc3REZWZhdWx0cy5EZXRhaWxlZEVycm9yc0tleSwgInRydWUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5DYXB0dXJlU3RhcnR1cEVycm9ycyh0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VTZXR0aW5nKFdlYkhvc3REZWZhdWx0cy5EZXRhaWxlZEVycm9yc0tleSwgInRydWUiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VTZXJpbG9nKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5DYXB0dXJlU3RhcnR1cEVycm9ycyh0cnVlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VTZXJpbG9nKCkK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
