@@ -14,10 +14,9 @@
         <mark key="." line="62" column="51" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Extensions/HttpContextExtensions.cs" timestamp="1558087381574">
-        <mark key="[" line="24" column="86" />
-        <mark key="]" line="25" column="56" />
-        <mark key="^" line="25" column="56" />
-        <mark key="." line="25" column="56" />
+        <mark key="]" line="14" column="56" />
+        <mark key="^" line="14" column="56" />
+        <mark key="." line="14" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/559D1F9D-2E45-46D9-8A2E-DCB8C69E6AC7/ea/9ad9a59d/HostingEnvironmentExtensions.cs" timestamp="1558083518938">
         <mark key="'" line="44" column="23" />
@@ -28,11 +27,11 @@
         <mark key="^" line="123" column="11" />
         <mark key="." line="123" column="11" />
       </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Infrastructure/Middleware/SerilogMiddleware.cs" timestamp="1558087693522">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="27" column="81" />
-        <mark key="^" line="23" column="10" />
-        <mark key="." line="23" column="10" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Infrastructure/Middleware/SerilogMiddleware.cs" timestamp="1558088991277">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchProductDiscountCommand.cs" timestamp="1558086731574" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/378306D0-F70E-48B5-8827-55CD0F781644/b9/b34189f6/IHealthCheck.cs" timestamp="1558070185241">
@@ -209,7 +208,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>met</text>
+        <text encoding="base64">ICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -221,37 +220,39 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTZXJpbG9nTWlkZGxld2FyZS5jcwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyAK</text>
+      <register name="2" type="4">
+        <text>httpContext)
+        {
+            using (LogContext.PushProperty(&quot;Path&quot;, httpContext.GetRequestPath()))</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBwYXJhbXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBDUwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyAK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX29wdGlvbnMgPSBvcHRpb25zID8/IHRocm93IG5ldyBBcmd1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBwYXJhbXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFNTRQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBDUwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGV4cHIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX29wdGlvbnMgPSBvcHRpb25zID8/IHRocm93IG5ldyBBcmd1Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXJpID0gdXJpPz8gdGhyb3cgbmV3IEFyZ3VtZW50TnVsbEV4Y2VwdGlvbihuYW1lb2Z1cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFNTRQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBvdmVycmlkZSBTZWFyY2hEZXNjcmlwdG9yPENvbnRhY3RTZWFyY2hhYmxlPiBHZXRTZWFyY2gxKFNlYXJjaENvbnRhY3RPcHRpb25zIG9wdGlvbnMsIFNlYXJjaERlc2NyaXB0b3I8Q29udGFjdFNlYXJjaGFibGU+IHNlYXJjaERlc2NyaXB0b3IpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGV4cHIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
