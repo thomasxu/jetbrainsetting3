@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchCommand.cs" timestamp="1558057624582">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="29" />
-        <mark key="^" line="20" column="59" />
-        <mark key="." line="20" column="29" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchCommand.cs" timestamp="1558058509438">
+        <mark key="'" line="29" column="31" />
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="47" column="14" />
+        <mark key="^" line="47" column="14" />
+        <mark key="." line="47" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7248E314-D490-497D-AD4A-48F9988673A8/f9/00ad49c1/IAmazonCloudWatchLogs.cs" timestamp="1557997205973">
         <mark key="'" line="54" column="19" />
@@ -29,8 +30,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="146" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Integration/Job/Request/EstimateTotal.cs" />
-      <jump line="9" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Api.Model/Job/Export/JobExport.cs" />
       <jump line="19" column="15" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
       <jump line="21" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
       <jump line="24" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2/Program.cs" />
@@ -129,6 +128,8 @@
       <jump line="54" column="19" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7248E314-D490-497D-AD4A-48F9988673A8/f9/00ad49c1/IAmazonCloudWatchLogs.cs" />
       <jump line="76" column="15" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9C7A17BB-5DDC-410C-BAAB-2223C5BA5FF0/1C/Mock.Generic.cs" />
       <jump line="96" column="19" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF54793C-FA34-4A3D-ADC4-93164BFA8E7C/80/90a8837d/IAmazonSQS.cs" />
+      <jump line="20" column="35" filename="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchCommand.cs" />
+      <jump line="28" column="31" filename="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchCommand.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -150,7 +151,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VHVwbGU8RGljdGlvbmFyeTxzdHJpbmcsIFRQYXJhbTE+Pg==</text>
+        <text>virtual</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -162,37 +163,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKG5hbWVvZihzZWFyY2hPcHRpb25zKSk7CgogICAgICAgICAgICBpZiAoc2VhcmNoT3B0aW9ucyA9PSBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9wdGlvbnMyIG9wdGlvbnMyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKG5hbWVvZihzZWFyY2hPcHRpb25zKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxUUGFyYW0xPiBpdGVtcyA9IG51bGw7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VhcmNoT3B0aW9ucyA9PSBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVsYXN0aWNDbGllbnQuU2VhcmNoQXN5bmM8VFBhcmFtMz4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRIZWFsdGhDaGVja3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKG5hbWVvZihzZWFyY2hPcHRpb25zKSk7CgogICAgICAgICAgICBpZiAoc2VhcmNoT3B0aW9ucyA9PSBudWxsKQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkRGVmYXVsdEFXU09wdGlvbnMoQ29uZmlndXJhdGlvbi5HZXRBV1NPcHRpb25zKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKG5hbWVvZihzZWFyY2hPcHRpb25zKSk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VTZXR0aW5nKFdlYkhvc3REZWZhdWx0cy5EZXRhaWxlZEVycm9yc0tleSwgInRydWUiKQogICAgICAgICAgICAgICAgLkNhcHR1cmVTdGFydHVwRXJyb3JzKHRydWUpCiAgICAgICAgICAgICAgICAuVXNlU3RhcnR1cDxTdGFydHVwPigpCiAgICAgICAgICAgICAgICAuVXNlU2VyaWxvZygpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VhcmNoT3B0aW9ucyA9PSBudWxsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLkFkZEVudmlyb25tZW50VmFyaWFibGVzKCQiYXBwc2V0dGluZ3Mue2Vudi5FbnZpcm9ubWVudE5hbWV9Lmpzb24iLCB0cnVlLCB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRIZWFsdGhDaGVja3MoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VTZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkRGVmYXVsdEFXU09wdGlvbnMoQ29uZmlndXJhdGlvbi5HZXRBV1NPcHRpb25zKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VTZXR0aW5nKFdlYkhvc3REZWZhdWx0cy5EZXRhaWxlZEVycm9yc0tleSwgInRydWUiKQogICAgICAgICAgICAgICAgLkNhcHR1cmVTdGFydHVwRXJyb3JzKHRydWUpCiAgICAgICAgICAgICAgICAuVXNlU3RhcnR1cDxTdGFydHVwPigpCiAgICAgICAgICAgICAgICAuVXNlU2VyaWxvZygpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
