@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchCommand.cs" timestamp="1558056621424">
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="22" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="26" column="16" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7248E314-D490-497D-AD4A-48F9988673A8/f9/00ad49c1/IAmazonCloudWatchLogs.cs" timestamp="1557997205973">
+        <mark key="'" line="54" column="19" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9C7A17BB-5DDC-410C-BAAB-2223C5BA5FF0/1C/Mock.Generic.cs" timestamp="1558012363848">
+        <mark key="'" line="76" column="15" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/836484B0-267D-488C-8D30-F28B57EFEBD9/60/SnakeCaseNamingStrategy.cs" timestamp="1557978317715">
         <mark key="'" line="72" column="15" />
       </file>
@@ -12,14 +24,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF54793C-FA34-4A3D-ADC4-93164BFA8E7C/80/90a8837d/IAmazonSQS.cs" timestamp="1558016312338">
         <mark key="'" line="96" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9C7A17BB-5DDC-410C-BAAB-2223C5BA5FF0/1C/Mock.Generic.cs" timestamp="1558012363848">
-        <mark key="'" line="76" column="15" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzFluidFilterHelper.cs" timestamp="1557962524686">
         <mark key="'" line="20" column="26" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7248E314-D490-497D-AD4A-48F9988673A8/f9/00ad49c1/IAmazonCloudWatchLogs.cs" timestamp="1557997205973">
-        <mark key="'" line="54" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -144,13 +150,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>IElasticClient</text>
+        <text>searchOptions</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aGVtZVw+</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2UgPSBfcGFnZVNlcnZpY2UuR2V0QnlQYXRoKHBhZ2VQYXRoLCBTaG9wLklkLCBTaG9wLklkICE9IEN1cnJlbnRVc2VyLlVzZXJJZCk7Cg==</text>
+      <register name="0" type="4">
+        <text>public</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
@@ -189,13 +195,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5DYXB0dXJlU3RhcnR1cEVycm9ycyh0cnVlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>set rnu</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aGVtZVw+</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aGVtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>class</last-substitute>
       <last-dir>1</last-dir>
@@ -210,9 +216,14 @@
         <entry>class</entry>
         <entry encoding="base64">XDxzZXR0aW5nXD4=</entry>
         <entry encoding="base64">XDx0aGVtZVw+</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
+        <entry encoding="base64">OnNldCBudW1iZXIgOnNldCBjbGlwYm9hcmQ9dW5uYW1lZHBsdXMgOm5ub3JlbWFwIFMgZGl3IjBQIDpubm9yZW1hcCB6SCAzMHpoIDpubm9yZW1hcCB6TCAzMHpsIA==</entry>
+        <entry>:set number</entry>
+        <entry>set number</entry>
+        <entry>set rnu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
