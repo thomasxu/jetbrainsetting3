@@ -50,6 +50,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/378306D0-F70E-48B5-8827-55CD0F781644/b9/b34189f6/IHealthCheck.cs" timestamp="1558070185241">
         <mark key="'" line="12" column="30" />
       </file>
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Dockerfile" timestamp="1558169449664">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="64" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/HealthChecks/ElasticsearchHealthCheck.cs" timestamp="1558086055447">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -58,7 +64,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/836484B0-267D-488C-8D30-F28B57EFEBD9/60/SnakeCaseNamingStrategy.cs" timestamp="1557978317715">
         <mark key="'" line="72" column="15" />
       </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/docker-compose-api-local.yml" timestamp="1558154636882">
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/docker-compose-api-local.yml" timestamp="1558168276761">
         <mark key="[" line="17" column="74" />
         <mark key="]" line="17" column="73" />
         <mark key="^" line="17" column="73" />
@@ -95,6 +101,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/ab/a240eae2/ServiceCollectionExtensions.cs" timestamp="1558075565028">
         <mark key="'" line="23" column="37" />
       </file>
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Selz.Search.Api.csproj" timestamp="1558169743522" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DA37BC3-9D9C-44AA-9BAE-20889701F24A/b5/3f8dda13/AmazonLambdaClient.cs" timestamp="1557975825689">
         <mark key="'" line="118" column="11" />
       </file>
@@ -227,13 +234,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>/src/Api/Selz.Search.Api</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="4">
-        <text>https://4bae3a87943c4284a00bc82ebbd4b503@sentry.io/1428737</text>
+        <text>dotnet restore src/Api/Selz.Search.Api/Selz.Search.Api.csproj</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
