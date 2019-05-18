@@ -42,8 +42,6 @@
         <mark key="^" line="38" column="9" />
         <mark key="." line="38" column="9" />
       </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchProductDiscountCommand.cs" timestamp="1558086731574" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8426252F-9318-4FF8-BCAF-CFC72DABA638/b5/06328042/MvcApiExplorerMvcCoreBuilderExtensions.cs" timestamp="1558091041649" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/378306D0-F70E-48B5-8827-55CD0F781644/b9/b34189f6/IHealthCheck.cs" timestamp="1558070185241">
         <mark key="'" line="12" column="30" />
       </file>
@@ -55,7 +53,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/836484B0-267D-488C-8D30-F28B57EFEBD9/60/SnakeCaseNamingStrategy.cs" timestamp="1557978317715">
         <mark key="'" line="72" column="15" />
       </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/docker-compose-api-local.yml" timestamp="1558094027170" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/docker-compose-api-local.yml" timestamp="1558134700835">
+        <mark key="[" line="17" column="74" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/140125AF-6CC4-470B-B814-7A6C4240E775/18/e487d5dd/DateRangeQueryDescriptor`1.cs" timestamp="1558066014945">
         <mark key="'" line="42" column="39" />
       </file>
@@ -87,7 +90,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/ab/a240eae2/ServiceCollectionExtensions.cs" timestamp="1558075565028">
         <mark key="'" line="23" column="37" />
       </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/appsettings.Staging.json" timestamp="1558093946020" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DA37BC3-9D9C-44AA-9BAE-20889701F24A/b5/3f8dda13/AmazonLambdaClient.cs" timestamp="1557975825689">
         <mark key="'" line="118" column="11" />
       </file>
@@ -97,7 +99,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7377099D-91F7-42A7-BB89-6982E405EFBF/ad/5334a7d8/Log.cs" timestamp="1558091632165">
         <mark key="'" line="1026" column="23" />
       </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Extensions/ServiceCollectionExtensions.cs" timestamp="1558087038602" />
     </filemarks>
     <jumps>
       <jump line="6" column="17" filename="$USER_HOME$/RiderProjects/Vega/Vega/Data/Vehicle.cs" />
@@ -233,39 +234,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwogICAgICAgICAgICAgICAgdGhyb3c7Cg==</text>
+        <text encoding="base64">ICAgICAgLSAiZWxhc3RpY3NlYXJjaC5sb2NhbC5zZWx6LmNvbToke0RPQ0tFUl9JTlRFUk5BTF9IT1NUOi0xMjcuMC4wLjF9Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoKTsK</text>
+        <text encoding="base64">ICAgICAgLSAic2VhcmNoLWFwaS5sb2NhbC1zZWx6LmNvbToK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwogICAgICAgICAgICAgICAgdGhyb3c7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRZUEVbXSB0eXBlcyA9IG5ldyBUWVBFW10geyB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoKTsK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmluZ1tdIHRob2FtcyA9IFsiYWZkcyIsICJkc2FmIl07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlZGlyZWN0VG9BY3Rpb24oIlRod2kiLCAiU2hvcCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRZUEVbXSB0eXBlcyA9IG5ldyBUWVBFW10geyB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VyaWxvZ01pZGRsZXdhcmUuY3MgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmluZ1tdIHRob2FtcyA9IFsiYWZkcyIsICJkc2FmIl07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJpbG9nTWlkZGxld2FyZS5jcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlZGlyZWN0VG9BY3Rpb24oIlRod2kiLCAiU2hvcCIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>httpContext)
-        {
-            using (LogContext.PushProperty(&quot;Path&quot;, httpContext.GetRequestPath()))</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2VyaWxvZ01pZGRsZXdhcmUuY3MgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
