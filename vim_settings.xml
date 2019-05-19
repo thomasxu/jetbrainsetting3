@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchOrderCommand.cs" timestamp="1558066209772">
-        <mark key="[" line="12" column="48" />
-      </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Extensions/HttpContextExtensions.cs" timestamp="1558087381574">
         <mark key="]" line="14" column="56" />
         <mark key="^" line="14" column="56" />
@@ -17,7 +14,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/863B81D8-9327-499B-9618-D9BE52F0AC42/d3/1ab39313/IHeaderDictionary.cs" timestamp="1558227560149">
         <mark key="'" line="13" column="19" />
       </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Startup.cs" timestamp="1558227224731">
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Startup.cs" timestamp="1558230764651">
         <mark key="'" line="139" column="88" />
         <mark key="[" line="132" column="0" />
         <mark key="]" line="132" column="0" />
@@ -31,8 +28,11 @@
         <mark key="^" line="31" column="60" />
         <mark key="." line="31" column="60" />
       </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Infrastructure/Middleware/SerilogMiddleware.cs" timestamp="1558228102478">
-        <mark key="[" line="19" column="9" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Infrastructure/Middleware/SerilogMiddleware.cs" timestamp="1558230420996">
+        <mark key="[" line="22" column="89" />
+        <mark key="]" line="22" column="86" />
+        <mark key="^" line="22" column="86" />
+        <mark key="." line="22" column="86" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Infrastructure/Middleware/ErrorHandlingMiddleware.cs" timestamp="1558228069993">
         <mark key="[" line="32" column="16" />
@@ -89,9 +89,6 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzFluidFilterHelper.cs" timestamp="1557962524686">
         <mark key="'" line="20" column="26" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Extensions/HealthCheckBuilderExtensions.cs" timestamp="1558084600594">
-        <mark key="[" line="12" column="9" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Infrastructure/Middleware/CorrelationIdMiddleware.cs" timestamp="1558227422100" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7248E314-D490-497D-AD4A-48F9988673A8/f9/00ad49c1/IAmazonCloudWatchLogs.cs" timestamp="1557997205973">
@@ -256,37 +253,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVpc25nKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlbRW52aXJvbm1lbnRdOjpTZXRFbnZpcm9ubWVudFZhcmlhYmxlKCJET0NLRVJfSU5URVJOQUxfSE9TVCIsICRpcCwgW0Vudmlyb25tZW50VmFyaWFibGVUYXJnZXRdOjpQcm9jZXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKExvZ0NvbnRleHQuUHVzaFByb3BlcnR5KCJQYXRoIiwgaHR0cENvbnRleHQuR2V0KSkK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yd2FyZGVkT3B0aW9ucy5Lbm93bk5ldHdvcmtzLkNsZWFyKCk7Cg==</text>
+        <text encoding="base64">CQlbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlbRW52aXJvbm1lbnRdCg==</text>
+        <text encoding="base64">CQlbRW52aXJvbm1lbnRdOjpTZXRFbnZpcm9ubWVudFZhcmlhYmxlKCJET0NLRVJfSU5URVJOQUxfSE9TVCIsICRpcCwgW0Vudmlyb25tZW50VmFyaWFibGVUYXJnZXRdOjpQcm9jZXNzKQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAiZWxhc3RpY3NlYXJjaC5sb2NhbC5zZWx6LmNvbToke0RPQ0tFUl9JTlRFUk5BTF9IT1NUOi0xMjcuMC4wLjF9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yd2FyZGVkT3B0aW9ucy5Lbm93bk5ldHdvcmtzLkNsZWFyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAic2VhcmNoLWFwaS5sb2NhbC1zZWx6LmNvbToK</text>
+        <text encoding="base64">CQlbRW52aXJvbm1lbnRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwogICAgICAgICAgICAgICAgdGhyb3c7Cg==</text>
+        <text encoding="base64">ICAgICAgLSAiZWxhc3RpY3NlYXJjaC5sb2NhbC5zZWx6LmNvbToke0RPQ0tFUl9JTlRFUk5BTF9IT1NUOi0xMjcuMC4wLjF9Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoKTsK</text>
+        <text encoding="base64">ICAgICAgLSAic2VhcmNoLWFwaS5sb2NhbC1zZWx6LmNvbToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwogICAgICAgICAgICAgICAgdGhyb3c7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
