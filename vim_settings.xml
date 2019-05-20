@@ -21,9 +21,9 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1558315308111" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/HostingEnvironmentExtensions.cs" timestamp="1558304067511" />
       <file name="C:/dev/git/selz/Services.Core/Mvc/src/Selz.Core.Mvc/Extensions/TypeExtension.cs" timestamp="1558304712996" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CDNHelper.cs" timestamp="1558316513863" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CDNHelper.cs" timestamp="1558328601373" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1558318102222" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1558317591155" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1558328907128" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Serialization/CustomContractResolver.cs" timestamp="1558304214560" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/HealthCheckServiceCollectionExtensions.cs" timestamp="1558304043099" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Controllers/BaseController.cs" timestamp="1558304023103" />
@@ -40,6 +40,7 @@
       <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/StructuredLogFormatter.cs" timestamp="1558303892351" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Caching/S3CacheLiquid.cs" timestamp="1558307321232" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Binders/QueryStringArrayModelBinder.cs" timestamp="1558304498144" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1558328629426" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/PageContentListDrop.cs" timestamp="1558317502591" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Models/BaseRequest.cs" timestamp="1558304160528" />
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/Serializers/CustomDecimalSerializer.cs" timestamp="1558301808131" />
@@ -50,9 +51,9 @@
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/Entities/Entity.cs" timestamp="1558301780133" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/HttpContextExtensions.cs" timestamp="1558304464509" />
       <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/AmazonCloudWatchOptions.cs" timestamp="1558302223275" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1558325556374" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1558329246428" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Pages/Page.cs" timestamp="1558312851265" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/Theme.cs" timestamp="1558314159951" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/Theme.cs" timestamp="1558327872938" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/IApiSettings.cs" timestamp="1558324821181" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/d7/9169410e/ClientFactory.cs" timestamp="1558302467004" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Startup.cs" timestamp="1558325124222" />
@@ -69,8 +70,11 @@
         <mark key="'" line="22" column="44" />
       </file>
       <file name="C:/dev/git/selz/Services.Core/Mvc/src/Selz.Core.Mvc/Binders/DateTimeModelBinder.cs" timestamp="1558304636841" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1558323727966" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1558329024920" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/fd/ef5018aa/ConfigurationExtensions.cs" timestamp="1558302841114" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B2737DDC-5DB9-4606-9CC2-6986D52AF562/ce/48fb5cf0/SemVersion.cs" timestamp="1558326616632">
+        <mark key="'" line="19" column="22" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1558315873634" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Apps/AppService.cs" timestamp="1558322212943">
         <mark key="'" line="313" column="0" />
@@ -80,6 +84,7 @@
         <mark key="]" line="28" column="12" />
         <mark key="." line="28" column="12" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/ThemeVersion.cs" timestamp="1558326760859" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/AppRegistryHelper.cs" timestamp="1558321830075" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/DictionaryExtensions.cs" timestamp="1558316651542" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Binders/BaseRequestModelBinder.cs" timestamp="1558304336680" />
@@ -90,11 +95,11 @@
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/MiddlewareApplicationBuilderExtensions.cs" timestamp="1558304106094" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Infrastructure/Security/AuthHelper.cs" timestamp="1558325505846" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/ab/a240eae2/ServiceCollectionExtensions.cs" timestamp="1558302444222" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/IGoogleSettings.cs" timestamp="1558328139936" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageService.cs" timestamp="1558313396886" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ICustomDomainSettings.cs" timestamp="1558318392927" />
     </filemarks>
     <jumps>
-      <jump line="209" column="46" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PickQuoteAmountUpdater.cs" />
       <jump line="24" column="26" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="18" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PickQuoteAmountUpdater.cs" />
       <jump line="220" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PickQuoteAmountUpdater.cs" />
@@ -194,6 +199,7 @@
       <jump line="105" column="20" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/DomainName/DomainNameService.cs" />
       <jump line="313" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Apps/AppService.cs" />
       <jump line="612" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/69/2ec1f80f/ClaimsIdentity.cs" />
+      <jump line="19" column="22" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B2737DDC-5DB9-4606-9CC2-6986D52AF562/ce/48fb5cf0/SemVersion.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
