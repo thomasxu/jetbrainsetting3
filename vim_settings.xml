@@ -35,9 +35,15 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1558328907128" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Serialization/CustomContractResolver.cs" timestamp="1558304214560" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/HealthCheckServiceCollectionExtensions.cs" timestamp="1558304043099" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Views/Shared/Analytics/_AllTags.cshtml" timestamp="1558340910659" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Views/Shared/Analytics/_AllTags.cshtml" timestamp="1558346782279">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Controllers/BaseController.cs" timestamp="1558304023103" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Cache/IMemoryCacheClient.cs" timestamp="1558314361247" />
+      <file name="C:/dev/git/selz/drachma_backup/drachma/src/Drachma.Web/Views/Shared/Analytics/_MixPanel.cshtml" timestamp="1558346584693" />
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/RepositoryFixture.cs" timestamp="1558302187040" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/HomeController.cs" timestamp="1558344854970">
         <mark key="[" line="621" column="9" />
@@ -55,6 +61,12 @@
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/Serializers/CustomDecimalSerializer.cs" timestamp="1558301808131" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/BaseController.cs" timestamp="1558335543962" />
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/Entities/Entity.cs" timestamp="1558301780133" />
+      <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/ServiceLogger.cs" timestamp="1558303846781">
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="92" column="21" />
+        <mark key="^" line="92" column="21" />
+        <mark key="." line="92" column="21" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1558333897732" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/HttpContextExtensions.cs" timestamp="1558304464509" />
       <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/AmazonCloudWatchOptions.cs" timestamp="1558302223275" />
@@ -130,7 +142,7 @@
       <file name="C:/dev/git/selz/Services.Core/Mvc/src/Selz.Core.Mvc/Filters/NoHtmlStripAttribute.cs" timestamp="1558304689180" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api.FunctionalTests/Selz.Search.Api.FunctionalTests.csproj" timestamp="1558301410928" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/Bundles.cs" timestamp="1558333369218" />
-      <file name="/Dummy.txt" timestamp="1558341545028">
+      <file name="/Dummy.txt" timestamp="1558346733652">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/MiddlewareApplicationBuilderExtensions.cs" timestamp="1558304106094" />
@@ -265,7 +277,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZW5kZXJQYXJ0aWFsVmlld1w+</text>
