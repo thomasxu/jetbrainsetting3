@@ -24,13 +24,7 @@
         <mark key="." line="1202" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/DeveloperController.cs" timestamp="1558322174392" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/GenericHtmlHelper.cs" timestamp="1558340534342">
-        <mark key="[" line="819" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/.gitignore" timestamp="1558337497639" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1558404834706">
-        <mark key="[" line="28" column="30" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Global/AddressEditModel.cs" timestamp="1558354588646" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Google/GoogleStoreModel.cs" timestamp="1558340649536" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Binders/StringBinder.cs" timestamp="1558359260300" />
@@ -82,6 +76,7 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1558337163259" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/CartController.cs" timestamp="1558406478924" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1558330055034" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3Actions.cs" timestamp="1558419783706" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/fd/ef5018aa/ConfigurationExtensions.cs" timestamp="1558302841114" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B2737DDC-5DB9-4606-9CC2-6986D52AF562/ce/48fb5cf0/SemVersion.cs" timestamp="1558326616632">
         <mark key="'" line="19" column="22" />
@@ -153,9 +148,6 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Cache/IMemoryCacheClient.cs" timestamp="1558314361247" />
       <file name="C:/dev/git/selz/drachma_backup/drachma/src/Drachma.Web/Views/Shared/Analytics/_MixPanel.cshtml" timestamp="1558346584693" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/App_Start/AuthConfig.cs" timestamp="1558358946630" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Downloads/DownloadService.cs" timestamp="1558403410100">
-        <mark key="[" line="40" column="12" />
-      </file>
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/RepositoryFixture.cs" timestamp="1558302187040" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/HomeController.cs" timestamp="1558414052696">
         <mark key="[" line="622" column="9" />
@@ -172,9 +164,6 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/Events/UserEventsHandler.cs" timestamp="1558398293790" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Pdf/HtmlToPdfService.cs" timestamp="1558399744293" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1558333897732" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/DataAnnotations/CountryAddressValidator.cs" timestamp="1558401033944">
-        <mark key="[" line="72" column="16" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/ContentBlockEditModel.cs" timestamp="1558361283428" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Subscriptions/SubscriptionService.cs" timestamp="1558402745737" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/Theme.cs" timestamp="1558327872938" />
@@ -189,9 +178,6 @@
       </file>
       <file name="C:/dev/git/selz/drachma_backup/drachma/src/Drachma.Web/Web.config" timestamp="1558399362705" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" timestamp="1558407354993" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/EmbedController.cs" timestamp="1558338898802">
-        <mark key="[" line="42" column="0" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/ProductDrop.cs" timestamp="1558319958050" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/HealthCheckApplicationBuilderExtensions.cs" timestamp="1558304038830" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Infrastructure/DataAnnotations/DataAnnotationsServiceFactory.cs" timestamp="1558361931753" />
@@ -215,7 +201,12 @@
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/MvcCoreServiceCollectionExtensions.cs" timestamp="1558304145904" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api.FunctionalTests/Selz.Search.Api.FunctionalTests.csproj" timestamp="1558301410928" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Checkout/OrderSuccessViewModel.cs" timestamp="1558349003000" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" timestamp="1558416914852" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" timestamp="1558420029431">
+        <mark key="[" line="69" column="9" />
+        <mark key="]" line="68" column="12" />
+        <mark key="^" line="68" column="12" />
+        <mark key="." line="68" column="12" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/Bundles.cs" timestamp="1558333369218" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/MiddlewareApplicationBuilderExtensions.cs" timestamp="1558304106094" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Web.config" timestamp="1558394196612" />
@@ -355,13 +346,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>32</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYmxvZ1NlcnZpY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>~/Areas/Shop/Views/Shared/_FacebookCustomerChat.cshtml</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge0ltYWdlU2l6ZVR5cGUuQ29tcGFjdCwgbmV3IEltYWdlU2l6ZSB7V2lkdGggPSAzMiwgSGVpZ2h0PTMyfX0sCg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
