@@ -83,11 +83,11 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Repositories/CustomSerializers/CustomStringIntSerializer.cs" timestamp="1558436743856" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/IApiSettings.cs" timestamp="1558324821181" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/IAmazonSettings.cs" timestamp="1558422307030" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Helpers/CountryHelper.cs" timestamp="1558442167077">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="45" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Helpers/CountryHelper.cs" timestamp="1558443841971">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="12" />
         <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+        <mark key="." line="23" column="12" />
       </file>
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/RepositoryExtensions.cs" timestamp="1558302033922" />
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/MongoRepositoryBase.cs" timestamp="1558301954453">
@@ -106,7 +106,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B2737DDC-5DB9-4606-9CC2-6986D52AF562/ce/48fb5cf0/SemVersion.cs" timestamp="1558437925400">
         <mark key="'" line="19" column="22" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1558441984100" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1558443825586" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/RequestExtensions.cs" timestamp="1558334013047" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ShopRole/ShopRoleModel.cs" timestamp="1558353422620" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Hosting/HostStarter.cs" timestamp="1558404383611" />
@@ -444,20 +444,20 @@
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLkluZnJhc3RydWN0dXJlLkV4dGVuc2lvbnM7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">aWYgKGFkZHJlc3MuQ291bnRyeUNvZGUuSGFzVmFsdWUoKSAmJiBhZGRyZXNzLlN0YXRlQ29kZS5IYXNWYWx1ZSgpKQogICAgICAgICAgICB7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgSW1hZ2VFbnRpdHkgPSBEcmFjaG1hLkNvcmUuRG9tYWlucy5Qcm9kdWN0cwo=</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLkluZnJhc3RydWN0dXJlLkV4dGVuc2lvbnM7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkluZnJhc3RydWN0dXJlLkV4dGVuc2lvbnM7CnVzaW5nIERyYWNobWEuQ29yZS5SZXNvdXJjZXM7Cg==</text>
+        <text encoding="base64">dXNpbmcgSW1hZ2VFbnRpdHkgPSBEcmFjaG1hLkNvcmUuRG9tYWlucy5Qcm9kdWN0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkluZnJhc3RydWN0dXJlLlJlcG9zaXRvcmllczsK</text>
+        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkluZnJhc3RydWN0dXJlLkV4dGVuc2lvbnM7CnVzaW5nIERyYWNobWEuQ29yZS5SZXNvdXJjZXM7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
@@ -466,16 +466,16 @@
         <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkluZnJhc3RydWN0dXJlLlJlcG9zaXRvcmllczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSVJlcG9zaXRvcnk8QXJjaGl2ZWRUaGVtZT4gdGhlbWVBcmNoaXZlUmVwb3NpdG9yeSwK</text>
+        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkluZnJhc3RydWN0dXJlLlJlcG9zaXRvcmllczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSVJlcG9zaXRvcnk8QXJjaGl2ZWRUaGVtZT4gdGhlbWVBcmNoaXZlUmVwb3NpdG9yeSwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSVJlcG9zaXRvcnk8QXJjaGl2ZWRUaGVtZT4gdGhlbWVBcmNoaXZlUmVwb3NpdG9yeSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUZW1wbGF0ZUNvbnRleHQgSW5pdFRlbXBsYXRlKEluc3RhbGxlZFRoZW1lIHRoZW1lSW5zdGFsbGVkLCBUaGVtZUZpbGUgdGhlbWUsIFNob3Agc2hvcCA9IG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSVJlcG9zaXRvcnk8QXJjaGl2ZWRUaGVtZT4gdGhlbWVBcmNoaXZlUmVwb3NpdG9yeSwgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfYW1hem9uUzMuVXNpbmcoX2FtYXpvblNldHRpbmdzLlRlbXBCdWNrZXQpLlJlbW92ZUl0ZW0oc3JjS2V5KTsK</text>
+        <text encoding="base64">ICAgICAgICBUZW1wbGF0ZUNvbnRleHQgSW5pdFRlbXBsYXRlKEluc3RhbGxlZFRoZW1lIHRoZW1lSW5zdGFsbGVkLCBUaGVtZUZpbGUgdGhlbWUsIFNob3Agc2hvcCA9IG51bGwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
