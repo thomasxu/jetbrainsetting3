@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Startup.cs" timestamp="1558494787391">
-        <mark key="[" line="81" column="58" />
-        <mark key="]" line="81" column="76" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Startup.cs" timestamp="1558495926466">
+        <mark key="[" line="137" column="30" />
+        <mark key="]" line="137" column="30" />
         <mark key="^" line="55" column="36" />
-        <mark key="." line="55" column="36" />
+        <mark key="." line="137" column="12" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Repositories/ICreatable.cs" timestamp="1558479881577" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/GlobalIndexer/Selz.Search.GlobalIndexer/Selz.Search.GlobalIndexer.csproj" timestamp="1558489101780" />
@@ -53,6 +53,12 @@
         <mark key="'" line="69" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1547FDDF-0496-45DA-A20D-69E87FC26265/fb/09bc51f9/RepositoryExtensions.cs" timestamp="1558480936628" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Infrastructure/Middleware/ErrorHandlingMiddleware.cs" timestamp="1558496390471">
+        <mark key="[" line="49" column="118" />
+        <mark key="]" line="45" column="95" />
+        <mark key="^" line="45" column="95" />
+        <mark key="." line="45" column="95" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Repositories/IDeletable.cs" timestamp="1558479575392" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78839DFF-2D5B-4853-AAE5-27C279FA6E15/e7/bbeb8998/SecretsManagerExtensions.cs" timestamp="1558485998296" />
       <file name="/Dummy.txt" timestamp="1558491643610">
@@ -83,16 +89,21 @@
         <mark key="." line="48" column="15" />
         <mark key="^" line="48" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/d7/9169410e/ClientFactory.cs" timestamp="1558495255290" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/d7/9169410e/ClientFactory.cs" timestamp="1558495306678" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Infrastructure/Middleware/SerilogMiddleware.cs" timestamp="1558495908688">
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="51" />
+        <mark key="." line="37" column="51" />
+        <mark key="^" line="38" column="15" />
+      </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/HealthChecks/ElasticsearchHealthCheck.cs" timestamp="1558490693128" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/1/Log.cs" timestamp="1558491123075">
-        <mark key="'" line="40" column="24" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/1/Log.cs" timestamp="1558496373777">
+        <mark key="'" line="945" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/ab/a240eae2/ServiceCollectionExtensions.cs" timestamp="1558494927374" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Helpers/EnvironmentHelper.cs" timestamp="1558477832489" />
     </filemarks>
     <jumps>
-      <jump line="75" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/829CD8EB-ED93-4A0D-A893-91D47CD94E39/e9/59073b30/TokenClient.cs" />
       <jump line="23" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/829CD8EB-ED93-4A0D-A893-91D47CD94E39/15/0531af71/UserInfoClient.cs" />
       <jump line="33" column="23" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Api/ShopRoleService.cs" />
       <jump line="14" column="15" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/MockFileProvider.cs" />
@@ -192,6 +203,7 @@
       <jump line="18" column="30" filename="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/appsettings.Local.json" />
       <jump line="24" column="27" filename="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/appsettings.Local.json" />
       <jump line="40" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/1/Log.cs" />
+      <jump line="945" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/1/Log.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -213,7 +225,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>blog post and related infrastructure.</text>
+        <text>SerilogMiddleware</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -225,37 +237,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge0RERAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNldHRpbmdzID0gbmV3IENvbm5lY3Rpb25TZXR0aW5ncyhub2RlKQogICAgICAgICAgICAgICAgLk1hcERlZmF1bHRUeXBlSW5kaWNlcyh0ID0+IHQuQWRkKHR5cGVvZihPcmRlclNlYXJjaGFibGUpLCBpbmRleGVzLk9yZGVyc0luZGV4KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKGFkZHJlc3MuQ291bnRyeUNvZGUuSGFzVmFsdWUoKSAmJiBhZGRyZXNzLlN0YXRlQ29kZS5IYXNWYWx1ZSgpKQogICAgICAgICAgICB7</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLkluZnJhc3RydWN0dXJlLkV4dGVuc2lvbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgSW1hZ2VFbnRpdHkgPSBEcmFjaG1hLkNvcmUuRG9tYWlucy5Qcm9kdWN0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHJlc291cmNlKQogICAgICAgICAgICB7CgogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkluZnJhc3RydWN0dXJlLkV4dGVuc2lvbnM7CnVzaW5nIERyYWNobWEuQ29yZS5SZXNvdXJjZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkluZnJhc3RydWN0dXJlLlJlcG9zaXRvcmllczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
