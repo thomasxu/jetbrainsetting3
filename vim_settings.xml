@@ -92,10 +92,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1558515934351">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="33" />
-        <mark key="." line="31" column="33" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1558519583805">
+        <mark key="[" line="89" column="27" />
+        <mark key="]" line="89" column="41" />
+        <mark key="." line="89" column="41" />
+        <mark key="^" line="89" column="41" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/UriExtensions.cs" timestamp="1558513862131">
         <mark key="[" line="28" column="66" />
@@ -250,7 +251,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>ConnectionStrings</text>
+        <text>.Remove(post, shopId);</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -262,40 +263,40 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TW92ZSBzb21lIENvbnZlcnRlciBhbmQgc3VwcG9ydCBpbnRlcmZhY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIF9wb3N0UmVwb3NpdG9yeS5Db3VudEFzeW5jKGZpbHRlcikgPT0gMDsK</text>
       </register>
-      <register name="2" type="4">
-        <text>using Castle.Core.Logging;
-using Drachma.Core.Infrastructure.Helpers;
-using Microsoft.Extensions.Configuration;</text>
+      <register name="2" type="2">
+        <text encoding="base64">TW92ZSBzb21lIENvbnZlcnRlciBhbmQgc3VwcG9ydCBpbnRlcmZhY2UK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5Db25maWd1cmF0aW9uLkNvbmZpZ3VyYXRpb25NYW5hZ2VyLlsicmVkaXMiXS5Db25uZWN0aW9uU3RyaW5nLAo=</text>
+      <register name="3" type="4">
+        <text>using Castle.Core.Logging;
+using Drachma.Core.Infrastructure.Helpers;
+using Microsoft.Extensions.Configuration;</text>
       </register>
-      <register name="4" type="4">
-        <text>using Drachma.Core.Domains.Shops;
-using Drachma.Core.Domains.Users;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5Db25maWd1cmF0aW9uLkNvbmZpZ3VyYXRpb25NYW5hZ2VyLlsicmVkaXMiXS5Db25uZWN0aW9uU3RyaW5nLAo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>using Drachma.Core.Domains.Shops;
+using Drachma.Core.Domains.Users;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5BZGRNdmNPcHRpb25zKG9wdGlvbiA9PiBvcHRpb24uTW9kZWxCaW5kZXJQcm92aWRlcnMuSW5zZXJ0KDAsIG5ldyApKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VydmljZSA9PSBudWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5BZGRNdmNPcHRpb25zKG9wdGlvbiA9PiBvcHRpb24uTW9kZWxCaW5kZXJQcm92aWRlcnMuSW5zZXJ0KDAsIG5ldyApKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIF9udWxsVmFsdWVIYW5kbGluZyA9IG51bGxWYWx1ZUhhbmRsaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VydmljZSA9PSBudWwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFNob3BJZCB7IGdldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIF9udWxsVmFsdWVIYW5kbGluZyA9IG51bGxWYWx1ZUhhbmRsaW5nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
