@@ -37,6 +37,9 @@
         <mark key="." line="886" column="101" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8426252F-9318-4FF8-BCAF-CFC72DABA638/b5/06328042/MvcApiExplorerMvcCoreBuilderExtensions.cs" timestamp="1558489378401" />
+      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/RepositoryOptions.cs" timestamp="1558500128622">
+        <mark key="[" line="3" column="5" />
+      </file>
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/CollectionName.cs" timestamp="1558501270771">
         <mark key="[" line="11" column="42" />
         <mark key="]" line="11" column="42" />
@@ -55,6 +58,8 @@
         <mark key="." line="44" column="68" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87E8CE02-3EE4-404D-9082-6C8A5038171A/f2/19198c14/BindingSource.cs" timestamp="1558506131447" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/RecycleBin/RecycleBinService.cs" timestamp="1558516155671" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Images/ImageService.cs" timestamp="1558515899440" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Resources/Emails/Templates/SellerPaypalRestricted.liquid" timestamp="1558510026082" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Middlewares/SerilogMiddleware.cs" timestamp="1558508727569" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Helpers/CountryHelper.cs" timestamp="1558511291042">
@@ -101,11 +106,8 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Repositories/IDeletable.cs" timestamp="1558479575392" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78839DFF-2D5B-4853-AAE5-27C279FA6E15/e7/bbeb8998/SecretsManagerExtensions.cs" timestamp="1558485998296" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Infrastructure/Repositories/IAuditable.cs" timestamp="1558500932384" />
-      <file name="/Dummy.txt" timestamp="1558508184582">
+      <file name="/Dummy.txt" timestamp="1558516139484">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Program.cs" timestamp="1558484698181" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/web.config" timestamp="1558489540637" />
@@ -113,11 +115,8 @@
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Models/SupportedSearchIndexes.cs" timestamp="1558491489354" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/GlobalIndexer/Selz.Search.GlobalIndexer/Tasks/ShopSyncTask.cs" timestamp="1558484302551" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/HostingEnvironmentExtensions.cs" timestamp="1558508338093" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Infrastructure/Cache/IRedisCacheClient.cs" timestamp="1558514666163">
-        <mark key="[" line="72" column="82" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="82" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Infrastructure/Cache/IRedisCacheClient.cs" timestamp="1558515687221">
+        <mark key="^" line="79" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/appsettings.Local.json" timestamp="1558487921998">
         <mark key="'" line="24" column="27" />
@@ -130,6 +129,11 @@
       <file name="C:/dev/git/selz/Services.Search/Service/src/GlobalIndexer/Selz.Search.GlobalIndexer/appsettings.Staging.json" timestamp="1558488757927" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Binders/QueryStringArrayModelBinder.cs" timestamp="1558504472694" />
       <file name="/CountryHelper.cs" timestamp="1558511309030" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1558515934351">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/UriExtensions.cs" timestamp="1558513862131">
         <mark key="[" line="28" column="66" />
         <mark key="]" line="28" column="66" />
@@ -309,38 +313,40 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5Db25maWd1cmF0aW9uLkNvbmZpZ3VyYXRpb25NYW5hZ2VyLlsicmVkaXMiXS5Db25uZWN0aW9uU3RyaW5nLAo=</text>
+        <text encoding="base64">TW92ZSBzb21lIENvbnZlcnRlciBhbmQgc3VwcG9ydCBpbnRlcmZhY2UK</text>
       </register>
       <register name="2" type="4">
-        <text>using Drachma.Core.Domains.Shops;
-using Drachma.Core.Domains.Users;</text>
+        <text>using Castle.Core.Logging;
+using Drachma.Core.Infrastructure.Helpers;
+using Microsoft.Extensions.Configuration;</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5Db25maWd1cmF0aW9uLkNvbmZpZ3VyYXRpb25NYW5hZ2VyLlsicmVkaXMiXS5Db25uZWN0aW9uU3RyaW5nLAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5BZGRNdmNPcHRpb25zKG9wdGlvbiA9PiBvcHRpb24uTW9kZWxCaW5kZXJQcm92aWRlcnMuSW5zZXJ0KDAsIG5ldyApKSkK</text>
+      <register name="4" type="4">
+        <text>using Drachma.Core.Domains.Shops;
+using Drachma.Core.Domains.Users;</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VydmljZSA9PSBudWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIF9udWxsVmFsdWVIYW5kbGluZyA9IG51bGxWYWx1ZUhhbmRsaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5BZGRNdmNPcHRpb25zKG9wdGlvbiA9PiBvcHRpb24uTW9kZWxCaW5kZXJQcm92aWRlcnMuSW5zZXJ0KDAsIG5ldyApKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFNob3BJZCB7IGdldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VydmljZSA9PSBudWwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPcldoaXRlU3BhY2UoY29uZmlndXJhdGlvblNlY3Rpb24pKQo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIF9udWxsVmFsdWVIYW5kbGluZyA9IG51bGxWYWx1ZUhhbmRsaW5nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFNob3BJZCB7IGdldDsgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
