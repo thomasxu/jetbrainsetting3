@@ -9,12 +9,12 @@
         <mark key="." line="27" column="40" />
         <mark key="^" line="27" column="40" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Images/ImageService.cs" timestamp="1558576756945">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Images/ImageService.cs" timestamp="1558578548079">
         <mark key="'" line="73" column="37" />
-        <mark key="[" line="141" column="39" />
-        <mark key="]" line="142" column="40" />
-        <mark key="." line="142" column="40" />
-        <mark key="^" line="142" column="40" />
+        <mark key="[" line="221" column="26" />
+        <mark key="]" line="214" column="41" />
+        <mark key="." line="214" column="41" />
+        <mark key="^" line="214" column="41" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/IAmazonSettings.cs" timestamp="1558575492540" />
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/ServiceCollectionExtensions.cs" timestamp="1558563560367">
@@ -51,7 +51,7 @@
         <mark key="^" line="48" column="15" />
         <mark key="." line="24" column="21" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3Actions.cs" timestamp="1558575662985" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3Actions.cs" timestamp="1558577165828" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Infrastructure/Cache/IRedisCacheClient.cs" timestamp="1558529561312">
         <mark key="[" line="62" column="25" />
         <mark key="]" line="62" column="25" />
@@ -65,7 +65,7 @@
         <mark key="^" line="93" column="33" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1558568476657" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonFactory.cs" timestamp="1558575407545" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonFactory.cs" timestamp="1558578521618" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/S3/S3Wrapper.cs" timestamp="1558573800645">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="7" column="1" />
@@ -92,12 +92,12 @@
         <mark key="^" line="19" column="73" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.json" timestamp="1558564318131" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/S3/IAmazonS3Actions.cs" timestamp="1558576612288">
-        <mark key="'" line="384" column="9" />
-        <mark key="[" line="398" column="12" />
-        <mark key="]" line="384" column="9" />
-        <mark key="." line="384" column="9" />
-        <mark key="^" line="384" column="9" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/S3/IAmazonS3Actions.cs" timestamp="1558577941298">
+        <mark key="'" line="391" column="9" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="16" />
+        <mark key="." line="44" column="16" />
+        <mark key="^" line="44" column="30" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/StringExtensions.cs" timestamp="1558567774084" />
       <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Controllers/ContactController.cs" timestamp="1558523436092">
@@ -133,7 +133,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8CDF81FA-71C8-4989-B702-E3C33219ED61/8d/2027733f/HtmlDocument.cs" timestamp="1558570259157">
         <mark key="'" line="185" column="11" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3.cs" timestamp="1558574143768" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3.cs" timestamp="1558577041350" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Infrastructure/Options/IAmazonSettings.cs" timestamp="1558569024798">
         <mark key="[" line="15" column="11" />
         <mark key="]" line="15" column="11" />
@@ -277,7 +277,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Logger</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -289,39 +289,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBjbGllbnQgPSBfYW1hem9uRmFjdG9yeS5DcmVhdGVTM0NsaWVudChCdWNrZXQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBVc2UoQnVja2V0IGJ1Y2tldCkKICAgICAgICB7CiAgICAgICAgICAgIF9idWNrZXQgPSBidWNrZXQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBjbGllbnQgPSBfYW1hem9uRmFjdG9yeS5DcmVhdGVTM0NsaWVudChCdWNrZXQpKQogICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwdWJsaWMgQnVja2V0IEJ1Y2tldAogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgZ2V0CiAgICAgICAgLy8gICAgIHsKICAgICAgICAvLyAgICAgICAgIGlmIChfYnVja2V0ID09IG51bGwpCiAgICAgICAgLy8gICAgICAgICB7CiAgICAgICAgLy8gICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRPcGVyYXRpb25FeGNlcHRpb24oImhhdmUgdG8gc2V0IGJ1Y2tldCBiZWZvcmUgYW55IG9wZXJhdGlvbiIpOwogICAgICAgIC8vICAgICAgICAgfQogICAgICAgIC8vCiAgICAgICAgLy8gICAgICAgICByZXR1cm4gX2J1Y2tldDsKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgICBwcml2YXRlIHNldCA9PiBfYnVja2V0ID0gdmFsdWU7CiAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBjbGllbnQgPSBfYW1hem9uRmFjdG9yeS5DcmVhdGVTM0NsaWVudChCdWNrZXQpKQogICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVja2V0ID0gYnVja2V0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>using (var client = _amazonFactory.CreateS3Client(Bucket))
-            {</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBjbGllbnQgPSBfYW1hem9uRmFjdG9yeS5DcmVhdGVTM0NsaWVudChCdWNrZXQpKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>sing (var client = _amazonFactory.CreateS3Client(Bucket))
-            {</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FtYXpvbkZhY3RvcnkgPSBhbWF6b25GYWN0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBjbGllbnQgPSBfYW1hem9uRmFjdG9yeS5DcmVhdGVTM0NsaWVudChCdWNrZXQpKQogICAgICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
