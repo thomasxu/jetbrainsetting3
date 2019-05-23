@@ -45,11 +45,11 @@
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/MongoRepositoryBase.cs" timestamp="1558531932121">
         <mark key="'" line="22" column="44" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Tagging/TaggingService.cs" timestamp="1558585523573">
-        <mark key="[" line="65" column="12" />
-        <mark key="]" line="65" column="41" />
-        <mark key="^" line="65" column="41" />
-        <mark key="." line="65" column="41" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Tagging/TaggingService.cs" timestamp="1558586359978">
+        <mark key="[" line="92" column="62" />
+        <mark key="]" line="92" column="33" />
+        <mark key="^" line="92" column="33" />
+        <mark key="." line="92" column="33" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3Actions.cs" timestamp="1558579256382" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Tagging/TaggingService.cs" timestamp="1558584057351">
@@ -120,6 +120,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="23" column="21" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Products/Product.cs" timestamp="1558586946581" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1558585055730">
         <mark key="'" line="55" column="38" />
         <mark key="[" line="19" column="0" />
@@ -304,7 +305,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>AddAsync</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -316,37 +317,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLkRvbWFpbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gU2hvdWxkIHByb2JhYmx5IG5vdCBiZSB0aGVyZSBhcyByZWxhdGVkIHRvIHRoZSBzZWx6IGJsb2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3RhZ1JlcG9zaXRvcnkuUmVtb3ZlKHRhZ1RvUmVtb3ZlLCBhY3Rvcik7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJTGlzdDxCbG9nUG9zdFN1bW1hcnk+IEdldExhdGVzdFBvc3RzKFNob3BBY2NvdW50VHlwZSB0eXBlID0gU2hvcEFjY291bnRUeXBlLlNlbHopOwo=</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLkRvbWFpbnM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgTW9uZ29EQi5Cc29uOwo=</text>
+        <text encoding="base64">CiAgICAgICAgLy8gU2hvdWxkIHByb2JhYmx5IG5vdCBiZSB0aGVyZSBhcyByZWxhdGVkIHRvIHRoZSBzZWx6IGJsb2cK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLlJlc291cmNlczsK</text>
+        <text encoding="base64">ICAgICAgICBJTGlzdDxCbG9nUG9zdFN1bW1hcnk+IEdldExhdGVzdFBvc3RzKFNob3BBY2NvdW50VHlwZSB0eXBlID0gU2hvcEFjY291bnRUeXBlLlNlbHopOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLlNlcnZpY2VzLlJlY3ljbGVCaW47Cg==</text>
+        <text encoding="base64">dXNpbmcgTW9uZ29EQi5Cc29uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLlNlcnZpY2VzLkFtYXpvbldyYXBwZXJzOwo=</text>
+        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLlJlc291cmNlczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdmFyIGZlZWRDb250ZW50cyA9IHJlYWRlci5SZWFkVG9FbmQoKTsK</text>
+        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLlNlcnZpY2VzLlJlY3ljbGVCaW47Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdmFyIGRvY3VtZW50ID0gWERvY3VtZW50LlBhcnNlKGZlZWRDb250ZW50cyk7CiAgICAgICAgICAgICAgICAgICAgWE5hbWVzcGFjZSBucyA9IFhOYW1lc3BhY2UuR2V0KCJodHRwOi8vc2VhcmNoLnlhaG9vLmNvbS9tcnNzLyIpOwoKICAgICAgICAgICAgICAgICAgICB2YXIgcG9zdHMgPSAoZnJvbSBwIGluIGRvY3VtZW50LkRlc2NlbmRhbnRzKCJpdGVtIikKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0IG5ldyBCbG9nUG9zdFN1bW1hcnkKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgVGl0bGUgPSBwLkVsZW1lbnQoInRpdGxlIik/LlZhbHVlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgTGluayA9IHAuRWxlbWVudCgibGluayIpPy5WYWx1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIERlc2NyaXB0aW9uID0gcC5FbGVtZW50KCJkZXNjcmlwdGlvbiIpPy5WYWx1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEltYWdlID0gcC5FbGVtZW50KG5zICsgImNvbnRlbnQiKSAhPSBudWxsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBwLkVsZW1lbnQobnMgKyAiY29udGVudCIpPy5FbGVtZW50KG5zICsgInRodW1ibmFpbCIpPy5BdHRyaWJ1dGUoInVybCIpPy5WYWx1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogIiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBQdWJEYXRlID0gRGF0ZVRpbWUuUGFyc2UocC5FbGVtZW50KCJwdWJEYXRlIik/LlZhbHVlKQogICAgICAgICAgICAgICAgICAgICAgICB9KS5Ub0xpc3QoKTsKCiAgICAgICAgICAgICAgICAgICAgX3JlZGlzQ2FjaGVDbGllbnQuQWRkKCJCbG9nIiwgcG9zdHMsIERhdGVUaW1lLlV0Y05vdy5BZGRIb3Vycyg0KSk7CgogICAgICAgICAgICAgICAgICAgIGJsb2dQb3N0cyA9IHBvc3RzOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJldHVybiBibG9nUG9zdHM7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgLy9JRiBhbnkgZXJyb3Igd2UgZG9uJ3Qgd2FudCB0byBicmVhayBhbnl0aGluZwogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBMaXN0PEJsb2dQb3N0U3VtbWFyeT4oKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLlNlcnZpY2VzLkFtYXpvbldyYXBwZXJzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
