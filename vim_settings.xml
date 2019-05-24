@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchCommand.cs" timestamp="1558691208754">
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchCommand.cs" timestamp="1558696564596">
         <mark key="[" line="62" column="80" />
         <mark key="]" line="62" column="85" />
         <mark key="^" line="62" column="85" />
@@ -142,12 +142,8 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchOrderCommand.cs" timestamp="1558693779456">
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchOrderCommand.cs" timestamp="1558696358912">
         <mark key="'" line="16" column="32" />
-        <mark key="[" line="43" column="12" />
-        <mark key="]" line="63" column="8" />
-        <mark key="^" line="63" column="8" />
-        <mark key="." line="63" column="8" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1558671050118">
         <mark key="[" line="64" column="0" />
@@ -228,6 +224,7 @@
         <mark key="." line="32" column="7" />
         <mark key="^" line="51" column="52" />
       </file>
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Models/Order/OrderSearchable.cs" timestamp="1558696512700" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/BlogPostEditModel.cs" timestamp="1558594136998">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="20" />
@@ -386,7 +383,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>new QueryContainer()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
@@ -398,16 +395,16 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUXVlcnlDb250YWluZXJEZXNjcmlwdG9yPE9yZGVyU2VhcmNoYWJsZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RzID0gbmV3IExpc3Q8c3RyaW5nPiB7IHNlYXJjaC5Qcm9kdWN0SWQgfTsKICAgICAgICAgICAgICAgIHByb2R1Y3RzID0gbmV3IExpc3Q8c3RyaW5nPiB7IHNlYXJjaC5Qcm9kdWN0SWQgfTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bmV3IFF1ZXJ5Q29udGFpbmVyKCkpCiAgICAgICAgICAgICAgICAuUXVlcnkocXVlcnkgPT4gUXVlcnlDb250YWluZXIocXVlcnksIG9wdGlvbnMpKQogICAgICAgICAgICAgICAgLlNvcnQoc29ydCA9PiBzb3J0LkZpZWxkKHAgPT4gcC5GaWVsZChmID0+IGYuQ3JlYXRlZFRpbWUpLlVubWFwcGVkVHlwZShGaWVsZFR5cGUuRGF0ZSkuT3JkZXIoU29ydE9yZGVyLkRlc2NlbmRpbmcpKSk7CiAgICAgICAgfQoKICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUXVlcnlDb250YWluZXJEZXNjcmlwdG9yPE9yZGVyU2VhcmNoYWJsZT4K</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">UXVlcnlDb250YWluZXIocXVlcnksIG9wdGlvbnMpKQogICAgICAgICAgICAgICAgLlF1ZXJ5KHF1ZXJ5ID0+IFF1ZXJ5Q29udGFpbmVyKHF1ZXJ5LCBvcHRpb25zKSkKICAgICAgICAgICAgICAgIC5Tb3J0KHNvcnQgPT4gc29ydC5GaWVsZChwID0+IHAuRmllbGQoZiA9PiBmLkNyZWF0ZWRUaW1lKS5Vbm1hcHBlZFR5cGUoRmllbGRUeXBlLkRhdGUpLk9yZGVyKFNvcnRPcmRlci5EZXNjZW5kaW5nKSkpOwogICAgICAgIH0KCiAgICAgICAg</text>
+        <text encoding="base64">bmV3IFF1ZXJ5Q29udGFpbmVyKCkpCiAgICAgICAgICAgICAgICAuUXVlcnkocXVlcnkgPT4gUXVlcnlDb250YWluZXIocXVlcnksIG9wdGlvbnMpKQogICAgICAgICAgICAgICAgLlNvcnQoc29ydCA9PiBzb3J0LkZpZWxkKHAgPT4gcC5GaWVsZChmID0+IGYuQ3JlYXRlZFRpbWUpLlVubWFwcGVkVHlwZShGaWVsZFR5cGUuRGF0ZSkuT3JkZXIoU29ydE9yZGVyLkRlc2NlbmRpbmcpKSk7CiAgICAgICAgfQoKICAgICAgICA=</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">UXVlcnlDb250YWluZXIocXVlcnksIG9wdGlvbnMpKQogICAgICAgICAgICAgICAgLlF1ZXJ5KHF1ZXJ5ID0+IFF1ZXJ5Q29udGFpbmVyKHF1ZXJ5LCBvcHRpb25zKSkKICAgICAgICAgICAgICAgIC5Tb3J0KHNvcnQgPT4gc29ydC5GaWVsZChwID0+IHAuRmllbGQoZiA9PiBmLkNyZWF0ZWRUaW1lKS5Vbm1hcHBlZFR5cGUoRmllbGRUeXBlLkRhdGUpLk9yZGVyKFNvcnRPcmRlci5EZXNjZW5kaW5nKSkpOwogICAgICAgIH0KCiAgICAgICAg</text>
@@ -415,20 +412,20 @@
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0IHsgX3NpemUgPSB2YWx1ZTsgfQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">UXVlcnlDb250YWluZXIocXVlcnksIG9wdGlvbnMpKQogICAgICAgICAgICAgICAgLlF1ZXJ5KHF1ZXJ5ID0+IFF1ZXJ5Q29udGFpbmVyKHF1ZXJ5LCBvcHRpb25zKSkKICAgICAgICAgICAgICAgIC5Tb3J0KHNvcnQgPT4gc29ydC5GaWVsZChwID0+IHAuRmllbGQoZiA9PiBmLkNyZWF0ZWRUaW1lKS5Vbm1hcHBlZFR5cGUoRmllbGRUeXBlLkRhdGUpLk9yZGVyKFNvcnRPcmRlci5EZXNjZW5kaW5nKSkpOwogICAgICAgIH0KCiAgICAgICAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0IHsgX3NpemUgPSB2YWx1ZTsgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBQYWdlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbHRlckJ1aWxkZXIgPSBCdWlsZGVyczxQYWdlPi5GaWx0ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbHRlckJ1aWxkZXIgPSBCdWlsZGVyczxQYWdlPi5GaWx0ZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
