@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Models/ProductSearchResponse.cs" timestamp="1558656788659">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="18" column="47" />
-        <mark key="^" line="18" column="47" />
-        <mark key="." line="18" column="47" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchCommand.cs" timestamp="1558657953696">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="10" column="128" />
+        <mark key="^" line="10" column="128" />
+        <mark key="." line="10" column="128" />
       </file>
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/ServiceCollectionExtensions.cs" timestamp="1558563560367">
         <mark key="[" line="25" column="0" />
@@ -27,6 +27,12 @@
         <mark key="^" line="10" column="61" />
         <mark key="." line="12" column="91" />
       </file>
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Models/Enums/ProductTypeModel.cs" timestamp="1558658274507">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Helpers/CountryHelper.cs" timestamp="1558606307946">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="24" column="12" />
@@ -38,6 +44,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchProductCommand.cs" timestamp="1558657871308">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="11" column="91" />
+        <mark key="^" line="11" column="91" />
+        <mark key="." line="11" column="91" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1558581170885">
         <mark key="[" line="28" column="25" />
@@ -83,9 +95,9 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1558653902054" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Controllers/SearchController.cs" timestamp="1558656119256">
         <mark key="[" line="21" column="9" />
-        <mark key="]" line="28" column="11" />
-        <mark key="^" line="28" column="11" />
-        <mark key="." line="28" column="11" />
+        <mark key="]" line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="27" column="11" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Models/Product/SearchProductOptions.cs" timestamp="1558655626447">
         <mark key="[" line="26" column="41" />
@@ -99,22 +111,10 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Models/SearchResponse.cs" timestamp="1558656707479">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="9" column="31" />
-        <mark key="^" line="9" column="31" />
-        <mark key="." line="9" column="31" />
-      </file>
       <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Controllers/ContactController.cs" timestamp="1558651844772" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Models/User/SearchUserOptions.cs" timestamp="1558652327416" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Models/SearchRequest.cs" timestamp="1558656004074">
         <mark key="[" line="1" column="1" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Infrastructure/Services/SearchService.cs" timestamp="1558656638585">
-        <mark key="[" line="53" column="89" />
-        <mark key="]" line="57" column="84" />
-        <mark key="." line="57" column="84" />
-        <mark key="^" line="57" column="84" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/ImageViewModel.cs" timestamp="1558593901075">
         <mark key="[" line="104" column="85" />
@@ -124,9 +124,9 @@
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Models/SearchOptions.cs" timestamp="1558656149209">
         <mark key="[" line="1" column="1" />
-        <mark key="]" line="17" column="36" />
-        <mark key="^" line="17" column="36" />
-        <mark key="." line="17" column="36" />
+        <mark key="]" line="16" column="36" />
+        <mark key="^" line="16" column="36" />
+        <mark key="." line="16" column="36" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Domains/Blog/BlogPost.cs" timestamp="1558592126990">
         <mark key="[" line="22" column="21" />
@@ -136,6 +136,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1558653605200">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Models/Product/ProductSearchable.cs" timestamp="1558657691018">
+        <mark key="[" line="44" column="41" />
+        <mark key="]" line="46" column="45" />
+        <mark key="^" line="46" column="45" />
+        <mark key="." line="46" column="45" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Models/ProductSearchRequest.cs" timestamp="1558655990288">
         <mark key="]" line="23" column="27" />
@@ -169,8 +175,8 @@
         <mark key="^" line="9" column="15" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Models/Order/OrderProductSearchable.cs" timestamp="1558652372930" />
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Models/Searchable.cs" timestamp="1558656938667">
-        <mark key="[" line="1" column="1" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Models/Searchable.cs" timestamp="1558657460144">
+        <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="4" />
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
@@ -304,7 +310,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Aw</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
