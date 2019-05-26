@@ -63,6 +63,7 @@
         <mark key="^" line="38" column="17" />
         <mark key="." line="38" column="17" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/FullTextSearch/FullTextSearchFallbackService.cs" timestamp="1558910645220" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1558771356822">
         <mark key="[" line="28" column="25" />
         <mark key="]" line="28" column="45" />
@@ -164,11 +165,11 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Repositories/RepositoryExtensions.cs" timestamp="1558676962652">
-        <mark key="[" line="53" column="59" />
-        <mark key="]" line="53" column="23" />
-        <mark key="^" line="53" column="23" />
-        <mark key="." line="53" column="23" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Repositories/RepositoryExtensions.cs" timestamp="1558910570211">
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="64" column="23" />
+        <mark key="^" line="64" column="23" />
+        <mark key="." line="64" column="23" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Models/SearchRequest.cs" timestamp="1558659294659">
         <mark key="[" line="14" column="5" />
@@ -200,7 +201,7 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="22" column="21" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1558909650750">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1558911056216">
         <mark key="[" line="252" column="23" />
         <mark key="]" line="255" column="32" />
         <mark key="." line="255" column="32" />
@@ -248,6 +249,7 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="26" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/BlogDrop.cs" timestamp="1558910700717" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/140125AF-6CC4-470B-B814-7A6C4240E775/1f/f3705be4/IElasticClient.cs" timestamp="1558662833726">
         <mark key="[" line="3404" column="29" />
         <mark key="]" line="3398" column="4" />
@@ -442,7 +444,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>ProductSearchResponse</text>
+        <text>searceah</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
@@ -454,37 +456,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZpbmRPcHRpb25zKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlYXJjaCA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKCJzZWFyY2giLCAiY2Fubm90IGJlIG51bGwiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZpbmRPcHRpb25zKCkK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5TZXJpYWxpemUoY29udGV4dCwgYXJncywgdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkluZnJhc3RydWN0dXJlLlJlcG9zaXRvcmllcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5TZXJpYWxpemUoY29udGV4dCwgYXJncywgdmFsdWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaTllfQo=</text>
+        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkluZnJhc3RydWN0dXJlLlJlcG9zaXRvcmllcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocGFnZUNvbnRlbnQuSWQgPT0gT2JqZWN0SWQuRW1wdHkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaTllfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2YpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocGFnZUNvbnRlbnQuSWQgPT0gT2JqZWN0SWQuRW1wdHkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2YpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
