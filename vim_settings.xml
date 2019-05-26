@@ -4,6 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/BlogPostUpsertRequest.cs" timestamp="1558857559364" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchCommand.cs" timestamp="1558865332041" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Images/ImageService.cs" timestamp="1558864560064" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/d7/9169410e/ClientFactory.cs" timestamp="1558839876699">
         <mark key="[" line="77" column="5" />
         <mark key="]" line="82" column="48" />
@@ -13,13 +15,11 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Search/ProductSearchable.cs" timestamp="1558858937319" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/IAmazonSettings.cs" timestamp="1558862227893" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/AssetBuilder/AssetBuilder.cs" timestamp="1558862873592" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Domains/Products/Image.cs" timestamp="1558858754610">
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchProductCommand.cs" timestamp="1558865207823" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Domains/Products/Image.cs" timestamp="1558864000475">
         <mark key="'" line="100" column="20" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Developer/ApplicationModel.cs" timestamp="1558858908302" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Pages/ContentBlock.cs" timestamp="1558842290819">
-        <mark key="[" line="23" column="64" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1558863065030">
         <mark key="[" line="776" column="12" />
         <mark key="]" line="741" column="29" />
@@ -41,6 +41,12 @@
         <mark key="^" line="450" column="58" />
         <mark key="." line="450" column="51" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1558864018364">
+        <mark key="[" line="38" column="74" />
+        <mark key="]" line="38" column="74" />
+        <mark key="." line="38" column="74" />
+        <mark key="^" line="25" column="72" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Constants.cs" timestamp="1558857111255">
         <mark key="[" line="968" column="236" />
         <mark key="." line="968" column="162" />
@@ -52,14 +58,20 @@
         <mark key="^" line="438" column="129" />
         <mark key="." line="438" column="129" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1558857384755">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1558865107531">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="^" line="63" column="90" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Controllers/SearchController.cs" timestamp="1558865149686">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/51CBE3EB-A0D0-418D-8052-D47F6C347E1C/95/32234b56/HttpUtility.cs" timestamp="1558829113758" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1558857982391">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1558865032905">
         <mark key="[" line="111" column="11" />
         <mark key="]" line="107" column="8" />
         <mark key="." line="107" column="8" />
