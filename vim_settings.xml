@@ -21,11 +21,17 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Helpers/EnvironmentHelperNew.cs" timestamp="1558930319875">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Theming/IThemingService.cs" timestamp="1558926541437">
         <mark key="[" line="14" column="36" />
         <mark key="]" line="14" column="36" />
         <mark key="." line="14" column="36" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/EnvironmentHelper.cs" timestamp="1558930197761" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1558919379146">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -44,11 +50,11 @@
         <mark key="^" line="98" column="43" />
         <mark key="." line="98" column="39" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Theming/ThemingService.cs" timestamp="1558929499176">
-        <mark key="[" line="314" column="69" />
-        <mark key="]" line="273" column="37" />
-        <mark key="." line="273" column="37" />
-        <mark key="^" line="273" column="37" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Theming/ThemingService.cs" timestamp="1558930071166">
+        <mark key="[" line="315" column="69" />
+        <mark key="]" line="274" column="37" />
+        <mark key="." line="274" column="37" />
+        <mark key="^" line="274" column="37" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Models/SearchRequest.cs" timestamp="1558915660089">
         <mark key="[" line="14" column="5" />
@@ -157,6 +163,7 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Domains/Themes/ThemeVersion.cs" timestamp="1558921926445" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/IPageContentService.cs" timestamp="1558919487433" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Shops/Shop.cs" timestamp="1558919271487" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D3664EDC-C905-4662-8F85-864EB0E2245C/03/05d4f4c9/IGitHubClient.cs" timestamp="1558929658448" />
     </filemarks>
     <jumps>
       <jump line="20" column="35" filename="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchCommand.cs" />
@@ -315,7 +322,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>.Result</text>
+        <text>, IConfiguration configuration</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
@@ -327,19 +334,19 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NvbmZpZ3VyYWRkdGlvbiA9IGNvbmZpZ3VyYXRpb247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIFN5c3RlbVVzZXJJZCA9ICIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLkluZnJhc3RydWN0dXJlLkV4Y2VwdGlvbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIFN5c3RlbVVzZXJJZCA9ICIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLkluZnJhc3RydWN0dXJlLkV4Y2VwdGlvbnM7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
@@ -351,13 +358,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TZWFyY2guQXBpLkFwcGxpY2F0aW9uLk1vZGVsczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">dXNpbmcgU2Vsei5TZWFyY2guQXBpLkFwcGxpY2F0aW9uLk1vZGVsczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBTeXN0ZW1Vc2VySWQgPSAiIjsK</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5TZWFyY2guQXBpLkFwcGxpY2F0aW9uLk1vZGVsczsK</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
