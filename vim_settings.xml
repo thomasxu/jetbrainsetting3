@@ -17,6 +17,11 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="15" column="20" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PageContentsController.cs" timestamp="1558942621663">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Infrastructure/Exceptions/SelzException.cs" timestamp="1558929269941">
         <mark key="[" line="39" column="59" />
         <mark key="]" line="10" column="0" />
@@ -47,12 +52,15 @@
         <mark key="^" line="98" column="43" />
         <mark key="." line="98" column="39" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Theming/ThemingService.cs" timestamp="1558941796906">
-        <mark key="'" line="2957" column="9" />
-        <mark key="[" line="130" column="34" />
-        <mark key="]" line="130" column="34" />
-        <mark key="^" line="131" column="8" />
-        <mark key="." line="130" column="34" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Theming/ThemingService.cs" timestamp="1558942333915">
+        <mark key="'" line="2967" column="9" />
+        <mark key="^" line="143" column="8" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1558942990183">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="22" />
+        <mark key="^" line="41" column="19" />
+        <mark key="." line="41" column="22" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Repositories/RepositoryExtensions.cs" timestamp="1558938027860">
         <mark key="[" line="37" column="9" />
@@ -163,7 +171,7 @@
         <mark key="." line="27" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CDE64D88-9F35-4862-98A0-A3C52BBE6ED8/d8/d4802264/FindOptions`2.cs" timestamp="1558911653446" />
-      <file name="/Dummy.txt" timestamp="1558940228541">
+      <file name="/Dummy.txt" timestamp="1558942476989">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -342,7 +350,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>EnvironmentHelper</text>
+        <text>/{path}</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
@@ -353,38 +361,38 @@
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHZhciBmaWx0ZXJCdWlsZGVyID0gQnVpbGRlcnM8SW5zdGFsbGVkVGhlbWU+LkZpbHRlcjsKICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguSXNQdWJsaXNoZWQsIHRydWUpICYgZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguSXNJbnN0YWxsZWQsIHRydWUpICYKICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguU2hvcElkLCBzaG9wSWQpOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUxvZ2dlciBMb2dnZXIgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUxvZ2dlciBMb2dnZXIgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKHBhZ2VUZW1wbGF0ZS5FcnJvcnMgIT0gbnVsbCAmJiBwYWdlVGVtcGxhdGUuRXJyb3JzLkNvdW50ID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgTG9nZ2VyLkVycm9yT2xkKCJFcnJvcnMgcmVuZGVyaW5nIGluc3RhbGxlZCB0aGVtZSIsIFNlbGxlci5JZCwgbmV3CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgSW5zdGFsbGVkVGhlbWVJZCA9IEluc3RhbGxlZFRoZW1lLklkLAogICAgICAgICAgICAgICAgICAgIHBhZ2VUZW1wbGF0ZS5FcnJvcnMKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QWRkIHBhZ2UgY29udGVudCBzZXJ2aWNlCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgKHBhZ2VUZW1wbGF0ZS5FcnJvcnMgIT0gbnVsbCAmJiBwYWdlVGVtcGxhdGUuRXJyb3JzLkNvdW50ID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgTG9nZ2VyLkVycm9yT2xkKCJFcnJvcnMgcmVuZGVyaW5nIGluc3RhbGxlZCB0aGVtZSIsIFNlbGxlci5JZCwgbmV3CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgSW5zdGFsbGVkVGhlbWVJZCA9IEluc3RhbGxlZFRoZW1lLklkLAogICAgICAgICAgICAgICAgICAgIHBhZ2VUZW1wbGF0ZS5FcnJvcnMKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QWRkIHBhZ2UgY29udGVudCBzZXJ2aWNlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
