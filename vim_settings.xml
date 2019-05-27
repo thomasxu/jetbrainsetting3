@@ -17,7 +17,12 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="C:/dev/git/selz/drachma_backup/drachma/src/Drachma.Web/Areas/Builder/Models/PageEditModel.cs" timestamp="1558956171953" />
+      <file name="C:/dev/git/selz/drachma_backup/drachma/src/Drachma.Web/Areas/Builder/Models/PageEditModel.cs" timestamp="1558957334073">
+        <mark key="[" line="97" column="13" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PageContentsController.cs" timestamp="1558942621663">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="17" />
@@ -57,7 +62,7 @@
         <mark key="'" line="2967" column="9" />
         <mark key="^" line="143" column="8" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1558947651289">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1558957462992">
         <mark key="'" line="114" column="16" />
         <mark key="[" line="115" column="28" />
         <mark key="]" line="115" column="28" />
@@ -96,7 +101,12 @@
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="C:/dev/git/selz/drachma_backup/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1558955789197" />
+      <file name="C:/dev/git/selz/drachma_backup/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1558957845543">
+        <mark key="[" line="346" column="54" />
+        <mark key="]" line="346" column="19" />
+        <mark key="." line="346" column="19" />
+        <mark key="^" line="346" column="19" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/SearchRequest.cs" timestamp="1558923852535">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="1" />
@@ -367,38 +377,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFNob3BJZCB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfcGFnZVNlcnZpY2UuRmluZChtb2RlbC5JZCwgcGFnZVBhdGgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="4">
-        <text>.FindPosts(ShopId, request.PublishedOnly, request.TagId, PagerOptions.Create(request.Page, request.Size))
-                .ConfigureAwait(false);</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZVRvVXBkYXRlLklzUHVibGlzaGVkID0gcGFnZVRvVXBkYXRlLklzRGVmYXVsdCB8fCBwYWdlVG9VcGRhdGUuSXNDb250ZW50UGFnZSAmJiBtb2RlbC5Jc1B1Ymxpc2hlZDsKICAgICAgICAgICAgcGFnZVRvVXBkYXRlLk5hbWUgPSBtb2RlbC5OYW1lOwogICAgICAgICAgICBwYWdlVG9VcGRhdGUuUGFnZVRpdGxlID0gbW9kZWwuUGFnZVRpdGxlOwogICAgICAgICAgICBwYWdlVG9VcGRhdGUuTWV0YURlc2NyaXB0aW9uID0gbW9kZWwuTWV0YURlc2NyaXB0aW9uOwo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHZhciBmaWx0ZXJCdWlsZGVyID0gQnVpbGRlcnM8SW5zdGFsbGVkVGhlbWU+LkZpbHRlcjsKICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguSXNQdWJsaXNoZWQsIHRydWUpICYgZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguSXNJbnN0YWxsZWQsIHRydWUpICYKICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguU2hvcElkLCBzaG9wSWQpOw==</text>
+        <text encoding="base64">CgogICAgICAgICAgICBwYWdlVG9VcGRhdGUuSXNQdWJsaXNoZWQgPSBwYWdlVG9VcGRhdGUuSXNEZWZhdWx0IHx8IHBhZ2VUb1VwZGF0ZS5Jc0NvbnRlbnRQYWdlICYmIG1vZGVsLklzUHVibGlzaGVkOwogICAgICAgICAgICBwYWdlVG9VcGRhdGUuTmFtZSA9IG1vZGVsLk5hbWU7CiAgICAgICAgICAgIHBhZ2VUb1VwZGF0ZS5QYWdlVGl0bGUgPSBtb2RlbC5QYWdlVGl0bGU7CiAgICAgICAgICAgIHBhZ2VUb1VwZGF0ZS5NZXRhRGVzY3JpcHRpb24gPSBtb2RlbC5NZXRhRGVzY3JpcHRpb247CgogICAgICAgICAgICBwYWdlVG9VcGRhdGUuSXNQdWJsaXNoZWQgPSBwYWdlVG9VcGRhdGUuSXNEZWZhdWx0IHx8IHBhZ2VUb1VwZGF0ZS5Jc0NvbnRlbnRQYWdlICYmIG1vZGVsLklzUHVibGlzaGVkOwogICAgICAgICAgICBwYWdlVG9VcGRhdGUuTmFtZSA9IG1vZGVsLk5hbWU7CiAgICAgICAgICAgIHBhZ2VUb1VwZGF0ZS5QYWdlVGl0bGUgPSBtb2RlbC5QYWdlVGl0bGU7CiAgICAgICAgICAgIHBhZ2VUb1VwZGF0ZS5NZXRhRGVzY3JpcHRpb24gPSBtb2RlbC5NZXRhRGVzY3JpcHRpb247</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZVRvVXBkYXRlLklzUHVibGlzaGVkID0gcGFnZVRvVXBkYXRlLklzRGVmYXVsdCB8fCBwYWdlVG9VcGRhdGUuSXNDb250ZW50UGFnZSAmJiBtb2RlbC5Jc1B1Ymxpc2hlZDsKICAgICAgICAgICAgcGFnZVRvVXBkYXRlLk5hbWUgPSBtb2RlbC5OYW1lOwogICAgICAgICAgICBwYWdlVG9VcGRhdGUuUGFnZVRpdGxlID0gbW9kZWwuUGFnZVRpdGxlOwogICAgICAgICAgICBwYWdlVG9VcGRhdGUuTWV0YURlc2NyaXB0aW9uID0gbW9kZWwuTWV0YURlc2NyaXB0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZXRvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUxvZ2dlciBMb2dnZXIgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFNob3BJZCB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
