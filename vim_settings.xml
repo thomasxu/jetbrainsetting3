@@ -184,6 +184,7 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Domains/Pages/TagResponse.cs" timestamp="1559005940863" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Tagging/TaggingService.cs" timestamp="1559005090493">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
@@ -196,6 +197,12 @@
         <mark key="]" line="1613" column="8" />
         <mark key="^" line="1613" column="8" />
         <mark key="." line="1613" column="8" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/TaggingResponse.cs" timestamp="1559007174746">
+        <mark key="[" line="20" column="40" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
       </file>
       <file name="C:/dev/git/selz/drachma_backup/drachma/src/Drachma.Core/Domains/Products/Product.cs" timestamp="1559003695825">
         <mark key="'" line="39" column="0" />
@@ -254,7 +261,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Domains/Themes/ThemeVersion.cs" timestamp="1558937688069" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostTaggingController.cs" timestamp="1559005712885">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostTaggingController.cs" timestamp="1559007028091">
         <mark key="[" line="28" column="101" />
         <mark key="]" line="28" column="45" />
         <mark key="." line="28" column="45" />
@@ -421,7 +428,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>page</text>
+        <text>Tagging</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
@@ -433,46 +440,43 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgW0Jzb25JZ25vcmVJZk51bGxdCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIE1hcCgpCiAgICB7CiAgICAgICAgcmV0dXJubmV3IFRhZ2dpbmdSZXNwb25zZSB7fQogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgW0Jzb25JZ25vcmVJZk51bGxdCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgewogICAgICAgICAgICAgZ2V0CiAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgcmV0dXJuIHN0cmluZy5Gb3JtYXQoInswfXsxfSIsIENvbnN0YW50cy5QYWdlcy5UYWdQYWdlUGF0aFByZWZpeCwgU2x1Zyk7CiAgICAgICAgICAgICB9ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgW0Jzb25JZ25vcmVdCg==</text>
+        <text encoding="base64">ICAgICAgICAgewogICAgICAgICAgICAgZ2V0CiAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgcmV0dXJuIHN0cmluZy5Gb3JtYXQoInswfXsxfSIsIENvbnN0YW50cy5QYWdlcy5UYWdQYWdlUGF0aFByZWZpeCwgU2x1Zyk7CiAgICAgICAgICAgICB9ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgW0Jzb25JZ25vcmVdCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>else
             {
                 page = PageEditModel.Map(request, null);
             }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>if (!ValidatePagePath(request, page, page.PagePath))
                 {
                     return new JsonDataResult();
                 }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8vIE1hcCB0byBwYWdlCiAgICAgICAgICAgICAgICBwYWdlID0gUGFnZUVkaXRNb2RlbC5NYXAocmVxdWVzdCwgcGFnZSk7</text>
-      </register>
       <register name="9" type="4">
-        <text>if (!ValidatePagePath(request, page, pagePath))
-                    {
-                        return new JsonDataResult();
-                    }</text>
+        <text encoding="base64">IC8vIE1hcCB0byBwYWdlCiAgICAgICAgICAgICAgICBwYWdlID0gUGFnZUVkaXRNb2RlbC5NYXAocmVxdWVzdCwgcGFnZSk7</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
