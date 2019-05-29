@@ -24,6 +24,7 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Infrastructure/Cache/IRedisCacheClient.cs" timestamp="1559107147754" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1559100471487" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1559092578526" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api.UnitTests/SearchCommandTest.cs" timestamp="1559111862363" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Models/OrderSearchRequest.cs" timestamp="1559090974708">
         <mark key="[" line="16" column="59" />
       </file>
@@ -82,7 +83,7 @@
         <mark key="." line="9" column="7" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/ShopFixture.cs" timestamp="1559083073540" />
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api.FunctionalTests/Base/SearchScenarioBase.cs" timestamp="1559100986955">
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api.FunctionalTests/Base/SearchScenarioBase.cs" timestamp="1559111841924">
         <mark key="]" line="35" column="34" />
         <mark key="^" line="35" column="34" />
         <mark key="." line="35" column="34" />
@@ -109,11 +110,10 @@
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ShopsServer.cs" timestamp="1559093082005" />
       <file name="/BlogPostGetUrlHelper.cs" timestamp="1559101461767" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1559111011158">
-        <mark key="[" line="50" column="9" />
-        <mark key="]" line="54" column="39" />
-        <mark key="^" line="54" column="39" />
-        <mark key="." line="54" column="39" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1559111938513">
+        <mark key="[" line="53" column="25" />
+        <mark key="]" line="53" column="25" />
+        <mark key="." line="53" column="25" />
       </file>
       <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api.UnitTests/Selz.Contacts.Api.UnitTests.csproj" timestamp="1559096253668" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/CounterService.cs" timestamp="1559083918241" />
@@ -288,7 +288,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>BlogPost</text>
+        <text>ObjectId</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
