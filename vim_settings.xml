@@ -4,23 +4,35 @@
     <globalmarks />
     <filemarks>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/559D1F9D-2E45-46D9-8A2E-DCB8C69E6AC7/ea/9ad9a59d/HostingEnvironmentExtensions.cs" timestamp="1559086900035" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/DataFactory.cs" timestamp="1559083099222" />
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/HealthChecks/ElasticsearchHealthCheck.cs" timestamp="1559087093757" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/HttpExtensions.cs" timestamp="1559083741441" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1559086121290" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/ShopMapper.cs" timestamp="1559081679997" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/ShopFixture.cs" timestamp="1559083073540" />
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api.FunctionalTests/Base/SearchScenarioBase.cs" timestamp="1559087332070">
-        <mark key="[" line="57" column="143" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Models/OrderSearchRequest.cs" timestamp="1559090974708">
+        <mark key="[" line="16" column="59" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/ShopScenarios.cs" timestamp="1559083289885" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Infrastructures/HttpContextActorProvider.cs" timestamp="1559083933567">
         <mark key="[" line="17" column="12" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/AddressMapper.cs" timestamp="1559081687301" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/CounterService.cs" timestamp="1559083918241" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/ShopServiceTest.cs" timestamp="1559083026110">
         <mark key="." line="19" column="47" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/DataFactory.cs" timestamp="1559083099222" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/HealthChecks/ElasticsearchHealthCheck.cs" timestamp="1559087093757" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/ShopMapper.cs" timestamp="1559081679997" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/ShopFixture.cs" timestamp="1559083073540" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api.FunctionalTests/Base/SearchScenarioBase.cs" timestamp="1559091306648">
+        <mark key="[" line="176" column="22" />
+        <mark key="]" line="176" column="22" />
+        <mark key="^" line="176" column="24" />
+        <mark key="." line="176" column="22" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/CounterService.cs" timestamp="1559083918241" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api.FunctionalTests/appsettings.test.json" timestamp="1559090224288">
+        <mark key="[" line="38" column="3" />
+        <mark key="]" line="37" column="20" />
+        <mark key="^" line="37" column="20" />
+        <mark key="." line="37" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -180,49 +192,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>PickRandom</text>
+        <text>dsf</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
       </register>
       <register name="0" type="4">
-        <text>TaggingResponse</text>
+        <text>https://vpc</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIG9jYyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBwcm9qZWN0IGluIHByb2plY3Rpb25EZWZpbml0aW9uKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG1vZGVsLikK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBwcm9qZWN0IGluIHByb2plY3Rpb25EZWZpbml0aW9uKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZVNlbHpIZWFsdGhDaGVja3MoImNvbnRhY3RzIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHMgVHlwZSB7IGdldDsgc2V0OyB9ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljICAgeyBnZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZVNlbHpIZWFsdGhDaGVja3MoImNvbnRhY3RzIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHN0YXRpYyBzdHJpbmcgQ29udGFjdEJ5SWQgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHMgVHlwZSB7IGdldDsgc2V0OyB9ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHN0cmluZyBDcmVlYXRlQ29udGFjdCB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljICAgeyBnZXQ7IH0K</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
