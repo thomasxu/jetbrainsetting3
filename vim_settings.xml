@@ -36,7 +36,7 @@
         <mark key="'" line="40" column="9" />
       </file>
       <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Controllers/ContactsController.cs" timestamp="1559174017619" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Tagging/TaggingService.cs" timestamp="1559199700070">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Tagging/TaggingService.cs" timestamp="1559207440163">
         <mark key="[" line="16" column="32" />
         <mark key="]" line="16" column="32" />
         <mark key="." line="16" column="32" />
@@ -52,13 +52,8 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1547FDDF-0496-45DA-A20D-69E87FC26265/fb/09bc51f9/RepositoryExtensions.cs" timestamp="1559198066200" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingServiceTest.cs" timestamp="1559200991525">
-        <mark key="[" line="107" column="42" />
-        <mark key="]" line="107" column="41" />
-        <mark key="." line="107" column="41" />
-        <mark key="^" line="107" column="41" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1547FDDF-0496-45DA-A20D-69E87FC26265/fb/09bc51f9/RepositoryExtensions.cs" timestamp="1559206439029" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingServiceTest.cs" timestamp="1559207310132" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1559133078470">
         <mark key="[" line="65" column="55" />
         <mark key="]" line="65" column="56" />
@@ -77,16 +72,17 @@
         <mark key="." line="22" column="42" />
       </file>
       <file name="C:/dev/git/selz/drachma_backup/drachma/src/Drachma.Web/Core/Services/Theming/PageService.cs" timestamp="1559172680882" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/StringExtensions.cs" timestamp="1559207460314" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Constants.cs" timestamp="1559128187816">
         <mark key="[" line="6" column="43" />
         <mark key="]" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TagFaker.cs" timestamp="1559192807969">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="17" column="71" />
-        <mark key="." line="10" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TagFaker.cs" timestamp="1559205821646">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="45" />
+        <mark key="^" line="18" column="71" />
+        <mark key="." line="12" column="45" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1559131140255">
         <mark key="[" line="71" column="42" />
@@ -95,7 +91,7 @@
         <mark key="^" line="71" column="47" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TagServiceTest.cs" timestamp="1559192788315" />
-      <file name="/Dummy.txt" timestamp="1559190285577">
+      <file name="/Dummy.txt" timestamp="1559201900659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Pages/PageFixture.cs" timestamp="1559192645312">
@@ -104,7 +100,7 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="37" />
       </file>
-      <file name="C:/dev/git/selz/drachma_backup/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1559173093265" />
+      <file name="C:/dev/git/selz/drachma_backup/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1559205540802" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1559177762294">
         <mark key="[" line="54" column="54" />
         <mark key="]" line="53" column="0" />
@@ -118,6 +114,7 @@
         <mark key="." line="137" column="8" />
         <mark key="^" line="128" column="65" />
       </file>
+      <file name="C:/dev/git/selz/drachma_backup/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1559207585933" />
     </filemarks>
     <jumps>
       <jump line="28" column="0" filename="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Infrastructure/Middleware/ErrorHandlingMiddleware.cs" />
@@ -276,7 +273,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>tags.ShopId</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
