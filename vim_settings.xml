@@ -92,6 +92,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1559339993960" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Web.config" timestamp="1559343376417" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1559271403960">
         <mark key="[" line="123" column="38" />
       </file>
@@ -112,9 +113,8 @@
         <mark key="^" line="19" column="26" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1559340337643">
-        <mark key="[" line="848" column="9" />
-        <mark key="]" line="850" column="0" />
-        <mark key="." line="850" column="0" />
+        <mark key="]" line="836" column="0" />
+        <mark key="." line="836" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingServiceTest.cs" timestamp="1559211004895">
         <mark key="[" line="51" column="41" />
@@ -122,11 +122,11 @@
         <mark key="." line="43" column="45" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1559341641768">
-        <mark key="[" line="416" column="16" />
-        <mark key="]" line="416" column="15" />
-        <mark key="." line="416" column="15" />
-        <mark key="^" line="416" column="15" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1559343599537">
+        <mark key="[" line="403" column="12" />
+        <mark key="]" line="194" column="30" />
+        <mark key="." line="194" column="30" />
+        <mark key="^" line="194" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -298,38 +298,38 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsLlRvVXJpKFRPRE8pCiAgICAgICAgICAgIAogICAgICAgICAgICB2YXIgdXJpID0gdXJsLlRvVXJpKFRPRE8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVyaSA9IHVybC5Ub1VyaSgpOwoKICAgICAgICAgICAgLy8gR2V0IGZpbGVuYW1lCiAgICAgICAgICAgIHZhciBmaWxlbmFtZSA9IHVyaS5HZXRGaWxlbmFtZSgpID8/IHN0cmluZy5FbXB0eTsKCiAgICAgICAgICAgIC8vIERlZmF1bHQgYmFzZSBwYXRoIHRvIG5vdGhpbmcKICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPckVtcHR5KGJhc2VQYXRoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgYmFzZVBhdGggPSBzdHJpbmcuRW1wdHk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIERlZmF1bHQgdG8gZXhpc3RpbmcgYmFzZSBwYXRoCiAgICAgICAgICAgIGlmICghc3RyaW5nLklzTnVsbE9yRW1wdHkoZmlsZW5hbWUpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBiYXNlUGF0aCA9IGJhc2VQYXRoLlJlcGxhY2UoZmlsZW5hbWUsIHN0cmluZy5FbXB0eSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIC8vIENyZWF0ZSBuZXcgZmlsZW5hbWUgaWYgbmVlZGVkCiAgICAgICAgICAgIGlmICgha2VlcEZpbGVOYW1lKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBmaWxlbmFtZSA9ICQie0ltYWdlU2l6ZVR5cGUuT3JpZ2luYWwuVG9TdHJpbmdMb3dlcigpfXt1cmkuR2V0RXh0ZW5zaW9uKCl9IjsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIGlmIChzdHJpbmcuRXF1YWxzKHVyaS5Ib3N0LCAiaW1hZ2VzLnBleGVscy5jb20iLCBTdHJpbmdDb21wYXJpc29uLk9yZGluYWxJZ25vcmVDYXNlKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4dGVuc2lvbiA9IHVyaS5HZXRFeHRlbnNpb24oKTsKICAgICAgICAgICAgICAgIHZhciBuYW1lID0gZmlsZW5hbWUuUmVwbGFjZShleHRlbnNpb24sIHN0cmluZy5FbXB0eSk7CgogICAgICAgICAgICAgICAgLy8gUmVTaGFycGVyIGRpc2FibGUgb25jZSBJbnZlcnRJZgogICAgICAgICAgICAgICAgaWYgKHN0cmluZy5FcXVhbHMobmFtZSwgInBleGVscy1waG90byIsIFN0cmluZ0NvbXBhcmlzb24uT3JkaW5hbElnbm9yZUNhc2UpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIC8vIEdldCBudW1iZXIgZnJvbSBwYXRoIC0gZS5nLiAvMTIzNDUvcGV4ZWxzLXBob3RvLmpwZwogICAgICAgICAgICAgICAgICAgIHZhciBpZCA9IFJlZ2V4Lk1hdGNoKHVyaS5Mb2NhbFBhdGgsIEAiXGQrIikuVmFsdWU7CgogICAgICAgICAgICAgICAgICAgIC8vIElmIHdlIGNvdWxkbid0IGdldCBhIG51bWJlciAoaS5lLiB0aGV5IGNoYW5nZWQgVVJMIGZvcm1hdCwgZ2VuZXJhdGUgb25lKQogICAgICAgICAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShpZCkpCiAgICAgICAgICAgICAgICAgICAgewojcHJhZ21hIHdhcm5pbmcgZGlzYWJsZSBTQ1MwMDA1CiAgICAgICAgICAgICAgICAgICAgICAgIHZhciBnZW5lcmF0b3IgPSBuZXcgUmFuZG9tKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlkID0gZ2VuZXJhdG9yLk5leHQoMCwgMTAwMDAwMCkuVG9TdHJpbmcoIkQ2Iik7CiNwcmFnbWEgd2FybmluZyByZXN0b3JlIFNDUzAwMDUKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGZpbGVuYW1lID0gJCJwZXhlbHMtcGhvdG8te2lkfXtleHRlbnNpb259IjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy8gUmVTaGFycGVyIGRpc2FibGUgb25jZSBDb252ZXJ0SWZTdGF0ZW1lbnRUb1JldHVyblN0YXRlbWVudAogICAgICAgICAgICBpZiAoc3RyaW5nLklzTnVsbE9yRW1wdHkoZmlsZW5hbWUpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuICQie2Jhc2VQYXRofXtmaWxlbmFtZX0iOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBzdHJpbmcgR2V0QmFzZVBhdGg8VD4oaW50IHVzZXJJZCkKICAgICAgICB7CiAgICAgICAgICAgIFR5cGUgdHlwZVBhcmFtZXRlclR5cGUgPSB0eXBlb2YgKFQpOwoKICAgICAgICAgICAgaWYgKHR5cGVQYXJhbWV0ZXJUeXBlID09IHR5cGVvZihQcm9kdWN0KSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIEdldFByb2R1Y3RCYXNlUGF0aCh1c2VySWQpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICh0eXBlUGFyYW1ldGVyVHlwZSA9PSB0eXBlb2YoQ2F0ZWdvcnkpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gR2V0Q2F0ZWdvcnlCYXNlUGF0aCh1c2VySWQpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICh0eXBlUGFyYW1ldGVyVHlwZSA9PSB0eXBlb2YoQmxvZ1Bvc3QpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gR2V0QmxvZ1Bvc3RCYXNlUGF0aCh1c2VySWQpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICh0eXBlUGFyYW1ldGVyVHlwZSA9PSB0eXBlb2YoU2hvcCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBHZXRVc2VyQmFzZVBhdGgodXNlcklkKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAodHlwZVBhcmFtZXRlclR5cGUgPT0gdHlwZW9mKE9yZGVySW52b2ljZUFwcFNldHRpbmdzKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIEdldEludm9pY2VBcHBCYXNlUGF0aCh1c2VySWQpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICh0eXBlUGFyYW1ldGVyVHlwZSA9PSB0eXBlb2YoQ29udGVudEJsb2NrKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIEdldENvbnRlbnRCbG9ja0Jhc2VQYXRoKHVzZXJJZCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHR5cGVQYXJhbWV0ZXJUeXBlID09IHR5cGVvZihBcHApKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gR2V0QXBwQmFzZVBhdGgodXNlcklkKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgdGhyb3cgbmV3IEltYWdlU2VydmljZUV4Y2VwdGlvbigiQ2Fubm90IHVzZWQgbWV0aG9kIik7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RyaW5nIEdldFByb2R1Y3RCYXNlUGF0aChpbnQgdXNlcklkKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuICQiaXRlbXMve3VzZXJJZH0ve0ZpbGVTeXN0ZW1IZWxwZXIuR2VuZXJhdGVGb2xkZXIoKX0vIi5Ub0xvd2VySW52YXJpYW50KCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RyaW5nIEdldENhdGVnb3J5QmFzZVBhdGgoaW50IHVzZXJJZCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiAkImNhdGVnb3JpZXMve3VzZXJJZH0ve0ZpbGVTeXN0ZW1IZWxwZXIuR2VuZXJhdGVGb2xkZXIoKX0vIi5Ub0xvd2VySW52YXJpYW50KCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RyaW5nIEdldEJsb2dQb3N0QmFzZVBhdGgoaW50IHVzZXJJZCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiAkImJsb2cve3VzZXJJZH0ve0ZpbGVTeXN0ZW1IZWxwZXIuR2VuZXJhdGVGb2xkZXIoKX0vIi5Ub0xvd2VySW52YXJpYW50KCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RyaW5nIEdldENvbnRlbnRCbG9ja0Jhc2VQYXRoKGludCB1c2VySWQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gJCJibG9ja3Mve3VzZXJJZH0ve0ZpbGVTeXN0ZW1IZWxwZXIuR2VuZXJhdGVGb2xkZXIoKX0vIi5Ub0xvd2VySW52YXJpYW50KCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RyaW5nIEdldFVzZXJCYXNlUGF0aChpbnQgdXNlcklkKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuICQidXNlcnMve3VzZXJJZH0ve0ZpbGVTeXN0ZW1IZWxwZXIuR2VuZXJhdGVGb2xkZXIoKX0vIi5Ub0xvd2VySW52YXJpYW50KCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RyaW5nIEdldENvdmVyQmFzZVBhdGgoaW50IHVzZXJJZCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiAkInVzZXJzL3t1c2VySWR9L3Nob3AvY292ZXIve0ZpbGVTeXN0ZW1IZWxwZXIuR2VuZXJhdGVGb2xkZXIoKX0vIi5Ub0xvd2VySW52YXJpYW50KCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RyaW5nIEdldEludm9pY2VBcHBCYXNlUGF0aChpbnQgdXNlcklkKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuICQib3JkZXJJbnYve3VzZXJJZH0ve0ZpbGVTeXN0ZW1IZWxwZXIuR2VuZXJhdGVGb2xkZXIoKX0vIi5Ub0xvd2VySW52YXJpYW50KCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RyaW5nIEdldEFwcEJhc2VQYXRoKGludCB1c2VySWQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gJCJhcHAve3VzZXJJZH0ve0ZpbGVTeXN0ZW1IZWxwZXIuR2VuZXJhdGVGb2xkZXIoKX0vIi5Ub0xvd2VySW52YXJpYW50KCk7CiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXJpLlRyeUNyZWF0ZSh1cmwsIGtpbmQxKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHZhciB1cmkgPSB1cmwuVG9VcmkoKTsK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbGVOYW1lMSA9IHVyaTEuR2V0RmlsZW5hbWUoKSA/PyBzdHJpbmcuRW1wdHk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IFtGYWN0XQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrIFNlYXJjaF9ibG9ncG9zdHNfd2l0aF9wYWdpbmdfc2hvdWxkX3N1Y2Nlc3MoKQogICAgICAgIHsKICAgICAgICAgICAgdXNpbmcgKHZhciBzY29wZSA9IFJ1bkluU2NvcGUoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGNsaWVudCA9IHNjb3BlLkNyZWF0ZUNsaWVudCgpOwoKICAgICAgICAgICAgICAgIC8vIHZhciByZXF1ZXN0ID0gUGFnZXNEYXRhRmFjdG9yeS5HZW5lcmF0ZVBhZ2VDcmVhdGVSZXF1ZXN0KCk7CiAgICAgICAgICAgICAgICAvLyB2YXIgdXJsID0gUGFnZXNVcmxIZWxwZXIuU2VhcmNoQnlUYWdXaXRoUGFnaW5nKHJlcXVlc3QpOwogICAgICAgICAgICAgICAgdmFyIHVybCA9ICJwYWdlcy92MS9jZDI4NGMyMzJiYjY5NWQ2MDYzYmM4YiI7CiAgICAgICAgICAgICAgICB2YXIgcGFnZSA9IGF3YWl0IGNsaWVudC5HZXRPYmplY3RBc3luYzxQYWdlUmVzcG9uc2U+KHVybCkKICAgICAgICAgICAgICAgICAgICAuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwoKICAgICAgICAgICAgICAgIHBhZ2UuU2hvdWxkKCkuTm90QmVOdWxsKCk7CiAgICAgICAgICAgICAgICBwYWdlLklkLlNob3VsZCgpLk5vdEJlRW1wdHkoKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUGF0aC5HZXRGaWxlTmFtZSh1cmkxLkxvY2FsUGF0aCkK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="4">
-        <text>// blogPostResponse.Slug.Should().BeSameAs(shopReq.Slug);
-                // blogPostResponse.PageTitle.Should().BeSameAs(shopReq.PageTitle);</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXJsLlRvVXJpKFRPRE8pCiAgICAgICAgICAgIAogICAgICAgICAgICB2YXIgdXJpID0gdXJsLlRvVXJpKFRPRE8pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwYWdlVXBkYXRlUmVxdWVzdCA9IFBhZ2VzRGF0YUZhY3RvcnkuR2VuZXJhdGVQYWdlVXBzZXJ0UmVxdWVzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXJpLlRyeUNyZWF0ZSh1cmwsIGtpbmQxKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZFJlc3BvbnNlLklkCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IFtGYWN0XQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrIFNlYXJjaF9ibG9ncG9zdHNfd2l0aF9wYWdpbmdfc2hvdWxkX3N1Y2Nlc3MoKQogICAgICAgIHsKICAgICAgICAgICAgdXNpbmcgKHZhciBzY29wZSA9IFJ1bkluU2NvcGUoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGNsaWVudCA9IHNjb3BlLkNyZWF0ZUNsaWVudCgpOwoKICAgICAgICAgICAgICAgIC8vIHZhciByZXF1ZXN0ID0gUGFnZXNEYXRhRmFjdG9yeS5HZW5lcmF0ZVBhZ2VDcmVhdGVSZXF1ZXN0KCk7CiAgICAgICAgICAgICAgICAvLyB2YXIgdXJsID0gUGFnZXNVcmxIZWxwZXIuU2VhcmNoQnlUYWdXaXRoUGFnaW5nKHJlcXVlc3QpOwogICAgICAgICAgICAgICAgdmFyIHVybCA9ICJwYWdlcy92MS9jZDI4NGMyMzJiYjY5NWQ2MDYzYmM4YiI7CiAgICAgICAgICAgICAgICB2YXIgcGFnZSA9IGF3YWl0IGNsaWVudC5HZXRPYmplY3RBc3luYzxQYWdlUmVzcG9uc2U+KHVybCkKICAgICAgICAgICAgICAgICAgICAuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwoKICAgICAgICAgICAgICAgIHBhZ2UuU2hvdWxkKCkuTm90QmVOdWxsKCk7CiAgICAgICAgICAgICAgICBwYWdlLklkLlNob3VsZCgpLk5vdEJlRW1wdHkoKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEh0dHBSZXNwb25zZUhlYWRlcnMgaGVhZGVycyA9IG51bGw7Cg==</text>
+      <register name="9" type="4">
+        <text>// blogPostResponse.Slug.Should().BeSameAs(shopReq.Slug);
+                // blogPostResponse.PageTitle.Should().BeSameAs(shopReq.PageTitle);</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
