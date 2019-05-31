@@ -33,6 +33,9 @@
         <mark key="]" line="7" column="43" />
         <mark key="." line="7" column="43" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F5F8D912-CD82-4E63-93D1-35A9356AD96C/74/8809ab81/Enumerable.cs" timestamp="1559339209364">
+        <mark key="'" line="1389" column="45" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Pages/PageUpsertRequest.cs" timestamp="1559273903608">
         <mark key="[" line="81" column="126" />
         <mark key="]" line="59" column="44" />
@@ -49,6 +52,12 @@
         <mark key="[" line="27" column="107" />
         <mark key="]" line="27" column="107" />
         <mark key="." line="27" column="107" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/ObjectExtensions.cs" timestamp="1559340153246">
+        <mark key="[" line="147" column="70" />
+        <mark key="]" line="147" column="72" />
+        <mark key="^" line="147" column="72" />
+        <mark key="." line="147" column="72" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostServiceTest.cs" timestamp="1559214446847">
         <mark key="[" line="96" column="37" />
@@ -82,12 +91,7 @@
       <file name="/Dummy.txt" timestamp="1559274703909">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1559337882067">
-        <mark key="[" line="205" column="72" />
-        <mark key="]" line="205" column="48" />
-        <mark key="^" line="205" column="48" />
-        <mark key="." line="205" column="48" />
-      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1559339993960" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1559271403960">
         <mark key="[" line="123" column="38" />
       </file>
@@ -107,11 +111,10 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1559337265321">
-        <mark key="[" line="847" column="9" />
-        <mark key="]" line="846" column="25" />
-        <mark key="^" line="846" column="25" />
-        <mark key="." line="846" column="25" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1559340337643">
+        <mark key="[" line="848" column="9" />
+        <mark key="]" line="850" column="0" />
+        <mark key="." line="850" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingServiceTest.cs" timestamp="1559211004895">
         <mark key="[" line="51" column="41" />
@@ -119,10 +122,13 @@
         <mark key="." line="43" column="45" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1559337669815" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1559340364001">
+        <mark key="[" line="402" column="0" />
+        <mark key="]" line="402" column="0" />
+        <mark key="." line="402" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Infrastructure/Middleware/ErrorHandlingMiddleware.cs" />
       <jump line="13" column="19" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/863B81D8-9327-499B-9618-D9BE52F0AC42/d3/1ab39313/IHeaderDictionary.cs" />
       <jump line="140" column="22" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/2/LoggerConfiguration.cs" />
       <jump line="22" column="44" filename="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/MongoRepositoryBase.cs" />
@@ -222,6 +228,7 @@
       <jump line="27" column="30" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingServiceTest.cs" />
       <jump line="33" column="97" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingServiceTest.cs" />
       <jump line="93" column="107" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingServiceTest.cs" />
+      <jump line="1389" column="45" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F5F8D912-CD82-4E63-93D1-35A9356AD96C/74/8809ab81/Enumerable.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -289,39 +296,39 @@
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IFtGYWN0XQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrIFNlYXJjaF9ibG9ncG9zdHNfd2l0aF9wYWdpbmdfc2hvdWxkX3N1Y2Nlc3MoKQogICAgICAgIHsKICAgICAgICAgICAgdXNpbmcgKHZhciBzY29wZSA9IFJ1bkluU2NvcGUoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGNsaWVudCA9IHNjb3BlLkNyZWF0ZUNsaWVudCgpOwoKICAgICAgICAgICAgICAgIC8vIHZhciByZXF1ZXN0ID0gUGFnZXNEYXRhRmFjdG9yeS5HZW5lcmF0ZVBhZ2VDcmVhdGVSZXF1ZXN0KCk7CiAgICAgICAgICAgICAgICAvLyB2YXIgdXJsID0gUGFnZXNVcmxIZWxwZXIuU2VhcmNoQnlUYWdXaXRoUGFnaW5nKHJlcXVlc3QpOwogICAgICAgICAgICAgICAgdmFyIHVybCA9ICJwYWdlcy92MS9jZDI4NGMyMzJiYjY5NWQ2MDYzYmM4YiI7CiAgICAgICAgICAgICAgICB2YXIgcGFnZSA9IGF3YWl0IGNsaWVudC5HZXRPYmplY3RBc3luYzxQYWdlUmVzcG9uc2U+KHVybCkKICAgICAgICAgICAgICAgICAgICAuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwoKICAgICAgICAgICAgICAgIHBhZ2UuU2hvdWxkKCkuTm90QmVOdWxsKCk7CiAgICAgICAgICAgICAgICBwYWdlLklkLlNob3VsZCgpLk5vdEJlRW1wdHkoKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXJsLlRvVXJpKFRPRE8pCiAgICAgICAgICAgIAogICAgICAgICAgICB2YXIgdXJpID0gdXJsLlRvVXJpKFRPRE8pOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>// blogPostResponse.Slug.Should().BeSameAs(shopReq.Slug);
-                // blogPostResponse.PageTitle.Should().BeSameAs(shopReq.PageTitle);</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVXJpLlRyeUNyZWF0ZSh1cmwsIGtpbmQxKQo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwYWdlVXBkYXRlUmVxdWVzdCA9IFBhZ2VzRGF0YUZhY3RvcnkuR2VuZXJhdGVQYWdlVXBzZXJ0UmVxdWVzdCgpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IFtGYWN0XQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrIFNlYXJjaF9ibG9ncG9zdHNfd2l0aF9wYWdpbmdfc2hvdWxkX3N1Y2Nlc3MoKQogICAgICAgIHsKICAgICAgICAgICAgdXNpbmcgKHZhciBzY29wZSA9IFJ1bkluU2NvcGUoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGNsaWVudCA9IHNjb3BlLkNyZWF0ZUNsaWVudCgpOwoKICAgICAgICAgICAgICAgIC8vIHZhciByZXF1ZXN0ID0gUGFnZXNEYXRhRmFjdG9yeS5HZW5lcmF0ZVBhZ2VDcmVhdGVSZXF1ZXN0KCk7CiAgICAgICAgICAgICAgICAvLyB2YXIgdXJsID0gUGFnZXNVcmxIZWxwZXIuU2VhcmNoQnlUYWdXaXRoUGFnaW5nKHJlcXVlc3QpOwogICAgICAgICAgICAgICAgdmFyIHVybCA9ICJwYWdlcy92MS9jZDI4NGMyMzJiYjY5NWQ2MDYzYmM4YiI7CiAgICAgICAgICAgICAgICB2YXIgcGFnZSA9IGF3YWl0IGNsaWVudC5HZXRPYmplY3RBc3luYzxQYWdlUmVzcG9uc2U+KHVybCkKICAgICAgICAgICAgICAgICAgICAuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwoKICAgICAgICAgICAgICAgIHBhZ2UuU2hvdWxkKCkuTm90QmVOdWxsKCk7CiAgICAgICAgICAgICAgICBwYWdlLklkLlNob3VsZCgpLk5vdEJlRW1wdHkoKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZFJlc3BvbnNlLklkCg==</text>
+      <register name="5" type="4">
+        <text>// blogPostResponse.Slug.Should().BeSameAs(shopReq.Slug);
+                // blogPostResponse.PageTitle.Should().BeSameAs(shopReq.PageTitle);</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEh0dHBSZXNwb25zZUhlYWRlcnMgaGVhZGVycyA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwYWdlVXBkYXRlUmVxdWVzdCA9IFBhZ2VzRGF0YUZhY3RvcnkuR2VuZXJhdGVQYWdlVXBzZXJ0UmVxdWVzdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2VVcGRhdGVSZXF1ZXN0LklkID0gIjVjZDI4NGMyMzJiYjY5NWQ2MDYzYmNiIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyBwYWdlLlJlc3VsdENvdW50LlNob3VsZCgpLkJlKDIpOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZFJlc3BvbnNlLklkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEh0dHBSZXNwb25zZUhlYWRlcnMgaGVhZGVycyA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
