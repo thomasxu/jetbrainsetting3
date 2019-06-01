@@ -108,7 +108,12 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1559368356908" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3Actions.cs" timestamp="1559372351622" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3Actions.cs" timestamp="1559373094997">
+        <mark key="[" line="416" column="12" />
+        <mark key="]" line="422" column="0" />
+        <mark key="^" line="422" column="41" />
+        <mark key="." line="415" column="12" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1559368349687" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1559271403960">
         <mark key="[" line="123" column="38" />
@@ -128,27 +133,17 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1559371802615">
-        <mark key="[" line="838" column="28" />
-        <mark key="]" line="838" column="103" />
-        <mark key="." line="838" column="103" />
-        <mark key="^" line="838" column="103" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingServiceTest.cs" timestamp="1559211004895">
         <mark key="[" line="51" column="41" />
         <mark key="]" line="43" column="45" />
         <mark key="." line="43" column="45" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1559371554316">
-        <mark key="[" line="216" column="17" />
-        <mark key="]" line="186" column="16" />
-        <mark key="^" line="186" column="16" />
-        <mark key="." line="186" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1E409801-FE04-40EC-8A2B-9466612F7A2C/33/0cdc5194/ILogger.cs" timestamp="1559372789366">
+        <mark key="'" line="113" column="9" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="612" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/69/2ec1f80f/ClaimsIdentity.cs" />
       <jump line="19" column="22" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B2737DDC-5DB9-4606-9CC2-6986D52AF562/ce/48fb5cf0/SemVersion.cs" />
       <jump line="171" column="30" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/DomainName/DomainNameService.cs" />
       <jump line="42" column="29" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" />
@@ -248,6 +243,7 @@
       <jump line="105" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" />
       <jump line="214" column="27" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" />
       <jump line="513" column="36" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" />
+      <jump line="113" column="9" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1E409801-FE04-40EC-8A2B-9466612F7A2C/33/0cdc5194/ILogger.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -304,7 +300,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>sjjjjk</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
@@ -316,28 +312,28 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aCA9PSBudWxsIHx8ICFwYXRoLkFueSgpLmlmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QuTWV0aG9kID0gIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVyaS5FeGlzdHMoKSA/IHVybCA6IHVybC5SZXBsYWNlKCJtYXhyZXMiLCAiaHEiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QuTWV0aG9kID0gIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVyaS5FeGlzdHMoKSA/IHVybCA6IHVybC5SZXBsYWNlKCJtYXhyZXMiLCAiaHEiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -345,8 +341,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHZhciBfYWxsU2l6ZSA9IG5ldyBEaWN0aW9uYXJ5PEltYWdlU2l6ZVR5cGUsIEltYWdlU2l6ZT4KICAgICAgICB7CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEltYWdlU2l6ZVR5cGUuTGFyZ2UsIG5ldyBJbWFnZVNpemUgeyBXaWR0aCA9IDE2LCBIZWlnaHQgPSAxNiB9CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBJbWFnZVNpemVUeXBlLkljb24sIG5ldyBJbWFnZVNpemUgeyBXaWR0aCA9IDE2LCBIZWlnaHQgPSAxNiB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07CiAgICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
