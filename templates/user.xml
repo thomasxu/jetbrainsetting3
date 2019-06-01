@@ -111,4 +111,27 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
+  <template name="seq" value="string.Equals($STR1$, $STR2$, StringComparison.OrdinalIgnoreCase)&#10;" toReformat="true" toShortenFQNames="true">
+    <variable name="STR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+      <option name="powershell.context.file" value="false" />
+    </context>
+  </template>
 </templateSet>
