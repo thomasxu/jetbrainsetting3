@@ -17,7 +17,6 @@
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Middlewares/CorrelationIdMiddleware.cs" timestamp="1559270562687">
         <mark key="[" line="16" column="9" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Drachma.Web.csproj" timestamp="1559348882804" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1559274142870">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="12" />
@@ -92,11 +91,11 @@
         <mark key="." line="18" column="33" />
         <mark key="^" line="15" column="84" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" timestamp="1559358752450">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="95" column="29" />
-        <mark key="." line="95" column="0" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" timestamp="1559359717307">
+        <mark key="[" line="145" column="75" />
+        <mark key="]" line="144" column="35" />
+        <mark key="^" line="144" column="35" />
+        <mark key="." line="144" column="35" />
       </file>
       <file name="/Dummy.txt" timestamp="1559274703909">
         <mark key="[" line="0" column="0" />
@@ -321,38 +320,41 @@
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhvbWFzID0gIm1pbmd4dTEiYmxvZ1Bvc3QxMTEK</text>
+      <register name="1" type="4">
+        <text>if (post == null)
+            {
+                throw new ArgumentNullException(nameof(post), @&quot;Post can not be null&quot;);
+            }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">OwoKICAgICAgICAgICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGhvbWFzID0gIm1pbmd4dTEiYmxvZ1Bvc3QxMTEK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3Bvc3QgPSBuZXcgQmxvZ1Bvc3QoKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">OwoKICAgICAgICAgICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FtYXpvblMzLlVzaW5nKG5ldyBCdWNrZXQoKSwgKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Bvc3QgPSBuZXcgQmxvZ1Bvc3QoKTsK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudE51bGxFeGNlcHRpb24oaW50LlRyeVBhcnNlKCQiIiwgb3V0IHZhciBhYmMpKS5yZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FtYXpvblMzLlVzaW5nKG5ldyBCdWNrZXQoKSwgKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nW10gc3RyaW5ncyA9IG5ldyBzdHJpbmdbXSB7IH1kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudE51bGxFeGNlcHRpb24oaW50LlRyeVBhcnNlKCQiIiwgb3V0IHZhciBhYmMpKS5yZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3Bvc3RSZXBvc2l0b3J5LkdldEFzeW5jKG5ldyBPYmplY3RJZCgpLCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nW10gc3RyaW5ncyA9IG5ldyBzdHJpbmdbXSB7IH1kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2Jsb2dQb3N0U3VtbWFyeSA9IG5ldyBCbG9nUG9zdFN1bW1hcnkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Bvc3RSZXBvc2l0b3J5LkdldEFzeW5jKG5ldyBPYmplY3RJZCgpLCApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAic3RyaW5nMSIuZmllbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2Jsb2dQb3N0U3VtbWFyeSA9IG5ldyBCbG9nUG9zdFN1bW1hcnkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
