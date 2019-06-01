@@ -89,6 +89,13 @@
         <mark key="." line="18" column="33" />
         <mark key="^" line="15" column="84" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" timestamp="1559354069218">
+        <mark key="'" line="105" column="12" />
+        <mark key="[" line="110" column="27" />
+        <mark key="]" line="105" column="11" />
+        <mark key="." line="105" column="11" />
+        <mark key="^" line="105" column="11" />
+      </file>
       <file name="/Dummy.txt" timestamp="1559274703909">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,6 +104,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3Actions.cs" timestamp="1559352121371">
+        <mark key="[" line="132" column="16" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="131" column="13" />
+        <mark key="^" line="133" column="23" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1559347293904">
         <mark key="[" line="185" column="41" />
@@ -132,19 +145,8 @@
         <mark key="." line="43" column="45" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1559351047223">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="44" column="2" />
-        <mark key="." line="40" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="22" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/2/LoggerConfiguration.cs" />
-      <jump line="22" column="44" filename="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/MongoRepositoryBase.cs" />
-      <jump line="31" column="8" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/0/LogEventLevel.cs" />
-      <jump line="64" column="39" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/2/LoggerConfiguration.cs" />
-      <jump line="157" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Assets/BundleHelper.cs" />
       <jump line="105" column="20" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/DomainName/DomainNameService.cs" />
       <jump line="313" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Apps/AppService.cs" />
       <jump line="612" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/69/2ec1f80f/ClaimsIdentity.cs" />
@@ -240,6 +242,11 @@
       <jump line="93" column="107" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingServiceTest.cs" />
       <jump line="1389" column="45" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F5F8D912-CD82-4E63-93D1-35A9356AD96C/74/8809ab81/Enumerable.cs" />
       <jump line="183" column="11" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" />
+      <jump line="92" column="24" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" />
+      <jump line="94" column="24" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" />
+      <jump line="95" column="25" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" />
+      <jump line="98" column="11" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" />
+      <jump line="105" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -296,7 +303,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gImFkc2YiOw==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>inter</text>
@@ -308,37 +315,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW5tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nW10gc3RyaW5ncyA9IG5ldyBzdHJpbmdbXSB7IH1kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cG5tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Bvc3RSZXBvc2l0b3J5LkdldEFzeW5jKG5ldyBPYmplY3RJZCgpLCApCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cG5tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2Jsb2dQb3N0U3VtbWFyeSA9IG5ldyBCbG9nUG9zdFN1bW1hcnkoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSVRob21hcyAoKTsK</text>
+        <text encoding="base64">ICAgICAgICAic3RyaW5nMSIuZmllbGQK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3QgaW50IEljMSA9IDE7Cg==</text>
+        <text encoding="base64">ITEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHJlYWRvbmx5IHN0cmluZyBSb2M7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhd2FpdCBodHRwQ2xpZW50LkdldEFzeW5jKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIG4gIHsgZ2V0OyB9Cg==</text>
+        <text encoding="base64">KCh0aG9zZGYgICAgKSAic2FkZiIpLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWNrZXQuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2b2lkICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhcmd1bWVudEV4Y2VwdGlvbiA9IG5ldyBBcmd1bWVudEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
