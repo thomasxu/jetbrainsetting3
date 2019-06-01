@@ -1,7 +1,7 @@
 <templateSet group="user">
-  <template name="propgo" value="public $PropType$ $PropName$ { get; }&#10;$END$" description="" toReformat="true" toShortenFQNames="true">
-    <variable name="PropType" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PropName" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="pgo" value="public $TYPE$ $NAME$ { get; }&#10;$END$" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
@@ -19,9 +19,9 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="propnm" value="$type$ $name$ { get; set; }" description="" toReformat="true" toShortenFQNames="true">
-    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="pnm" value="$TYPE$ $NAME$ { get; set; }&#10;$END$" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
@@ -42,8 +42,10 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="metnm" value="void $method$()&#10;" description="" toReformat="true" toShortenFQNames="true">
-    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="mnm" value="$TYPE$ $NAME$($INPUT$);&#10;$END$&#10;&#10;" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="INPUT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
