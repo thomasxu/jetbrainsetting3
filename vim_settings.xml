@@ -91,12 +91,7 @@
         <mark key="." line="18" column="33" />
         <mark key="^" line="15" column="84" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" timestamp="1559359897518">
-        <mark key="[" line="146" column="13" />
-        <mark key="]" line="148" column="25" />
-        <mark key="^" line="148" column="25" />
-        <mark key="." line="148" column="25" />
-      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" timestamp="1559359897518" />
       <file name="/Dummy.txt" timestamp="1559274703909">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,15 +101,14 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3Actions.cs" timestamp="1559352121371">
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="72" column="23" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3Actions.cs" timestamp="1559364814127">
+        <mark key="[" line="78" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1559347293904">
-        <mark key="[" line="185" column="41" />
-        <mark key="]" line="185" column="41" />
-        <mark key="^" line="185" column="41" />
-        <mark key="." line="185" column="41" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1559363412303">
+        <mark key="[" line="205" column="44" />
+        <mark key="]" line="215" column="30" />
+        <mark key="^" line="215" column="30" />
+        <mark key="." line="215" column="30" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1559271403960">
         <mark key="[" line="123" column="38" />
@@ -144,15 +138,14 @@
         <mark key="." line="43" column="45" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1559361345383">
-        <mark key="[" line="269" column="21" />
-        <mark key="]" line="273" column="23" />
-        <mark key="^" line="273" column="23" />
-        <mark key="." line="273" column="23" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1559364887725">
+        <mark key="[" line="49" column="33" />
+        <mark key="]" line="51" column="19" />
+        <mark key="^" line="51" column="19" />
+        <mark key="." line="51" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Apps/AppService.cs" />
       <jump line="612" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/69/2ec1f80f/ClaimsIdentity.cs" />
       <jump line="19" column="22" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B2737DDC-5DB9-4606-9CC2-6986D52AF562/ce/48fb5cf0/SemVersion.cs" />
       <jump line="171" column="30" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/DomainName/DomainNameService.cs" />
@@ -252,6 +245,7 @@
       <jump line="98" column="11" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" />
       <jump line="105" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" />
       <jump line="214" column="27" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" />
+      <jump line="513" column="36" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -308,7 +302,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>temp</text>
+        <text>expr</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
