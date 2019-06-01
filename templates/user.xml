@@ -89,7 +89,7 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="aie" value="$INPUT$ == null || !$INPUT$.Any()" toReformat="true" toShortenFQNames="true">
+  <template name="aie" value="$INPUT$ == null || !$INPUT$.Any()" description="" toReformat="true" toShortenFQNames="true">
     <variable name="INPUT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />
@@ -111,7 +111,7 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="seq" value="string.Equals($STR1$, $STR2$, StringComparison.OrdinalIgnoreCase)&#10;" toReformat="true" toShortenFQNames="true">
+  <template name="seq" value="string.Equals($STR1$, $STR2$, StringComparison.OrdinalIgnoreCase)&#10;" description="" toReformat="true" toShortenFQNames="true">
     <variable name="STR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="STR2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
