@@ -6,11 +6,11 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Blog/BlogPostEditModel.cs" timestamp="1559528331377" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Collections/PagedList.cs" timestamp="1559525655019" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesDataFactory.cs" timestamp="1559520225657" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1559532665152">
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="23" column="43" />
-        <mark key="." line="23" column="43" />
-        <mark key="^" line="23" column="57" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1559534927747">
+        <mark key="[" line="290" column="64" />
+        <mark key="]" line="290" column="64" />
+        <mark key="." line="290" column="64" />
+        <mark key="^" line="290" column="64" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Images/ImageService.cs" timestamp="1559524337895">
         <mark key="[" line="367" column="20" />
@@ -352,45 +352,31 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Bucket.FullName</text>
+        <text encoding="base64">IEJ1Y2tldC5OYW1l</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
       </register>
-      <register name="0" type="4">
-        <text>Microsoft.Extensions.Primitives</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBTdWJGb2xkZXJBdXRob3JpdHlGb3JtYXQgPSAiaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3swfSI7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQYXRocyBkb24ndCBuZWVkIHRvIGJlIFVSTCBlbmNvZGVkIHdoZW4gd2UgbW92ZQogICAgICAgIC8vIElmIHlvdSBkbywgaXQnbGwgYmUgYjBya2VkCg==</text>
+        <text encoding="base64">ICAgIHVzaW5nICh2YXIgY2xpZW50ID0gX2FtYXpvbkZhY3RvcnkuQ3JlYXRlUzNDbGllbnQoQnVja2V0KSkKICAgIHsK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="4">
-        <text>using (var client = _amazonFactory.CreateS3Client(Bucket))
-    {</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHsKICAgIHVzaW5nICh2YXIgY2xpZW50ID0gX2FtYXpvbkZhY3RvcnkuQ3JlYXRlUzNDbGllbnQoQnVja2V0KSkK</text>
       </register>
       <register name="4" type="4">
-        <text>public static void CopyItem(this IAmazonS3 s3Client, string srcPath, string dstPath)
-    {
-        CopyItem(s3Client, srcPath, dstPath, null);
-    }
-
-    public void CopyItem(this IAmazonS3 s3Client, string sourceBucketName, string string srcPath, string dstPath, NameValueCollection headers)
-    {
-        CopyItem(Bucket, srcPath, dstPath, headers);
-    }
-
-    public void CopyItem(IBucket srcBucket, string srcPath, string dstPath)
-    {
-    CopyItem(srcBucket, srcPath, dstPath, null);
-    }</text>
+        <text encoding="base64">cHVibGljIHZvaWQgU2F2ZUl0ZW0oc3RyaW5nIHBhdGgsIFN0cmVhbSBzdHJlYW0sIE5hbWVWYWx1ZUNvbGxlY3Rpb24gaGVhZGVycywgUzNDYW5uZWRBQ0wgYWNsKQogICAgewogICAgdXNpbmcgKHZhciBjbGllbnQgPSBfYW1hem9uRmFjdG9yeS5DcmVhdGVTM0NsaWVudChCdWNrZXQpKQogICAgewogICAgICAgIGlmICghKHN0cmVhbSBpcyBHWmlwU3RyZWFtKSkKICAgICAgICB7CiAgICAgICAgICAgIC8vIFJlc2V0IHBvc2l0aW9uCiAgICAgICAgICAgIHN0cmVhbS5TZWVrKDAsIFNlZWtPcmlnaW4uQmVnaW4pOwogICAgICAgIH0KCiAgICAgICAgdmFyIHJlcXVlc3QgPSBuZXcgUHV0T2JqZWN0UmVxdWVzdAogICAgICAgIHsKICAgICAgICAgICAgQnVja2V0TmFtZSA9IEJ1Y2tldC5OYW1lLAogICAgICAgICAgICBJbnB1dFN0cmVhbSA9IHN0cmVhbSwKICAgICAgICAgICAgQXV0b0Nsb3NlU3RyZWFtID0gZmFsc2UsCiAgICAgICAgICAgIEtleSA9IFdlYlV0aWxpdHkuVXJsRGVjb2RlKHBhdGgpLAogICAgICAgICAgICBDYW5uZWRBQ0wgPSBhY2wKICAgICAgICB9OwoKICAgICAgICBpZiAoaGVhZGVycyAhPSBudWxsKQogICAgICAgIHsKICAgICAgICAgICAgZm9yZWFjaCAoc3RyaW5nIGtleSBpbiBoZWFkZXJzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXF1ZXN0LkhlYWRlcnNba2V5XSA9IGhlYWRlcnNba2V5XTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgY2xpZW50LlB1dE9iamVjdChyZXF1ZXN0KTsKICAgIH0KICAgIH0K</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
@@ -398,17 +384,17 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHVzaW5nICh2YXIgY2xpZW50ID0gX2FtYXpvbkZhY3RvcnkuQ3JlYXRlUzNDbGllbnQoQnVja2V0KSkKICAgICAgICAgICAgew==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcGF0aCA9IFdlYlV0aWxpdHkuVXJsRGVjb2RlKHBhdGgpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHByaXZhdGUgcmVhZG9ubHkgSUFtYXpvbkZhY3RvcnkgX2FtYXpvbkZhY3Rvcnk7CiAgICAgICAgcHJpdmF0ZSBJQnVja2V0IF9idWNrZXQ7CgogICAgICAgIHB1YmxpYyBTM0V4dGVuc2lvbihJQW1hem9uRmFjdG9yeSBhbWF6b25GYWN0b3J5LCBJQnVja2V0IGJ1Y2tldCkKICAgICAgICB7CiAgICAgICAgICAgIF9hbWF6b25GYWN0b3J5ID0gYW1hem9uRmFjdG9yeTsKICAgICAgICAgICAgQnVja2V0ID0gYnVja2V0OwogICAgICAgICAgICBMb2dnZXIgPSBOdWxsTG9nZ2VyLkluc3RhbmNlOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIElCdWNrZXQgQnVja2V0CiAgICAgICAgewogICAgICAgICAgICBnZXQKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaWYgKF9idWNrZXQgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbigiaGF2ZSB0byBzZXQgYnVja2V0IGJlZm9yZSBhbnkgb3BlcmF0aW9uIik7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcmV0dXJuIF9idWNrZXQ7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcHJpdmF0ZSBzZXQgPT4gX2J1Y2tldCA9IHZhbHVlOwogICAgICAgIH0K</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzaW5nICh2YXIgY2xpZW50ID0gX2FtYXpvbkZhY3RvcnkuQ3JlYXRlUzNDbGllbnQoQnVja2V0KSkKICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
