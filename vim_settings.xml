@@ -99,11 +99,11 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1559557968174">
-        <mark key="[" line="487" column="42" />
-        <mark key="]" line="557" column="100" />
-        <mark key="." line="557" column="100" />
-        <mark key="^" line="557" column="100" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1559561642284">
+        <mark key="[" line="566" column="0" />
+        <mark key="]" line="566" column="0" />
+        <mark key="^" line="566" column="0" />
+        <mark key="." line="566" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1559431725899">
         <mark key="[" line="848" column="0" />
@@ -232,7 +232,7 @@
         <mark key="^" line="19" column="26" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/UploaderController.cs" timestamp="1559527903271" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1559544283014">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1559558834768">
         <mark key="'" line="379" column="0" />
         <mark key="[" line="516" column="10" />
         <mark key="]" line="516" column="10" />
@@ -403,7 +403,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">LlNlbGVjdE1hbnkoeCA9PiB4KQ==</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
@@ -414,38 +414,38 @@
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHZhciBwYXJlbnQxID0gRmluZFJlZ2lvbkJ5Q29udGVudEJsb2NrSWQocGFnZUNvbnRlbnQsIGNvbnRlbnRCbG9ja0lkKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGlmIChwYXJlbnQxID09IG51bGwgfHwgcGFyZW50MS5JZCA9PSBwYWdlQ29udGVudC5JZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBwYXJlbnQxLklkOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZW1lQmxvY2tTZXR0aW5nczE/Lgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBhZ2VDb250ZW50LkNvbnRlbnRCbG9ja3MKICAgICAgICAgICAgICAgIC5XaGVyZSh4ID0+IHguQ29udGVudFJlZ2lvbnMgIT0gbnVsbCkKICAgICAgICAgICAgICAgIC5TZWxlY3RNYW55KGNvbnRlbnRCbG9jayA9PiBjb250ZW50QmxvY2suQ29udGVudFJlZ2lvbnMuV2hlcmUoeCA9PiB4LkNvbnRlbnRCbG9ja3MgIT0gbnVsbCkpCiAgICAgICAgICAgICAgICAuRmlyc3RPckRlZmF1bHQocmVnaW9uID0+IHJlZ2lvbi5Db250ZW50QmxvY2tzLkZpcnN0T3JEZWZhdWx0KGIgPSBiLklkID09IGNvbnRlbnRCbG9ja0lkKSAhPSBudWxsKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHZhciBwYXJlbnQxID0gRmluZFJlZ2lvbkJ5Q29udGVudEJsb2NrSWQocGFnZUNvbnRlbnQsIGNvbnRlbnRCbG9ja0lkKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGlmIChwYXJlbnQxID09IG51bGwgfHwgcGFyZW50MS5JZCA9PSBwYWdlQ29udGVudC5JZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBwYXJlbnQxLklkOw==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZiAocGFnZUNvbnRlbnQgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChwYWdlQ29udGVudC5Db250ZW50QmxvY2tzLkZpcnN0T3JEZWZhdWx0KHggPT4geC5JZCA9PSBjb250ZW50QmxvY2tJZCkgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIHBhZ2VDb250ZW50OwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gcGFnZUNvbnRlbnQuQ29udGVudEJsb2NrcwogICAgICAgICAgICAgICAgLldoZXJlKHggPT4geC5Db250ZW50UmVnaW9ucyAhPSBudWxsKQogICAgICAgICAgICAgICAgLlNlbGVjdE1hbnkoY29udGVudEJsb2NrID0+IGNvbnRlbnRCbG9jay5Db250ZW50UmVnaW9ucy5XaGVyZSh4ID0+IHguQ29udGVudEJsb2NrcyAhPSBudWxsKSkKICAgICAgICAgICAgICAgIC5GaXJzdE9yRGVmYXVsdChyZWdpb24gPT4gcmVnaW9uLkNvbnRlbnRCbG9ja3MuRmlyc3RPckRlZmF1bHQoeCA9PiB4LklkID09IGNvbnRlbnRCbG9ja0lkKSAhPSBudWxsKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBhZ2VDb250ZW50LkNvbnRlbnRCbG9ja3MKICAgICAgICAgICAgICAgIC5XaGVyZSh4ID0+IHguQ29udGVudFJlZ2lvbnMgIT0gbnVsbCkKICAgICAgICAgICAgICAgIC5TZWxlY3RNYW55KGNvbnRlbnRCbG9jayA9PiBjb250ZW50QmxvY2suQ29udGVudFJlZ2lvbnMuV2hlcmUoeCA9PiB4LkNvbnRlbnRCbG9ja3MgIT0gbnVsbCkpCiAgICAgICAgICAgICAgICAuRmlyc3RPckRlZmF1bHQocmVnaW9uID0+IHJlZ2lvbi5Db250ZW50QmxvY2tzLkZpcnN0T3JEZWZhdWx0KGIgPSBiLklkID09IGNvbnRlbnRCbG9ja0lkKSAhPSBudWxsKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZiAocGFnZUNvbnRlbnQgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChwYWdlQ29udGVudC5Db250ZW50QmxvY2tzLkZpcnN0T3JEZWZhdWx0KHggPT4geC5JZCA9PSBjb250ZW50QmxvY2tJZCkgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIHBhZ2VDb250ZW50OwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gcGFnZUNvbnRlbnQuQ29udGVudEJsb2NrcwogICAgICAgICAgICAgICAgLldoZXJlKHggPT4geC5Db250ZW50UmVnaW9ucyAhPSBudWxsKQogICAgICAgICAgICAgICAgLlNlbGVjdE1hbnkoY29udGVudEJsb2NrID0+IGNvbnRlbnRCbG9jay5Db250ZW50UmVnaW9ucy5XaGVyZSh4ID0+IHguQ29udGVudEJsb2NrcyAhPSBudWxsKSkKICAgICAgICAgICAgICAgIC5GaXJzdE9yRGVmYXVsdChyZWdpb24gPT4gcmVnaW9uLkNvbnRlbnRCbG9ja3MuRmlyc3RPckRlZmF1bHQoeCA9PiB4LklkID09IGNvbnRlbnRCbG9ja0lkKSAhPSBudWxsKTs=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnNhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnNhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGgK</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
