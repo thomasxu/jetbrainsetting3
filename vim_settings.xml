@@ -119,12 +119,7 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Pages/PageResponse.cs" timestamp="1559612294299">
         <mark key="[" line="16" column="28" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1559620489015">
-        <mark key="[" line="185" column="66" />
-        <mark key="]" line="185" column="64" />
-        <mark key="^" line="185" column="64" />
-        <mark key="." line="185" column="64" />
-      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1559623117359" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1559431725899">
         <mark key="[" line="848" column="0" />
         <mark key="]" line="848" column="50" />
@@ -185,11 +180,8 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Blog/BlogPostViewModel.cs" timestamp="1559525676970">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Pages/PageContentExtensions.cs" timestamp="1559557805887">
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="24" column="35" />
-        <mark key="^" line="24" column="35" />
-        <mark key="." line="24" column="35" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Pages/PageContentExtensions.cs" timestamp="1559620921369">
+        <mark key="[" line="35" column="13" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/BlogPosts/BlogPostUpsertRequest.cs" timestamp="1559612279807">
         <mark key="[" line="71" column="28" />
@@ -430,7 +422,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>pageContentById</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRQcm9wZXJ0aWVzXD4=</text>
@@ -442,10 +434,10 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBhZ2VDb250ZW50MSA9IEdldFBhZ2VDb250ZW50QnlJZChwYWdlQ29udGVudElkLCBhY3Rvci5TaG9wSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRoZW1lID0gX3RoZW1pbmdTZXJ2aWNlLkdldEluc3RhbGxlZFRoZW1lKGluc3RhbGxlZFRoZW1lSWQsIHNob3BJZCk7CiAgICAgICAgICAgIF90aGVtaW5nU2VydmljZS5HZXRCbG9ja1NldHRpbmdzKGluc3RhbGxlZFRoZW1lLlRoZW1lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlkID0gR3VpZC5OZXdHdWlkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBhZ2VDb250ZW50MSA9IEdldFBhZ2VDb250ZW50QnlJZChwYWdlQ29udGVudElkLCBhY3Rvci5TaG9wSWQpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
@@ -454,25 +446,25 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGlkID0gR3VpZC5OZXdHdWlkKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgSVNjaGVtYVZlcnNpb24gPSBTZWx6LkNvcmUuUmVwb3NpdG9yeS5FbnRpdGllcy5JU2NoZW1hVmVyc2lvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlkID0gR3VpZC5OZXdHdWlkKCk7Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgSUF1ZGl0YWJsZSA9IFNlbHouQ29yZS5SZXBvc2l0b3J5LkVudGl0aWVzLklBdWRpdGFibGU7Cg==</text>
+        <text encoding="base64">dXNpbmcgSVNjaGVtYVZlcnNpb24gPSBTZWx6LkNvcmUuUmVwb3NpdG9yeS5FbnRpdGllcy5JU2NoZW1hVmVyc2lvbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIElkIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">dXNpbmcgSUF1ZGl0YWJsZSA9IFNlbHouQ29yZS5SZXBvc2l0b3J5LkVudGl0aWVzLklBdWRpdGFibGU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgciA9IDA7IHIgPCBhcnJheS5MZW5ndGg7IHIrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGFycmF5ID0gYXJyYXlbcl07CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIElkIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IGNvbnRlbnRCbG9jay47IGkgPCBhcnJheS5MZW5ndGg7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGFycmF5ID0gYXJyYXlbaV07CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgciA9IDA7IHIgPCBhcnJheS5MZW5ndGg7IHIrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGFycmF5ID0gYXJyYXlbcl07CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoZW1lQmxvY2tTZXR0aW5nczE/Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IGNvbnRlbnRCbG9jay47IGkgPCBhcnJheS5MZW5ndGg7IGkrKykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGFycmF5ID0gYXJyYXlbaV07CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
