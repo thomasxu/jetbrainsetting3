@@ -24,12 +24,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1559784567900">
-        <mark key="'" line="452" column="16" />
-        <mark key="[" line="513" column="35" />
-        <mark key="]" line="513" column="35" />
-        <mark key="." line="513" column="35" />
-        <mark key="^" line="500" column="58" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1559786038099">
+        <mark key="'" line="464" column="39" />
+        <mark key="[" line="578" column="12" />
+        <mark key="]" line="578" column="15" />
+        <mark key="." line="578" column="15" />
+        <mark key="^" line="578" column="15" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ImagePathExtension.cs" timestamp="1559782128430">
         <mark key="[" line="6" column="8" />
@@ -55,7 +55,7 @@
         <mark key="." line="22" column="21" />
         <mark key="^" line="22" column="21" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Constants.cs" timestamp="1559781835192">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Constants.cs" timestamp="1559784943312">
         <mark key="[" line="943" column="0" />
         <mark key="]" line="943" column="0" />
         <mark key="." line="943" column="0" />
@@ -127,9 +127,13 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Helpers/Themes/ThemeSettingsHelper.cs" timestamp="1559742266623">
         <mark key="[" line="567" column="20" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/StringExtensions.cs" timestamp="1559786202722">
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="0" />
+        <mark key="." line="278" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="5" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/140125AF-6CC4-470B-B814-7A6C4240E775/41/fa4e668d/ISort.cs" />
       <jump line="340" column="9" filename="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Models/StopwordEnglish.cs" />
       <jump line="32" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Collections/SortOptions.cs" />
       <jump line="7" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Collections/SortOptions.cs" />
@@ -229,6 +233,7 @@
       <jump line="429" column="20" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
       <jump line="452" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
       <jump line="45" column="17" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6D1F99E0-907A-4DCA-8B46-63FA97C7C299/166/Page.cs" />
+      <jump line="464" column="39" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -285,10 +290,10 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Octokit.</text>
+        <text>StreamReader</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQb3B1bGF0ZUNvbnRlbnRcPg==</text>
+        <text encoding="base64">XDxDb3B5RmlsZVRvUzNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0cmluZyBJbWFnZUJ1Y2tldE5hbWUgPT4gX3MzT3B0aW9ucy5DdXJyZW50VmFsdWUuSW1hZ2VCdWNrZXROYW1lOwo=</text>
@@ -297,46 +302,46 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHluYW1pYyBwYWNrYWdlID0gSk9iamVjdC5QYXJzZSh0aGVtZS5QYWNrYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBtZW1vcnlTdHJlYW0gPSBuZXcgTWVtb3J5U3RyZWFtKCkpCiAgICAgICAgICAgIHVzaW5nICh2YXIgc3RyZWFtV3JpdGVyID0gbmV3IFN0cmVhbVdyaXRlcihtZW1vcnlTdHJlYW0pKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzdHJlYW1Xcml0ZXIuV3JpdGUoaW5wdXQpOwogICAgICAgICAgICAgICAgc3RyZWFtV3JpdGVyLkZsdXNoKCk7CgogICAgICAgICAgICAgICAgbWVtb3J5U3RyZWFtLlBvc2l0aW9uID0gMDsKICAgICAgICAgICAgICAgIG1lbW9yeVN0cmVhbS5TZWVrKDAsIFNlZWtPcmlnaW4uQmVnaW4pCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFN0cmVhbVJlYWRlcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoIChwYXRoLlRvTG93ZXJJbnZhcmlhbnQoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgY2FzZSBDb25zdGFudHMuVGhlbWUuRmlsZXMuQ2hhbmdlbG9nOgogICAgICAgICAgICAgICAgICAgIHRoZW1lLkNoYW5nZWxvZyA9ICFzdHJpbmcuSXNOdWxsT3JFbXB0eShjb250ZW50KSA/IGNvbnRlbnQgOiBudWxsOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzaW5nICh2YXIgc3RyZWFtUmVhZGVyID0gbmV3IFN0cmVhbVJlYWRlcihlbnRyeS5PcGVuKCkpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGVudHJ5LkZ1bGxOYW1lCiAgICAgICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VCdWNrZXQuU2F2ZUl0ZW0ocmVsYXRpdmVQYXRoLCBjb250ZW50LlRvU3RyZWFtKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGltYWdlQnVja2V0ID0gX2FtYXpvblMzLlVzaW5nKF9hbWF6b25TZXR0aW5ncy5JbWFnZUJ1Y2tldCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBhcnRoUmVnZXggPSBuZXcgUmVnZXgoJEAiXlteXC9dK1wve3RoZW1lLk5hbWV9XC8iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHluYW1pYyBwYWNrYWdlID0gSk9iamVjdC5QYXJzZSh0aGVtZS5QYWNrYWdlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQb3B1bGF0ZUNvbnRlbnRcPg==</last-search>
+      <last-search encoding="base64">XDxDb3B5RmlsZVRvUzNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQb3B1bGF0ZUNvbnRlbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDb3B5RmlsZVRvUzNcPg==</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute encoding="base64">XDxfdGhlbWluZ1NlcnZpY2VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -344,7 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mat-cell</entry>
         <entry>w</entry>
         <entry encoding="base64">XDxTaG9wUm9sZUVuZFBvaW50XD4=</entry>
         <entry encoding="base64">XDxfYW1hem9uU2V0dGluZ3NcPg==</entry>
@@ -364,6 +368,7 @@
         <entry encoding="base64">XDxVcGRhdGVGcm9tQXJjaGl2ZUVudHJpZXNcPg==</entry>
         <entry encoding="base64">XDxVcGRhdGVUaGVtZUZpbGVcPg==</entry>
         <entry encoding="base64">XDxQb3B1bGF0ZUNvbnRlbnRcPg==</entry>
+        <entry encoding="base64">XDxDb3B5RmlsZVRvUzNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
