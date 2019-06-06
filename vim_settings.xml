@@ -25,13 +25,13 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1559787387043">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1559788844696">
         <mark key="e" line="327" column="25" />
-        <mark key="'" line="484" column="50" />
+        <mark key="'" line="2556" column="26" />
         <mark key="[" line="2431" column="12" />
-        <mark key="]" line="484" column="23" />
-        <mark key="." line="484" column="23" />
-        <mark key="^" line="484" column="23" />
+        <mark key="]" line="2431" column="30" />
+        <mark key="." line="2431" column="30" />
+        <mark key="^" line="2431" column="30" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ImagePathExtension.cs" timestamp="1559782128430">
         <mark key="[" line="6" column="8" />
@@ -142,10 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="32" filename="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchOrderCommand.cs" />
-      <jump line="232" column="38" filename="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api.FunctionalTests/SearchScenarios.cs" />
-      <jump line="446" column="15" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CA55E692-DA2C-4C8A-912D-364A352AAD35/6a/59212572/String.cs" />
-      <jump line="100" column="20" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Domains/Products/Image.cs" />
       <jump line="19" column="30" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Blog/BlogService.cs" />
       <jump line="308" column="45" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" />
       <jump line="303" column="69" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" />
@@ -242,6 +238,10 @@
       <jump line="981" column="33" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
       <jump line="2011" column="19" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
       <jump line="484" column="50" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
+      <jump line="2431" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
+      <jump line="2450" column="36" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
+      <jump line="2536" column="42" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
+      <jump line="2556" column="26" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -301,7 +301,7 @@
         <text>Save</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJc0FsbG93ZWRBc3NldFw+</text>
+        <text encoding="base64">XDxQcm9jZXNzRmlsZUNvbnRlbnRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0cmluZyBJbWFnZUJ1Y2tldE5hbWUgPT4gX3MzT3B0aW9ucy5DdXJyZW50VmFsdWUuSW1hZ2VCdWNrZXROYW1lOwo=</text>
@@ -347,9 +347,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJc0FsbG93ZWRBc3NldFw+</last-search>
+      <last-search encoding="base64">XDxQcm9jZXNzRmlsZUNvbnRlbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJc0FsbG93ZWRBc3NldFw+</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9jZXNzRmlsZUNvbnRlbnRzXD4=</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute encoding="base64">XDxfdGhlbWluZ1NlcnZpY2VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -357,9 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXR0aW5nXD4=</entry>
-        <entry encoding="base64">XDx0aGVtZVw+</entry>
-        <entry encoding="base64">XDxSZW5kZXJQYXJ0aWFsVmlld1w+</entry>
         <entry encoding="base64">XDxfYmxvZ1NlcnZpY2VcPg==</entry>
         <entry>class'</entry>
         <entry encoding="base64">XDxTdGF0dXNDb2RlXD4=</entry>
@@ -377,6 +374,9 @@
         <entry encoding="base64">XDxCdWlsZEJ1bmRsZXNcPg==</entry>
         <entry encoding="base64">XDxJc0xpcXVpZFw+</entry>
         <entry encoding="base64">XDxJc0FsbG93ZWRBc3NldFw+</entry>
+        <entry encoding="base64">XDxpbnN0YWxsZWRUaGVtZVw+</entry>
+        <entry encoding="base64">XDxCdWlsZEZpbGVcPg==</entry>
+        <entry encoding="base64">XDxQcm9jZXNzRmlsZUNvbnRlbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
