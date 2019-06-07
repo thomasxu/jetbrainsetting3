@@ -22,12 +22,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1559888620159">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1559889661690">
         <mark key="'" line="990" column="12" />
-        <mark key="[" line="1104" column="26" />
-        <mark key="]" line="1104" column="26" />
-        <mark key="^" line="1104" column="31" />
-        <mark key="." line="1104" column="26" />
+        <mark key="[" line="675" column="72" />
+        <mark key="]" line="2853" column="8" />
+        <mark key="^" line="2853" column="8" />
+        <mark key="." line="2853" column="8" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/ServiceRegistry.cs" timestamp="1559700038214">
         <mark key="[" line="33" column="0" />
@@ -50,7 +50,7 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Themes/Theme.cs" timestamp="1559881673854" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Themes/Theme.cs" timestamp="1559889026205" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Constants.cs" timestamp="1559880276346">
         <mark key="]" line="57" column="45" />
         <mark key="." line="57" column="45" />
@@ -94,7 +94,7 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1559882006061">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1559888906289">
         <mark key="[" line="1848" column="24" />
         <mark key="]" line="633" column="34" />
         <mark key="^" line="633" column="34" />
@@ -333,7 +333,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>SaveIwtem</text>
+        <text>, tempBucket</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGVhblRoZW1lXD4=</text>
@@ -345,37 +345,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FtYXpvblMzLkNvcHlJdGVtKEltYWdlQnVja2V0TmFtZSwgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGltYWdlQnVja2V0ID0gX2FtYXpvblMzLlVzaW5nKF9hbWF6b25TZXR0aW5ncy5JbWFnZUJ1Y2tldCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGltYWdlQnVja2V0ID0gX2FtYXpvblMzLlVzaW5nKF9hbWF6b25TZXR0aW5ncy5JbWFnZUJ1Y2tldCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIENvcHkgZnJvbSBwcm9kdWN0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpbWFnZUJ1Y2tldFByb2R1Y3Rpb24gPSBfYW1hem9uUzMuVXNpbmcobmV3IEFtYXpvblMzQnVja2V0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTmFtZSA9IF9hbWF6b25TZXR0aW5ncy5JbWFnZUJ1Y2tldC5OYW1lLlJlcGxhY2UoIi10ZXN0IiwgIiIpLAogICAgICAgICAgICAgICAgICAgIEFjY2Vzc0tleUlkID0gX2FtYXpvblNldHRpbmdzLkltYWdlQnVja2V0LkFjY2Vzc0tleUlkLAogICAgICAgICAgICAgICAgICAgIEZ1bGxOYW1lID0gX2FtYXpvblNldHRpbmdzLkltYWdlQnVja2V0LkZ1bGxOYW1lLlJlcGxhY2UoIi10ZXN0IiwgIiIpLAogICAgICAgICAgICAgICAgICAgIFNlY3JldEFjY2Vzc0tleSA9IF9hbWF6b25TZXR0aW5ncy5JbWFnZUJ1Y2tldC5TZWNyZXRBY2Nlc3NLZXkKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIENvcHkgZnJvbSBwcm9kdWN0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbHRlckJ1aWxkZXIgPSBCdWlsZGVyczxQYWdlQ29udGVudD4uRmlsdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpbWFnZUJ1Y2tldFByb2R1Y3Rpb24gPSBfYW1hem9uUzMuVXNpbmcobmV3IEFtYXpvblMzQnVja2V0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgTmFtZSA9IF9hbWF6b25TZXR0aW5ncy5JbWFnZUJ1Y2tldC5OYW1lLlJlcGxhY2UoIi10ZXN0IiwgIiIpLAogICAgICAgICAgICAgICAgICAgIEFjY2Vzc0tleUlkID0gX2FtYXpvblNldHRpbmdzLkltYWdlQnVja2V0LkFjY2Vzc0tleUlkLAogICAgICAgICAgICAgICAgICAgIEZ1bGxOYW1lID0gX2FtYXpvblNldHRpbmdzLkltYWdlQnVja2V0LkZ1bGxOYW1lLlJlcGxhY2UoIi10ZXN0IiwgIiIpLAogICAgICAgICAgICAgICAgICAgIFNlY3JldEFjY2Vzc0tleSA9IF9hbWF6b25TZXR0aW5ncy5JbWFnZUJ1Y2tldC5TZWNyZXRBY2Nlc3NLZXkKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3BhZ2VDb250ZW50UmVwb3NpdG9yeS5SZW1vdmUoZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguU2hvcElkLCBhY3Rvci5TaG9wSWQpICYgZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguSXNQbGFjZWhvbGRlciwgdHJ1ZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbHRlckJ1aWxkZXIgPSBCdWlsZGVyczxQYWdlQ29udGVudD4uRmlsdGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3BhZ2VDb250ZW50UmVwb3NpdG9yeS5EZWxldGVFbnRpdHlBc3luYyh4ID0+IHguKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3BhZ2VDb250ZW50UmVwb3NpdG9yeS5SZW1vdmUoZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguU2hvcElkLCBhY3Rvci5TaG9wSWQpICYgZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguSXNQbGFjZWhvbGRlciwgdHJ1ZSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3BhZ2VDb250ZW50UmVwb3NpdG9yeS5EZWxldGVFbnRpdHlBc3luYyh4ID0+IHguKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
