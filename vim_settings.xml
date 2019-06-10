@@ -5,12 +5,12 @@
     <filemarks>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/LiquidCacheAttribute.cs" timestamp="1560132899047" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Downloads/DownloadService.cs" timestamp="1560157760441" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/JavaScriptHelper.cs" timestamp="1560164251012">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/JavaScriptHelper.cs" timestamp="1560164313977">
         <mark key="'" line="21" column="40" />
         <mark key="[" line="22" column="40" />
-        <mark key="]" line="22" column="38" />
-        <mark key="." line="22" column="38" />
-        <mark key="^" line="22" column="38" />
+        <mark key="]" line="31" column="53" />
+        <mark key="." line="31" column="53" />
+        <mark key="^" line="31" column="53" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Categories/CategoryExtensions.cs" timestamp="1560137041127" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/AppRegistryHelper.cs" timestamp="1560136370356" />
@@ -20,7 +20,15 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/PageContentListDrop.cs" timestamp="1560135567598" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockColumn.cs" timestamp="1560127271531" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1560125273128" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Assets/BundleHelper.cs" timestamp="1560165155098">
+        <mark key="'" line="132" column="31" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1560132563599" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/Bundles.cs" timestamp="1560164467364">
+        <mark key="[" line="143" column="27" />
+        <mark key="]" line="143" column="27" />
+        <mark key="." line="143" column="27" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Products/ProductService.cs" timestamp="1560136394810" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1560156348585">
         <mark key="'" line="633" column="56" />
@@ -47,7 +55,6 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1560154691830" />
     </filemarks>
     <jumps>
-      <jump line="43" column="144" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Ajax/Models/ProductListModel.cs" />
       <jump line="163" column="36" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_AbandonedCart/Services/AbandonedCartService.cs" />
       <jump line="318" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_AbandonedCart/Services/AbandonedCartService.cs" />
       <jump line="187" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_OrderInvoice/Controllers/OrderInvoiceController.cs" />
@@ -147,6 +154,7 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="633" column="56" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" />
       <jump line="21" column="40" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/JavaScriptHelper.cs" />
+      <jump line="132" column="31" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Assets/BundleHelper.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -203,7 +211,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGVhblRoZW1lXD4=</text>
