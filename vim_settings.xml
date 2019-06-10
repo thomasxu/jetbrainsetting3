@@ -5,6 +5,13 @@
     <filemarks>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/LiquidCacheAttribute.cs" timestamp="1560132899047" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Downloads/DownloadService.cs" timestamp="1560157760441" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/JavaScriptHelper.cs" timestamp="1560164251012">
+        <mark key="'" line="21" column="40" />
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Categories/CategoryExtensions.cs" timestamp="1560137041127" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/AppRegistryHelper.cs" timestamp="1560136370356" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Caching/S3CacheLiquid.cs" timestamp="1560125202724" />
@@ -40,7 +47,6 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1560154691830" />
     </filemarks>
     <jumps>
-      <jump line="44" column="53" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Models/UserBasicViewModel.cs" />
       <jump line="43" column="144" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Ajax/Models/ProductListModel.cs" />
       <jump line="163" column="36" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_AbandonedCart/Services/AbandonedCartService.cs" />
       <jump line="318" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_AbandonedCart/Services/AbandonedCartService.cs" />
@@ -140,6 +146,7 @@
       <jump line="2743" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="633" column="56" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" />
+      <jump line="21" column="40" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/JavaScriptHelper.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -196,7 +203,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>, tempBucket</text>
+        <text>G</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGVhblRoZW1lXD4=</text>
