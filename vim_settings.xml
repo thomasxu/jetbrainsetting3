@@ -43,11 +43,12 @@
         <mark key="]" line="112" column="8" />
         <mark key="." line="112" column="8" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemingController.cs" timestamp="1560248357633">
-        <mark key="[" line="53" column="32" />
-        <mark key="]" line="53" column="32" />
-        <mark key="." line="53" column="32" />
-        <mark key="^" line="53" column="7" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemingController.cs" timestamp="1560249427128">
+        <mark key="'" line="70" column="136" />
+        <mark key="[" line="85" column="33" />
+        <mark key="]" line="85" column="15" />
+        <mark key="." line="85" column="15" />
+        <mark key="^" line="85" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1560248163096">
         <mark key="[" line="0" column="0" />
@@ -59,11 +60,11 @@
         <mark key="^" line="1074" column="40" />
         <mark key="." line="2502" column="86" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/InstalledThemeResponse.cs" timestamp="1560248230370">
-        <mark key="[" line="63" column="31" />
-        <mark key="]" line="63" column="45" />
-        <mark key="^" line="63" column="45" />
-        <mark key="." line="63" column="45" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/InstalledThemeResponse.cs" timestamp="1560248877125">
+        <mark key="[" line="46" column="15" />
+        <mark key="]" line="46" column="44" />
+        <mark key="^" line="46" column="44" />
+        <mark key="." line="46" column="44" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1560228773400">
         <mark key="[" line="271" column="34" />
@@ -98,7 +99,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="76" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Controllers/ProductsController.cs" />
       <jump line="48" column="21" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Models/CartModel.cs" />
       <jump line="50" column="21" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Models/CartProductModel.cs" />
       <jump line="41" column="52" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Models/EmbedsModel.cs" />
@@ -198,6 +198,7 @@
       <jump line="649" column="16" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/GenericHtmlHelper.cs" />
       <jump line="949" column="16" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
       <jump line="97" column="40" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
+      <jump line="70" column="136" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemingController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -254,49 +255,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>/{id}</text>
+        <text encoding="base64">PT4gR2V0VmVyc2lvbihQYWNrYWdlKTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfczNDYWNoZUxpcXVpZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbSHR0cEdldCgiaW5zdGFsbGVkdGhlbWUve2lkfSIpXQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPEFjdGlvblJlc3VsdDxCbG9nUG9zdFJlc3BvbnNlPj4gR2V0QnlTbHVnQXN5bmMoT2JqZWN0SWQgaWQsIGJvb2wgY2hlY2tBcHBJbnN0YWxsZWQgPSB0cnVlLCBib29sIGxvYWRUaGVtZSA9IHRydWUpCiAgICAgICAgewogICAgICAgICAgICB2YXIgaW5zdGFsbGVkVGhlbWUgPSBhd2FpdCBfdGhlbWluZ1NlcnZpY2UuR2V0SW5zdGFsbGVkVGhlbWUoaWQsIFNob3BJZCwgbG9hZFRoZW1lLCBjaGVja0FwcEluc3RhbGxlZCkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwogICAgICAgICAgICBpZiAoaW5zdGFsbGVkVGhlbWUgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIE5vdEZvdW5kKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciByZXNwb25zZSA9IEluc3RhbGxlZFRoZW1lUmVzcG9uc2UuTWFwKGluc3RhbGxlZFRoZW1lKTsKCiAgICAgICAgICAgIHJldHVybiBPayhyZXNwb25zZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBUaGVtZVZlcnNpb24KICAgIHsKICAgICAgICBwdWJsaWMgT2JqZWN0SWQgSWQgeyBnZXQ7IHNldDsgfQoKICAgICAgICBwdWJsaWMgc3RyaW5nIFBhY2thZ2UgeyBnZXQ7IHNldDsgfQoKICAgICAgICBwdWJsaWMgU2VtVmVyc2lvbiBWZXJzaW9uID0+IEdldFZlcnNpb24oUGFja2FnZSk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gQmxvZ1Bvc3RSZXNwb25zZS5NYXAoYmxvZ1Bvc3RzKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgY2xhc3MgSW5zdGFsbGVkVGhlbWVTZXR0aW5nCiAgICB7CiAgICAgICAgcHVibGljIERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+IFZhbHVlcyB7IGdldDsgc2V0OyB9CiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gQmxvZ1Bvc3RSZXNwb25zZS5NYXAoYmxvZ1Bvc3RzKTsK</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIGNsYXNzIFRoZW1lU3VwcG9ydGVkRmVhdHVyZXMKICAgICAgICB7CiAgICAgICAgICAgIHB1YmxpYyBib29sIEJsb2NrcyB7IGdldDsgc2V0OyB9CiAgICAgICAgICAgIHB1YmxpYyBib29sIFBhZ2VzIHsgZ2V0OyBzZXQ7IH0KICAgICAgICAgICAgcHVibGljIGJvb2wgTG9jYWxpemF0aW9uIHsgZ2V0OyBzZXQ7IH0KICAgICAgICAgICAgcHVibGljIGJvb2wgU3F1YXJlSW1hZ2VzIHsgZ2V0OyBzZXQ7IH0KICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgY2xhc3MgSW5zdGFsbGVkVGhlbWVTZXR0aW5nCiAgICB7CiAgICAgICAgcHVibGljIERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+IFZhbHVlcyB7IGdldDsgc2V0OyB9CiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0ID0+IFRoZW1lVmVyc2lvbi5HZXRWZXJzaW9uKFBhY2thZ2UsIExlZ2FjeVZlcnNpb24pOwogICAgICAgICAgICBzZXQgPT4gTGVnYWN5VmVyc2lvbiA9IHZhbHVlOwo=</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIGNsYXNzIFRoZW1lU3VwcG9ydGVkRmVhdHVyZXMKICAgICAgICB7CiAgICAgICAgICAgIHB1YmxpYyBib29sIEJsb2NrcyB7IGdldDsgc2V0OyB9CiAgICAgICAgICAgIHB1YmxpYyBib29sIFBhZ2VzIHsgZ2V0OyBzZXQ7IH0KICAgICAgICAgICAgcHVibGljIGJvb2wgTG9jYWxpemF0aW9uIHsgZ2V0OyBzZXQ7IH0KICAgICAgICAgICAgcHVibGljIGJvb2wgU3F1YXJlSW1hZ2VzIHsgZ2V0OyBzZXQ7IH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0ID0+IFRoZW1lVmVyc2lvbi5HZXRWZXJzaW9uKFBhY2thZ2UsIExlZ2FjeVZlcnNpb24pOwogICAgICAgICAgICBzZXQgPT4gTGVnYWN5VmVyc2lvbiA9IHZhbHVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBSZWZlcmVuY2UgdG8gbGVnYWN5IHZlcnNpb24gcHJvcGVydHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFNlbVZlcnNpb24gTGVnYWN5VmVyc2lvbiB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZWZlcmVuY2UgdG8gbGVnYWN5IHZlcnNpb24gcHJvcGVydHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFNlbVZlcnNpb24gTGVnYWN5VmVyc2lvbiB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExlZ2FjeVZlcnNpb24gPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
