@@ -3,14 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/Theme.cs" timestamp="1560167940069">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/Theme.cs" timestamp="1560222585962">
         <mark key="[" line="490" column="12" />
         <mark key="]" line="490" column="11" />
         <mark key="." line="490" column="11" />
         <mark key="^" line="490" column="11" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Results/JsonDataResult.cs" timestamp="1559978524047">
-        <mark key="'" line="48" column="15" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Downloads/DownloadService.cs" timestamp="1560216276353" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Themes/InstalledTheme.cs" timestamp="1560209151266" />
@@ -30,18 +27,10 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1560032695877">
-        <mark key="'" line="0" column="0" />
-      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/InstalledThemeViewModel.cs" timestamp="1560223394250" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1560221623739" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/836484B0-267D-488C-8D30-F28B57EFEBD9/63/Extensions.cs" timestamp="1559979432848">
-        <mark key="'" line="79" column="27" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/PageContentListDrop.cs" timestamp="1560221126581" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1560214030436" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Assets/BundleHelper.cs" timestamp="1560165155098">
-        <mark key="'" line="132" column="31" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1560221460474" />
       <file name="/Dummy.txt" timestamp="1560221977150">
         <mark key="[" line="0" column="0" />
@@ -56,13 +45,12 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeSettingsHelper.cs" timestamp="1560156086917">
         <mark key="[" line="57" column="63" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1559990988904">
-        <mark key="[" line="271" column="34" />
-        <mark key="]" line="271" column="33" />
-        <mark key="^" line="271" column="33" />
-        <mark key="." line="271" column="33" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560223570059">
+        <mark key="[" line="151" column="59" />
+        <mark key="]" line="151" column="150" />
+        <mark key="^" line="144" column="47" />
+        <mark key="." line="144" column="47" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560210045910" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1560219978831">
         <mark key="'" line="949" column="16" />
         <mark key="[" line="949" column="55" />
@@ -76,15 +64,8 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Constants.cs" timestamp="1560168305176">
-        <mark key="[" line="932" column="51" />
-        <mark key="]" line="932" column="56" />
-        <mark key="^" line="999" column="15" />
-        <mark key="." line="999" column="15" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Assets/BundleBase.cs" timestamp="1560165808916">
-        <mark key="'" line="57" column="18" />
-      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/InstalledTheme.cs" timestamp="1560222433931" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Repositories/CustomSerializers/CustomStringIntSerializer.cs" timestamp="1560222459774" />
     </filemarks>
     <jumps>
       <jump line="209" column="43" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Controllers/CartController.cs" />
@@ -248,8 +229,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxDbGVhblRoZW1lXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIEdldFVzZXJDdWx0dXJlKGludCBzaG9wSWQpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">X3RoZW1pbmdTZXJ2aWNlLkdldFRoZW1lc0xhdGVzdFZlcnNpb25zKG5ldyBMaXN0PE9iamVjdElkPiB7IGN1cnJlbnRUaGVtZS5UaGVtZS5JZCB9KSA6IG51bGw=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
