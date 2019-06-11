@@ -20,6 +20,12 @@
         <mark key="^" line="55" column="37" />
         <mark key="." line="55" column="37" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Themes/ThemeResponse.cs" timestamp="1560240573561">
+        <mark key="[" line="138" column="18" />
+        <mark key="]" line="131" column="12" />
+        <mark key="." line="131" column="12" />
+        <mark key="^" line="131" column="12" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1560216332647" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/ShopService.cs" timestamp="1560210657636">
         <mark key="[" line="45" column="0" />
@@ -28,10 +34,6 @@
         <mark key="^" line="49" column="29" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" timestamp="1560225643645" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1560224996517">
-        <mark key="[" line="265" column="42" />
-        <mark key="]" line="265" column="89" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1560227146080" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1560228586279">
         <mark key="'" line="633" column="56" />
@@ -253,7 +255,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">W0Jzb25JZ25vcmVJZkRlZmF1bHRdIA==</text>
+        <text>theme</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfczNDYWNoZUxpcXVpZFw+</text>
@@ -264,10 +266,34 @@
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="r" type="4">
+        <text>Repository</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHB1YmxpYyBPYmplY3RJZCBQYWdlSWQgeyBnZXQ7IHNldDsgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUGFnZSwgQ2F0ZWdvcnkK</text>
+      </register>
+      <register name="t" type="4">
+        <text>TradePackag</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWFwKCkK</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">IHB1YmxpYyBJbnN0YWxsZWRUaGVtZVJlc3BvbnNlKCkKICAgICAgICB7CiAgICAgICAgICAgIFNldHRpbmdzID0gbmV3IEluc3RhbGxlZFRoZW1lU2V0dGluZygpOwogICAgICAgIH0=</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>public class ThemeDirectories
         {
             public const string Base = &quot;themes&quot;;
@@ -281,33 +307,8 @@
             public const string Locales = &quot;locales&quot;;
         }</text>
       </register>
-      <register name="r" type="4">
-        <text>Repository</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXphYmxlXQo=</text>
-      </register>
-      <register name="t" type="4">
-        <text>TradePackag</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXphYmxlXQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>[Serializable]
-        [BsonIgnoreExtraElements]</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXphYmxlXQogICAgICAgIFtCc29uSWdub3JlRXh0cmFFbGVtZW50c10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
