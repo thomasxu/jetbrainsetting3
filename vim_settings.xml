@@ -9,6 +9,7 @@
         <mark key="." line="490" column="11" />
         <mark key="^" line="490" column="11" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/LiquidCacheAttribute.cs" timestamp="1560224700271" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Downloads/DownloadService.cs" timestamp="1560216276353" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Themes/InstalledTheme.cs" timestamp="1560209151266" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1560213321832">
@@ -28,14 +29,18 @@
         <mark key="^" line="49" column="29" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/InstalledThemeViewModel.cs" timestamp="1560223394250" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" timestamp="1560225643645" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1560221623739" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/PageContentListDrop.cs" timestamp="1560221126581" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1560214030436" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1560224996517">
+        <mark key="[" line="265" column="42" />
+        <mark key="]" line="265" column="89" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1560221460474" />
       <file name="/Dummy.txt" timestamp="1560221977150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1560215887502">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1560226476862">
         <mark key="'" line="633" column="56" />
         <mark key="[" line="1074" column="40" />
         <mark key="]" line="1074" column="40" />
@@ -51,10 +56,10 @@
         <mark key="^" line="144" column="47" />
         <mark key="." line="144" column="47" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1560219978831">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1560226201940">
         <mark key="'" line="949" column="16" />
-        <mark key="[" line="949" column="55" />
-        <mark key="]" line="949" column="54" />
+        <mark key="[" line="594" column="29" />
+        <mark key="]" line="594" column="106" />
         <mark key="." line="949" column="54" />
         <mark key="^" line="949" column="54" />
       </file>
@@ -230,7 +235,7 @@
         <text encoding="base64">XDxDbGVhblRoZW1lXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">X3RoZW1pbmdTZXJ2aWNlLkdldFRoZW1lc0xhdGVzdFZlcnNpb25zKG5ldyBMaXN0PE9iamVjdElkPiB7IGN1cnJlbnRUaGVtZS5UaGVtZS5JZCB9KSA6IG51bGw=</text>
+        <text>_categoryService.GetAll(userId, true, true, true, products: publishedProducts)</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
