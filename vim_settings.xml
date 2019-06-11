@@ -28,27 +28,35 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="29" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/InstalledThemeViewModel.cs" timestamp="1560223394250" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Caching/S3CacheLiquid.cs" timestamp="1560226615338" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/InstalledThemeViewModel.cs" timestamp="1560229278603" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" timestamp="1560225643645" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1560221623739" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/PageContentListDrop.cs" timestamp="1560221126581" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1560228481782" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/PageContentListDrop.cs" timestamp="1560226923360" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1560224996517">
         <mark key="[" line="265" column="42" />
         <mark key="]" line="265" column="89" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1560221460474" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1560227146080" />
       <file name="/Dummy.txt" timestamp="1560221977150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1560226476862">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1560228586279">
         <mark key="'" line="633" column="56" />
         <mark key="[" line="1074" column="40" />
         <mark key="]" line="1074" column="40" />
         <mark key="^" line="1074" column="40" />
         <mark key="." line="2502" column="86" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/ThemeStyleViewModel.cs" timestamp="1560229329382" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeSettingsHelper.cs" timestamp="1560156086917">
         <mark key="[" line="57" column="63" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1560228773400">
+        <mark key="[" line="271" column="34" />
+        <mark key="]" line="271" column="33" />
+        <mark key="^" line="271" column="33" />
+        <mark key="." line="271" column="33" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560223570059">
         <mark key="[" line="151" column="59" />
@@ -56,8 +64,8 @@
         <mark key="^" line="144" column="47" />
         <mark key="." line="144" column="47" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1560226201940">
-        <mark key="'" line="949" column="16" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1560226575704">
+        <mark key="'" line="97" column="40" />
         <mark key="[" line="594" column="29" />
         <mark key="]" line="594" column="106" />
         <mark key="." line="949" column="54" />
@@ -70,10 +78,10 @@
         <mark key="^" line="13" column="7" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/InstalledTheme.cs" timestamp="1560222433931" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/JsonExtensions.cs" timestamp="1560228359215" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Repositories/CustomSerializers/CustomStringIntSerializer.cs" timestamp="1560222459774" />
     </filemarks>
     <jumps>
-      <jump line="209" column="43" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Controllers/CartController.cs" />
       <jump line="214" column="76" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Controllers/ProductsController.cs" />
       <jump line="48" column="21" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Models/CartModel.cs" />
       <jump line="50" column="21" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Models/CartProductModel.cs" />
@@ -173,6 +181,7 @@
       <jump line="947" column="70" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
       <jump line="649" column="16" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/GenericHtmlHelper.cs" />
       <jump line="949" column="16" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
+      <jump line="97" column="40" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -232,7 +241,7 @@
         <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDbGVhblRoZW1lXD4=</text>
+        <text encoding="base64">XDxfczNDYWNoZUxpcXVpZFw+</text>
       </register>
       <register name="0" type="4">
         <text>_categoryService.GetAll(userId, true, true, true, products: publishedProducts)</text>
@@ -278,9 +287,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDbGVhblRoZW1lXD4=</last-search>
+      <last-search encoding="base64">XDxfczNDYWNoZUxpcXVpZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDbGVhblRoZW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfczNDYWNoZUxpcXVpZFw+</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute encoding="base64">XDxfdGhlbWluZ1NlcnZpY2VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -288,7 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZXRQcm9wZXJ0aWVzXD4=</entry>
         <entry encoding="base64">XDxfdGhlbWluZ1NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxBZGRGaWxlVG9aaXBBcmNoaXZlXD4=</entry>
         <entry encoding="base64">XDxJc01lZGlhT3JGb250XD4=</entry>
@@ -308,6 +316,7 @@
         <entry encoding="base64">XDxTYXZlSW5zdGFsbGVkVGhlbWVcPg==</entry>
         <entry encoding="base64">XDxTaG9wSWRcPg==</entry>
         <entry encoding="base64">XDxDbGVhblRoZW1lXD4=</entry>
+        <entry encoding="base64">XDxfczNDYWNoZUxpcXVpZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
