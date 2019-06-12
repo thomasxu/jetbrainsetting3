@@ -63,10 +63,6 @@
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/appsettings.Local.json" timestamp="1560302408163">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="75" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/ContentRegionViewModel.cs" timestamp="1560294804193" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Pages/PageFaker.cs" timestamp="1560301270518" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1560228773400">
@@ -102,13 +98,14 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1560299127510" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AAE6CB84-9AFD-45E3-BC66-4D9A2ACD3AB5/07/7d6dc8c5/MvcCoreServiceCollectionExtensions.cs" timestamp="1560302713327" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/appsettings.TeamCity.json" timestamp="1560293212691" />
-      <file name="/Dummy.txt" timestamp="1560306587776">
+      <file name="/Dummy.txt" timestamp="1560307800325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1560302867346">
         <mark key="[" line="19" column="74" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9609768F-F0B2-451F-89D5-3E2DCB9005B1/f5/3be08f68/HealthCheckServiceCollectionExtensions.cs" timestamp="1560305339272" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Repositories/SchemaVersionAttribute.cs" timestamp="1560308069883" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/ProductScenarios.cs" timestamp="1560304481512">
         <mark key="[" line="15" column="55" />
         <mark key="]" line="15" column="82" />
@@ -132,11 +129,12 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/HealthChecksBuilderExtensions.cs" timestamp="1560305924752" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/ContentBlockEditModel.cs" timestamp="1560295008811" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1560300711774" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1560306643396">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="114" column="11" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Pages/PageContent.cs" timestamp="1560307769878" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1560307416710">
+        <mark key="[" line="123" column="12" />
+        <mark key="]" line="123" column="12" />
+        <mark key="." line="123" column="12" />
+        <mark key="^" line="123" column="12" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/PageContents/PageContentService.cs" timestamp="1560294463195" />
     </filemarks>
@@ -297,7 +295,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRQdWJsaXNoZWRJbnN0YWxsZWRUaGVtZVw+</text>
@@ -309,19 +307,19 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLlNsZWVwKDUwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJsb2dQb3N0UmVwb3NpdG9yeSA9IF9zZXJ2aWNlUHJvdmlkZXIuR2V0U2VydmljZTxJUmVwb3NpdG9yeTxCbG9nUG9zdEVudGl0eT4+KCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLlNsZWVwKDUwMDApOwo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
@@ -330,16 +328,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8vLyA8c3VtbWFyeT4KICAgICAgICAvLy8gUmV0cmlldmUgY29ubmVjdGlvbiBzdHJpbmcgZnJvbSBzZWNyZXQgbWFuYWdlcgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxyZXR1cm5zPjwvcmV0dXJucz4KICAgICAgICBwcml2YXRlIHN0cmluZyBHZXRDb25uZWN0aW9uU3RyaW5nKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBvcHRpb25zID0gX2NvbmZpZ3VyYXRpb24uR2V0QVdTT3B0aW9ucygpOwoKICAgICAgICAgICAgdXNpbmcgKHZhciBjbGllbnQgPSBvcHRpb25zLkNyZWF0ZVNlcnZpY2VDbGllbnQ8SUFtYXpvblNlY3JldHNNYW5hZ2VyPigpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgc2VjcmV0SWQgPSBfY29uZmlndXJhdGlvbi5HZXRWYWx1ZSgiU2VjcmV0c01hbmFnZXI6QXJuIiwgZGVmYXVsdFZhbHVlOiAiIik7CiAgICAgICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBjbGllbnQuR2V0U2VjcmV0VmFsdWVBc3luYyhuZXcgR2V0U2VjcmV0VmFsdWVSZXF1ZXN0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgU2VjcmV0SWQgPSBzZWNyZXRJZAogICAgICAgICAgICAgICAgfSkuUmVzdWx0OwoKICAgICAgICAgICAgICAgIHZhciBjb25uZWN0aW9uQ29uZmlnID0gSnNvbkNvbnZlcnQuRGVzZXJpYWxpemVPYmplY3Q8Q29ubmVjdGlvblN0cmluZ0NvbmZpZz4ocmVzcG9uc2UuU2VjcmV0U3RyaW5nKTsKICAgICAgICAgICAgICAgIHJldHVybiBjb25uZWN0aW9uQ29uZmlnLkNvbm5lY3Rpb25TdHJpbmc7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9IkFXU1NESy5TMyIgVmVyc2lvbj0iMy4zLjEwMi4xMCIgLz4K</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IC8vLyA8c3VtbWFyeT4KICAgICAgICAvLy8gUmV0cmlldmUgY29ubmVjdGlvbiBzdHJpbmcgZnJvbSBzZWNyZXQgbWFuYWdlcgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxyZXR1cm5zPjwvcmV0dXJucz4KICAgICAgICBwcml2YXRlIHN0cmluZyBHZXRDb25uZWN0aW9uU3RyaW5nKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBvcHRpb25zID0gX2NvbmZpZ3VyYXRpb24uR2V0QVdTT3B0aW9ucygpOwoKICAgICAgICAgICAgdXNpbmcgKHZhciBjbGllbnQgPSBvcHRpb25zLkNyZWF0ZVNlcnZpY2VDbGllbnQ8SUFtYXpvblNlY3JldHNNYW5hZ2VyPigpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgc2VjcmV0SWQgPSBfY29uZmlndXJhdGlvbi5HZXRWYWx1ZSgiU2VjcmV0c01hbmFnZXI6QXJuIiwgZGVmYXVsdFZhbHVlOiAiIik7CiAgICAgICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBjbGllbnQuR2V0U2VjcmV0VmFsdWVBc3luYyhuZXcgR2V0U2VjcmV0VmFsdWVSZXF1ZXN0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgU2VjcmV0SWQgPSBzZWNyZXRJZAogICAgICAgICAgICAgICAgfSkuUmVzdWx0OwoKICAgICAgICAgICAgICAgIHZhciBjb25uZWN0aW9uQ29uZmlnID0gSnNvbkNvbnZlcnQuRGVzZXJpYWxpemVPYmplY3Q8Q29ubmVjdGlvblN0cmluZ0NvbmZpZz4ocmVzcG9uc2UuU2VjcmV0U3RyaW5nKTsKICAgICAgICAgICAgICAgIHJldHVybiBjb25uZWN0aW9uQ29uZmlnLkNvbm5lY3Rpb25TdHJpbmc7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
