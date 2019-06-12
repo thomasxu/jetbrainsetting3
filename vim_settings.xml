@@ -16,7 +16,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostServiceTest.cs" timestamp="1560297381673" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPost/BlogPostScenarios.cs" timestamp="1560299210502">
+        <mark key="[" line="14" column="53" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1560299127510" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostServiceTest.cs" timestamp="1560298595024" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Themes/Theme.cs" timestamp="1560234563264">
         <mark key="[" line="112" column="8" />
         <mark key="]" line="112" column="8" />
@@ -24,6 +28,7 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8D65F6DA-4C4C-4F23-8883-943C0E1ED9FF/80/215da98b/ServiceCollectionExtensions.cs" timestamp="1560293018374" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/appsettings.TeamCity.json" timestamp="1560293212691" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99B8FF60-AA74-44F9-AC38-0FE8F9FF3635/85/b8014340/ServiceCollectionExtensions.cs" timestamp="1560298964250" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemingController.cs" timestamp="1560294441745">
         <mark key="'" line="127" column="8" />
         <mark key="[" line="108" column="0" />
@@ -35,21 +40,23 @@
       <file name="/Dummy.txt" timestamp="1560297251062">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1560299089082" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Selz.Shops.Core.csproj" timestamp="1560297505734">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/appsettings.Local.json" timestamp="1560293223554" />
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/ProductScenarios.cs" timestamp="1560290686392">
-        <mark key="[" line="25" column="94" />
-        <mark key="]" line="34" column="0" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/ProductScenarios.cs" timestamp="1560299181909">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="82" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/ContentRegionViewModel.cs" timestamp="1560294804193" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Pages/PageContent.cs" timestamp="1560294826301" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560295137833">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1560298683465" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560299294947">
         <mark key="[" line="151" column="59" />
         <mark key="]" line="151" column="150" />
         <mark key="^" line="144" column="47" />
@@ -58,7 +65,7 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1560297247084">
         <mark key="^" line="53" column="54" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Startup.cs" timestamp="1560293150022">
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Startup.cs" timestamp="1560299110310">
         <mark key="]" line="42" column="0" />
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -229,8 +236,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRQdWJsaXNoZWRJbnN0YWxsZWRUaGVtZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxBY3Rpb25SZXN1bHQ8SW5zdGFsbGVkVGhlbWVSZXNwb25zZT4+IEdldEluc3RhbGxlZFRoZW1lKE9iamVjdElkIGlkLCBib29sIGNoZWNrQXBwSW5zdGFsbGVkID0gdHJ1ZSwgYm9vbCBsb2FkVGhlbWUgPSB0cnVlKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGluc3RhbGxlZFRoZW1lID0gYXdhaXQgX3RoZW1pbmdTZXJ2aWNlLkdldEluc3RhbGxlZFRoZW1lKGlkLCBTaG9wSWQsIGxvYWRUaGVtZSwgY2hlY2tBcHBJbnN0YWxsZWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKICAgICAgICAgICAgaWYgKGluc3RhbGxlZFRoZW1lID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBOb3RGb3VuZCgpOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBJbnN0YWxsZWRUaGVtZVJlc3BvbnNlLk1hcChpbnN0YWxsZWRUaGVtZSk7CgogICAgICAgICAgICByZXR1cm4gT2socmVzcG9uc2UpOwogICAgICAgIH0KCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">LCBJQ2xhc3NGaXh0dXJlPERhdGFGaXh0dXJlPg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
