@@ -3,8 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IShopsApi.cs" timestamp="1560388132719" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/PageContents/ContentBlockEditModel.cs" timestamp="1560402851152" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPost/BlogPostDataFactory.cs" timestamp="1560387474362">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -13,37 +11,34 @@
       <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client.Demo/CompositionRoot.cs" timestamp="1560391502714" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Blog/BlogPostSummary.cs" timestamp="1560387057635" />
       <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client.Demo/Program.cs" timestamp="1560388608279" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Selz.Shops.Api.csproj" timestamp="1560390749341" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPost/BlogPostScenarios.cs" timestamp="1560380464611">
         <mark key="[" line="14" column="53" />
         <mark key="]" line="21" column="25" />
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="25" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Pages/PageContentExtensions.cs" timestamp="1560401012513" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Pages/ContentBlock.cs" timestamp="1560403822049">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="16" />
+        <mark key="." line="33" column="16" />
+        <mark key="^" line="33" column="16" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostServiceTest.cs" timestamp="1560380350525">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/PageContents/ContentBlockViewModel.cs" timestamp="1560393211274" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Selz.Shops.Api.FunctionalTests.csproj" timestamp="1560388765679" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/PageEditModel.cs" timestamp="1560393948507" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" timestamp="1560381759401">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="15" column="8" />
         <mark key="." line="15" column="8" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PageContentsController.cs" timestamp="1560403074110">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PageContentsController.cs" timestamp="1560403631674">
         <mark key="[" line="28" column="61" />
         <mark key="]" line="28" column="61" />
         <mark key="." line="28" column="61" />
         <mark key="^" line="33" column="43" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/xunit.runner.json" timestamp="1560381317959">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ShopScenarioBase.cs" timestamp="1560379855429">
         <mark key="[" line="6" column="33" />
@@ -51,16 +46,36 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560394702606">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1560402247240" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domain1/OnboardingAnswers.cs" timestamp="1560386178859">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="32" />
         <mark key="." line="4" column="32" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/ContentRegionViewModel.cs" timestamp="1560393756587" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560403737439" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1560403620421" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1560391031745">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="51" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IShopsApi.cs" timestamp="1560388132719" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/PageContents/ContentBlockEditModel.cs" timestamp="1560402851152" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Selz.Shops.Api.csproj" timestamp="1560390749341" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Pages/PageContentExtensions.cs" timestamp="1560401012513" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Selz.Shops.Api.FunctionalTests.csproj" timestamp="1560388765679" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/PageEditModel.cs" timestamp="1560393948507" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/xunit.runner.json" timestamp="1560381317959">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560394702606">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/ShopScenarios.cs" timestamp="1560381766627">
         <mark key="[" line="12" column="48" />
@@ -69,23 +84,14 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Blog/BlogPost.cs" timestamp="1560387051512" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/ContentRegionViewModel.cs" timestamp="1560393756587" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/PageContents/ContentRegionViewModel.cs" timestamp="1560392628532">
         <mark key="[" line="39" column="5" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/Selz.Shops.Contracts.csproj" timestamp="1560388063450" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560403082693" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.IZettle.json" timestamp="1560390596063" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1560402929572" />
       <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client.Demo/DataFactory.cs" timestamp="1560388099102" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1560391031745">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="51" />
-        <mark key="^" line="14" column="41" />
-        <mark key="." line="14" column="41" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/ContentBlockEditModel.cs" timestamp="1560402784765" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/JsonExtensions.cs" timestamp="1560400424922" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/PageContents/PageContentService.cs" timestamp="1560393535770">
@@ -256,7 +262,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGJvb2wgaXNQbGFjZUhvbGRlcg==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRQdWJsaXNoZWRJbnN0YWxsZWRUaGVtZVw+</text>
