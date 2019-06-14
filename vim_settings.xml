@@ -26,11 +26,22 @@
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="25" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Converters/EnumStringConverter.cs" timestamp="1560491367351">
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/SelzApiController.cs" timestamp="1560419593993">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/ObjectExtensions.cs" timestamp="1560491778424">
+        <mark key="[" line="71" column="40" />
+        <mark key="]" line="73" column="53" />
+        <mark key="." line="73" column="53" />
+        <mark key="^" line="73" column="53" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Controllers/StoreController.cs" timestamp="1560469797591" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Categories/CategoryExtensions.cs" timestamp="1560480686540" />
@@ -41,6 +52,7 @@
         <mark key="^" line="120" column="45" />
         <mark key="." line="120" column="45" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/DictionaryExtensions.cs" timestamp="1560488819055" />
       <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Controllers/ContactsController.cs" timestamp="1560424002633">
         <mark key="[" line="94" column="62" />
         <mark key="]" line="105" column="27" />
@@ -53,14 +65,8 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560473641677">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/BaseController.cs" timestamp="1560479315113" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1560481035570" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Models/ShopViewModel.cs" timestamp="1560467950388">
-        <mark key="[" line="290" column="44" />
-      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1560489105589" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/ShopScenarios.cs" timestamp="1560381766627">
         <mark key="[" line="12" column="48" />
         <mark key="]" line="0" column="0" />
@@ -69,11 +75,11 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1560479165892" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Categories/CategoryService.cs" timestamp="1560480713691" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560487725327">
-        <mark key="[" line="910" column="22" />
-        <mark key="]" line="917" column="11" />
-        <mark key="." line="917" column="11" />
-        <mark key="^" line="917" column="11" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560492200977">
+        <mark key="[" line="883" column="17" />
+        <mark key="]" line="883" column="11" />
+        <mark key="^" line="883" column="11" />
+        <mark key="." line="883" column="11" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1560486993179">
         <mark key="[" line="356" column="127" />
@@ -94,8 +100,8 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/DrachmaUrlHelper.cs" timestamp="1560481102652" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1560485290972">
-        <mark key="[" line="155" column="0" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1560491155449">
+        <mark key="[" line="154" column="13" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageService.cs" timestamp="1560474516601" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/JsonExtensions.cs" timestamp="1560466017490" />
@@ -281,37 +287,37 @@
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1vZGVsID0gU2hvcEJ1aWxkZXJWaWV3TW9kZWwuTWFwKGN1cnJlbnRUaGVtZSwgdGhlbWVWZXJzaW9ucywgcGFnZXNUYXNrLlJlc3VsdCwgY2F0ZWdvcmllc1Rhc2suUmVzdWx0LCB1cmwsIHNob3BVcmwpOwoK</text>
+        <text encoding="base64">CSAgICAgICAgICAgIERhdGVGb3JtYXRIYW5kbGluZyA9IERhdGVGb3JtYXRIYW5kbGluZy5Jc29EYXRlRm9ybWF0LAoJICAgICAgICAgICAgQ3VsdHVyZSA9IEN1bHR1cmVJbmZvLkludmFyaWFudEN1bHR1cmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHZhciB0ZW1wbGF0ZXMgPSB0aGVtZS5UaGVtZS5UZW1wbGF0ZXMuV2hlcmUodCA9PiAhdGhlbWUuVGhlbWUuUmVxdWlyZWRUZW1wbGF0ZXMuQ29udGFpbnModC5GaWxlbmFtZSkpLlNlbGVjdCh0ID0+IG5ldyBTZWxlY3RMaXN0SXRlbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZW9mKG9iamVjdFR5cGUpCg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSnNvblRva2VuLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlbXBsYXRlcyA9IHRoZW1lLlRoZW1lLlRlbXBsYXRlcy5XaGVyZSh0ID0+ICF0aGVtZS5UaGVtZS5SZXF1aXJlZFRlbXBsYXRlcy5Db250YWlucyh0LkZpbGVuYW1lKSkuU2VsZWN0KHQgPT4gbmV3IFNlbGVjdExpc3RJdGVtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplci5TZXJpYWxpemUod3JpdGVyLCB2YWx1ZS5Ub1N0cmluZygpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TWVyZ2UgY29uZmxpY3QgZnJvbSBkZXYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuR29vZ2xlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWFsaXplci5TZXJpYWxpemUoTWVtYmVyd2lzZUNsb25lKCksIHZhbHVlLlRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFtBcGlDb250cm9sbGVyXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1vZGVsID0gU2hvcEJ1aWxkZXJWaWV3TW9kZWwuTWFwKGN1cnJlbnRUaGVtZSwgdGhlbWVWZXJzaW9ucywgcGFnZXNUYXNrLlJlc3VsdCwgY2F0ZWdvcmllc1Rhc2suUmVzdWx0LCB1cmwsIHNob3BVcmwpOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFtBcGlDb250cm9sbGVyXQo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHZhciB0ZW1wbGF0ZXMgPSB0aGVtZS5UaGVtZS5UZW1wbGF0ZXMuV2hlcmUodCA9PiAhdGhlbWUuVGhlbWUuUmVxdWlyZWRUZW1wbGF0ZXMuQ29udGFpbnModC5GaWxlbmFtZSkpLlNlbGVjdCh0ID0+IG5ldyBTZWxlY3RMaXN0SXRlbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
