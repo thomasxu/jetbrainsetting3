@@ -24,6 +24,10 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Categories/Category.cs" timestamp="1560513088158">
         <mark key="[" line="53" column="70" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/ThemeEditorEditModel.cs" timestamp="1560559079971">
+        <mark key="[" line="29" column="66" />
+        <mark key="." line="29" column="84" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AF884A25-7434-4A1A-B55A-CE98344EFE73/fa/0e40f4a9/Markdown.cs" timestamp="1560551094300">
         <mark key="'" line="70" column="31" />
       </file>
@@ -107,14 +111,16 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B0F756DD-2D66-4EE8-B9F8-629E8E8A5740/5/TranslationClient.cs" timestamp="1560551318837">
         <mark key="'" line="48" column="26" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/ThemeStyleViewModel.cs" timestamp="1560559832633">
+        <mark key="[" line="152" column="39" />
+        <mark key="." line="152" column="104" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/ThemeFeatureViewModel.cs" timestamp="1560560227675">
+        <mark key="[" line="40" column="36" />
+        <mark key="]" line="40" column="53" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560550760100">
         <mark key="'" line="756" column="68" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/InstalledTheme.cs" timestamp="1560554768766">
-        <mark key="[" line="71" column="9" />
-        <mark key="]" line="81" column="29" />
-        <mark key="^" line="73" column="0" />
-        <mark key="." line="81" column="29" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1560481484545">
         <mark key="[" line="13" column="0" />
@@ -137,6 +143,7 @@
         <mark key="^" line="1292" column="50" />
         <mark key="." line="1292" column="50" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Texts.en-GB-izettle.resx" timestamp="1560560637177" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/PageContents/ContentBlockUpsertRequest.cs" timestamp="1560411125112">
         <mark key="[" line="114" column="17" />
         <mark key="]" line="114" column="36" />
@@ -312,8 +319,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRQdWJsaXNoZWRJbnN0YWxsZWRUaGVtZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29udGVudEJsb2NrIGNvbnRlbnRCbG9jazsKCiAgICAgICAgICAgIGlmIChtb2RlbC5QYWdlQ29udGVudC5JZCA9PSBPYmplY3RJZC5FbXB0eSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHBhZ2VDb250ZW50VG9TYXZlID0gQ29udGVudEJsb2NrRWRpdE1vZGVsLk1hcFBhZ2VDb250ZW50KG1vZGVsLCBudWxsKTsKICAgICAgICAgICAgICAgIHZhciBwYWdlQ29udGVudCA9IF9wYWdlQ29udGVudFNlcnZpY2UuU2F2ZShwYWdlQ29udGVudFRvU2F2ZSwgQ3VycmVudFVzZXIuQWN0b3IpOwogICAgICAgICAgICAgICAgY29udGVudEJsb2NrID0gcGFnZUNvbnRlbnQuQ29udGVudEJsb2Nrcy5GaXJzdCgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGNvbnRlbnRCbG9ja1RvU2F2ZSA9IENvbnRlbnRCbG9ja0VkaXRNb2RlbC5NYXAobnVsbCwgbW9kZWwsIG51bGwpOwogICAgICAgICAgICAgICAgdmFyIHBhZ2VDb250ZW50ID0gX3BhZ2VDb250ZW50U2VydmljZS5VcGRhdGVDb250ZW50QmxvY2tDb250ZW50KG1vZGVsLlBhZ2VDb250ZW50LklkLCBjb250ZW50QmxvY2tUb1NhdmUsIEN1cnJlbnRVc2VyLkFjdG9yKTsKICAgICAgICAgICAgICAgIGNvbnRlbnRCbG9jayA9IHBhZ2VDb250ZW50LkdldENvbnRlbnRCbG9jayhjb250ZW50QmxvY2tUb1NhdmUuSWQpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gbmV3IEpzb25EYXRhUmVzdWx0Cg==</text>
+      <register name="0" type="4">
+        <text>CustomizableBanner</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
