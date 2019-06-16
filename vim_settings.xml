@@ -22,7 +22,8 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/NavigationViewModel.cs" timestamp="1560650355187">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/ShopBuilderViewModel.cs" timestamp="1560665863325" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/NavigationViewModel.cs" timestamp="1560668085822">
         <mark key="[" line="123" column="54" />
         <mark key="]" line="133" column="12" />
         <mark key="^" line="133" column="12" />
@@ -41,25 +42,25 @@
         <mark key="." line="6" column="33" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1560659686114">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1560669092736">
         <mark key="'" line="59" column="17" />
         <mark key="[" line="59" column="17" />
         <mark key="]" line="59" column="18" />
         <mark key="." line="59" column="18" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/ThemeStyleViewModel.cs" timestamp="1560668787355">
+        <mark key="[" line="83" column="13" />
+        <mark key="." line="152" column="104" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeSettingsHelper.cs" timestamp="1560647606571" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1560669156973" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CDNHelper.cs" timestamp="1560646124952">
         <mark key="[" line="96" column="17" />
         <mark key="]" line="96" column="77" />
         <mark key="^" line="96" column="77" />
         <mark key="." line="96" column="77" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Converters/HtmlEntityConverter.cs" timestamp="1560645451314">
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560665034805">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560668491160">
         <mark key="'" line="756" column="68" />
         <mark key="[" line="454" column="20" />
         <mark key="]" line="792" column="27" />
@@ -111,16 +112,11 @@
         <mark key="^" line="131" column="33" />
         <mark key="." line="131" column="33" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/InstalledThemeViewModel.cs" timestamp="1560664817811">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/InstalledThemeViewModel.cs" timestamp="1560668757803">
         <mark key="[" line="120" column="110" />
         <mark key="]" line="120" column="109" />
         <mark key="^" line="120" column="109" />
         <mark key="." line="120" column="109" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/DictionaryExtensions.cs" timestamp="1560577421997">
-        <mark key="]" line="46" column="43" />
-        <mark key="." line="46" column="43" />
-        <mark key="^" line="46" column="43" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/PageEditModel.cs" timestamp="1560660479334" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Converters/ObjectIdConverter.cs" timestamp="1560644466561">
@@ -129,7 +125,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/PageLinkViewModel.cs" timestamp="1560512524413">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/PageLinkViewModel.cs" timestamp="1560666926554">
         <mark key="[" line="119" column="64" />
         <mark key="]" line="40" column="39" />
         <mark key="^" line="40" column="39" />
@@ -143,11 +139,11 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Web.config" timestamp="1560657722806" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1560665138050" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/InstalledTheme.cs" timestamp="1560645660842">
-        <mark key="[" line="45" column="37" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/InstalledTheme.cs" timestamp="1560668719296">
+        <mark key="[" line="72" column="31" />
         <mark key="]" line="45" column="37" />
         <mark key="^" line="45" column="37" />
-        <mark key="." line="45" column="37" />
+        <mark key="." line="72" column="40" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/PageNavigationEditModel.cs" timestamp="1560660129685" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageService.cs" timestamp="1560650020719" />
