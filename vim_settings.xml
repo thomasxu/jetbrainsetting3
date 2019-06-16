@@ -5,6 +5,7 @@
     <filemarks>
       <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client/Domain/Request/Contact/ContactSearchModel.cs" timestamp="1560673813648" />
       <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client/Domain/Request/Order/OrderSearchModel.cs" timestamp="1560676462768" />
+      <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client/Response/DownloadFileResponse.cs" timestamp="1560679892605" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Views/Home/Editors/_Page.cshtml" timestamp="1560660295118" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/ShopBuilderViewModel.cs" timestamp="1560665863325" />
       <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client/Selz.Catalog.Client.csproj" timestamp="1560676811245" />
@@ -15,21 +16,12 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/GoogleWrappers/IGoogleWebFonts.cs" timestamp="1560655667453" />
       <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client/Domain/Request/Product/ProductStatusCountSearchModel.cs" timestamp="1560673822625" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1560670362494">
-        <mark key="'" line="59" column="17" />
-        <mark key="[" line="59" column="17" />
-        <mark key="]" line="59" column="18" />
-        <mark key="." line="59" column="18" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/ThemeStyleViewModel.cs" timestamp="1560668787355">
-        <mark key="[" line="83" column="13" />
-        <mark key="." line="152" column="104" />
-      </file>
       <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client.Demo/App_Start/BundleConfig.cs" timestamp="1560675080601" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeSettingsHelper.cs" timestamp="1560647606571" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1560673976828" />
       <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client/RestClient.cs" timestamp="1560675390488" />
       <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client.Demo/Helpers/JSONSerializer.cs" timestamp="1560675145663" />
+      <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client/Extensions/ServiceCollectionExtensions.cs" timestamp="1560679931250" />
       <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client/SearchClient.cs" timestamp="1560676723865">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -37,22 +29,21 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Infrastructure/TempData/CookieTempDataProvider.cs" timestamp="1560585382619" />
       <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client/Domain/Request/ProductDiscount/ProductDiscountSearchModel.cs" timestamp="1560673994026" />
+      <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client/Response/ApiResponse.cs" timestamp="1560679883661" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Infrastructure/DependencyResolver/WorkContextScopeProvider.cs" timestamp="1560584994623" />
       <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client.Demo/Controllers/HomeController.cs" timestamp="1560675261288" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/HomeController.cs" timestamp="1560663552136" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/PageEditModel.cs" timestamp="1560660479334" />
       <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client/IRestClient.cs" timestamp="1560671101881" />
       <file name="/packages.config" timestamp="1560670818879" />
-      <file name="/Dummy.txt" timestamp="1560670733055">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/BaseController.cs" timestamp="1560670630316" />
-      <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client/CatalogClient.cs" timestamp="1560677082023" />
+      <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client/CatalogClient.cs" timestamp="1560679810657" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Web.config" timestamp="1560657722806" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1560665138050" />
       <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client.sln" timestamp="1560676804376" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/PageNavigationEditModel.cs" timestamp="1560660129685" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageService.cs" timestamp="1560650020719" />
+      <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client.Demo/Program.cs" timestamp="1560680075747" />
     </filemarks>
     <jumps>
       <jump line="63" column="25" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Blog/BlogService.cs" />
