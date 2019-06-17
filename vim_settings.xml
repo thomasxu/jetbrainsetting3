@@ -4,11 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/Services.Catalog/Service/Selz.Catalog.sln" timestamp="1560760861724" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/PageContents/IPageContentService.cs" timestamp="1560743520622">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="40" />
-      </file>
       <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/LoggerOptions.cs" timestamp="1560746817114" />
       <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IPagesApi.cs" timestamp="1560760344540">
         <mark key="[" line="8" column="13" />
@@ -16,6 +11,8 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Selz.Catalog.Api.csproj" timestamp="1560762799409" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Models/ImageResponse.cs" timestamp="1560763036559" />
       <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client/Selz.Catalog.Client.csproj" timestamp="1560760696841" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.local.json" timestamp="1560746968387" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PageContentsController.cs" timestamp="1560752933409">
@@ -24,11 +21,7 @@
         <mark key="^" line="64" column="93" />
         <mark key="." line="64" column="93" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemingController.cs" timestamp="1560746506822">
-        <mark key="[" line="118" column="49" />
-        <mark key="]" line="118" column="49" />
-        <mark key="." line="118" column="0" />
-      </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Models/VariantOptionResponse.cs" timestamp="1560763023254" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/ErrorHandlingMiddleware.cs" timestamp="1560749850213">
         <mark key="[" line="29" column="31" />
         <mark key="]" line="27" column="20" />
@@ -38,6 +31,7 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ShopScenarioBase.cs" timestamp="1560740344764" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1560750896687" />
       <file name="/BlogPostTaggingController.cs" timestamp="1560759588443" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/EnvironmentHelper.cs" timestamp="1560762839644" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Middlewares/ErrorHandlingMiddleware.cs" timestamp="1560749546374" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1560750075620">
         <mark key="[" line="146" column="61" />
@@ -46,28 +40,10 @@
         <mark key="." line="138" column="12" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Images/ImageService.cs" timestamp="1560759694549" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1560759971767">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="35" />
-        <mark key="." line="13" column="35" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/CounterService.cs" timestamp="1560747893757" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructures/HttpContextActorProvider.cs" timestamp="1560747742088" />
       <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client/Extensions/ServiceCollectionExtensions.cs" timestamp="1560760664882" />
-      <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client/SearchClient.cs" timestamp="1560739620712">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="/SelzApiController.cs" timestamp="1560742257553" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/PageContents/ContentBlockUpsertRequest.cs" timestamp="1560759522028">
-        <mark key="[" line="22" column="49" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1560741281518">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IShopsApi.cs" timestamp="1560760033516">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="7" column="25" />
@@ -81,30 +57,26 @@
         <mark key="^" line="18" column="51" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.json" timestamp="1560746608475" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Models/ProductResponse.cs" timestamp="1560763030432" />
       <file name="/ShopsController.cs" timestamp="1560743301149" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Selz.Shops.Api.csproj" timestamp="1560752018879" />
       <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/StructuredLogFormatter.cs" timestamp="1560746759432" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AAE6CB84-9AFD-45E3-BC66-4D9A2ACD3AB5/ec/229e866a/MiddlewareApplicationBuilderExtensions.cs" timestamp="1560749096112" />
-      <file name="/Dummy.txt" timestamp="1560759731825">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Models/DownloadFileResponse.cs" timestamp="1560763048803" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Models/ConnectionStringConfig.cs" timestamp="1560763039410" />
       <file name="C:/dev/git/selz/Services.Core/Api/Selz.Core.Api.sln" timestamp="1560748310874" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/ShopScenarios.cs" timestamp="1560742785650" />
       <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/ServiceLogger.cs" timestamp="1560746904869" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Program.cs" timestamp="1560748196649" />
+      <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client/Response/ProductResponse.cs" timestamp="1560763180503" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/MiddlewareApplicationBuilderExtensions.cs" timestamp="1560748395103" />
       <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/Selz.Shops.Client.csproj" timestamp="1560759590070" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ShopsServer.cs" timestamp="1560742880392" />
       <file name="/PageContentsController.cs" timestamp="1560745242573" />
       <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client.sln" timestamp="1560760689274" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostTaggingController.cs" timestamp="1560751656594">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/MockActorMiddleware.cs" timestamp="1560748010262" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/Pages/PageResponse.cs" timestamp="1560760573271" />
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1560760874070" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1560762832955" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/PageContents/PageContentService.cs" timestamp="1560759680465" />
       <file name="C:/dev/git/selz/Services.Catalog/Client/src/Selz.Catalog.Client.Demo/Program.cs" timestamp="1560760713210" />
     </filemarks>
