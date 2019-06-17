@@ -3,33 +3,59 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Themes/ThemeResponse.cs" timestamp="1560766362400" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Themes/ThemeSetting.cs" timestamp="1560766588007" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Pages/PageUpsertRequest.cs" timestamp="1560767630471" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Pages/ContentBlock.cs" timestamp="1560767343035" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/PageContents/ContentBlockResponse.cs" timestamp="1560767257862" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/PageContents/PageContentResponse.cs" timestamp="1560767873140" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Themes/ThemeVersionResponse.cs" timestamp="1560766623503" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/IMappingRegistry.cs" timestamp="1560764565346" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Repositories/SemVersionConverter.cs" timestamp="1560765591840" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Pages/PageResponse.cs" timestamp="1560767597252" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1560769734512" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Themes/ThemePageResponse.cs" timestamp="1560766340032" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Themes/ThemeNavigationResponse.cs" timestamp="1560766327795" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Themes/PageTemplateResponse.cs" timestamp="1560766315465" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/PageContents/ContentBlockUpsertRequest.cs" timestamp="1560767940095" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/Pages/PageUpsertRequest.cs" timestamp="1560764477246" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Themes/InstalledTheme.cs" timestamp="1560765423852" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Pages/ContentBlockType.cs" timestamp="1560767301451" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Shops/ShopThemeModel.cs" timestamp="1560767057899" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/BlogPosts/BlogPostUpsertRequest.cs" timestamp="1560764942380" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Themes/ThemeFileResponse.cs" timestamp="1560765403588" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Shops/ShopMapper.cs" timestamp="1560764639565" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Pages/Page.cs" timestamp="1560766710278" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Tags/TagResponse.cs" timestamp="1560766995052" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Themes/InstalledThemeResponse.cs" timestamp="1560766296954" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/PageContents/ContentRegionViewModel.cs" timestamp="1560767885675" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/Pages/PageResponse.cs" timestamp="1560764341285" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Pages/PageUpsertRequest.cs" timestamp="1560773354722">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/HttpExtensions.cs" timestamp="1560772658925" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" timestamp="1560772965195" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1560772943225" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1E219FCD-5BCA-4F14-82E3-03174564F3FF/0a/2013221a/RequiredAttribute.cs" timestamp="1560773908777" />
+      <file name="/Page.cs" timestamp="1560773046482" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Pages/PageResponse.cs" timestamp="1560771774539" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1560772359749">
+        <mark key="[" line="148" column="40" />
+        <mark key="]" line="148" column="11" />
+        <mark key="^" line="148" column="11" />
+        <mark key="." line="148" column="11" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client/RestClient.cs" timestamp="1560774846405" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1560770823985" />
+      <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client/SearchClient.cs" timestamp="1560774440723" />
+      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IHealthCheckApi.cs" timestamp="1560773635068" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/PageContents/ContentBlockUpsertRequest.cs" timestamp="1560770945290" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1560774142714">
+        <mark key="[" line="95" column="27" />
+        <mark key="]" line="21" column="4" />
+        <mark key="^" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Pages/PageResponseMapper.cs" timestamp="1560773829796">
+        <mark key="[" line="12" column="9" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/PageBaseResponse.cs" timestamp="1560771587810">
+        <mark key="[" line="18" column="23" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Pages/PageUpsertRequestMapper.cs" timestamp="1560772042497">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560774334499">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/Selz.Shops.Client.csproj" timestamp="1560771703597" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/Pages/PageResponse.cs" timestamp="1560773812629" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Pages/PageResponseMapper.cs" timestamp="1560772086041">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/Pages/Pages/PageResponse.cs" timestamp="1560773481548" />
+      <file name="C:/dev/git/selz/Services.Search/Client/src/Selz.Search.Client.sln" timestamp="1560774549900" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1560772261659" />
     </filemarks>
     <jumps>
       <jump line="492" column="37" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/PageContents/PageContentService.cs" />
@@ -188,57 +214,49 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>contra</text>
+        <text>PageResponse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRQdWJsaXNoZWRJbnN0YWxsZWRUaGVtZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>try
-            {
-
-            }
-            finally
-            {
-                
-            }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgYXBwLlVzZU1pZGRsZXdhcmU8RXJyb3JIYW5kbGluZ01pZGRsZXdhcmU+KCk7Cg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtBcGlDb250cm9sbGVyXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gUGFnZVJlc3BvbnNlLk1hcChwYWdlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="4">
-        <text>public class ErrorHandlingMiddleware
-    {</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgT2JqZWN0SWQgSW5zdGFsbGVkVGhlbWVJZCB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBbSHR0cERlbGV0ZSgie2lkfS9ibG9jay97YmxvY2tJZH0iKV0KICAgICAgICAvLyBwdWJsaWMgYXN5bmMgVGFzazxBY3Rpb25SZXN1bHQ+IFJlbW92ZUNvbnRlbnRCbG9jayhzdHJpbmcgaWQsIHN0cmluZyBibG9ja0lkLCBzdHJpbmcgaW5zdGFsbGxlZFRoZW1lSWQpCiAgICAgICAgLy8gewogICAgICAgIC8vICAgICBhd2FpdCBfcGFnZUNvbnRlbnRTZXJ2aWNlLlJlbW92ZUNvbnRlbnRCbG9jayhPYmplY3RJZC5QYXJzZShibG9ja0lkKSwgT2JqZWN0SWQuUGFyc2UoaWQpLCBPYmplY3RJZC5QYXJzZShpbnN0YWxsbGVkVGhlbWVJZCksIEFjdG9yKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgLy8gICAgIHJldHVybiBOb0NvbnRlbnQoKTsKICAgICAgICAvLyB9CiAgICAgICAgW0h0dHBEZWxldGUoIntpZH0vYmxvY2sve2Jsb2NrSWR9IildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8QWN0aW9uUmVzdWx0PiBSZW1vdmVDb250ZW50QmxvY2soT2JqZWN0SWQgaWQsIE9iamVjdElkIGJsb2NrSWQpCiAgICAgICAgewogICAgICAgICAgICAvLyBhd2FpdCBfcGFnZUNvbnRlbnRTZXJ2aWNlLlJlbW92ZUNvbnRlbnRCbG9jayhpZCwgYmxvY2tJZCwgaW5zdGFsbGxlZFRoZW1lSWQsIEFjdG9yKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgIHJldHVybiBOb0NvbnRlbnQoKTsKICAgICAgICB9CiAgICB9Cn0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcGFnZVRvVXBkYXRlLlBhZ2VQYXRoID0gcGFnZVRvVXBkYXRlLlBhZ2VQYXRoLlRvTG93ZXJJbnZhcmlhbnQoKTsK</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBbSHR0cERlbGV0ZSgie2lkfS9ibG9jay97YmxvY2tJZH0iKV0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxBY3Rpb25SZXN1bHQ+IFJlbW92ZUNvbnRlbnRCbG9jayhzdHJpbmcgaWQpCiAgICAgICAgewogICAgICAgICAgICAvLyBhd2FpdCBfcGFnZUNvbnRlbnRTZXJ2aWNlLlJlbW92ZUNvbnRlbnRCbG9jayhibG9ja0lkLCBPYmplY3RJZC5QYXJzZShpZCksIE9iamVjdElkLlBhcnNlKGluc3RhbGxsZWRUaGVtZUlkKSwgQWN0b3IpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKICAgICAgICAgICAgcmV0dXJuIE5vQ29udGVudCgpOwogICAgICAgIH0KICAgICAgICAvLyBbSHR0cERlbGV0ZSgie2lkfS9ibG9jay97YmxvY2tJZH0iKV0KICAgICAgICAvLyBwdWJsaWMgYXN5bmMgVGFzazxBY3Rpb25SZXN1bHQ+IFJlbW92ZUNvbnRlbnRCbG9jayhPYmplY3RJZCBpZCwgT2JqZWN0SWQgYmxvY2tJZCwgT2JqZWN0SWQgaW5zdGFsbGxlZFRoZW1lSWQpCiAgICAgICAgLy8gewogICAgICAgIC8vICAgICBhd2FpdCBfcGFnZUNvbnRlbnRTZXJ2aWNlLlJlbW92ZUNvbnRlbnRCbG9jayhpZCwgYmxvY2tJZCwgaW5zdGFsbGxlZFRoZW1lSWQsIEFjdG9yKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgLy8gICAgIHJldHVybiBOb0NvbnRlbnQoKTsKICAgICAgICAvLyB9CiAgICB9Cn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBbSHR0cERlbGV0ZSgie2lkfS9ibG9jay97YmxvY2tJZH0iKV0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxBY3Rpb25SZXN1bHQ+IFJlbW92ZUNvbnRlbnRCbG9jayhPYmplY3RJZCBpZCwgT2JqZWN0SWQgYmxvY2tJZCwgT2JqZWN0SWQgaW5zdGFsbGxlZFRoZW1lSWQpCiAgICAgICAgewogICAgICAgICAgICBhd2FpdCBfcGFnZUNvbnRlbnRTZXJ2aWNlLlJlbW92ZUNvbnRlbnRCbG9jayhPYmplY3RJZC5QYXJzZShibG9ja0lkKSwgT2JqZWN0SWQuUGFyc2UoaWQpLCBPYmplY3RJZC5QYXJzZShpbnN0YWxsbGVkVGhlbWVJZCksIEFjdG9yKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgIHJldHVybiBOb0NvbnRlbnQoKTsKICAgICAgICB9CiAgICAgICAgLy8gW0h0dHBEZWxldGUoIntpZH0vYmxvY2sve2Jsb2NrSWR9IildCiAgICAgICAgLy8gcHVibGljIGFzeW5jIFRhc2s8QWN0aW9uUmVzdWx0PiBSZW1vdmVDb250ZW50QmxvY2soT2JqZWN0SWQgaWQsIE9iamVjdElkIGJsb2NrSWQsIE9iamVjdElkIGluc3RhbGxsZWRUaGVtZUlkKQogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgYXdhaXQgX3BhZ2VDb250ZW50U2VydmljZS5SZW1vdmVDb250ZW50QmxvY2soaWQsIGJsb2NrSWQsIGluc3RhbGxsZWRUaGVtZUlkLCBBY3RvcikuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwogICAgICAgIC8vICAgICByZXR1cm4gTm9Db250ZW50KCk7CiAgICAgICAgLy8gfQogICAgfQp9</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyBJTGlzdDxQYWdlTmF2aWdhdGlvbkVkaXRNb2RlbD4gTmF2aWdhdGlvbiB7IGdldDsgc2V0OyB9CiAgICAgICAgLy8KICAgICAgICAvLyBwdWJsaWMgYm9vbCBIYXNOYXZpZ2F0aW9uID0+IE5hdmlnYXRpb24gIT0gbnVsbCAmJiBOYXZpZ2F0aW9uLkFueSgpOwogICAgICAgIC8vCiAgICAgICAgLy8gcHVibGljIElMaXN0PHN0cmluZz4gU2VsZWN0ZWROYXZpZ2F0aW9uIHsgZ2V0OyBzZXQ7IH0KICAgICAgICAvLwogICAgICAgIC8vIHB1YmxpYyBib29sIElzQ2F0ZWdvcnlQYWdlID0+ICFzdHJpbmcuSXNOdWxsT3JFbXB0eShQYWdlUGF0aCkgJiYKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQYWdlUGF0aC5TdGFydHNXaXRoKENvbnN0YW50cy5QYWdlcy5DYXRlZ29yeVBhZ2VQYXRoUHJlZml4LAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmdDb21wYXJpc29uLkludmFyaWFudEN1bHR1cmVJZ25vcmVDYXNlKTsKCiAgICAgICAgLy8gcHVibGljIGJvb2wgSXNFZGl0YWJsZSA9PiAhSXNDYXRlZ29yeVBhZ2U7CiAgICAgICAgLy8KICAgICAgICAvLyBwdWJsaWMgYm9vbCBJc0NvbnRlbnRQYWdlID0+ICFJc0xpbmsgJiYgIUlzQ2F0ZWdvcnlQYWdlICYmICFJc0RlZmF1bHQ7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFtBcGlDb250cm9sbGVyXQo=</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFtBcGlDb250cm9sbGVyXQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gcHVibGljIHN0YXRpYyBQYWdlVXBzZXJ0UmVxdWVzdCBNYXAoCiAgICAgICAgLy8gICAgIElUaGVtaW5nU2VydmljZSB0aGVtaW5nU2VydmljZSwKICAgICAgICAvLyAgICAgSW5zdGFsbGVkVGhlbWUgaW5zdGFsbGVkVGhlbWUsCiAgICAgICAgLy8gICAgIElMaXN0PFBhZ2U+IHBhZ2VzLAogICAgICAgIC8vICAgICBJTGlzdDxDYXRlZ29yeT4gY2F0ZWdvcmllcywKICAgICAgICAvLyAgICAgSUxpc3Q8VGhlbWVOYXZpZ2F0aW9uPiBuYXZpZ2F0aW9ucywKICAgICAgICAvLyAgICAgc3RyaW5nIHBhZ2VQYXRoLAogICAgICAgIC8vICAgICBPYmplY3RJZD8gcGFnZUlkID0gbnVsbAogICAgICAgIC8vICkgewogICAgICAgIC8vICAgICAvLyBFZGl0b3IgZm9yIHRoZSBjdXJyZW50IHBhZ2UKICAgICAgICAvLyAgICAgUGFnZUJhc2UgcGFnZSA9IHBhZ2VJZC5IYXNWYWx1ZQogICAgICAgIC8vICAgICAgICAgPyBwYWdlcy5GaXJzdE9yRGVmYXVsdChwID0+IHAuSWQgPT0gcGFnZUlkLlZhbHVlKQogICAgICAgIC8vICAgICAgICAgOiBwYWdlcy5GaXJzdE9yRGVmYXVsdChwID0+IHAuUGFnZVBhdGggPT0gcGFnZVBhdGgpOwogICAgICAgIC8vCiAgICAgICAgLy8gICAgIC8vIFRyZWF0IGFzIG5ldyBwYWdlCiAgICAgICAgLy8gICAgIGlmIChwYWdlID09IG51bGwpCiAgICAgICAgLy8gICAgIHsKICAgICAgICAvLyAgICAgICAgIHJldHVybiBuZXcgUGFnZVVwc2VydFJlcXVlc3QKICAgICAgICAvLyAgICAgICAgIHsKICAgICAgICAvLyAgICAgICAgICAgICBQYWdlUGF0aCA9IHBhZ2VQYXRoLAogICAgICAgIC8vICAgICAgICAgICAgIEluc3RhbGxlZFRoZW1lSWQgPSBpbnN0YWxsZWRUaGVtZS5JZCwKICAgICAgICAvLyAgICAgICAgICAgICBQYWdlUGF0aFByZWZpeCA9IENvbnN0YW50cy5QYWdlcy5Db250ZW50UGFnZVBhdGhQcmVmaXgsCiAgICAgICAgLy8gICAgICAgICAgICAgSXNQdWJsaXNoZWQgPSB0cnVlCiAgICAgICAgLy8gICAgICAgICB9OwogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgdmFyIG1vZGVsID0gbmV3IFBhZ2VVcHNlcnRSZXF1ZXN0CiAgICAgICAgLy8gICAgIHsKICAgICAgICAvLyAgICAgICAgIElkID0gcGFnZS5JZCwKICAgICAgICAvLyAgICAgICAgIE5hbWUgPSBwYWdlLk5hbWUsCiAgICAgICAgLy8gICAgICAgICBQYWdlVGl0bGUgPSBwYWdlLlBhZ2VUaXRsZSwKICAgICAgICAvLyAgICAgICAgIE1ldGFEZXNjcmlwdGlvbiA9IHBhZ2UuTWV0YURlc2NyaXB0aW9uLAogICAgICAgIC8vICAgICAgICAgTmF2aWdhdGlvbiA9IFBhZ2VOYXZpZ2F0aW9uRWRpdE1vZGVsLk1hcChpbnN0YWxsZWRUaGVtZSwgcGFnZS5JZCksCiAgICAgICAgLy8gICAgICAgICBJc1B1Ymxpc2hlZCA9IHBhZ2UuSXNQdWJsaXNoZWQsCiAgICAgICAgLy8gICAgICAgICBUZW1wbGF0ZU5hbWUgPSBwYWdlLklzTGluayA/IHN0cmluZy5FbXB0eSA6IHRoZW1pbmdTZXJ2aWNlLkdldFRlbXBsYXRlTmFtZShwYWdlLlBhZ2VQYXRoLCBwYWdlLklkLCBpbnN0YWxsZWRUaGVtZS5UaGVtZSkgPz8gQ29uc3RhbnRzLlRoZW1lLlRlbXBsYXRlcy5Ob3RGb3VuZCwKICAgICAgICAvLyAgICAgICAgIFBhZ2VQYXRoID0gcGFnZS5QYWdlUGF0aCwKICAgICAgICAvLyAgICAgICAgIElzTGluayA9IHBhZ2UuSXNMaW5rLAogICAgICAgIC8vICAgICAgICAgTGlua1VybCA9IHBhZ2UuVXJsLAogICAgICAgIC8vICAgICAgICAgT3BlbnNJbk5ld1RhYiA9IHBhZ2UuT3BlbnNJbk5ld1RhYiwKICAgICAgICAvLyAgICAgICAgIEluc3RhbGxlZFRoZW1lSWQgPSBpbnN0YWxsZWRUaGVtZS5JZAogICAgICAgIC8vICAgICB9OwogICAgICAgIC8vCiAgICAgICAgLy8gICAgIG1vZGVsLklzRGVmYXVsdCA9IHBhZ2UuSXNEZWZhdWx0IHx8IG1vZGVsLklzQ2F0ZWdvcnlQYWdlOwogICAgICAgIC8vCiAgICAgICAgLy8gICAgIGlmIChtb2RlbC5Jc0RlZmF1bHQgfHwgbW9kZWwuSXNMaW5rKQogICAgICAgIC8vICAgICB7CiAgICAgICAgLy8gICAgICAgICByZXR1cm4gbW9kZWw7CiAgICAgICAgLy8gICAgIH0KICAgICAgICAvLwogICAgICAgIC8vICAgICBtb2RlbC5QYWdlUGF0aFByZWZpeCA9IENvbnN0YW50cy5QYWdlcy5Db250ZW50UGFnZVBhdGhQcmVmaXg7CiAgICAgICAgLy8gICAgIG1vZGVsLlBhZ2VQYXRoID0gbW9kZWwuUGFnZVBhdGguUmVwbGFjZShtb2RlbC5QYWdlUGF0aFByZWZpeCwgc3RyaW5nLkVtcHR5KTsKICAgICAgICAvLwogICAgICAgIC8vICAgICByZXR1cm4gbW9kZWw7CiAgICAgICAgLy8gfQoKICAgICAgICAvLyBwdWJsaWMgSUVudW1lcmFibGU8VmFsaWRhdGlvblJlc3VsdD4gVmFsaWRhdGUoVmFsaWRhdGlvbkNvbnRleHQgdmFsaWRhdGlvbkNvbnRleHQpCiAgICAgICAgLy8gewogICAgICAgIC8vICAgICAvLyBWYWxpZGF0ZSByZWdleCBvbmx5IGZvciBjdXN0b20gcGFnZXMKICAgICAgICAvLyAgICAgaWYgKElzQ2F0ZWdvcnlQYWdlIHx8IElzRGVmYXVsdCB8fCBJc0xpbmsgfHwgc3RyaW5nLklzTnVsbE9yRW1wdHkoUGFnZVBhdGgpKQogICAgICAgIC8vICAgICB7CiAgICAgICAgLy8gICAgICAgICB5aWVsZCBicmVhazsKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vCiAgICAgICAgLy8gICAgIHZhciBzbHVnUmVnZXggPSBuZXcgUmVnZXgoQ29uc3RhbnRzLlJlZ2V4LlNsdWcpOwogICAgICAgIC8vICAgICB2YXIgbWF0Y2ggPSBzbHVnUmVnZXguTWF0Y2goUGFnZVBhdGgpOwogICAgICAgIC8vICAgICB2YXIgdmFsaWQgPSBtYXRjaC5TdWNjZXNzICYmIG1hdGNoLkluZGV4ID09IDAgJiYgbWF0Y2guTGVuZ3RoID09IFBhZ2VQYXRoLkxlbmd0aDsKICAgICAgICAvLwogICAgICAgIC8vICAgICBpZiAoIXZhbGlkKQogICAgICAgIC8vICAgICB7CiAgICAgICAgLy8gICAgICAgICB5aWVsZCByZXR1cm4gbmV3IFZhbGlkYXRpb25SZXN1bHQoc3RyaW5nLkZvcm1hdChNZXNzYWdlcy5WYWxpZGF0aW9uX1JlZ3VsYXJFeHByZXNzaW9uLCBMYWJlbHMuUGFnZUVkaXRNb2RlbF9QYWdlUGF0aCksIG5ld1tdIHsgIlBhZ2VQYXRoIiB9KTsKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFtBcGlDb250ZGRyb2xsZXJdCg==</text>
+        <text encoding="base64">ICAgIFtBcGlDb250cm9sbGVyXQo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu</text>
