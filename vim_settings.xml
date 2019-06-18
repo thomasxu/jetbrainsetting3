@@ -16,10 +16,6 @@
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client.Demo/Program.cs" timestamp="1560832887820" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Search/SearchService.cs" timestamp="1560808278901" />
-      <file name="/IShopsApi.cs" timestamp="1560812313282">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-      </file>
       <file name="/IsPagePathAvailableRequest.cs" timestamp="1560812288058" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1560829045256">
         <mark key="[" line="145" column="0" />
@@ -54,10 +50,17 @@
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/BlogPosts/BlogPostResponse.cs" timestamp="1560835556508" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api.Models/ContactSearchRequest.cs" timestamp="1560808369690" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/BlogPosts/BlogPostUpsertRequest.cs" timestamp="1560836856521">
+        <mark key="[" line="57" column="27" />
+        <mark key="]" line="64" column="47" />
+        <mark key="^" line="64" column="47" />
+        <mark key="." line="64" column="47" />
+      </file>
       <file name="/Dummy.txt" timestamp="1560831790727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6222C6E9-95E5-4338-A583-04ECC6D628E9/8c/54279611/SelzBuilderExtensions.cs" timestamp="1560832715274" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/BlogPosts/BlogPostMapper.cs" timestamp="1560836933671" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0629A952-D07C-4608-B75F-6E6CCECBF430/4f/cc76eeea/UrlAttribute.cs" timestamp="1560808726000" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/Pages/IsPagePathAvailableRequest.cs" timestamp="1560811438246" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/Pages/PageResponse.cs" timestamp="1560808889844">
@@ -72,10 +75,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Client/ISearchClient.cs" timestamp="1560826670439">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="11" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -235,7 +234,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LlJlcGxhY2UoIi9zaG9wcy92MSIsICIiKSwgYnVpbGRlciA9Pg==</text>
+        <text>Pages</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRQdWJsaXNoZWRJbnN0YWxsZWRUaGVtZVw+</text>
