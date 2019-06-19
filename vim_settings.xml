@@ -3,38 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IShopsApi.cs" timestamp="1560909424811">
-        <mark key="[" line="12" column="14" />
+      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IShopsApi.cs" timestamp="1560911921321">
+        <mark key="[" line="9" column="14" />
         <mark key="]" line="19" column="39" />
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client.Demo/CompositionRoot.cs" timestamp="1560909765572">
-        <mark key="[" line="14" column="69" />
-        <mark key="]" line="14" column="37" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1560912105818" />
+      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client.Demo/CompositionRoot.cs" timestamp="1560912369845">
+        <mark key="[" line="24" column="66" />
+        <mark key="]" line="24" column="66" />
         <mark key="^" line="14" column="37" />
-        <mark key="." line="14" column="37" />
+        <mark key="." line="24" column="66" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client.Demo/Program.cs" timestamp="1560910811097">
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="52" column="20" />
-        <mark key="^" line="16" column="47" />
-        <mark key="." line="52" column="20" />
+      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client.Demo/Program.cs" timestamp="1560912471178">
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="14" column="60" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="60" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IPagesApi.cs" timestamp="1560910713742">
+      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IPagesApi.cs" timestamp="1560911830031">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="14" />
         <mark key="." line="9" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C0C48B5-7141-4C52-8885-927C9D51A2FC/14/f3e7cba8/RequestPolicies.cs" timestamp="1560903834889" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.local.json" timestamp="1560899317600" />
-      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client.Demo/LogEndpointRequestHandler.cs" timestamp="1560907125848">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="115" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/102886C9-99A7-4352-8748-69B309C42662/69/17040f32/HttpClientBuilderExtensions.cs" timestamp="1560906921801">
-        <mark key="'" line="152" column="37" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/obj/Debug/netstandard2.0/RefitStubs.g.cs" timestamp="1560909624150" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" timestamp="1560910650194" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Shops/ShopMapper.cs" timestamp="1560910194557" />
@@ -56,6 +50,7 @@
         <mark key="^" line="72" column="66" />
         <mark key="." line="72" column="20" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/MockActorMiddleware.cs" timestamp="1560912399143" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FB78E2D5-D7EB-43A0-ACD7-4205D7DFCE19/8/CachedRequestBuilderImplementation.cs" timestamp="1560909749718" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C0C48B5-7141-4C52-8885-927C9D51A2FC/ac/0d6bc9dc/SelzBuilderExtensions.cs" timestamp="1560906682268">
         <mark key="[" line="33" column="164" />
@@ -63,11 +58,11 @@
         <mark key="^" line="33" column="51" />
         <mark key="." line="33" column="51" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client.Demo/Example.cs" timestamp="1560910185316">
+      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client.Demo/Example.cs" timestamp="1560912586758">
         <mark key="[" line="40" column="34" />
-        <mark key="]" line="40" column="34" />
-        <mark key="^" line="40" column="15" />
-        <mark key="." line="40" column="34" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IHealthCheckApi.cs" timestamp="1560898925105" />
     </filemarks>
@@ -228,7 +223,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>reate invali</text>
+        <text>.Replace(&quot;/shops/v1&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRQdWJsaXNoZWRJbnN0YWxsZWRUaGVtZVw+</text>
