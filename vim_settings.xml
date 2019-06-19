@@ -34,15 +34,9 @@
       <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Controllers/ContactsController.cs" timestamp="1560937841767" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ShopScenarioBase.cs" timestamp="1560910633802" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0834D2D4-C87E-4768-846A-35FA350C7B81/24/009d9f4c/ResponseCompressionBuilderExtensions.cs" timestamp="1560932129748" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1560932274702">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="154" column="40" />
-        <mark key="." line="146" column="0" />
-      </file>
-      <file name="/Startup.cs" timestamp="1560927003645" />
+      <file name="/Startup.cs" timestamp="1560983040184" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF1603B4-1C8E-42FD-A34A-5AFCC6E40CD9/4f/a32e7060/MiddlewareApplicationBuilderExtensions.cs" timestamp="1560932216427" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Filters/AllowOnlySafeHtmlTagsAttribute.cs" timestamp="1560943344887" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Filters/AllowOnlySafeHtmlTagsAttribute.cs" timestamp="1560982971250" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1560937485285">
         <mark key="[" line="63" column="26" />
         <mark key="]" line="63" column="26" />
@@ -57,12 +51,12 @@
         <mark key="." line="35" column="27" />
         <mark key="^" line="35" column="35" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IShopsApi.cs" timestamp="1560936312372">
+      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IShopsApi.cs" timestamp="1560983343228">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IBlogPostsApi.cs" timestamp="1560943337667">
+      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IBlogPostsApi.cs" timestamp="1560983389675">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="25" />
         <mark key="." line="13" column="25" />
@@ -84,9 +78,13 @@
       <file name="/ShopsController.cs" timestamp="1560927443400" />
       <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/IShops1Api.cs" timestamp="1560921874367" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Pages/PageResponseMapper.cs" timestamp="1560932381031" />
+      <file name="C:/dev/git/selz/Services.Shop/Client/src/Selz.Shops.Client/obj/Debug/netstandard2.0/RefitStubs.g.cs" timestamp="1560982757050" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Shops/ShopMapper.cs" timestamp="1560910194557" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/ProductsController.cs" timestamp="1560937668629" />
       <file name="/IPagesApi.cs" timestamp="1560927654020" />
+      <file name="/Dummy.txt" timestamp="1560983290317">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/BlogPosts/BlogPostSearchMapper.cs" timestamp="1560942819954" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6222C6E9-95E5-4338-A583-04ECC6D628E9/8c/54279611/SelzBuilderExtensions.cs" timestamp="1560912859996">
         <mark key="[" line="38" column="93" />
@@ -98,6 +96,9 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/ShopResponse.cs" timestamp="1560916738849" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/PageBaseResponse.cs" timestamp="1560916696396" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/MockActorMiddleware.cs" timestamp="1560912399143" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/Pages/PageResponse.cs" timestamp="1560923024001">
+        <mark key="[" line="4" column="44" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C0C48B5-7141-4C52-8885-927C9D51A2FC/ac/0d6bc9dc/SelzBuilderExtensions.cs" timestamp="1560906682268">
         <mark key="[" line="33" column="164" />
         <mark key="]" line="33" column="51" />
@@ -262,7 +263,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>BlogPostResponseMapper</text>
+        <text>Api\Selz.Shops.Api\Models</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRQdWJsaXNoZWRJbnN0YWxsZWRUaGVtZVw+</text>
