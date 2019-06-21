@@ -63,11 +63,17 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561110999461">
+      <file name="/Dummy.txt" timestamp="1561113735366">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1561114081570">
+        <mark key="[" line="1175" column="0" />
+        <mark key="]" line="2425" column="15" />
+        <mark key="^" line="2425" column="15" />
+        <mark key="." line="2425" column="15" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/BlogPosts/BlogPostResponse.cs" timestamp="1560984236909">
         <mark key="[" line="4" column="11" />
@@ -99,11 +105,20 @@
         <mark key="]" line="14" column="50" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1561111593448">
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostTaggingController.cs" timestamp="1561086062545">
         <mark key="[" line="46" column="39" />
         <mark key="]" line="46" column="39" />
         <mark key="." line="46" column="39" />
         <mark key="^" line="46" column="41" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/InstalledTheme.cs" timestamp="1561114395461">
+        <mark key="[" line="55" column="9" />
+        <mark key="." line="56" column="182" />
       </file>
       <file name="C:/dev/git/selz/ClientDemo/Selz.Shops.Client.Demo/Selz.Shops.Client.Demo.csproj" timestamp="1561078060120">
         <mark key="[" line="14" column="51" />
@@ -134,7 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1183" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" />
       <jump line="1195" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" />
       <jump line="25" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="2179" column="19" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
@@ -234,6 +248,7 @@
       <jump line="27" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPagesApi.cs" />
       <jump line="20" column="29" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/ITaggingApi.cs" />
       <jump line="22" column="39" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/ITaggingApi.cs" />
+      <jump line="101" column="45" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -290,7 +305,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIGFzeW5jIA==</text>
+        <text>shop</text>
       </register>
       <register name="/" type="4">
         <text>interface</text>
