@@ -3,8 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/Theme.cs" timestamp="1561286121194" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/BaseController.cs" timestamp="1561277888568" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/PageContents/PageContents/ContentRegionResponse.cs" timestamp="1561327072114">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1561282996247">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/PageContents/ContentRegionResponseMapper.cs" timestamp="1561095316796">
+        <mark key="[" line="32" column="5" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/PageContents/PageContents/ContentBlockUpsertRequest.cs" timestamp="1561326943996">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1561286082726">
         <mark key="'" line="1441" column="62" />
         <mark key="[" line="1441" column="85" />
@@ -12,43 +28,19 @@
         <mark key="^" line="1948" column="12" />
         <mark key="." line="1948" column="12" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Theming/IThemingController.cs" timestamp="1561274867694" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Contracts/Tagging/TagResponse.cs" timestamp="1561081036538">
         <mark key="[" line="0" column="38" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1561283810830" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/ObjectExtensions.cs" timestamp="1561281936634" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1561281886383">
         <mark key="]" line="90" column="0" />
         <mark key="^" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Pages/PageContentExtensions.cs" timestamp="1561278384506" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/PageContentService.cs" timestamp="1561279503318" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1561280406836" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/InstalledTheme.cs" timestamp="1561164006775">
-        <mark key="[" line="55" column="9" />
-        <mark key="." line="56" column="182" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1561282996247">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/ContentBlockEditModel.cs" timestamp="1561279461167" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/NavigationViewModel.cs" timestamp="1561281037859" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/PageContents/ContentRegionResponseMapper.cs" timestamp="1561095316796">
-        <mark key="[" line="32" column="5" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/ThemeViewModel.cs" timestamp="1561283317590" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StreamExtensions.cs" timestamp="1561115126821">
         <mark key="[" line="8" column="9" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemeController.cs" timestamp="1561277577890" />
       <file name="/fragment.java" timestamp="1556252774307">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1561199311164">
-        <mark key="[" line="23" column="40" />
-        <mark key="." line="23" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -173,7 +165,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>, out _isGlobal);</text>
+        <text>ObjectId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFkZUxpZmVjeWNsZUluUHJvY2Vzc1NvdXJjZVw+</text>
@@ -184,42 +176,42 @@
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQoKICAgICAgICAgICAgewo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">bmFtZXNwYWNlIFNlbHouU2hvcHMuQ29udHJhY3RzLlBhZ2VDb250ZW50cy5QYWdlQ29udGVudHMKewogICAgcHVibGljIGNsYXNzIENvbnRlbnRCbG9ja1Vwc2VydFJlcXVlc3QKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIElkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4gU2V0dGluZ3MgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBDb250ZW50QmxvY2tUeXBlIFR5cGUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgUGFnZVVybCB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIE9iamVjdElkIFRoZW1lSWQgeyBnZXQ7IHNldDsgfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQoKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHVzaW5nICh2YXIgZ3ppcCA9IHRoZW1lQnVja2V0LkdldEl0ZW0oaW5zdGFsbGVkVGhlbWUuUzNUaGVtZSgpKSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">bmFtZXNwYWNlIFNlbHouU2hvcHMuQ29udHJhY3RzLlBhZ2VDb250ZW50cy5QYWdlQ29udGVudHMKewogICAgcHVibGljIGNsYXNzIENvbnRlbnRCbG9ja1Vwc2VydFJlcXVlc3QKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIElkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4gU2V0dGluZ3MgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBDb250ZW50QmxvY2tUeXBlIFR5cGUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgUGFnZVVybCB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIE9iamVjdElkIFRoZW1lSWQgeyBnZXQ7IHNldDsgfQ==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQoKICAgICAgICAgICAgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQoKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHVzaW5nICh2YXIgZ3ppcCA9IHRoZW1lQnVja2V0LkdldEl0ZW0oaW5zdGFsbGVkVGhlbWUuUzNUaGVtZSgpKSkK</text>
+      </register>
+      <register name="t" type="4">
+        <text>TradePackag</text>
+      </register>
+      <register name="5" type="4">
         <text>}
 
 
         public override void Render(Context context, TextWriter result)
         {</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgcHVibGljIG92ZXJyaWRlIHZvaWQgSW5pdGlhbGl6ZShzdHJpbmcgdGFnTmFtZSwgc3RyaW5nIG1hcmt1cCwgTGlzdDxzdHJpbmc+IHRva2VucykKICAgICAgICB7CiAgICAgICAgICAgIHZhciBzeW50YXhNYXRjaCA9IFN5bnRheC5NYXRjaChtYXJrdXApOwogICAgICAgICAgICBpZiAoc3ludGF4TWF0Y2guU3VjY2VzcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHdvcmRzID0gUmVnZXguU3BsaXQobWFya3VwLlRyaW0oKSwgQCJccysiKS5TZWxlY3QodyA9PiB3LlRyaW0oJ1wnJykuVHJpbSgnXCInKSkuVG9MaXN0KCk7CgogICAgICAgICAgICAgICAgX2NvbHVtbk5hbWUgPSB3b3Jkc1swXTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgYmFzZS5Jbml0aWFsaXplKHRhZ05hbWUsIG1hcmt1cCwgdG9rZW5zKTsKICAgICAgICB9</text>
       </register>
-      <register name="t" type="4">
-        <text>TradePackag</text>
-      </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CgoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHZhciBmaWxlU3lzdGVtID0gY29udGV4dC5SZWdpc3RlcnNbImZpbGVfc3lzdGVtIl0gYXMgSUZpbGVTeXN0ZW0gPz8gY29udGV4dC5Db25maWd1cmF0aW9uLkZpbGVTeXN0ZW07CgogICAgICAgICAgICB2YXIgc291cmNlID0gZmlsZVN5c3RlbS5SZWFkVGVtcGxhdGVGaWxlKGNvbnRleHQsIHBhcnRpYWxOYW1lKTsKICAgICAgICAgICAgdmFyIHBhcnRpYWwgPSBUZW1wbGF0ZS5QYXJzZShzb3VyY2UsIGNvbnRleHQuQ29uZmlndXJhdGlvbik7CgogICAgICAgICAgICBjb250ZXh0LlN0YWNrKCgpID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGlmIChwYXJ0aWFsQmxvY2tEcm9wcyAhPSBudWxsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBwYXJ0aWFsQmxvY2tEcm9wIGluIHBhcnRpYWxCbG9ja0Ryb3BzKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dFtwYXJ0aWFsQmxvY2tEcm9wLktleV0gPSBwYXJ0aWFsQmxvY2tEcm9wLlZhbHVlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBjb250ZXh0W0NvbnN0YW50cy5UaGVtZS5Ecm9wcy5CbG9ja10gPSBIYXNoLkZyb21EaWN0aW9uYXJ5KHBhcnRpYWxCbG9ja01vZGVsKTsKICAgICAgICAgICAgICAgIHBhcnRpYWwuUmVuZGVyKHJlc3VsdCwgUmVuZGVyUGFyYW1ldGVycy5Gcm9tQ29udGV4dChjb250ZXh0KSk7CiAgICAgICAgICAgIH0pOw==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
