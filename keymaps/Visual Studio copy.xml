@@ -65,6 +65,9 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="CompareTwoFiles">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -186,6 +189,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
@@ -249,6 +255,7 @@
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
+  <action id="IntroduceConstant" />
   <action id="IntroduceField">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
