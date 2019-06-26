@@ -3,13 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Tagging/TagResponseMapper.cs" timestamp="1561503999227" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1561504373052" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/BlogPosts/BlogPostResponseMapper.cs" timestamp="1561506166740" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1561510369162" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPageContentApi.cs" timestamp="1561509863655">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostGetUrlHelper.cs" timestamp="1561505509417" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Images/ImageResponseMapper.cs" timestamp="1561504068190" />
+      <file name="/Dummy.cs" timestamp="1561510214214">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" timestamp="1561510026938">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Pages/PageUpsertRequestMapper.cs" timestamp="1561506348817" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/BlogPosts/BlogPostUpsertRequestMapper.cs" timestamp="1561504367981" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1561505002168" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ShopScenarioBase.cs" timestamp="1561510084307">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="83" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPageApi.cs" timestamp="1561508825497">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="166" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Tagging/TagResponseMapper.cs" timestamp="1561503999227" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1561504373052" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/BlogPosts/BlogPostResponseMapper.cs" timestamp="1561506166740" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1561509375227">
         <mark key="[" line="2208" column="35" />
         <mark key="]" line="2208" column="34" />
@@ -20,18 +43,9 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="76" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPageContentApi.cs" timestamp="1561502309382">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostGetUrlHelper.cs" timestamp="1561505509417" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Images/ImageResponseMapper.cs" timestamp="1561504068190" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IBlogPostsApi.cs" timestamp="1561509906803" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A6C8D7F7-2E95-4C68-A2D5-58EF32A9C37D/1/HttpClientFactoryExtensions.cs" timestamp="1561503956190" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" timestamp="1561504427984" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Pages/PageUpsertRequestMapper.cs" timestamp="1561506348817" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/BlogPosts/BlogPostUpsertRequestMapper.cs" timestamp="1561504367981" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1561505002168" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/PageContents/PageContentService.cs" timestamp="1561510532133" />
     </filemarks>
     <jumps>
       <jump line="38" column="0" filename="/AuthenticationController.Command.cs" />
@@ -161,43 +175,43 @@
         <text encoding="base64">XDx0cmFkZUxpZmVjeWNsZUluUHJvY2Vzc1NvdXJjZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUYXNrPEFwaVJlc3BvbnNlPFBhZ2VSZXNwb25zZT4+IFVwc2VydChbQm9keV1QYWdlVXBzZXJ0UmVxdWVzdCByZXF1ZXN0LCBbU2hvcElkXSBzdHJpbmcgc2hvcElkLCBbVXNlcklkXSBzdHJpbmcgdXNlcklkLCBbQ29ycmVsYXRpb25JZF0gc3RyaW5nIGNvcnJlbGF0aW9uSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBodHRwQ2xpZW50ID0gbmV3IEh0dHBDbGllbnQobmV3IERlY29tcHJlc3Npb25IYW5kbGVyKGhhbmRsZXIpKTsK</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldHRpbmcuU2VsZWN0VG9rZW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldHRpbmdzLlRvT2JqZWN0PFNob3A+KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldHRpbmcuVmFsdWU8c3RyaW5nPihzZXR0aW5nLikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldHRpbmcuU2VsZWN0VG9rZW4oKQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldHRpbmdzLlRvT2JqZWN0PFNob3A+KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRlcnM8VGhlbWU+LkZpbHRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldHRpbmcuVmFsdWU8c3RyaW5nPihzZXR0aW5nLikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRlcnM8VGhlbWU+LkZpbHRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8cGFja2FnZSBpZD0iU2Vsei5Db3JlLlJlcG9zaXRvcnkuRW50aXRpZXMiIHZlcnNpb249IjEuMC4yMiIgdGFyZ2V0RnJhbWV3b3JrPSJuZXQ0NzIiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRlcnM8VGhlbWU+LkZpbHRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8cGFja2FnZSBpZD0iU2Vsei5Db3JlLlJlcG9zaXRvcnkuRW50aXRpZXMiIHZlcnNpb249IjEuMC4yMiIgdGFyZ2V0RnJhbWV3b3JrPSJuZXQ0NzIiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRlcnM8VGhlbWU+LkZpbHRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
