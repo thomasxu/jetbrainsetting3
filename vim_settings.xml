@@ -3,18 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPageApi.cs" timestamp="1561506671437">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="166" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Tagging/TagResponseMapper.cs" timestamp="1561503999227" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1561504373052" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/BlogPosts/BlogPostResponseMapper.cs" timestamp="1561506166740" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1561500413443">
         <mark key="[" line="2208" column="35" />
         <mark key="]" line="2208" column="34" />
         <mark key="^" line="2208" column="34" />
         <mark key="." line="2208" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A6C8D7F7-2E95-4C68-A2D5-58EF32A9C37D/1/HttpClientFactoryExtensions.cs" timestamp="1561503956190" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/BlogPosts/BlogPostSearchMapper.cs" timestamp="1561506399243">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="76" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPageContentApi.cs" timestamp="1561502309382">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostGetUrlHelper.cs" timestamp="1561505509417" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Images/ImageResponseMapper.cs" timestamp="1561504068190" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A6C8D7F7-2E95-4C68-A2D5-58EF32A9C37D/1/HttpClientFactoryExtensions.cs" timestamp="1561503956190" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" timestamp="1561504427984" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Pages/PageUpsertRequestMapper.cs" timestamp="1561506348817" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/BlogPosts/BlogPostUpsertRequestMapper.cs" timestamp="1561504367981" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1561505002168" />
     </filemarks>
     <jumps>
       <jump line="38" column="0" filename="/AuthenticationController.Command.cs" />
@@ -143,8 +160,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFkZUxpZmVjeWNsZUluUHJvY2Vzc1NvdXJjZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>CDNHelper.GetThemeFileUrl($&quot;{folder}{{0}}&quot;, version)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBUYXNrPEFwaVJlc3BvbnNlPFBhZ2VSZXNwb25zZT4+IFVwc2VydChbQm9keV1QYWdlVXBzZXJ0UmVxdWVzdCByZXF1ZXN0LCBbU2hvcElkXSBzdHJpbmcgc2hvcElkLCBbVXNlcklkXSBzdHJpbmcgdXNlcklkLCBbQ29ycmVsYXRpb25JZF0gc3RyaW5nIGNvcnJlbGF0aW9uSWQpOwo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
