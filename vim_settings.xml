@@ -5,10 +5,11 @@
     <filemarks>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/Theme.cs" timestamp="1561697807261" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Categories/Category.cs" timestamp="1561683852767" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/ObjectExtensions.cs" timestamp="1561720827790" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/ShopBuilderViewModel.cs" timestamp="1561680193610" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/AppRegistryHelper.cs" timestamp="1561680721552" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Models/NavigationViewModel.cs" timestamp="1561680336288" />
-      <file name="/Dummy.cs" timestamp="1561700236723">
+      <file name="/Dummy.cs" timestamp="1561719585162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -18,21 +19,28 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/InstalledThemeViewModel.cs" timestamp="1561676900318" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/AssetBuilder/AssetBuilder.cs" timestamp="1561698375624" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/ThemeSetting.cs" timestamp="1561684892764" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Shops/ShopTheme.cs" timestamp="1561717676353" />
+      <file name="/Dummy.txt" timestamp="1561719552035">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/BaseController.cs" timestamp="1561717344816" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1561704709294" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1561720723068" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/836484B0-267D-488C-8D30-F28B57EFEBD9/3F/CamelCasePropertyNamesContractResolver.cs" timestamp="1561698251799" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Shop/ShopThemeModel.cs" timestamp="1561701250691" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Shop/ShopThemeModel.cs" timestamp="1561718576926" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DA37BC3-9D9C-44AA-9BAE-20889701F24A/a1/b6695749/InvocationType.cs" timestamp="1561697290692" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Theme/ThemeStyleViewModel.cs" timestamp="1561677800749" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeSettingsHelper.cs" timestamp="1561685303862" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeSettingsHelper.cs" timestamp="1561718811196" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1561643150172">
         <mark key="[" line="316" column="52" />
         <mark key="]" line="590" column="72" />
         <mark key="^" line="590" column="72" />
         <mark key="." line="590" column="72" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CDNHelper.cs" timestamp="1561685757601" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1561705415045" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CDNHelper.cs" timestamp="1561719443207" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1561720849735">
+        <mark key="[" line="441" column="67" />
+        <mark key="]" line="441" column="113" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/DrachmaUrlHelper.cs" timestamp="1561684302609" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/JsonExtensions.cs" timestamp="1561689518644" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1561704595374" />
@@ -164,8 +172,8 @@
       <register name="/" type="4">
         <text>class</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnMuTW9kZWxCaW5kZXJQcm92aWRlcnMuSW5zZXJ0KDMsIG5ldyBPYmplY3RJZE1vZGVsQmluZGVyUHJvdmlkZXIoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>installedTheme.UpdatedTime.Value:yyyyMMddhhmmss</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
