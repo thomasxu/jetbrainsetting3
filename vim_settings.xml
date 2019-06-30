@@ -5,6 +5,13 @@
     <filemarks>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Collections/PagedList.cs" timestamp="1561891656475" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Views/Shared/_GoogleCaptcha.cshtml" timestamp="1561884086916" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1561897590865">
+        <mark key="'" line="1408" column="16" />
+        <mark key="[" line="1425" column="25" />
+        <mark key="]" line="900" column="17" />
+        <mark key="^" line="900" column="17" />
+        <mark key="." line="900" column="17" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/596E0EBE-46F2-45D9-833E-F929E428C400/db/1378d508/HttpUtility.cs" timestamp="1561807129123">
         <mark key="'" line="168" column="38" />
       </file>
@@ -35,18 +42,35 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B182083D-5048-4347-8DAC-3F04C9E7EB7F/c3/e1575b7b/HtmlSanitizer.cs" timestamp="1561798129155">
         <mark key="'" line="348" column="11" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1561872958683">
+        <mark key="[" line="128" column="76" />
+        <mark key="]" line="128" column="75" />
+        <mark key="^" line="128" column="75" />
+        <mark key="." line="128" column="75" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Assets/BundleHelper.cs" timestamp="1561881759315">
         <mark key="[" line="38" column="87" />
         <mark key="]" line="38" column="103" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1561893961574">
-        <mark key="[" line="739" column="39" />
-        <mark key="]" line="739" column="110" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1561897612608">
+        <mark key="[" line="847" column="24" />
+        <mark key="]" line="847" column="35" />
         <mark key="." line="739" column="39" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/CategoriesDrop.cs" timestamp="1561887167395" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1561898303154">
+        <mark key="[" line="249" column="84" />
+        <mark key="]" line="249" column="65" />
+        <mark key="." line="249" column="65" />
+        <mark key="^" line="249" column="65" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3Actions.cs" timestamp="1561898118177">
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="395" column="9" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeSettingsHelper.cs" timestamp="1561873696554" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1561883078464" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1561896369929" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Categories/CategoryService.cs" timestamp="1561892877563">
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="54" />
@@ -62,8 +86,6 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ImageViewModel.cs" timestamp="1561887834229" />
     </filemarks>
     <jumps>
-      <jump line="30" column="45" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PickQuoteAmountUpdater.cs" />
-      <jump line="228" column="0" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PickQuoteAmountUpdater.cs" />
       <jump line="209" column="46" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PickQuoteAmountUpdater.cs" />
       <jump line="24" column="26" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/QuoteAmountUpdater.cs" />
       <jump line="18" column="17" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PickQuoteAmountUpdater.cs" />
@@ -162,6 +184,8 @@
       <jump line="124" column="36" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
       <jump line="143" column="31" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/GoogleWrappers/IGoogleWebFonts.cs" />
       <jump line="42" column="99" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" />
+      <jump line="857" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
+      <jump line="1408" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -183,28 +207,28 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>_pageContentService.Find(page.PagePath, Seller.Id)</text>
+        <text>, string bucketName</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXRoXD4=</text>
+        <text encoding="base64">XDxSZW1vdmVTM0ZpbGVzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>_pageService.GetAll(Seller.Id, !sellerIsAuthenticated);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFJlbW92ZSBhIGRpcmVjdG9yeSBvbiBTMyAoYmUgKlZFUlkqIGNhcmVmdWwgdXNpbmcgdGhpcyEpCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBhdGgiPlBhdGggdG8gZGlyZWN0b3J5IChubyB0cmFpbGluZyBzbGFzaCk8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0icmVjdXJzaXZlIj5EZWxldGUgYWxsIHN1YiBkaXJlY3RvcmllcyBhbHNvPC9wYXJhbT4KICAgICAgICBwdWJsaWMgdm9pZCBSZW1vdmVEaXJlY3Rvcnkoc3RyaW5nIHBhdGgsIGJvb2wgcmVjdXJzaXZlID0gdHJ1ZSkKICAgICAgICB7CiAgICAgICAgICAgIC8vIERvbid0IGFsbG93IG51bGwgcGF0aCBvciBkZWxldGUgb2YgdGhlIGFsbCBvYmplY3RzIGluIGJ1Y2tldAogICAgICAgICAgICBpZiAoc3RyaW5nLklzTnVsbE9yRW1wdHkocGF0aCkgfHwgcGF0aC5UcmltKCkuRXF1YWxzKCIvIikpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybjsgCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHVzaW5nICh2YXIgY2xpZW50ID0gX2FtYXpvbkZhY3RvcnkuQ3JlYXRlUzNDbGllbnQoQnVja2V0KSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGRpcmVjdG9yeSA9IG5ldyBTM0RpcmVjdG9yeUluZm8oY2xpZW50LCBCdWNrZXQuTmFtZSwgcGF0aCk7CgogICAgICAgICAgICAgICAgaWYgKCFkaXJlY3RvcnkuRXhpc3RzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBkaXJlY3RvcnkuRGVsZXRlKHJlY3Vyc2l2ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWZhdWx0U2V0dGluZy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgTW9uZ29EQi5Cc29uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBjbGllbnQgPSBfYW1hem9uRmFjdG9yeS5DcmVhdGVTM0NsaWVudChCdWNrZXQpKQogICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgTW9uZ29EQi5Cc29uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWZhdWx0U2V0dGluZy4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">dXNpbmcgTW9uZ29EQi5Cc29uOwo=</text>
@@ -213,28 +237,28 @@
         <text>TradePackag</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgTW9uZ29EQi5Cc29uOwp1c2luZyBOZXd0b25zb2Z0Lkpzb247Cg==</text>
+        <text encoding="base64">dXNpbmcgTW9uZ29EQi5Cc29uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbS25vd2RkXQo=</text>
+        <text encoding="base64">dXNpbmcgTW9uZ29EQi5Cc29uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SdWxlRm9yKHggPT4geC5UaGVtZUlkLCBmID0+IE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKS5Ub1N0cmluZygpKQo=</text>
+        <text encoding="base64">dXNpbmcgTW9uZ29EQi5Cc29uOwp1c2luZyBOZXd0b25zb2Z0Lkpzb247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRlbnRJZCA9IGlkLlRvT2JqZWN0SWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBbS25vd2RkXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRlbnRJZCA9IGlkLlRvT2JqZWN0SWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SdWxlRm9yKHggPT4geC5UaGVtZUlkLCBmID0+IE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKS5Ub1N0cmluZygpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxSZW1vdmVTM0ZpbGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSZW1vdmVTM0ZpbGVzXD4=</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>inter</last-substitute>
       <last-dir>1</last-dir>
@@ -242,8 +266,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJc0xpcXVpZFw+</entry>
-        <entry encoding="base64">XDxJc0FsbG93ZWRBc3NldFw+</entry>
         <entry encoding="base64">XDxpbnN0YWxsZWRUaGVtZVw+</entry>
         <entry encoding="base64">XDxCdWlsZEZpbGVcPg==</entry>
         <entry encoding="base64">XDxQcm9jZXNzRmlsZUNvbnRlbnRzXD4=</entry>
@@ -262,6 +284,8 @@
         <entry>class</entry>
         <entry encoding="base64">XDxfYmFzZUNvbnRyb2xsZXJcPg==</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry encoding="base64">XDxQb3B1bGF0ZUNvbnRlbnRGcm9tVGhlbWVcPg==</entry>
+        <entry encoding="base64">XDxSZW1vdmVTM0ZpbGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
