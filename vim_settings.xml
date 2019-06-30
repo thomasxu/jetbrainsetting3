@@ -3,12 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1561934058312">
-        <mark key="'" line="1423" column="0" />
-        <mark key="[" line="1250" column="65" />
-        <mark key="]" line="1250" column="65" />
-        <mark key="^" line="1250" column="65" />
-        <mark key="." line="1250" column="65" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Pages/IPageService.cs" timestamp="1561934806406">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1561935498287">
+        <mark key="'" line="1930" column="27" />
+        <mark key="[" line="1136" column="76" />
+        <mark key="]" line="1136" column="76" />
+        <mark key="^" line="1136" column="43" />
+        <mark key="." line="1136" column="76" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/596E0EBE-46F2-45D9-833E-F929E428C400/db/1378d508/HttpUtility.cs" timestamp="1561807129123">
         <mark key="'" line="168" column="38" />
@@ -20,11 +26,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6F4EDEDE-0BA2-423A-A8B8-C83FDE07DA01/b4/ee07ad68/ElasticClient.cs" timestamp="1561804250421">
         <mark key="'" line="6293" column="30" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Categories/CategoryExtensions.cs" timestamp="1561887332105">
-        <mark key="[" line="239" column="40" />
-        <mark key="]" line="239" column="43" />
-        <mark key="." line="239" column="40" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" timestamp="1561894432735">
         <mark key="'" line="42" column="99" />
       </file>
@@ -34,11 +35,23 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B182083D-5048-4347-8DAC-3F04C9E7EB7F/c3/e1575b7b/HtmlSanitizer.cs" timestamp="1561798129155">
         <mark key="'" line="348" column="11" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/IThemingService.cs" timestamp="1561934138092">
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="8" />
-        <mark key="." line="61" column="8" />
-        <mark key="^" line="61" column="35" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/IThemingService.cs" timestamp="1561935699035">
+        <mark key="[" line="105" column="27" />
+        <mark key="]" line="105" column="32" />
+        <mark key="." line="105" column="32" />
+        <mark key="^" line="105" column="32" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemingController.cs" timestamp="1561935739091">
+        <mark key="[" line="120" column="9" />
+        <mark key="]" line="137" column="8" />
+        <mark key="." line="137" column="8" />
+        <mark key="^" line="137" column="8" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1561872958683">
+        <mark key="[" line="128" column="76" />
+        <mark key="]" line="128" column="75" />
+        <mark key="^" line="128" column="75" />
+        <mark key="." line="128" column="75" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Assets/BundleHelper.cs" timestamp="1561881759315">
         <mark key="[" line="38" column="87" />
@@ -73,9 +86,20 @@
         <mark key="." line="682" column="17" />
         <mark key="^" line="682" column="17" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/RepositoryExtension.cs" timestamp="1561935508612">
+        <mark key="[" line="72" column="97" />
+        <mark key="]" line="72" column="97" />
+        <mark key="^" line="72" column="97" />
+        <mark key="." line="72" column="97" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Pages/PageService.cs" timestamp="1561934856479">
+        <mark key="[" line="163" column="48" />
+        <mark key="]" line="163" column="48" />
+        <mark key="^" line="163" column="48" />
+        <mark key="." line="163" column="48" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="8" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PickQuoteAmountUpdater.cs" />
       <jump line="12" column="35" filename="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/JobClient.cs" />
       <jump line="5" column="25" filename="$USER_HOME$/RiderProjects/Solution1/JobAdder.Infrastructure/ApiClient/CandidateClient.cs" />
       <jump line="35" column="51" filename="$USER_HOME$/RiderProjects/Solution1/JobAdder.Application/JobService.cs" />
@@ -175,6 +199,7 @@
       <jump line="1423" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
       <jump line="249" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/S3Extension.cs" />
       <jump line="847" column="24" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" />
+      <jump line="1930" column="27" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -196,10 +221,10 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>ObjectId</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZW1vdmVTM0ZpbGVzXD4=</text>
+        <text>interface</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGFzeW5jIFRhc2sgUmVtb3ZlRGlyZWN0b3J5KHRoaXMgSUFtYXpvblMzIGNsaWVudCwgc3RyaW5nIGJ1Y2tldE5hbWUsIHN0cmluZyBwYXRoLCBib29sIHJlY3Vyc2l2ZSA9IHRydWUpCg==</text>
@@ -245,9 +270,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZW1vdmVTM0ZpbGVzXD4=</last-search>
+      <last-search>interface</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZW1vdmVTM0ZpbGVzXD4=</last-pattern>
+      <last-pattern>interface</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>inter</last-substitute>
       <last-dir>1</last-dir>
@@ -266,7 +291,6 @@
         <entry encoding="base64">XDxDbGVhblRoZW1lXD4=</entry>
         <entry encoding="base64">XDxfczNDYWNoZUxpcXVpZFw+</entry>
         <entry encoding="base64">XDxHZXRQdWJsaXNoZWRJbnN0YWxsZWRUaGVtZVw+</entry>
-        <entry>interface</entry>
         <entry>ShopId</entry>
         <entry>UserId</entry>
         <entry>inter</entry>
@@ -275,6 +299,7 @@
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDxQb3B1bGF0ZUNvbnRlbnRGcm9tVGhlbWVcPg==</entry>
         <entry encoding="base64">XDxSZW1vdmVTM0ZpbGVzXD4=</entry>
+        <entry>interface</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
