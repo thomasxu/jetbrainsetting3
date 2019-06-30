@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Collections/PagedList.cs" timestamp="1561891656475" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CurrencyHelper.cs" timestamp="1561881035854">
         <mark key="[" line="85" column="48" />
         <mark key="]" line="85" column="47" />
@@ -23,39 +24,38 @@
         <mark key="." line="239" column="40" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/AppRegistryHelper.cs" timestamp="1561885181321" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Search/SearchService.cs" timestamp="1561891061942" />
       <file name="/Dummy.cs" timestamp="1561809638139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/CategoryDrop.cs" timestamp="1561890464286" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/CategoryDrop.cs" timestamp="1561892142848" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/IntManipulationExtensions.cs" timestamp="1561881252639">
         <mark key="[" line="180" column="35" />
         <mark key="]" line="180" column="35" />
         <mark key="^" line="180" column="35" />
         <mark key="." line="180" column="35" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1561872958683">
-        <mark key="[" line="128" column="76" />
-        <mark key="]" line="128" column="75" />
-        <mark key="^" line="128" column="75" />
-        <mark key="." line="128" column="75" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Assets/BundleHelper.cs" timestamp="1561881759315">
         <mark key="[" line="38" column="87" />
         <mark key="]" line="38" column="103" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1561872141467">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1561885586467" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/CategoriesDrop.cs" timestamp="1561887167395" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeSettingsHelper.cs" timestamp="1561873696554" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1561883078464" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1561885800298">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Categories/CategoryService.cs" timestamp="1561892877563">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="54" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1561892807198">
         <mark key="'" line="124" column="36" />
-        <mark key="[" line="735" column="46" />
+        <mark key="[" line="594" column="29" />
+        <mark key="]" line="594" column="107" />
+        <mark key="." line="682" column="17" />
+        <mark key="^" line="682" column="17" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Apps/AppService.cs" timestamp="1561885257703" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ImageViewModel.cs" timestamp="1561887834229" />
@@ -182,13 +182,13 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>Currencies()</text>
+        <text>_pageContentService.Find(page.PagePath, Seller.Id)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYmFzZUNvbnRyb2xsZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ID8g</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQ2F0ZWdvcnkgQ3JlYXRlQWxsQ2F0ZWdvcnkoQWN0b3IgYWN0b3IpCg==</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
