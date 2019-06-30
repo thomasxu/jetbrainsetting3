@@ -13,12 +13,17 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6F4EDEDE-0BA2-423A-A8B8-C83FDE07DA01/b4/ee07ad68/ElasticClient.cs" timestamp="1561804250421">
         <mark key="'" line="6293" column="30" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1561878884100">
+        <mark key="'" line="124" column="36" />
+        <mark key="[" line="735" column="46" />
+      </file>
       <file name="/Dummy.cs" timestamp="1561809638139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1561873498610" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/RequestExtensions.cs" timestamp="1561852804892">
         <mark key="[" line="410" column="12" />
         <mark key="]" line="410" column="12" />
@@ -30,6 +35,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/596E0EBE-46F2-45D9-833E-F929E428C400/db/1378d508/HttpUtility.cs" timestamp="1561807129123">
         <mark key="'" line="168" column="38" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeSettingsHelper.cs" timestamp="1561873696554" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1561872958683">
         <mark key="[" line="128" column="76" />
         <mark key="]" line="128" column="75" />
@@ -38,9 +44,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/dev/git/bartender/Bartender.ApiHost/Web.config" />
-      <jump line="233" column="21" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
-      <jump line="240" column="71" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="261" column="161" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.Utility.cs" />
       <jump line="344" column="39" filename="C:/dev/git/bartender/Buildsoft.Bartender.IntegrationTest/Repositories/QuoteAmounts/QuoteAmountRepositoryTest.cs" />
       <jump line="30" column="45" filename="C:/dev/git/bartender/Buildsoft.Bartender.Business/QuoteAmount/Updaters/PickQuoteAmountUpdater.cs" />
@@ -138,6 +141,9 @@
       <jump line="348" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B182083D-5048-4347-8DAC-3F04C9E7EB7F/c3/e1575b7b/HtmlSanitizer.cs" />
       <jump line="6293" column="30" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6F4EDEDE-0BA2-423A-A8B8-C83FDE07DA01/b4/ee07ad68/ElasticClient.cs" />
       <jump line="168" column="38" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/596E0EBE-46F2-45D9-833E-F929E428C400/db/1378d508/HttpUtility.cs" />
+      <jump line="102" column="31" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
+      <jump line="117" column="37" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
+      <jump line="124" column="36" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -162,7 +168,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text encoding="base64">XDxfYmFzZUNvbnRyb2xsZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>C</text>
@@ -208,9 +214,9 @@
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search encoding="base64">XDxfYmFzZUNvbnRyb2xsZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern encoding="base64">XDxfYmFzZUNvbnRyb2xsZXJcPg==</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>inter</last-substitute>
       <last-dir>1</last-dir>
@@ -218,7 +224,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb3B5RmlsZVRvUzNcPg==</entry>
         <entry encoding="base64">XDxCdWlsZEJ1bmRsZXNcPg==</entry>
         <entry encoding="base64">XDxJc0xpcXVpZFw+</entry>
         <entry encoding="base64">XDxJc0FsbG93ZWRBc3NldFw+</entry>
@@ -238,6 +243,7 @@
         <entry>UserId</entry>
         <entry>inter</entry>
         <entry>class</entry>
+        <entry encoding="base64">XDxfYmFzZUNvbnRyb2xsZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
