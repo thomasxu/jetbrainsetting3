@@ -3,17 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Themes/ThemeSetting.cs" timestamp="1562020733649">
+        <mark key="'" line="249" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/PageTemplateResponse.cs" timestamp="1562017505265">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/obj/Debug/netstandard2.0/RefitStubs.g.cs" timestamp="1562019603306" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/ThemePageResponse.cs" timestamp="1562017525356">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1562017288004" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/ThemeResponse.cs" timestamp="1562019638986">
+        <mark key="'" line="37" column="24" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/ThemeVersionResponseMapper.cs" timestamp="1562018490116" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Resources/Buttons.Designer.cs" timestamp="1562019429559" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Themes/ThemeVersionResponseMapper.cs" timestamp="1562018516456">
@@ -22,7 +29,10 @@
       <file name="/Dummy.txt" timestamp="1561986166306">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/Themes/ThemeSettingsExtensions.cs" timestamp="1562019228343" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/ThemeSettingsExtensions.cs" timestamp="1562021355369" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/Themes/ThemeSettingsExtensions.cs" timestamp="1562021183919">
+        <mark key="[" line="94" column="34" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Settings/UploadSettings.cs" timestamp="1562019508404">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="22" />
@@ -30,8 +40,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="29" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier.component.html" />
-      <jump line="25" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/add-package-lifecycle-supplier/add-package-lifecycle-supplier.component.html" />
       <jump line="200" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.ts" />
       <jump line="110" column="8" filename="C:/dev/git/bartender/WebApp/src/app/comparison/comparison.module.ts" />
       <jump line="215" column="4" filename="C:/dev/git/bartender/WebApp/src/app/comparison/comparison.module.ts" />
@@ -130,6 +138,8 @@
       <jump line="20" column="13" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" />
       <jump line="54" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" />
       <jump line="11" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" />
+      <jump line="37" column="24" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/ThemeResponse.cs" />
+      <jump line="251" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Themes/ThemeSetting.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -154,7 +164,7 @@
         <text>Buttons.</text>
       </register>
       <register name="/" type="4">
-        <text>interface</text>
+        <text>class</text>
       </register>
       <register name="0" type="4">
         <text>[SelzShopId] string shopId, [CorrelationId] string correlationId</text>
@@ -200,9 +210,9 @@
       </register>
     </registers>
     <search>
-      <last-search>interface</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>interface</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>Id1</last-replace>
       <last-substitute>interface</last-substitute>
       <last-dir>1</last-dir>
@@ -224,12 +234,12 @@
         <entry>ShopId</entry>
         <entry>UserId</entry>
         <entry>inter</entry>
-        <entry>class</entry>
         <entry encoding="base64">XDxfYmFzZUNvbnRyb2xsZXJcPg==</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDxQb3B1bGF0ZUNvbnRlbnRGcm9tVGhlbWVcPg==</entry>
         <entry encoding="base64">XDxSZW1vdmVTM0ZpbGVzXD4=</entry>
         <entry>interface</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
