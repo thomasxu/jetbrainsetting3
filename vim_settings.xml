@@ -18,11 +18,11 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/PageContents/PageContentsScenarios.cs" timestamp="1561968817228">
         <mark key="'" line="12" column="17" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.local.json" timestamp="1561968906624">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.local.json" timestamp="1561970213534">
         <mark key="[" line="14" column="3" />
-        <mark key="]" line="14" column="2" />
-        <mark key="^" line="14" column="2" />
-        <mark key="." line="14" column="2" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="14" column="3" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/IDependency.cs" timestamp="1561938137864" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/IThemingService.cs" timestamp="1561935699035">
@@ -75,10 +75,10 @@
         <mark key="]" line="35" column="20" />
         <mark key="." line="35" column="20" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1561968761003">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="14" column="4" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1561970229112">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Startup.cs" timestamp="1561962637260">
         <mark key="[" line="20" column="0" />
@@ -91,7 +91,7 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561967106002">
+      <file name="/Dummy.txt" timestamp="1561970207745">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1561961968037" />
@@ -102,12 +102,12 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="/appsettings.local.json" timestamp="1561965520813" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Cache/IRedisCacheClient.cs" timestamp="1561968373543">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Cache/IRedisCacheClient.cs" timestamp="1561970162922">
         <mark key="'" line="93" column="0" />
-        <mark key="[" line="81" column="69" />
-        <mark key="]" line="73" column="27" />
-        <mark key="." line="73" column="27" />
-        <mark key="^" line="73" column="27" />
+        <mark key="[" line="72" column="50" />
+        <mark key="]" line="222" column="23" />
+        <mark key="." line="222" column="23" />
+        <mark key="^" line="222" column="23" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/HealthChecksBuilderExtensions.cs" timestamp="1561939713482" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.IZettle.json" timestamp="1561940265979">
@@ -245,55 +245,55 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>functional</text>
+        <text>redis.local.selz.com</text>
       </register>
       <register name="/" type="4">
         <text>interface</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJTZW50cnlEc24iOiAiaHR0cHM6Ly84YWY4ZGNkZDkwYjE0MTVlOGU3ZGJiNjdjODAzZWVjY0BzZW50cnkuaW8vMTQ5Mzc2MiIsCg==</text>
+        <text encoding="base64">ICAgIC8vLyBUT0RPOiBTaG91bGQgd2UgbG9vayBhdCB1c2luZyB0aGlzIGh0dHBzOi8vZ2l0aHViLmNvbS9TZXJ2aWNlU3RhY2svU2VydmljZVN0YWNrL2Jsb2IvbWFzdGVyL3NyYy9TZXJ2aWNlU3RhY2suQ29tbW9uL1VybklkLmNzIAo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAiUmVkaXMiOiB7CiAgICAidXJsIjogInJlZGlzLmxvY2FsLnNlbHouY29tIgogIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAiUmVkaXMiOiB7CiAgICAidXJsIjogInJlZGlzMTIzLmxvY2FsLnNlbHouY29tIgogIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;Redis&quot;: {
-//    &quot;url&quot;: &quot;redis.local.selz.com&quot;
-//  },</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>Repository</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICJEcm9wYm94IjogewogICAgIkFwcEtleSI6ICJ1ZWRsOTFsNDloc2FuNWYiCiAgfSwKICAiR29vZ2xlIjogewogICAgIkNsaWVudFNpZGVLZXkiOiAiQUl6YVN5QWFRSVhtOGZuVS00Z1NtMlpmRWNJVHBSOEJKVFJxNEJFIgogIH0s</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;Redis&quot;: {
-    &quot;ConnectionString&quot;: &quot;redis.local.selz.com&quot;
-  },</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUxvZ2dlciBMb2dnZXIgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="t" type="4">
         <text>TradePackag</text>
       </register>
-      <register name="5" type="4">
-        <text>//  &quot;Repository&quot;: {
-//    &quot;ConnectionString&quot;: &quot;mongodb://db.local.selz.com/drachma&quot;
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
+      </register>
+      <register name="6" type="4">
+        <text>}
+            catch (Exception ex)
+            {
+                Logger.LogError(ex, &quot;RedisCache error - Initialize&quot;);
+            }</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAiUmVkaXMiOiB7CiAgICAidXJsIjogInJlZGlzLmxvY2FsLnNlbHouY29tIgogIH0=</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;Redis&quot;: {
+//    &quot;url&quot;: &quot;redis.local.selz.com&quot;
 //  },</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbHRlckJ1aWxkZXIgPSBCdWlsZGVyczxQYWdlQ29udGVudD4uRmlsdGVyOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguU2hvcElkLCBzaG9wSWQpICYKICAgICAgICAgICAgICAgICAgICAgICAgKGZpbHRlckJ1aWxkZXIuRXEoeCA9PiB4LlBhZ2VQYXRoLCBwYWdlUGF0aCkgfCBmaWx0ZXJCdWlsZGVyLkVxKHggPT4geC5Jc0dsb2JhbCwgdHJ1ZSkpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICJEcm9wYm94IjogewogICAgIkFwcEtleSI6ICJ1ZWRsOTFsNDloc2FuNWYiCiAgfSwKICAiR29vZ2xlIjogewogICAgIkNsaWVudFNpZGVLZXkiOiAiQUl6YVN5QWFRSVhtOGZuVS00Z1NtMlpmRWNJVHBSOEJKVFJxNEJFIgogIH0s</text>
       </register>
       <register name=":" type="4">
         <text>set relativenumber</text>
