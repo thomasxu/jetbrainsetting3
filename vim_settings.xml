@@ -57,6 +57,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1561933816027">
+        <mark key="'" line="249" column="0" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="126" />
+        <mark key="." line="259" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1561952663236" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/RepositoryExtension.cs" timestamp="1561935508612">
         <mark key="[" line="72" column="97" />
@@ -102,7 +108,12 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="/appsettings.local.json" timestamp="1561965520813" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Cache/IRedisCacheClient.cs" timestamp="1561963366937" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Cache/IRedisCacheClient.cs" timestamp="1561967037079">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="81" column="69" />
+        <mark key="]" line="81" column="69" />
+        <mark key="." line="81" column="69" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/HealthChecksBuilderExtensions.cs" timestamp="1561939713482" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.IZettle.json" timestamp="1561940265979">
         <mark key="[" line="31" column="20" />
@@ -118,8 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="25" filename="C:/dev/git/JobAdder/JobMatcher/JobMatcher.Api/README.md" />
-      <jump line="8" column="40" filename="$USER_HOME$/RiderProjects/ConsoleApp4/ConsoleApp4/Program.cs" />
       <jump line="71" column="34" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackages-life-cycle/job-tradepackages-life-cycle.component.ts" />
       <jump line="506" column="16" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-quotes/job-tradepackage-quotes.component.ts" />
       <jump line="17" column="33" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.html" />
@@ -218,6 +227,8 @@
       <jump line="22" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/PageContents/PageContentsScenarios.cs" />
       <jump line="41" column="46" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/PageContents/PageContentsScenarios.cs" />
       <jump line="29" column="37" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/PageContents/PageContentsScenarios.cs" />
+      <jump line="88" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Cache/IRedisCacheClient.cs" />
+      <jump line="89" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Cache/IRedisCacheClient.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -239,7 +250,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>functional</text>
       </register>
       <register name="/" type="4">
         <text>interface</text>
