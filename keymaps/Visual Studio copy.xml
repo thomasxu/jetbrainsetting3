@@ -303,14 +303,21 @@
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="NextEditorTab" />
+  <action id="NextEditorTab">
+    <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
+  </action>
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
     <keyboard-shortcut first-keystroke="shift alt l" />
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
-  <action id="NextTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
   <action id="Pause">
     <keyboard-shortcut first-keystroke="ctrl pause" />
   </action>
@@ -329,6 +336,7 @@
     <keyboard-shortcut first-keystroke="alt k" />
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="PreviousProjectWindow" />
   <action id="PreviousTab" />
   <action id="Print" />
   <action id="QuickEvaluateExpression">
