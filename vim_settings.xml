@@ -28,7 +28,9 @@
         <mark key="." line="57" column="26" />
         <mark key="^" line="57" column="26" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Settings/UploadSettingsMapper.cs" timestamp="1562021527857" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Settings/UploadSettingsMapper.cs" timestamp="1562026287751">
+        <mark key="[" line="9" column="40" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemingController.cs" timestamp="1561984733235">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="100" />
@@ -52,13 +54,13 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/ThemeVersionResponse.cs" timestamp="1561986547812">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="20" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/ThemeVersionResponse.cs" timestamp="1562027081983">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Themes/InstalledThemeResponseMapper.cs" timestamp="1562021729985">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Themes/InstalledThemeResponseMapper.cs" timestamp="1562026703566">
         <mark key="[" line="18" column="93" />
         <mark key="]" line="18" column="93" />
         <mark key="^" line="18" column="92" />
@@ -102,7 +104,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562025464806">
+      <file name="/Dummy.txt" timestamp="1562027261082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Themes/ThemeNavigationResponseMapper.cs" timestamp="1562021881359">
@@ -112,6 +114,7 @@
         <mark key="." line="20" column="47" />
         <mark key="^" line="20" column="47" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Shops/ShopsMapper.cs" timestamp="1562026305067" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/ThemeSettingsExtensions.cs" timestamp="1562022564346" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Cache/IRedisCacheClient.cs" timestamp="1561972124657">
         <mark key="[" line="8" column="0" />
@@ -125,7 +128,9 @@
         <mark key="." line="13" column="128" />
         <mark key="^" line="13" column="128" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/MockRedisCacheClient.cs" timestamp="1562025289107" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/MockRedisCacheClient.cs" timestamp="1562026141855">
+        <mark key="'" line="15" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1561977856906">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
@@ -142,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="0" filename="C:/dev/git/bartender/WebApp/src/app/comparison/components/job-tradepackage-life-cycle-item/job-tradepackage-life-cycle-item.component.ts" />
       <jump line="110" column="8" filename="C:/dev/git/bartender/WebApp/src/app/comparison/comparison.module.ts" />
       <jump line="215" column="4" filename="C:/dev/git/bartender/WebApp/src/app/comparison/comparison.module.ts" />
       <jump line="255" column="57" filename="C:/dev/git/bartender/WebApp/src/app/comparison/comparison.module.ts" />
@@ -242,6 +246,7 @@
       <jump line="11" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" />
       <jump line="37" column="24" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/ThemeResponse.cs" />
       <jump line="251" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Themes/ThemeSetting.cs" />
+      <jump line="15" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/MockRedisCacheClient.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -263,7 +268,7 @@
         <text>quoteLifecycleId</text>
       </register>
       <register name="-" type="4">
-        <text>SemVersion</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
