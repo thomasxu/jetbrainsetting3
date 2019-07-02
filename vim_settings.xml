@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/Theme.cs" timestamp="1562041504093">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="20" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IThemesApi.cs" timestamp="1562039679127">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="38" column="58" />
@@ -36,9 +40,6 @@
         <mark key="." line="57" column="26" />
         <mark key="^" line="57" column="26" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Settings/UploadSettingsMapper.cs" timestamp="1562026287751">
-        <mark key="[" line="9" column="40" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/obj/Debug/netstandard2.0/RefitStubs.g.cs" timestamp="1562019603306" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/ErrorHandlingMiddleware.cs" timestamp="1562040586484" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/InstalledThemeResponse.cs" timestamp="1562017498385">
@@ -69,7 +70,12 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562040437254">
         <mark key="]" line="18" column="51" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B2737DDC-5DB9-4606-9CC2-6986D52AF562/ce/48fb5cf0/SemVersion.cs" timestamp="1562042184097" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/ThemeVersionResponseMapper.cs" timestamp="1562018490116" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A416B15A-BF32-4838-AEE2-B1FCD3CA74BD/77/627a0b20/ObjectId.cs" timestamp="1562043188504">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="16" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemesController.cs" timestamp="1562039753162">
         <mark key="'" line="124" column="94" />
         <mark key="[" line="126" column="71" />
@@ -77,7 +83,8 @@
         <mark key="^" line="126" column="82" />
         <mark key="." line="126" column="82" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FEA0F8C7-5335-4307-B570-E93E87157609/dd/315c4fca/ObjectId.cs" timestamp="1562027793312" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FEA0F8C7-5335-4307-B570-E93E87157609/dd/315c4fca/ObjectId.cs" timestamp="1562043244809" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4ADE838-B71C-44D3-9AE8-4628059C37C2/ad/c4eee777/SemVersion.cs" timestamp="1562042578511" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Resources/Buttons.Designer.cs" timestamp="1562019429559" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562039699318">
         <mark key="[" line="28" column="74" />
@@ -91,9 +98,7 @@
         <mark key="." line="96" column="36" />
         <mark key="^" line="96" column="36" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Themes/ThemeVersionResponseMapper.cs" timestamp="1562030650890">
-        <mark key="[" line="25" column="5" />
-      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Themes/Theme.cs" timestamp="1562041833140" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/AddressResponse.cs" timestamp="1562028036414">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="4" column="21" />
@@ -115,9 +120,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1FAFC0EE-8752-4DAE-A50B-F9ABFA0F2DF8/22/0ddacfeb/MiddlewareApplicationBuilderExtensions.cs" timestamp="1562040229805">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="20" column="51" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/Themes/ThemeSettingsExtensions.cs" timestamp="1562021183919">
-        <mark key="[" line="94" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -248,7 +250,7 @@
         <text encoding="base64">XDxfcmVkaXNDYWNoZUVuYWJsZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXBwLlVzZU1pZGRsZXdhcmU8U2VyaWxvZ01pZGRsZXdhcmU+KCk7CiAgICAgIGFwcC5Vc2VNaWRkbGV3YXJlPENvcnJlbGF0aW9uSWRNaWRkbGV3YXJlPigpOwogICAgICBhcHAuVXNlTWlkZGxld2FyZTxSZXF1ZXN0TG9nZ2VyTWlkZGxld2FyZT4oKTsKICAgICAgYXBwLlVzZU1pZGRsZXdhcmU8UmVzcG9uc2VMb2dnZXJNaWRkbGV3YXJlPigpOwogICAgICBhcHAuVXNlTWlkZGxld2FyZTxFcnJvckhhbmRsaW5nTWlkZGxld2FyZT4oKTsK</text>
+        <text encoding="base64">ICBbU2VyaWFsaXphYmxlXQo=</text>
       </register>
       <register name="p" type="4">
         <text>public</text>
