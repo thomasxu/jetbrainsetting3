@@ -3,15 +3,73 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/Program.cs" timestamp="1562069262904" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Extensions/ApplicationBuilderExtensions.cs" timestamp="1562074232250" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/378306D0-F70E-48B5-8827-55CD0F781644/f4/87d71a3d/HealthCheckRegistration.cs" timestamp="1562073590947">
+        <mark key="'" line="67" column="11" />
+      </file>
+      <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/Program.cs" timestamp="1562074750112" />
+      <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/localstack-docker-compose.yml" timestamp="1562074356723" />
+      <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/DockerService.cs" timestamp="1562074632545" />
+      <file name="C:/dev/git/selz/Services.Search/Service/run-api.ps1" timestamp="1562073342621">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="127" />
+      </file>
+      <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/selz-services.json" timestamp="1562075245859">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="67" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/378306D0-F70E-48B5-8827-55CD0F781644/f4/87d71a3d/HealthCheckRegistration.cs" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text>health-all</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgInNlcnZpY2VOYW1lIjogIlNlcnZpY2VzLlNob3AiLAogICAgICAicGF0aCI6ICJTZXJ2aWNlcy5TaG9wXFxTZXJ2aWNlXFxzcmNcXEFwaVxcU2Vsei5TaG9wcy5BcGkiLAogICAgICAiZG9ja2VyZmlsZSI6ICJkb2NrZXItY29tcG9zZS1hcGktbG9jYWwueW1sIiwKICAgICAgImhlYWx0aENoZWNrIjogImh0dHBzOi8vc2hvcHMtYXBpLmxvY2FsLXNlbHouY29tOjQ0NjY5L3Nob3BzL2hlYWx0aC1hbGwiCiAgICB9LAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgInNlcnZpY2VOYW1lIjogIlNlcnZpY2VzLlNob3AiLAogICAgICAicGF0aCI6ICJTZXJ2aWNlcy5TaG9wXFxTZXJ2aWNlXFxzcmNcXEFwaVxcU2Vsei5TaG9wcy5BcGkiLAogICAgICAiZG9ja2VyZmlsZSI6ICJkb2NrZXItY29tcG9zZS1hcGktbG9jYWwueW1sIiwKICAgICAgImhlYWx0aENoZWNrIjogImh0dHBzOi8vc2hvcHMtYXBpLmxvY2FsLXNlbHouY29tOjQ0NjY5L3Nob3BzL2hlYWx0aC1hbGwiCiAgICB9LAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgInNlcnZpY2VOYW1lIjogIlNlcnZpY2VzLlNob3AiLAogICAgICAicGF0aCI6ICJTZXJ2aWNlcy5TaG9wXFxTZXJ2aWNlXFxzcmNcXEFwaVxcU2Vsei5TaG9wcy5BcGkiLAogICAgICAiZG9ja2VyZmlsZSI6ICJkb2NrZXItY29tcG9zZS1hcGktbG9jYWwueW1sIiwKICAgICAgImhlYWx0aENoZWNrIjogImh0dHBzOi8vc2hvcHMtYXBpLmxvY2FsLXNlbHouY29tOjQ0NjY5L3Nob3BzL2hlYWx0aC1hbGwiCiAgICB9LAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>,
+    {
+      &quot;serviceName&quot;: &quot;Services.Shop&quot;,
+      &quot;path&quot;: &quot;Services.Shop\\Service\\src\\Api\\Selz.Shops.Api&quot;,
+      &quot;dockerfile&quot;: &quot;docker-compose-api-local.yml&quot;,
+      &quot;healthCheck&quot;: &quot;https://shops-api.local-selz.com:44669/shops/health-all&quot;
+    }</text>
+      </register>
+      <register name="-" type="4">
+        <text>Shop</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
