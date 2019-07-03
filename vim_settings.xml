@@ -4,23 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/LiquidCacheAttribute.cs" timestamp="1562111960625" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1562112132049" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IThemesApi.cs" timestamp="1562109641813" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/IZettleAnalytics/IZettleAnalyticsClient.cs" timestamp="1562112344845">
-        <mark key="[" line="47" column="29" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1562125001772" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/README.md" timestamp="1562108838257">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1562111872662" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/docker-compose-api-local.yml" timestamp="1562111807403" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Converters/ObjectIdConverter.cs" timestamp="1562113864803" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Global.asax.cs" timestamp="1562113010492">
-        <mark key="[" line="232" column="14" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1562125651530" />
+      <file name="/Dummy.cs" timestamp="1562125631936">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/selz-services.json" timestamp="1562075245859">
         <mark key="[" line="10" column="31" />
@@ -32,7 +19,6 @@
         <mark key="'" line="1301" column="47" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Converters/ObjectIdConverter.cs" timestamp="1562113239104" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Pages/PageService.cs" timestamp="1562124409112" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1562112007837" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ObjectCopier.cs" timestamp="1562113870010">
         <mark key="[" line="27" column="54" />
@@ -40,6 +26,28 @@
         <mark key="^" line="27" column="68" />
         <mark key="." line="27" column="54" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1562125750304">
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="41" column="35" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1562112132049" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/IZettleAnalytics/IZettleAnalyticsClient.cs" timestamp="1562112344845">
+        <mark key="[" line="47" column="29" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/README.md" timestamp="1562108838257">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1562111872662" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562125781909" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/docker-compose-api-local.yml" timestamp="1562111807403" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Converters/ObjectIdConverter.cs" timestamp="1562113864803" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Global.asax.cs" timestamp="1562113010492">
+        <mark key="[" line="232" column="14" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Pages/PageService.cs" timestamp="1562124409112" />
     </filemarks>
     <jumps>
       <jump line="67" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/378306D0-F70E-48B5-8827-55CD0F781644/f4/87d71a3d/HealthCheckRegistration.cs" />
@@ -47,7 +55,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>health-all</text>
+        <text>selzimg-test</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QVdTX0RFRkFVTFRfUkVHSU9OPXVzLXdlc3QtMgpgYGAK</text>
