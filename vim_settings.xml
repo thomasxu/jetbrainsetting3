@@ -4,12 +4,15 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/LiquidCacheAttribute.cs" timestamp="1562111960625" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Resources/Texts.Designer.cs" timestamp="1562132021519" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IThemesApi.cs" timestamp="1562109641813" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemesController.cs" timestamp="1562130410672" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Options/S3Options.cs" timestamp="1562127891297">
         <mark key="[" line="4" column="44" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1562130972707" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1562132610106">
+        <mark key="'" line="1666" column="31" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/IAmazonSettings.cs" timestamp="1562127464465" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562130537252">
         <mark key="[" line="12" column="51" />
@@ -33,6 +36,7 @@
         <mark key="'" line="1301" column="47" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Converters/ObjectIdConverter.cs" timestamp="1562127224080" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Resources/Texts.resx" timestamp="1562132513468" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1562112007837" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ObjectCopier.cs" timestamp="1562131045565">
         <mark key="[" line="26" column="52" />
@@ -45,7 +49,11 @@
         <mark key="^" line="41" column="26" />
         <mark key="." line="41" column="26" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/ErrorHandlingMiddleware.cs" timestamp="1562130563984" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/ErrorHandlingMiddleware.cs" timestamp="1562131906569">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1562112132049" />
       <file name="/appsettings.Local.json" timestamp="1562127064231" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1562128011343" />
@@ -81,6 +89,7 @@
     <jumps>
       <jump line="67" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/378306D0-F70E-48B5-8827-55CD0F781644/f4/87d71a3d/HealthCheckRegistration.cs" />
       <jump line="1301" column="47" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Constants.cs" />
+      <jump line="1666" column="31" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -114,7 +123,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBJQ2xhc3NGaXh0dXJlPERhdGFGaXh0dXJlPg==</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
