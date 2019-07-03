@@ -4,16 +4,18 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/JavaScriptHelper.cs" timestamp="1562139538410" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IThemesApi.cs" timestamp="1562109641813" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IThemesApi.cs" timestamp="1562156774913">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Uploads/UploadSettings.cs" timestamp="1562146668640" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/UploadSettingsExtensions.cs" timestamp="1562146313960">
         <mark key="[" line="10" column="45" />
         <mark key="]" line="10" column="45" />
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="45" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Options/S3Options.cs" timestamp="1562127891297">
-        <mark key="[" line="4" column="44" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/IAmazonSettings.cs" timestamp="1562127464465" />
       <file name="/Dummy.cs" timestamp="1562128102824">
@@ -45,9 +47,6 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1562150992739" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1562128011343" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/IZettleAnalytics/IZettleAnalyticsClient.cs" timestamp="1562112344845">
-        <mark key="[" line="47" column="29" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeSettingsHelper.cs" timestamp="1562150948950" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1562111872662" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562131166142">
@@ -71,7 +70,7 @@
         <mark key="^" line="38" column="144" />
         <mark key="." line="38" column="144" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemesController.cs" timestamp="1562130410672" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemesController.cs" timestamp="1562156841555" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ThemeExtensions.cs" timestamp="1562139862718" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Pages/ContentBlockType.cs" timestamp="1562143707546" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Helpers/ThemeSettingsHelper.cs" timestamp="1562153226364">
@@ -80,24 +79,19 @@
         <mark key="." line="937" column="0" />
         <mark key="^" line="937" column="25" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562130537252">
-        <mark key="[" line="12" column="51" />
-        <mark key="]" line="12" column="51" />
-        <mark key="." line="12" column="51" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562156955631">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="16" />
+        <mark key="." line="32" column="16" />
+        <mark key="^" line="31" column="42" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Resources/Buttons.Designer.cs" timestamp="1562133771381" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Startup.cs" timestamp="1562131176099">
-        <mark key="[" line="115" column="25" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Themes/Theme.cs" timestamp="1562135626270" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Converters/ObjectIdConverter.cs" timestamp="1562127224080" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ObjectCopier.cs" timestamp="1562131045565">
         <mark key="[" line="26" column="52" />
         <mark key="]" line="26" column="52" />
         <mark key="." line="26" column="52" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1562142882398">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/appsettings.Local.json" timestamp="1562127064231" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/d2/bc5a7797/StringEnumConverter.cs" timestamp="1562138705299" />
@@ -128,11 +122,12 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/docker-compose-api-local.yml" timestamp="1562111807403" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Converters/ObjectIdConverter.cs" timestamp="1562113864803" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Converters/EnumStringConverter.cs" timestamp="1562138644355" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1562153878364">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1562156803911">
         <mark key="'" line="40" column="17" />
-        <mark key="[" line="108" column="12" />
-        <mark key="]" line="108" column="12" />
-        <mark key="." line="108" column="12" />
+        <mark key="[" line="878" column="34" />
+        <mark key="]" line="125" column="32" />
+        <mark key="." line="125" column="32" />
+        <mark key="^" line="125" column="32" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/Themes/ThemeSettingsExtensions.cs" timestamp="1562152352751">
         <mark key="[" line="200" column="40" />
@@ -167,35 +162,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ2hlY2tvdXRIZWFkZXJUZXh0Q29sb3IgPSBpbnB1dC5DaGVja291dEhlYWRlclRleHRDb2xvci5EZWZhdWx0VG8oaW5wdXQuQ2hlY2tvdXRIZWFkZXJCZ0NvbG9yKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlZmF1bHRUaGVtZSA9IG5ldyBTaG9wVGhlbWUoc2hvcC5BY2NvdW50VHlwZSk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgcHVibGljIHZvaWQgVGFzKCkgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpbnB1dD8/IF9kZWZhdWx0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlZmF1bHRUaGVtZSA9IG5ldyBTaG9wVGhlbWUoc2hvcC5BY2NvdW50VHlwZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBpbnB1dD8/IF9kZWZhdWx0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdG9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTdG9yZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IFNob3BUaGVtZSBfaW5wdXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IFNob3BUaGVtZSBfaW5wdXQ7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2lucHV0ID0gaW5wdXQ7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgY2xhc3MgVGhlbWVTZXR0aW5nCiAgICB7CiAgICAgICAgImEiLmRlZmF1bHR2YQogICAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmFja2dyb3VuZENvbG9yID0gaW5wdXQuQ2hlY2tvdXRIZWFkZXJCZ0NvbG9yLkRlZmF1bHRUbyhpbnB1dC5DaGVja291dEhlYWRlckJnQ29sb3IpOwo=</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyVGhlbWVcPg==</text>
@@ -243,6 +238,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
