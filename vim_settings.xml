@@ -4,14 +4,22 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/LiquidCacheAttribute.cs" timestamp="1562111960625" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Resources/Texts.Designer.cs" timestamp="1562132021519" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Resources/Texts.Designer.cs" timestamp="1562133621209">
+        <mark key="[" line="38" column="114" />
+        <mark key="]" line="38" column="144" />
+        <mark key="^" line="38" column="144" />
+        <mark key="." line="38" column="144" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IThemesApi.cs" timestamp="1562109641813" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemesController.cs" timestamp="1562130410672" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Options/S3Options.cs" timestamp="1562127891297">
         <mark key="[" line="4" column="44" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1562132610106">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1562133875856">
         <mark key="'" line="1666" column="31" />
+        <mark key="[" line="1679" column="97" />
+        <mark key="]" line="1679" column="97" />
+        <mark key="." line="1679" column="97" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/IAmazonSettings.cs" timestamp="1562127464465" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562130537252">
@@ -19,6 +27,7 @@
         <mark key="]" line="12" column="51" />
         <mark key="." line="12" column="51" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Resources/Buttons.Designer.cs" timestamp="1562133771381" />
       <file name="/Dummy.cs" timestamp="1562128102824">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
@@ -84,16 +93,20 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Global.asax.cs" timestamp="1562130891714">
         <mark key="[" line="232" column="14" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Resources/Messages.Designer.cs" timestamp="1562133650138">
+        <mark key="'" line="78" column="46" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Pages/PageService.cs" timestamp="1562124409112" />
     </filemarks>
     <jumps>
       <jump line="67" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/378306D0-F70E-48B5-8827-55CD0F781644/f4/87d71a3d/HealthCheckRegistration.cs" />
       <jump line="1301" column="47" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Constants.cs" />
       <jump line="1666" column="31" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" />
+      <jump line="78" column="46" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Resources/Messages.Designer.cs" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>selzimg-test</text>
+        <text>Selz.Shops.Core.Resources.Texts</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">c291cmNlSnNvbiwgbmV3IEpzb25TZXJpYWxpemVyU2V0dGluZ3MoKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb252ZXJ0ZXJzID0gbmV3IExpc3Q8SnNvbkNvbnZlcnRlcj4ge25ldyBPYmplY3RJZENvbnZlcnRlcigpfQogICAgICAgICAgICB9KQ==</text>
@@ -123,7 +136,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
     </registers>
     <search>
