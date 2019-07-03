@@ -5,20 +5,25 @@
     <filemarks>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/LiquidCacheAttribute.cs" timestamp="1562111960625" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IThemesApi.cs" timestamp="1562109641813" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1562125651530" />
-      <file name="/Dummy.cs" timestamp="1562125631936">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Options/S3Options.cs" timestamp="1562127891297">
+        <mark key="[" line="4" column="44" />
       </file>
-      <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/selz-services.json" timestamp="1562075245859">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="31" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1562128822356" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/IAmazonSettings.cs" timestamp="1562127464465" />
+      <file name="/Dummy.cs" timestamp="1562128102824">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.local.json" timestamp="1562128412009">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Constants.cs" timestamp="1562120727235">
         <mark key="'" line="1301" column="47" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Converters/ObjectIdConverter.cs" timestamp="1562113239104" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Converters/ObjectIdConverter.cs" timestamp="1562127224080" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1562112007837" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ObjectCopier.cs" timestamp="1562113870010">
         <mark key="[" line="27" column="54" />
@@ -26,11 +31,15 @@
         <mark key="^" line="27" column="68" />
         <mark key="." line="27" column="54" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1562125750304">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1562128285862">
         <mark key="[" line="41" column="24" />
         <mark key="]" line="41" column="35" />
+        <mark key="^" line="41" column="26" />
+        <mark key="." line="41" column="26" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1562112132049" />
+      <file name="/appsettings.Local.json" timestamp="1562127064231" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1562128011343" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/IZettleAnalytics/IZettleAnalyticsClient.cs" timestamp="1562112344845">
         <mark key="[" line="47" column="29" />
       </file>
@@ -41,7 +50,16 @@
         <mark key="^" line="16" column="20" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1562111872662" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562125781909" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Web.config" timestamp="1562128097011">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562126462640">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="49" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/docker-compose-api-local.yml" timestamp="1562111807403" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Converters/ObjectIdConverter.cs" timestamp="1562113864803" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Global.asax.cs" timestamp="1562113010492">
@@ -58,28 +76,34 @@
         <text>selzimg-test</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QVdTX0RFRkFVTFRfUkVHSU9OPXVzLXdlc3QtMgpgYGAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgInNlcnZpY2VOYW1lIjogIlNlcnZpY2VzLlNob3AiLAogICAgICAicGF0aCI6ICJTZXJ2aWNlcy5TaG9wXFxTZXJ2aWNlXFxzcmNcXEFwaVxcU2Vsei5TaG9wcy5BcGkiLAogICAgICAiZG9ja2VyZmlsZSI6ICJkb2NrZXItY29tcG9zZS1hcGktbG9jYWwueW1sIiwKICAgICAgImhlYWx0aENoZWNrIjogImh0dHBzOi8vc2hvcHMtYXBpLmxvY2FsLXNlbHouY29tOjQ0NjY5L3Nob3BzL2hlYWx0aC1hbGwiCiAgICB9LAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgIkFXUyI6IHsKICAgICJSZWdpb24iOiAidXMtZWFzdC0xIgogIH0s</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgInNlcnZpY2VOYW1lIjogIlNlcnZpY2VzLlNob3AiLAogICAgICAicGF0aCI6ICJTZXJ2aWNlcy5TaG9wXFxTZXJ2aWNlXFxzcmNcXEFwaVxcU2Vsei5TaG9wcy5BcGkiLAogICAgICAiZG9ja2VyZmlsZSI6ICJkb2NrZXItY29tcG9zZS1hcGktbG9jYWwueW1sIiwKICAgICAgImhlYWx0aENoZWNrIjogImh0dHBzOi8vc2hvcHMtYXBpLmxvY2FsLXNlbHouY29tOjQ0NjY5L3Nob3BzL2hlYWx0aC1hbGwiCiAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgInNlcnZpY2VOYW1lIjogIlNlcnZpY2VzLlNob3AiLAogICAgICAicGF0aCI6ICJTZXJ2aWNlcy5TaG9wXFxTZXJ2aWNlXFxzcmNcXEFwaVxcU2Vsei5TaG9wcy5BcGkiLAogICAgICAiZG9ja2VyZmlsZSI6ICJkb2NrZXItY29tcG9zZS1hcGktbG9jYWwueW1sIiwKICAgICAgImhlYWx0aENoZWNrIjogImh0dHBzOi8vc2hvcHMtYXBpLmxvY2FsLXNlbHouY29tOjQ0NjY5L3Nob3BzL2hlYWx0aC1hbGwiCiAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>,
-    {
-      &quot;serviceName&quot;: &quot;Services.Shop&quot;,
-      &quot;path&quot;: &quot;Services.Shop\\Service\\src\\Api\\Selz.Shops.Api&quot;,
-      &quot;dockerfile&quot;: &quot;docker-compose-api-local.yml&quot;,
-      &quot;healthCheck&quot;: &quot;https://shops-api.local-selz.com:44669/shops/health-all&quot;
-    }</text>
+        <text encoding="base64">ICAiSGVhbHRoQ2hlY2tzLVVJIjogewogICAgIkhlYWx0aENoZWNrcyI6IFsKICAgICAgewogICAgICAgICJOYW1lIjogIlNob3BzIiwKICAgICAgICAiVXJpIjogImh0dHBzOi8vYXBpLWludGVybmFsLmxvY2FsLXNlbHouY29tOjQ0NjY5L3Nob3BzL2hlYWx0aC1hbGwiCiAgICAgIH0KICAgIF0KICB9LA==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgIkFXUyI6IHsKICAgICJSZWdpb24iOiAidXMtZWFzdC0xIgogIH0s</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="8">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>ObjectIdConvert</text>
+        <text>selzshared</text>
       </register>
     </registers>
     <search>
@@ -93,17 +117,23 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
