@@ -5,7 +5,7 @@
     <filemarks>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/JavaScriptHelper.cs" timestamp="1562139538410" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IThemesApi.cs" timestamp="1562109641813" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Uploads/UploadSettings.cs" timestamp="1562145648487" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Uploads/UploadSettings.cs" timestamp="1562146668640" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/UploadSettingsExtensions.cs" timestamp="1562146313960">
         <mark key="[" line="10" column="45" />
         <mark key="]" line="10" column="45" />
@@ -43,12 +43,12 @@
         <mark key="^" line="90" column="34" />
         <mark key="." line="90" column="33" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1562143787651" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1562147296474" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1562128011343" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/IZettleAnalytics/IZettleAnalyticsClient.cs" timestamp="1562112344845">
         <mark key="[" line="47" column="29" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeSettingsHelper.cs" timestamp="1562140645717" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeSettingsHelper.cs" timestamp="1562147820326" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemesController.cs" timestamp="1562111872662" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562131166142">
         <mark key="[" line="161" column="25" />
@@ -74,12 +74,10 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemesController.cs" timestamp="1562130410672" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ThemeExtensions.cs" timestamp="1562139862718" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Pages/ContentBlockType.cs" timestamp="1562143707546" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Helpers/ThemeSettingsHelper.cs" timestamp="1562146664190">
-        <mark key="'" line="1260" column="24" />
-        <mark key="[" line="946" column="32" />
-        <mark key="]" line="940" column="12" />
-        <mark key="^" line="940" column="12" />
-        <mark key="." line="940" column="12" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Helpers/ThemeSettingsHelper.cs" timestamp="1562147761819">
+        <mark key="[" line="947" column="28" />
+        <mark key="]" line="947" column="28" />
+        <mark key="." line="947" column="28" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562130537252">
         <mark key="[" line="12" column="51" />
@@ -102,6 +100,7 @@
       </file>
       <file name="/appsettings.Local.json" timestamp="1562127064231" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/d2/bc5a7797/StringEnumConverter.cs" timestamp="1562138705299" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Shop/ShopThemeModel.cs" timestamp="1562147553151" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Uploads/UploadSettings.cs" timestamp="1562145983529">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -159,35 +158,66 @@
       <register name="0" type="4">
         <text>Selz.Shops.Core.Resources.Texts</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="1" type="4">
+        <text>settings.Add(new ThemeSetting
+            {
+                Type = ThemeSettingInputType.Upload,
+                Name = Constants.Theme.Settings.Banner.Image,
+                Value = userTheme.CoverImageUrl,
+                Label = Texts.Image,
+                UploadValidateType = UploadValidateType.Image,
+                Text = new UploadSettingsButton
+                {
+                    Change = Buttons.Change_Image,
+                    New = Buttons.Upload_Image
+                },
+                /*Help = new ThemeSettingHelp
+                {
+                    Label = Texts.Settings_Store_Logo_Description,
+                    Input = Texts.Settings_Store_Logo_Help
+                },*/
+                Preview = new UploadSettingsResize
+                {
+                    MaxWidth = 600,
+                    MaxHeight = 120,
+                    Crop = true
+                },
+                Resize = new UploadSettingsResize
+                {
+                    MaxWidth = 1500,
+                    MaxHeight = 300,
+                    Crop = true
+                },
+                Group = ThemeSettingGroups.Banner,
+                Section = ThemeSettingGroupSections.General
+            });</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb252ZXJ0VG9VcGxvYWRTZXR0aW5ncyhzZXR0aW5nKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJUaGVtZSA9IFNob3BUaGVtZU1vZGVsLk1hcChzaG9wKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgcHVibGljIFVwbG9hZFNldHRpbmdzKCkKICAgICAgICB7CiAgICAgICAgICAgIEJ1dHRvbiA9IG5ldyBVcGxvYWRTZXR0aW5nc0J1dHRvbgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBOZXcgPSBCdXR0b25zLkNob29zZSwKICAgICAgICAgICAgICAgIENoYW5nZSA9IEJ1dHRvbnMuQ2hhbmdlCiAgICAgICAgICAgIH07CiAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb252ZXJ0VG9VcGxvYWRTZXR0aW5ncyhzZXR0aW5nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBVcGxvYWRTZXR0aW5nc0J1dHRvbgogICAgewogICAgICAgIHB1YmxpYyBzdHJpbmcgTmV3IHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgc3RyaW5nIENoYW5nZSB7IGdldDsgc2V0OyB9CiAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAK</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgIAoKICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgVXBsb2FkU2V0dGluZ3NFeHRlbnNpb25zCiAgICB7CiAgICAgICAgcHVibGljIHN0YXRpYyBKT2JqZWN0IFNlcmlhbGl6ZSh0aGlzIFVwbG9hZFNldHRpbmdzIHNldHRpbmdzLCBib29sIGlzVGhlbWVTZXR0aW5nID0gZmFsc2UpCiAgICAgICAgewogICAgICAgICAgICB2YXIgZGF0YSA9IG5ldyBKT2JqZWN0CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHsgaXNUaGVtZVNldHRpbmcgPyAidXBsb2FkX3R5cGUiIDogInR5cGUiLCBzZXR0aW5ncy5UeXBlLlRvS2ViYWJDYXNlKCkgfSwKICAgICAgICAgICAgICAgIHsgIm11bHRpcGxlIiwgc2V0dGluZ3MuTXVsdGlwbGUgfSwKICAgICAgICAgICAgICAgIHsgInJlc3VsdCIsIHNldHRpbmdzLlJlc3VsdCB9LAogICAgICAgICAgICAgICAgeyAicGF0aCIsIHNldHRpbmdzLlBhdGggfSwKICAgICAgICAgICAgICAgIHsgImJ1dHRvbiIsIG5ldyBKT2JqZWN0CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB7ICJuZXciLCBzZXR0aW5ncy5CdXR0b24/Lk5ldyA/PyBCdXR0b25zLkNob29zZSB9LAogICAgICAgICAgICAgICAgICAgICAgICB7ICJjaGFuZ2UiLCBzZXR0aW5ncy5CdXR0b24/LkNoYW5nZSA/PyBCdXR0b25zLkNoYW5nZSB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9OwoKICAgICAgICAgICAgLy8gRHJhZyBhbmQgZHJvcAogICAgICAgICAgICBpZiAoc2V0dGluZ3MuRHJvcHpvbmUgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgZGF0YS5BZGQoImRyb3B6b25lIiwgc2V0dGluZ3MuRHJvcHpvbmUpOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBGaWxlIHR5cGUgdmFsaWRhdGlvbgogICAgICAgICAgICBpZiAoc2V0dGluZ3MuVmFsaWRhdGVUeXBlICE9IFVwbG9hZFZhbGlkYXRlVHlwZS5VbmRlZmluZWQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGRhdGEuQWRkKCJ2YWxpZGF0ZSIsIHNldHRpbmdzLlZhbGlkYXRlVHlwZS5Ub0tlYmFiQ2FzZSgpKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy8gTWF4IGZpbGUgY291bnQKICAgICAgICAgICAgaWYgKHNldHRpbmdzLk1heEZpbGVzLkhhc1ZhbHVlICYmIHNldHRpbmdzLk1heEZpbGVzLlZhbHVlID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgZGF0YS5BZGQoIm1heEZpbGVzIiwgc2V0dGluZ3MuTWF4RmlsZXMuVmFsdWUpOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBJbWFnZSBwcmV2aWV3CiAgICAgICAgICAgIGlmIChzZXR0aW5ncy5QcmV2aWV3ICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGRhdGEuQWRkKCJwcmV2aWV3IiwgbmV3IEpPYmplY3QKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB7ICJlbmFibGVkIiwgc2V0dGluZ3MuUHJldmlldy5FbmFibGVkIH0sCiAgICAgICAgICAgICAgICAgICAgeyAibWF4V2lkdGgiLCBzZXR0aW5ncy5QcmV2aWV3Lk1heFdpZHRoIH0sCiAgICAgICAgICAgICAgICAgICAgeyAibWF4SGVpZ2h0Iiwgc2V0dGluZ3MuUHJldmlldy5NYXhIZWlnaHQgfSwKICAgICAgICAgICAgICAgICAgICB7ICJjcm9wIiwgc2V0dGluZ3MuUHJldmlldy5Dcm9wIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBJbWFnZSByZXNpemluZwogICAgICAgICAgICBpZiAoc2V0dGluZ3MuUmVzaXplICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGRhdGEuQWRkKCJyZXNpemUiLCBuZXcgSk9iamVjdAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHsgImVuYWJsZWQiLCBzZXR0aW5ncy5SZXNpemUuRW5hYmxlZCB9LAogICAgICAgICAgICAgICAgICAgIHsgIm1heFdpZHRoIiwgc2V0dGluZ3MuUmVzaXplLk1heFdpZHRoIH0sCiAgICAgICAgICAgICAgICAgICAgeyAibWF4SGVpZ2h0Iiwgc2V0dGluZ3MuUmVzaXplLk1heEhlaWdodCB9LAogICAgICAgICAgICAgICAgICAgIHsgImNyb3AiLCBzZXR0aW5ncy5SZXNpemUuQ3JvcCB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIGRhdGE7CiAgICAgICAgfQogICAgfQ==</text>
+        <text encoding="base64">ICAgcHVibGljIFVwbG9hZFNldHRpbmdzKCkKICAgICAgICB7CiAgICAgICAgICAgIEJ1dHRvbiA9IG5ldyBVcGxvYWRTZXR0aW5nc0J1dHRvbgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBOZXcgPSBCdXR0b25zLkNob29zZSwKICAgICAgICAgICAgICAgIENoYW5nZSA9IEJ1dHRvbnMuQ2hhbmdlCiAgICAgICAgICAgIH07CiAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>uploadSettings</text>
+        <text encoding="base64">R2V0U3RyaW5nVmFsdWUoKSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyVGhlbWVcPg==</text>
