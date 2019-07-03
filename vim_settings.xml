@@ -5,11 +5,17 @@
     <filemarks>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/LiquidCacheAttribute.cs" timestamp="1562111960625" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IThemesApi.cs" timestamp="1562109641813" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemesController.cs" timestamp="1562130410672" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Options/S3Options.cs" timestamp="1562127891297">
         <mark key="[" line="4" column="44" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1562128822356" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Services/Themes/ThemingService.cs" timestamp="1562130972707" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/IAmazonSettings.cs" timestamp="1562127464465" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562130537252">
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+      </file>
       <file name="/Dummy.cs" timestamp="1562128102824">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
@@ -20,16 +26,18 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Startup.cs" timestamp="1562131176099">
+        <mark key="[" line="115" column="25" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Constants.cs" timestamp="1562120727235">
         <mark key="'" line="1301" column="47" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Converters/ObjectIdConverter.cs" timestamp="1562127224080" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1562112007837" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ObjectCopier.cs" timestamp="1562113870010">
-        <mark key="[" line="27" column="54" />
-        <mark key="]" line="27" column="54" />
-        <mark key="^" line="27" column="68" />
-        <mark key="." line="27" column="54" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ObjectCopier.cs" timestamp="1562131045565">
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="52" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1562128285862">
         <mark key="[" line="41" column="24" />
@@ -37,6 +45,7 @@
         <mark key="^" line="41" column="26" />
         <mark key="." line="41" column="26" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/ErrorHandlingMiddleware.cs" timestamp="1562130563984" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1562112132049" />
       <file name="/appsettings.Local.json" timestamp="1562127064231" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1562128011343" />
@@ -56,13 +65,15 @@
         <mark key="^" line="11" column="14" />
         <mark key="." line="11" column="14" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562126462640">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="49" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562131166142">
+        <mark key="[" line="161" column="25" />
+        <mark key="]" line="165" column="20" />
+        <mark key="^" line="165" column="20" />
+        <mark key="." line="165" column="20" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/docker-compose-api-local.yml" timestamp="1562111807403" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructure/Converters/ObjectIdConverter.cs" timestamp="1562113864803" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Global.asax.cs" timestamp="1562113010492">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Global.asax.cs" timestamp="1562130891714">
         <mark key="[" line="232" column="14" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Pages/PageService.cs" timestamp="1562124409112" />
@@ -75,35 +86,35 @@
       <register name="0" type="4">
         <text>selzimg-test</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">c291cmNlSnNvbiwgbmV3IEpzb25TZXJpYWxpemVyU2V0dGluZ3MoKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb252ZXJ0ZXJzID0gbmV3IExpc3Q8SnNvbkNvbnZlcnRlcj4ge25ldyBPYmplY3RJZENvbnZlcnRlcigpfQogICAgICAgICAgICB9KQ==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgIkFXUyI6IHsKICAgICJSZWdpb24iOiAidXMtZWFzdC0xIgogIH0s</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAiSGVhbHRoQ2hlY2tzLVVJIjogewogICAgIkhlYWx0aENoZWNrcyI6IFsKICAgICAgewogICAgICAgICJOYW1lIjogIlNob3BzIiwKICAgICAgICAiVXJpIjogImh0dHBzOi8vYXBpLWludGVybmFsLmxvY2FsLXNlbHouY29tOjQ0NjY5L3Nob3BzL2hlYWx0aC1hbGwiCiAgICAgIH0KICAgIF0KICB9LA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgIkFXUyI6IHsKICAgICJSZWdpb24iOiAidXMtZWFzdC0xIgogIH0s</text>
+        <text encoding="base64">ICAiSGVhbHRoQ2hlY2tzLVVJIjogewogICAgIkhlYWx0aENoZWNrcyI6IFsKICAgICAgewogICAgICAgICJOYW1lIjogIlNob3BzIiwKICAgICAgICAiVXJpIjogImh0dHBzOi8vYXBpLWludGVybmFsLmxvY2FsLXNlbHouY29tOjQ0NjY5L3Nob3BzL2hlYWx0aC1hbGwiCiAgICAgIH0KICAgIF0KICB9LA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgIkFXUyI6IHsKICAgICJSZWdpb24iOiAidXMtZWFzdC0xIgogIH0s</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text />
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>selzshared</text>
+        <text encoding="base64">LCBJQ2xhc3NGaXh0dXJlPERhdGFGaXh0dXJlPg==</text>
       </register>
     </registers>
     <search>
