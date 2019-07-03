@@ -74,11 +74,11 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemesController.cs" timestamp="1562130410672" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ThemeExtensions.cs" timestamp="1562139862718" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Pages/ContentBlockType.cs" timestamp="1562143707546" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Helpers/ThemeSettingsHelper.cs" timestamp="1562151187052">
-        <mark key="[" line="946" column="32" />
-        <mark key="]" line="946" column="32" />
-        <mark key="." line="946" column="32" />
-        <mark key="^" line="946" column="31" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Helpers/ThemeSettingsHelper.cs" timestamp="1562152032861">
+        <mark key="[" line="1309" column="0" />
+        <mark key="]" line="1309" column="0" />
+        <mark key="." line="1309" column="0" />
+        <mark key="^" line="1309" column="30" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562130537252">
         <mark key="[" line="12" column="51" />
@@ -101,7 +101,7 @@
       </file>
       <file name="/appsettings.Local.json" timestamp="1562127064231" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/d2/bc5a7797/StringEnumConverter.cs" timestamp="1562138705299" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Shop/ShopThemeModel.cs" timestamp="1562151144023" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Shop/ShopThemeModel.cs" timestamp="1562151964173" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Uploads/UploadSettings.cs" timestamp="1562145983529">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -160,65 +160,44 @@
         <text>Selz.Shops.Core.Resources.Texts</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJUaGVtZSA9IFNob3BUaGVtZU1vZGVsLk1hcChzaG9wKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTaG9wVGhlbWVWYWx1ZXMK</text>
       </register>
       <register name="2" type="4">
-        <text>settings.Add(new ThemeSetting
-            {
-                Type = ThemeSettingInputType.Upload,
-                Name = Constants.Theme.Settings.Banner.Image,
-                Value = userTheme.CoverImageUrl,
-                Label = Texts.Image,
-                UploadValidateType = UploadValidateType.Image,
-                Text = new UploadSettingsButton
-                {
-                    Change = Buttons.Change_Image,
-                    New = Buttons.Upload_Image
-                },
-                /*Help = new ThemeSettingHelp
-                {
-                    Label = Texts.Settings_Store_Logo_Description,
-                    Input = Texts.Settings_Store_Logo_Help
-                },*/
-                Preview = new UploadSettingsResize
-                {
-                    MaxWidth = 600,
-                    MaxHeight = 120,
-                    Crop = true
-                },
-                Resize = new UploadSettingsResize
-                {
-                    MaxWidth = 1500,
-                    MaxHeight = 300,
-                    Crop = true
-                },
-                Group = ThemeSettingGroups.Banner,
-                Section = ThemeSettingGroupSections.General
-            });</text>
+        <text>return new ShopThemeModel
+            {</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgICAgICA=</text>
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgU2hvcFRoZW1lTW9kZWwgTWFwKFNob3BUaGVtZSB0aGVtZSA9IG51bGwsIFNob3BBY2NvdW50VHlwZT8gdHlwZSA9IG51bGwpCiAgICAgICAgew==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>f (theme == null)
+            {
+                theme = new ShopTheme(type);
+            }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJUaGVtZSA9IFNob3BUaGVtZU1vZGVsLk1hcChzaG9wKTsK</text>
+      <register name="5" type="4">
+        <text>if (theme == null)
+            {
+                theme = new ShopTheme(type);
+            }
+
+            return new ShopThemeModel
+            {</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBbVXJsXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb252ZXJ0VG9VcGxvYWRTZXR0aW5ncyhzZXR0aW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBWYWx1ZSA9ICBzaG9wLlRoZW1lLkNoZWNrb3V0SGVhZGVyQmdDb2xvciwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNob3BUaGVtZSA9IG5ldyBTaG9wVGhlbWUoc2hvcC5BY2NvdW50VHlwZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IGk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyVGhlbWVcPg==</text>
