@@ -59,7 +59,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="sie" value="string.IsNullOrEmpty($param$)" toReformat="true" toShortenFQNames="true">
+  <template name="sie" value="string.IsNullOrEmpty($param$)" description="" toReformat="true" toShortenFQNames="true">
     <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />
