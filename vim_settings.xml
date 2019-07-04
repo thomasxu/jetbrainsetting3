@@ -4,32 +4,69 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/Program.cs" timestamp="1562225503984" />
-      <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/localstack-docker-compose.yml" timestamp="1562230658496">
+      <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/localstack-docker-compose.yml" timestamp="1562231757858">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="21" />
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="C:/dev/git/experiment_project/LocalStack/LocalstackS3SetupForNetCore/src/S3Client/LocalstackS3ClientFactory.cs" timestamp="1562229114700" />
-      <file name="C:/dev/git/experiment_project/LocalStack/LocalstackS3SetupForNetCore/src/Dockerfile" timestamp="1562230000562">
+      <file name="C:/dev/git/experiment_project/LocalStack/LocalstackS3SetupForNetCore/src/S3Client/LocalstackS3ClientFactory.cs" timestamp="1562235317110">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="30" column="8" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/S3Fixture.cs" timestamp="1562235925433">
+        <mark key="'" line="53" column="33" />
+        <mark key="[" line="46" column="38" />
+        <mark key="]" line="46" column="39" />
+        <mark key="." line="46" column="39" />
+        <mark key="^" line="59" column="70" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1562232374465" />
+      <file name="C:/dev/git/experiment_project/LocalStack/LocalstackS3SetupForNetCore/src/Configuration/LocalstackSettings.cs" timestamp="1562235287078" />
+      <file name="C:/dev/git/experiment_project/LocalStack/LocalstackS3SetupForNetCore/src/Dockerfile" timestamp="1562233669742">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2EF7A0C1-7E6C-4797-9144-63BE1F30633E/4c/f5371604/AWSCredentials.cs" timestamp="1562233907854" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/a2/8b86e631/AWSOptions.cs" timestamp="1562233394864" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="53" column="33" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/S3Fixture.cs" />
+    </jumps>
     <registers>
       <register name="0" type="4">
-        <text>persistence</text>
+        <text>getObjectResponse</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaWxlUGF0aCA9IEZpbGVQYXRoLAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LlB1dE9iamVjdEFzeW5jKG5ldyBQdXRPYmplY3RSZXF1ZXN0CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEJ1Y2tldE5hbWUgPSAKICAgICAgICAgICAgfSkK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IAoKICAgICAgICAgICAgCiAgICAgICAgICAgICAg</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IHZhciBzM0NvbmZpZyA9IG5ldyBBbWF6b25TM0NvbmZpZwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBGb3JjZVBhdGhTdHlsZSA9IHRydWUsCgogICAgICAgICAgICB9Ow==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="8">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">c2VydmljZXM6Cgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICBsb2NhbHN0YWNrOgogICAgY29udGFpbmVyX25hbWU6IGxvY2Fsc3RhY2sKICAgIGltYWdlOiBsb2NhbHN0YWNrL2xvY2Fsc3RhY2sKICAgIHByaXZpbGVnZWQ6IHRydWUKICAgIHBvcnRzOgogICAgICAtICI0NTY3LTQ1ODI6NDU2Ny00NTgyIgogICAgICAtICI5MDcwOjkwNzAiCiAgICBlbnZpcm9ubWVudDoKICAgICAgU0VSVklDRVM6IHNxcywgbGFtYmRhLCBzMywgc25zLCBjbG91ZHdhdGNoLCBpYW0sIGVzLCBzdHMsIHNlY3JldHNtYW5hZ2VyCiAgICAgIERPQ0tFUl9IT1NUOiB1bml4Oi8vL3Zhci9ydW4vZG9ja2VyLnNvY2sKICAgICAgUE9SVF9XRUJfVUk6IDkwNzAKICAgICAgTEFNQkRBX0VYRUNVVE9SOiBkb2NrZXIKICAgICAgTE9DQUxTVEFDS19IT1NUOiBsb2NhbGhvc3QKICAgICAgREVCVUc6IDEKICAgIHZvbHVtZXM6CiAgICAgIC0gL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sKICAgICAgLSAvdG1wL2xvY2Fsc3RhY2s6L3RtcC9sb2NhbHN0YWNr</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text encoding="base64">ICsgIk5vdEV4aXN0Ig==</text>
       </register>
     </registers>
     <search>
@@ -46,6 +83,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
