@@ -3,12 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/InstalledThemeResponse.cs" timestamp="1562195204162">
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-        <mark key="." line="5" column="38" />
-      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/IThemingService.cs" timestamp="1562200306291" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Resources/Texts.Designer.cs" timestamp="1562133621209">
         <mark key="[" line="38" column="114" />
         <mark key="]" line="38" column="144" />
@@ -22,14 +17,62 @@
         <mark key="^" line="14" column="38" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Themes/InstalledTheme.cs" timestamp="1562195176792" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemesController.cs" timestamp="1562198896281" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemesController.cs" timestamp="1562202648955" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/UploadSettingsExtensions.cs" timestamp="1562146313960">
         <mark key="[" line="10" column="45" />
         <mark key="]" line="10" column="45" />
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Uploads/UploadSettings.cs" timestamp="1562145983529">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Helpers/ThemeSettingsHelper.cs" timestamp="1562153226364">
+        <mark key="[" line="946" column="29" />
+        <mark key="]" line="937" column="0" />
+        <mark key="." line="937" column="0" />
+        <mark key="^" line="937" column="25" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562203293560">
+        <mark key="[" line="20" column="151" />
+        <mark key="]" line="24" column="44" />
+        <mark key="." line="24" column="44" />
+        <mark key="^" line="24" column="44" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1562202748748" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.local.json" timestamp="1562202685813" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemeController.cs" timestamp="1562201618794" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1562202812489">
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="41" column="35" />
+        <mark key="^" line="41" column="26" />
+        <mark key="." line="41" column="26" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/ErrorHandlingMiddleware.cs" timestamp="1562199868461">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/ThemeSetting.cs" timestamp="1562146042494">
+        <mark key="[" line="90" column="33" />
+        <mark key="]" line="90" column="33" />
+        <mark key="^" line="90" column="34" />
+        <mark key="." line="90" column="33" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/InstalledThemeResponse.cs" timestamp="1562195204162">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+      </file>
+      <file name="/ThemingService.cs" timestamp="1562201925970">
+        <mark key="'" line="1679" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562203380916">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1562201724144" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Caching/S3CacheAsset.cs" timestamp="1562201367647" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1562202561670" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Shop/ShopThemeModel.cs" timestamp="1562203681801" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Uploads/UploadSettings.cs" timestamp="1562203994329">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -51,12 +94,6 @@
         <mark key="." line="16" column="20" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Helpers/ThemeSettingsHelper.cs" timestamp="1562153226364">
-        <mark key="[" line="946" column="29" />
-        <mark key="]" line="937" column="0" />
-        <mark key="." line="937" column="0" />
-        <mark key="^" line="937" column="25" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Web.config" timestamp="1562128097011">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="11" column="14" />
@@ -64,66 +101,25 @@
         <mark key="." line="11" column="14" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562131166142">
-        <mark key="[" line="161" column="25" />
-        <mark key="]" line="165" column="20" />
-        <mark key="^" line="165" column="20" />
-        <mark key="." line="165" column="20" />
+        <mark key="[" line="162" column="25" />
+        <mark key="]" line="166" column="20" />
+        <mark key="^" line="166" column="20" />
+        <mark key="." line="166" column="20" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562198764723">
-        <mark key="[" line="52" column="16" />
-        <mark key="]" line="52" column="57" />
-        <mark key="." line="52" column="57" />
-        <mark key="^" line="52" column="57" />
-      </file>
+      <file name="/Startup.cs" timestamp="1562202055145" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/38FECEE4-4630-4C89-9549-6EA8C17D4340/78/84b4e7d5/Entity.cs" timestamp="1562195182174" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Constants.cs" timestamp="1562195424349">
-        <mark key="[" line="8" column="83" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1562128102824">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1562198807306">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1562201705211" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1562202407662">
         <mark key="'" line="40" column="17" />
-        <mark key="[" line="878" column="34" />
-        <mark key="]" line="125" column="32" />
-        <mark key="." line="125" column="32" />
-        <mark key="^" line="125" column="32" />
+        <mark key="[" line="2481" column="0" />
+        <mark key="]" line="2481" column="0" />
+        <mark key="." line="2481" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Helpers/Themes/ThemeSettingsHelper.cs" timestamp="1562146548249">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="82" column="88" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/Themes/ThemeSettingsExtensions.cs" timestamp="1562152352751">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/Themes/ThemeSettingsExtensions.cs" timestamp="1562203772094">
         <mark key="[" line="200" column="40" />
         <mark key="]" line="200" column="21" />
         <mark key="." line="200" column="21" />
         <mark key="^" line="200" column="21" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1562128285862">
-        <mark key="[" line="41" column="24" />
-        <mark key="]" line="41" column="35" />
-        <mark key="^" line="41" column="26" />
-        <mark key="." line="41" column="26" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/ErrorHandlingMiddleware.cs" timestamp="1562153422220">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/ThemeSetting.cs" timestamp="1562146042494">
-        <mark key="[" line="90" column="33" />
-        <mark key="]" line="90" column="33" />
-        <mark key="^" line="90" column="34" />
-        <mark key="." line="90" column="33" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ObjectCopier.cs" timestamp="1562131045565">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="26" column="52" />
-        <mark key="." line="26" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -147,40 +143,41 @@
       <jump line="1249" column="24" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Helpers/ThemeSettingsHelper.cs" />
       <jump line="1260" column="24" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Helpers/ThemeSettingsHelper.cs" />
       <jump line="40" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" />
+      <jump line="1679" column="0" filename="/ThemingService.cs" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ2hlY2tvdXRIZWFkZXJUZXh0Q29sb3IgPSBpbnB1dC5DaGVja291dEhlYWRlclRleHRDb2xvci5EZWZhdWx0VG8oaW5wdXQuQ2hlY2tvdXRIZWFkZXJCZ0NvbG9yKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNldHRpbmdzUmVzcG9uc2UgPSBuZXcgSW5zdGFsbGVkVGhlbWVTZXR0aW5nUmVzcG9uc2V7VmFsdWVzID0gaW5zdGFsbGVkVGhlbWUuU2V0dGluZ3M/LlZhbHVlc30sCiAgICAgICAgICAgICAgICBUaGVtZSA9IFRoZW1lUmVzcG9uc2VNYXBwZXIuTWFwVG9SZXNwb25zZShpbnN0YWxsZWRUaGVtZS5UaGVtZSksCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAg</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0aGVtZUlkID0gZ2V0SW5zdGFsbGVkUmVzcG9uc2UuVGhlbWUuSWQ7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyB2YXIgcHVibGlzaGVkSW5zdGFsbGVkVGhlbWUgPSAKICAgICAgICAgICAgICAgIC8vICAgICBjbGllbnQuR2V0UHVibGlzaGVkSW5zdGFsbGVkVGhlbWUodHJ1ZSxmYWxzZSwgRGVmYXVsdFNob3BJZCwgRGVmYXVsdFVzZXJJZCApOwogICAgICAgICAgICAgICAgLy8KICAgICAgICAgICAgICAgIC8vCiAgICAgICAgICAgICAgICAvLyBjbGllbnQuR2V0QnlJZCgp</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIHZvaWQgVGFzKCkgewogICAgICAgICAgICAKICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlZmF1bHRUaGVtZSA9IG5ldyBTaG9wVGhlbWUoc2hvcC5BY2NvdW50VHlwZSk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ly8gcHVibGljIGFzeW5jIFRhc2s8c3RyaW5nPiBCdWlsZElubGluZVN0eWxlcyhJbnN0YWxsZWRUaGVtZSBpbnN0YWxsZWRUaGVtZSwgaW50PyBzaG9wSWQsIFNob3BUaGVtZU1vZGVsIHRoZW1lID0gbnVsbCwgYm9vbCBjYWNoZSA9IHRydWUsIGJvb2wgaXNFbWJlZCA9IGZhbHNlKQogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgU2hvcCBzaG9wID0gbnVsbDsKICAgICAgICAvLwogICAgICAgIC8vICAgICBpZiAoc2hvcElkLkhhc1ZhbHVlKQogICAgICAgIC8vICAgICB7CiAgICAgICAgLy8gICAgICAgICBzaG9wID0gYXdhaXQgX3Nob3BTZXJ2aWNlLkZpbmRCeUlkKHNob3BJZC5WYWx1ZSkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgLy8gVHJ5IGFuZCBnZXQgdGhlIGlubGluZSBzdHlsZSBmaWxlCiAgICAgICAgLy8gICAgIHZhciBmaWxlID0gaW5zdGFsbGVkVGhlbWUuVGhlbWUuR2V0SW5saW5lU3R5bGUoKTsKICAgICAgICAvLwogICAgICAgIC8vICAgICBpZiAoZmlsZSA9PSBudWxsKQogICAgICAgIC8vICAgICB7CiAgICAgICAgLy8gICAgICAgICByZXR1cm4gc3RyaW5nLkVtcHR5OwogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgLy8gR2V0IHRoZSBMRVNTCiAgICAgICAgLy8gICAgIHZhciBsZXNzID0gR2V0SW5saW5lU3R5bGVzKGluc3RhbGxlZFRoZW1lLCBzaG9wKTsKICAgICAgICAvLwogICAgICAgIC8vICAgICAvLyBJbmplY3QgZXh0cmEgdmFyaWFibGVzIGZvciB0aGUgZGVmYXVsdCB0aGVtZQogICAgICAgIC8vICAgICBpZiAoaW5zdGFsbGVkVGhlbWUuVGhlbWUuSXNEZWZhdWx0KQogICAgICAgIC8vICAgICB7CiAgICAgICAgLy8gICAgICAgICBpZiAodGhlbWUgPT0gbnVsbCkKICAgICAgICAvLyAgICAgICAgIHsKICAgICAgICAvLyAgICAgICAgICAgICB0aGVtZSA9IFNob3BUaGVtZU1vZGVsLk1hcChzaG9wKTsKICAgICAgICAvLyAgICAgICAgIH0KICAgICAgICAvLwogICAgICAgIC8vICAgICAgICAgRGljdGlvbmFyeTxzdHJpbmcsIHN0cmluZz4gdmFyaWFibGVzOwogICAgICAgIC8vCiAgICAgICAgLy8gICAgICAgICBpZiAoaXNFbWJlZCkKICAgICAgICAvLyAgICAgICAgIHsKICAgICAgICAvLyAgICAgICAgICAgICB2YXJpYWJsZXMgPSBuZXcgRGljdGlvbmFyeTxzdHJpbmcsIHN0cmluZz4KICAgICAgICAvLyAgICAgICAgICAgICB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgIHsgImJhY2tncm91bmQtY29sb3IiLCAidHJhbnNwYXJlbnQiIH0sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgIHsgImJ1dHRvbi1iYWNrZ3JvdW5kLWNvbG9yIiwgdGhlbWUuRW1iZWRCdXR0b25CYWNrZ3JvdW5kQ29sb3IgfSwKICAgICAgICAvLyAgICAgICAgICAgICAgICAgeyAiYnV0dG9uLXRleHQtY29sb3IiLCB0aGVtZS5FbWJlZEJ1dHRvblRleHRDb2xvciB9LAogICAgICAgIC8vICAgICAgICAgICAgICAgICB7ICJsaW5rLWNvbG9yIiwgdGhlbWUuRW1iZWRMaW5rQ29sb3IgfSwKICAgICAgICAvLyAgICAgICAgICAgICAgICAgeyAiY2hlY2tvdXQtaGVhZGVyLWJhY2tncm91bmQtY29sb3IiLCB0aGVtZS5FbWJlZENoZWNrb3V0SGVhZGVyQmFja2dyb3VuZENvbG9yIH0sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgIHsgImNoZWNrb3V0LWhlYWRlci10ZXh0LWNvbG9yIiwgdGhlbWUuRW1iZWRDaGVja291dEhlYWRlclRleHRDb2xvciB9LAogICAgICAgIC8vICAgICAgICAgICAgIH07CiAgICAgICAgLy8gICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICBlbHNlCiAgICAgICAgLy8gICAgICAgICB7CiAgICAgICAgLy8gICAgICAgICAgICAgdmFyaWFibGVzID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBzdHJpbmc+CiAgICAgICAgLy8gICAgICAgICAgICAgewogICAgICAgIC8vICAgICAgICAgICAgICAgICB7ICJiYWNrZ3JvdW5kLWNvbG9yIiwgdGhlbWUuQmFja2dyb3VuZENvbG9yIH0sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgIHsgImJ1dHRvbi1iYWNrZ3JvdW5kLWNvbG9yIiwgdGhlbWUuQnV0dG9uQmFja2dyb3VuZENvbG9yIH0sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgIHsgImJ1dHRvbi10ZXh0LWNvbG9yIiwgdGhlbWUuQnV0dG9uVGV4dENvbG9yIH0sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgIHsgImxpbmstY29sb3IiLCB0aGVtZS5MaW5rQ29sb3IgfSwKICAgICAgICAvLyAgICAgICAgICAgICAgICAgeyAiY2hlY2tvdXQtaGVhZGVyLWJhY2tncm91bmQtY29sb3IiLCB0aGVtZS5DaGVja291dEhlYWRlckJhY2tncm91bmRDb2xvciB9LAogICAgICAgIC8vICAgICAgICAgICAgICAgICB7ICJjaGVja291dC1oZWFkZXItdGV4dC1jb2xvciIsIHRoZW1lLkNoZWNrb3V0SGVhZGVyVGV4dENvbG9yIH0sCiAgICAgICAgLy8gICAgICAgICAgICAgfTsKICAgICAgICAvLyAgICAgICAgIH0KICAgICAgICAvLwogICAgICAgIC8vICAgICAgICAgbGVzcyA9ICQie3N0cmluZy5Kb2luKCI7IiwgdmFyaWFibGVzLlNlbGVjdCh2ID0+ICQiQHt2LktleX06e3YuVmFsdWUuVG9IZXhDb2xvcigpfSIpLlRvQXJyYXkoKSl9O3tsZXNzfSI7CiAgICAgICAgLy8gICAgIH0KICAgICAgICAvLwogICAgICAgIC8vICAgICAvLyBCdWlsZCB3aXRoIGFzc2V0IGJ1aWxkZXIgbWljcm9zZXJ2aWNlCiAgICAgICAgLy8gICAgIHZhciByZXN1bHQgPSBhd2FpdCBfYXNzZXRCdWlsZGVyLkJ1aWxkRmlsZShmaWxlLkZpbGVuYW1lLCBsZXNzKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgLy8gSWYgZmFpbGVkLCBiYWlsCiAgICAgICAgLy8gICAgIGlmIChyZXN1bHQgPT0gbnVsbCB8fCAhcmVzdWx0LlN1Y2Nlc3MpCiAgICAgICAgLy8gICAgIHsKICAgICAgICAvLyAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgLy8gUmV0dXJuIENTUwogICAgICAgIC8vICAgICByZXR1cm4gcmVzdWx0LkNvbnRlbnQ7CiAgICAgICAgLy8gfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpbnB1dD8/IF9kZWZhdWx0cwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdG9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNldHRpbmdzUmVzcG9uc2UgPSBuZXcgSW5zdGFsbGVkVGhlbWVTZXR0aW5nUmVzcG9uc2V7VmFsdWVzID0gaW5zdGFsbGVkVGhlbWUuU2V0dGluZ3M/LlZhbHVlc30sCiAgICAgICAgICAgICAgICBUaGVtZSA9IFRoZW1lUmVzcG9uc2VNYXBwZXIuTWFwVG9SZXNwb25zZShpbnN0YWxsZWRUaGVtZS5UaGVtZSksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>BeSameAs()</text>
+        <text>ShopThemeModel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyVGhlbWVcPg==</text>
