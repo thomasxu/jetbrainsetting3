@@ -18,6 +18,7 @@
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Themes/InstalledTheme.cs" timestamp="1562195176792" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ThemesController.cs" timestamp="1562202648955" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Uploads/UploadSettings.cs" timestamp="1562205004487" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/UploadSettingsExtensions.cs" timestamp="1562146313960">
         <mark key="[" line="10" column="45" />
         <mark key="]" line="10" column="45" />
@@ -39,6 +40,7 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1562202748748" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.local.json" timestamp="1562202685813" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/ThemeController.cs" timestamp="1562201618794" />
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/appsettings.Development.json" timestamp="1562205714966" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1562202812489">
         <mark key="[" line="41" column="24" />
         <mark key="]" line="41" column="35" />
@@ -56,14 +58,12 @@
         <mark key="^" line="90" column="34" />
         <mark key="." line="90" column="33" />
       </file>
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/appsettings.local.json" timestamp="1562205724227" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Themes/InstalledThemeResponse.cs" timestamp="1562195204162">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="38" />
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
-      </file>
-      <file name="/ThemingService.cs" timestamp="1562201925970">
-        <mark key="'" line="1679" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1562203380916">
         <mark key="[" line="0" column="0" />
@@ -72,7 +72,7 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Caching/S3CacheAsset.cs" timestamp="1562201367647" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1562202561670" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Shop/ShopThemeModel.cs" timestamp="1562203681801" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Uploads/UploadSettings.cs" timestamp="1562203994329">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Uploads/UploadSettings.cs" timestamp="1562205675115">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -107,8 +107,11 @@
         <mark key="." line="166" column="20" />
       </file>
       <file name="/Startup.cs" timestamp="1562202055145" />
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Startup.cs" timestamp="1562205953165" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/38FECEE4-4630-4C89-9549-6EA8C17D4340/78/84b4e7d5/Entity.cs" timestamp="1562195182174" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1562201705211" />
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/appsettings.json" timestamp="1562205717271" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/292B2C39-8C68-4993-BAAA-B3E2E8D08005/d3/5044fa7f/SelzBuilderExtensions.cs" timestamp="1562205346449" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1562202407662">
         <mark key="'" line="40" column="17" />
         <mark key="[" line="2481" column="0" />
