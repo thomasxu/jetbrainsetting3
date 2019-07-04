@@ -7,11 +7,6 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="66" />
       </file>
-      <file name="C:/dev/git/experiment_project/LocalStack/LocalstackS3SetupForNetCore/src/Dockerfile" timestamp="1562233669742">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="25" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/S3Client/S3ClientFactory.cs" timestamp="1562241309917">
         <mark key="[" line="19" column="31" />
         <mark key="]" line="8" column="31" />
@@ -42,10 +37,11 @@
         <mark key="^" line="59" column="70" />
         <mark key="." line="59" column="70" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1562279604394">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1562281889861">
+        <mark key="[" line="103" column="13" />
+        <mark key="]" line="104" column="11" />
+        <mark key="." line="104" column="11" />
+        <mark key="^" line="104" column="11" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/S3Fixture.cs" timestamp="1562247240444">
         <mark key="'" line="78" column="47" />
@@ -65,6 +61,9 @@
         <mark key="[" line="4" column="54" />
         <mark key="]" line="4" column="85" />
       </file>
+      <file name="/Dummy.txt" timestamp="1562280121338">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/localstack-docker-compose.yml" timestamp="1562244771332">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="21" />
@@ -77,13 +76,16 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1562250563127">
-        <mark key="[" line="253" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1562280083464">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/EnvironmentHelper.cs" timestamp="1562245751529">
         <mark key="[" line="7" column="34" />
         <mark key="]" line="7" column="87" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/AssetBuilder/AssetBuilder.cs" timestamp="1562281116658" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562243598401">
         <mark key="[" line="51" column="74" />
         <mark key="]" line="62" column="18" />
@@ -98,7 +100,7 @@
         <mark key="[" line="19" column="51" />
         <mark key="]" line="19" column="60" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1562278059525">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1562279993916">
         <mark key="[" line="1090" column="9" />
         <mark key="]" line="1090" column="72" />
         <mark key="." line="1090" column="9" />
@@ -135,37 +137,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQ3JlYXRlRmlsZXMoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGZpbGVzID0gbmV3W10KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgInRoZW1lcy81Nzk4NTMxZWNjYTkxODBhODBiYmYyNTAvMy45LjcvYXNzZXRzL2RlZmF1bHQtYXVkaW8uc3ZnIiwKICAgICAgICAgICAgICAgICJ0aGVtZXMvNTc5ODUzMWVjY2E5MTgwYTgwYmJmMjUwLzMuOS43L2Fzc2V0cy9kZWZhdWx0LWNhdGVnb3J5LW1lbnUuc3ZnIiwKICAgICAgICAgICAgICAgICJ0aGVtZXMvNTc5ODUzMWVjY2E5MTgwYTgwYmJmMjUwLzMuOS43L2Fzc2V0cy9kZWZhdWx0LWNhdGVnb3J5LnN2ZyIsCiAgICAgICAgICAgICAgICAidGhlbWVzLzU3OTg1MzFlY2NhOTE4MGE4MGJiZjI1MC8zLjkuNy9hc3NldHMvZGVmYXVsdC1pdGVtLnN2ZyIsCiAgICAgICAgICAgICAgICAidGhlbWVzLzU3OTg1MzFlY2NhOTE4MGE4MGJiZjI1MC8zLjkuNy9hc3NldHMvZGVmYXVsdC12aWRlby5zdmciLAogICAgICAgICAgICAgICAgInRoZW1lcy81Nzk4NTMxZWNjYTkxODBhODBiYmYyNTAvMy45LjcvYXNzZXRzL3Nwcml0ZS5zdmciCiAgICAgICAgICAgIH07CgogICAgICAgICAgICBmb3JlYWNoICh2YXIgZmlsZSBpbiBmaWxlcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHMzID0gUzNDbGllbnQoKTsKICAgICAgICAgICAgICAgIHMzLlB1dE9iamVjdEFzeW5jKCkKICAgICAgICAgICAgfQogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGFzeW5jIFRhc2s8Ym9vbD4gRXhpc3RzKHRoaXMgSUFtYXpvblMzIHMzQ2xpZW50LCBzdHJpbmcgYnVja2V0TmFtZSwgc3RyaW5nIHBhdGgpCiAgICAgICAgewogICAgICAgICAgICBpZiAoc3RyaW5nLklzTnVsbE9yRW1wdHkocGF0aCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy8gSWYgYSBVUkwgKGFic29sdXRlIHBhdGgpIGlzIHBhc3NlZAogICAgICAgICAgICBpZiAocGF0aC5Jc1ZhbGlkVXJsKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIElmIGl0J3Mgbm90IGEgdmFsaWQgVVJMIGZvciB0aGlzIGJ1Y2tldAogICAgICAgICAgICAgICAgaWYgKHBhdGguSXNWYWxpZFVybEZvcihidWNrZXROYW1lKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgLy8gR2V0IHRoZSByZWxhdGl2ZSBwYXRoCiAgICAgICAgICAgICAgICBwYXRoID0gcGF0aC5HZXRSZWxhdGl2ZVBhdGhGb3IoYnVja2V0TmFtZSwgZmFsc2UpOwogICAgICAgICAgICB9CgogICAgICAgICAgICB0cnkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHJlcXVlc3QgPSBuZXcgR2V0T2JqZWN0TWV0YWRhdGFSZXF1ZXN0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQnVja2V0TmFtZSA9IGJ1Y2tldE5hbWUsCiAgICAgICAgICAgICAgICAgICAgS2V5ID0gcGF0aAogICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgICAgICBhd2FpdCBzM0NsaWVudC5HZXRPYmplY3RNZXRhZGF0YUFzeW5jKHJlcXVlc3QpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoQW1hem9uUzNFeGNlcHRpb24gZXgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIElnbm9yZSA0MDRzIGFuZCA0MDNzIGFzIGl0J3MgZXhwZWN0ZWQgdG8gaGFwcGVuCiAgICAgICAgICAgICAgICBpZiAoZXguRXJyb3JDb2RlICE9ICJOb3RGb3VuZCIgJiYgZXguRXJyb3JDb2RlICE9ICJGb3JiaWRkZW4iKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciBleHRyYURhdGEgPSBuZXcgRGljdGlvbmFyeTxzdHJpbmcsIHN0cmluZz4KICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHsgIkJ1Y2tldCIsIGJ1Y2tldE5hbWUgfSwKICAgICAgICAgICAgICAgICAgICAgICAgeyAiUGF0aCIsIHBhdGggfSwKICAgICAgICAgICAgICAgICAgICAgICAgeyAieC1hbXotcmVxdWVzdC1pZCIsIGV4LlJlcXVlc3RJZCB9LAogICAgICAgICAgICAgICAgICAgICAgICB7ICJ4LWFtei1pZC0yIiwgZXguQW1hem9uSWQyIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsgIlgtQW16LUNmLUlkIiwgZXguQW1hem9uQ2xvdWRGcm9udElkIH0KICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgIExvZy5FcnJvcigiRXJyb3Igd2hpbGUgY2hlY2tpbmcgaWYgZmlsZSBleGlzdHMgaW4gUzMuIiwgbnVsbCwgZXh0cmFEYXRhLCBleCk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlRmlsZXMoKTsK</text>
-      </register>
-      <register name="3" type="4">
-        <text>private void CreateFiles(I</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRlbnQgPQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4aXN0cyA9IGF3YWl0IHMzLkV4aXN0cyhJbWFnZUJ1Y2tldE5hbWUsIGZpbGVzLkZpcnN0KCkpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaWxlUGF0aCA9IGZpbGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBsYWNlaG9sZGVyQ29udGVudCA9ICJwbGFjZWhvbGRlcmNvbnRlbnQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgczNDbGllbnQuZXhpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzMyA9IFMzQ2xpZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciByZXF1ZXN0ID0gbmV3IEdldE9iamVjdE1ldGFkYXRhUmVxdWVzdAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIEJ1Y2tldE5hbWUgPSBidWNrZXROYW1lLAogICAgICAgICAgICAgICAgICAgIEtleSA9IHBhdGgKICAgICAgICAgICAgICAgIH07CgogICAgICAgICAgICAgICAgYXdhaXQgczNDbGllbnQuR2V0T2JqZWN0TWV0YWRhdGFBc3luYyhyZXF1ZXN0KS5Db25maWd1cmVBd2FpdChmYWxzZSk7CgogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEFtYXpvblMzRXhjZXB0aW9uIGV4KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAvLyBJZ25vcmUgNDA0cyBhbmQgNDAzcyBhcyBpdCdzIGV4cGVjdGVkIHRvIGhhcHBlbgogICAgICAgICAgICAgICAgaWYgKGV4LkVycm9yQ29kZSAhPSAiTm90Rm91bmQiICYmIGV4LkVycm9yQ29kZSAhPSAiRm9yYmlkZGVuIikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YXIgZXh0cmFEYXRhID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBzdHJpbmc+CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB7ICJCdWNrZXQiLCBidWNrZXROYW1lIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsgIlBhdGgiLCBwYXRoIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsgIngtYW16LXJlcXVlc3QtaWQiLCBleC5SZXF1ZXN0SWQgfSwKICAgICAgICAgICAgICAgICAgICAgICAgeyAieC1hbXotaWQtMiIsIGV4LkFtYXpvbklkMiB9LAogICAgICAgICAgICAgICAgICAgICAgICB7ICJYLUFtei1DZi1JZCIsIGV4LkFtYXpvbkNsb3VkRnJvbnRJZCB9CiAgICAgICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgICAgICBMb2cuRXJyb3IoIkVycm9yIHdoaWxlIGNoZWNraW5nIGlmIGZpbGUgZXhpc3RzIGluIFMzLiIsIG51bGwsIGV4dHJhRGF0YSwgZXgpOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlRmlsZXMoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>s3</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW1hem9uUzNcPg==</text>
