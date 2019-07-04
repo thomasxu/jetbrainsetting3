@@ -7,6 +7,11 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="66" />
       </file>
+      <file name="C:/dev/git/experiment_project/LocalStack/LocalstackS3SetupForNetCore/src/Dockerfile" timestamp="1562233669742">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/S3Client/S3ClientFactory.cs" timestamp="1562241309917">
         <mark key="[" line="19" column="31" />
         <mark key="]" line="8" column="31" />
@@ -37,10 +42,10 @@
         <mark key="^" line="59" column="70" />
         <mark key="." line="59" column="70" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1562277020932">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1562279604394">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/S3Fixture.cs" timestamp="1562247240444">
         <mark key="'" line="78" column="47" />
@@ -126,40 +131,41 @@
       <jump line="76" column="47" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/S3Fixture.cs" />
       <jump line="97" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/52DA0DD7-2F01-4599-9379-801D8AA12FC7/fe/fc1398da/AmazonS3Config.cs" />
       <jump line="32" column="8" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" />
+      <jump line="53" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>var s3 = S3Client();</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQ3JlYXRlRmlsZXMoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGZpbGVzID0gbmV3W10KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgInRoZW1lcy81Nzk4NTMxZWNjYTkxODBhODBiYmYyNTAvMy45LjcvYXNzZXRzL2RlZmF1bHQtYXVkaW8uc3ZnIiwKICAgICAgICAgICAgICAgICJ0aGVtZXMvNTc5ODUzMWVjY2E5MTgwYTgwYmJmMjUwLzMuOS43L2Fzc2V0cy9kZWZhdWx0LWNhdGVnb3J5LW1lbnUuc3ZnIiwKICAgICAgICAgICAgICAgICJ0aGVtZXMvNTc5ODUzMWVjY2E5MTgwYTgwYmJmMjUwLzMuOS43L2Fzc2V0cy9kZWZhdWx0LWNhdGVnb3J5LnN2ZyIsCiAgICAgICAgICAgICAgICAidGhlbWVzLzU3OTg1MzFlY2NhOTE4MGE4MGJiZjI1MC8zLjkuNy9hc3NldHMvZGVmYXVsdC1pdGVtLnN2ZyIsCiAgICAgICAgICAgICAgICAidGhlbWVzLzU3OTg1MzFlY2NhOTE4MGE4MGJiZjI1MC8zLjkuNy9hc3NldHMvZGVmYXVsdC12aWRlby5zdmciLAogICAgICAgICAgICAgICAgInRoZW1lcy81Nzk4NTMxZWNjYTkxODBhODBiYmYyNTAvMy45LjcvYXNzZXRzL3Nwcml0ZS5zdmciCiAgICAgICAgICAgIH07CgogICAgICAgICAgICBmb3JlYWNoICh2YXIgZmlsZSBpbiBmaWxlcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHMzID0gUzNDbGllbnQoKTsKICAgICAgICAgICAgICAgIHMzLlB1dE9iamVjdEFzeW5jKCkKICAgICAgICAgICAgfQogICAgICAgIH0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxJRW52aXJvbm1lbnRIZWxwZXIsIENvcmUuSGVscGVycy5FbnZpcm9ubWVudEhlbHBlcj4oKTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZE12YygpOw==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpbnN0YWxsZWRUaGVtZUlkID0gIjEyMzQiOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLkV4dGVuc2lvbnM7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBQbGFjZWhvbGRlclNlY3JldCA9ICJQbGFjZWhvbGRlclNlY3JldCI7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2sgQ3JlYXRlVGVzdEJ1Y2tldCgpCiAgICAgICAgewogICAgICAgICAgICB0cnkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHMzID0gUzNDbGllbnQoKTsKCiAgICAgICAgICAgICAgICBDcmVhdGVCdWNrZXRzKEltYWdlQnVja2V0TmFtZSwgVGhlbWVCdWNrZXROYW1lKTsKICAgICAgICAgICAgICAgIGF3YWl0IHMzLkxpc3RCdWNrZXRzQXN5bmMoKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CgogICAgICAgICAgICAgICAgdmFyIEZpbGVQYXRoID0gIlBhdGhhIjsKICAgICAgICAgICAgICAgIGF3YWl0IHMzLlB1dE9iamVjdEFzeW5jKG5ldyBQdXRPYmplY3RSZXF1ZXN0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQnVja2V0TmFtZSA9IEltYWdlQnVja2V0TmFtZSwKICAgICAgICAgICAgICAgICAgICBLZXkgPSBGaWxlUGF0aCwKICAgICAgICAgICAgICAgICAgICBDYW5uZWRBQ0wgPSBTM0Nhbm5lZEFDTC5QdWJsaWNSZWFkLAogICAgICAgICAgICAgICAgICAgIElucHV0U3RyZWFtID0gImFiY2EiLlRvU3RyZWFtKCkKICAgICAgICAgICAgICAgIH0pLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKCiAgICAgICAgICAgICAgICB2YXIgZ2V0T2JqZWN0UmVzcG9uc2UgPSBhd2FpdCBzMy5HZXRPYmplY3RBc3luYyhuZXcgR2V0T2JqZWN0UmVxdWVzdAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIEJ1Y2tldE5hbWUgPSBJbWFnZUJ1Y2tldE5hbWUsCiAgICAgICAgICAgICAgICAgICAgS2V5ID0gRmlsZVBhdGgsCiAgICAgICAgICAgICAgICB9KS5Db25maWd1cmVBd2FpdChmYWxzZSk7CgogICAgICAgICAgICAgICAgdmFyIG1lbW9yeVN0cmVhbSA9IG5ldyBNZW1vcnlTdHJlYW0oKTsKICAgICAgICAgICAgICAgIGdldE9iamVjdFJlc3BvbnNlLlJlc3BvbnNlU3RyZWFtLkNvcHlUbyhtZW1vcnlTdHJlYW0pOwogICAgICAgICAgICAgICAgdmFyIHN0cmVhbVRvU3RyaW5nID0gbWVtb3J5U3RyZWFtLlN0cmVhbVRvU3RyaW5nKCk7CgogICAgICAgICAgICAgICAgdmFyIGV4aXN0cyA9IGF3YWl0IHMzLkV4aXN0cyhJbWFnZUJ1Y2tldE5hbWUsIEZpbGVQYXRoKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgICAgIHRocm93OwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlRmlsZXMoKTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text>private void CreateFiles(I</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaWxlUGF0aCA9IGZpbGUsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBsYWNlaG9sZGVyQ29udGVudCA9ICJwbGFjZWhvbGRlcmNvbnRlbnQiOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzMyA9IFMzQ2xpZW50KCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CreateTestBucket</text>
+        <text>s3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW1hem9uUzNcPg==</text>
@@ -169,6 +175,8 @@
       <last-search encoding="base64">XDxJQW1hem9uUzNcPg==</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxJQW1hem9uUzNcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxJQW1hem9uUzNcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
