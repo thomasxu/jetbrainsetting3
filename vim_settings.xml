@@ -4,14 +4,49 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/Program.cs" timestamp="1562225503984" />
+      <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/localstack-docker-compose.yml" timestamp="1562230658496">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="21" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+      </file>
+      <file name="C:/dev/git/experiment_project/LocalStack/LocalstackS3SetupForNetCore/src/S3Client/LocalstackS3ClientFactory.cs" timestamp="1562229114700" />
+      <file name="C:/dev/git/experiment_project/LocalStack/LocalstackS3SetupForNetCore/src/Dockerfile" timestamp="1562230000562">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="4">
+        <text>persistence</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">c2VydmljZXM6Cgo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICBsb2NhbHN0YWNrOgogICAgY29udGFpbmVyX25hbWU6IGxvY2Fsc3RhY2sKICAgIGltYWdlOiBsb2NhbHN0YWNrL2xvY2Fsc3RhY2sKICAgIHByaXZpbGVnZWQ6IHRydWUKICAgIHBvcnRzOgogICAgICAtICI0NTY3LTQ1ODI6NDU2Ny00NTgyIgogICAgICAtICI5MDcwOjkwNzAiCiAgICBlbnZpcm9ubWVudDoKICAgICAgU0VSVklDRVM6IHNxcywgbGFtYmRhLCBzMywgc25zLCBjbG91ZHdhdGNoLCBpYW0sIGVzLCBzdHMsIHNlY3JldHNtYW5hZ2VyCiAgICAgIERPQ0tFUl9IT1NUOiB1bml4Oi8vL3Zhci9ydW4vZG9ja2VyLnNvY2sKICAgICAgUE9SVF9XRUJfVUk6IDkwNzAKICAgICAgTEFNQkRBX0VYRUNVVE9SOiBkb2NrZXIKICAgICAgTE9DQUxTVEFDS19IT1NUOiBsb2NhbGhvc3QKICAgICAgREVCVUc6IDEKICAgIHZvbHVtZXM6CiAgICAgIC0gL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sKICAgICAgLSAvdG1wL2xvY2Fsc3RhY2s6L3RtcC9sb2NhbHN0YWNr</text>
+      </register>
+      <register name="-" type="4">
+        <text>7</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
