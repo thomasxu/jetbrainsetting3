@@ -22,7 +22,7 @@
         <mark key="." line="24" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2EF7A0C1-7E6C-4797-9144-63BE1F30633E/32/4c5e9a7a/CredentialsRetriever.cs" timestamp="1562292833511" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1562304039646">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1562306132095">
         <mark key="[" line="11" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/52DA0DD7-2F01-4599-9379-801D8AA12FC7/51/895a83e3/AmazonS3Client.cs" timestamp="1562293196468" />
@@ -30,10 +30,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2EF7A0C1-7E6C-4797-9144-63BE1F30633E/6b/804279cb/ClientConfig.cs" timestamp="1562294883286" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.local.json" timestamp="1562304010162">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.local.json" timestamp="1562306236819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Startup.cs" timestamp="1562296433770">
         <mark key="'" line="58" column="0" />
@@ -141,34 +142,55 @@
         <text>development</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciBzMyA9IFMzQ2xpZW50KCk7CgogICAgICAgICAgICAgICAgICAgIHMzLkRlbGV0ZUJ1Y2tldEFzeW5jKFRoZW1lQnVja2V0TmFtZSkuV2FpdCgpOwogICAgICAgICAgICAgICAgICAgIHMzLkRlbGV0ZUJ1Y2tldEFzeW5jKEltYWdlQnVja2V0TmFtZSkuV2FpdCgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwogICAgICAgICAgICAgICAgICAgIHRocm93OwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHRyeQogICAgICAgICAgICB7</text>
+        <text>{
+  &quot;Logging&quot;: {
+    &quot;ApplicationName&quot;: &quot;Shops-Api-Functional-Tests&quot;
+  },
+  &quot;Repository&quot;: {
+    &quot;ConnectionString&quot;: &quot;mongodb://db.local.selz.com/test_services_shops&quot;
+  },
+  &quot;Redis&quot;: {
+    &quot;url&quot;: &quot;&quot;
+  },
+  &quot;AWS&quot;: {
+    &quot;Profile&quot;: &quot;development&quot;,
+    &quot;ProfilesLocation&quot;: &quot;C:\\AWS\\profiles.txt&quot;,
+    &quot;Region&quot;: &quot;us-east-1&quot;,
+    &quot;UseHttp&quot;: true,
+    &quot;ServiceURL&quot;: &quot;http://localhost:4572/&quot;,
+    &quot;ProxyHost&quot;: &quot;localhost&quot;,
+    &quot;ProxyPort&quot;: &quot;4572&quot;
+  },
+  &quot;S3&quot;: {
+    &quot;TempBucketName&quot;: &quot;selzupload-test&quot;,
+    &quot;ImageBucketName&quot;: &quot;selzimg-test&quot;,
+    &quot;ThemeBucketName&quot;: &quot;selz-theme-test&quot;
+  }
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciBzMyA9IFMzQ2xpZW50KCk7CgogICAgICAgICAgICAgICAgICAgIHMzLkRlbGV0ZUJ1Y2tldEFzeW5jKFRoZW1lQnVja2V0TmFtZSkuV2FpdCgpOwogICAgICAgICAgICAgICAgICAgIHMzLkRlbGV0ZUJ1Y2tldEFzeW5jKEltYWdlQnVja2V0TmFtZSkuV2FpdCgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwogICAgICAgICAgICAgICAgICAgIHRocm93OwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IE9iamVjdExpc3Rpbmcgb2JqZWN0TGlzdGluZyA9IHMzQ2xpZW50Lmxpc3RPYmplY3RzKGJ1Y2tldE5hbWUpOwogICAgICAgICAgICAgICAgd2hpbGUgKHRydWUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgSXRlcmF0b3I8UzNPYmplY3RTdW1tYXJ5PiBvYmpJdGVyID0gb2JqZWN0TGlzdGluZy5nZXRPYmplY3RTdW1tYXJpZXMoKS5pdGVyYXRvcigpOwogICAgICAgICAgICAgICAgICAgIHdoaWxlIChvYmpJdGVyLmhhc05leHQoKSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHMzQ2xpZW50LmRlbGV0ZU9iamVjdChidWNrZXROYW1lLCBvYmpJdGVyLm5leHQoKS5nZXRLZXkoKSk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAvLyBJZiB0aGUgYnVja2V0IGNvbnRhaW5zIG1hbnkgb2JqZWN0cywgdGhlIGxpc3RPYmplY3RzKCkgY2FsbAogICAgICAgICAgICAgICAgICAgIC8vIG1pZ2h0IG5vdCByZXR1cm4gYWxsIG9mIHRoZSBvYmplY3RzIGluIHRoZSBmaXJzdCBsaXN0aW5nLiBDaGVjayB0bwogICAgICAgICAgICAgICAgICAgIC8vIHNlZSB3aGV0aGVyIHRoZSBsaXN0aW5nIHdhcyB0cnVuY2F0ZWQuIElmIHNvLCByZXRyaWV2ZSB0aGUgbmV4dCBwYWdlIG9mIG9iamVjdHMgCiAgICAgICAgICAgICAgICAgICAgLy8gYW5kIGRlbGV0ZSB0aGVtLgogICAgICAgICAgICAgICAgICAgIGlmIChvYmplY3RMaXN0aW5nLmlzVHJ1bmNhdGVkKCkpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBvYmplY3RMaXN0aW5nID0gczNDbGllbnQubGlzdE5leHRCYXRjaE9mT2JqZWN0cyhvYmplY3RMaXN0aW5nKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIC8vIERlbGV0ZSBhbGwgb2JqZWN0IHZlcnNpb25zIChyZXF1aXJlZCBmb3IgdmVyc2lvbmVkIGJ1Y2tldHMpLgogICAgICAgICAgICAgICAgVmVyc2lvbkxpc3RpbmcgdmVyc2lvbkxpc3QgPSBzM0NsaWVudC5saXN0VmVyc2lvbnMobmV3IExpc3RWZXJzaW9uc1JlcXVlc3QoKS53aXRoQnVja2V0TmFtZShidWNrZXROYW1lKSk7CiAgICAgICAgICAgICAgICB3aGlsZSAodHJ1ZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBJdGVyYXRvcjxTM1ZlcnNpb25TdW1tYXJ5PiB2ZXJzaW9uSXRlciA9IHZlcnNpb25MaXN0LmdldFZlcnNpb25TdW1tYXJpZXMoKS5pdGVyYXRvcigpOwogICAgICAgICAgICAgICAgICAgIHdoaWxlICh2ZXJzaW9uSXRlci5oYXNOZXh0KCkpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBTM1ZlcnNpb25TdW1tYXJ5IHZzID0gdmVyc2lvbkl0ZXIubmV4dCgpOwogICAgICAgICAgICAgICAgICAgICAgICBzM0NsaWVudC5kZWxldGVWZXJzaW9uKGJ1Y2tldE5hbWUsIHZzLmdldEtleSgpLCB2cy5nZXRWZXJzaW9uSWQoKSk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBpZiAodmVyc2lvbkxpc3QuaXNUcnVuY2F0ZWQoKSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZlcnNpb25MaXN0ID0gczNDbGllbnQubGlzdE5leHRCYXRjaE9mVmVyc2lvbnModmVyc2lvbkxpc3QpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgLy8gQWZ0ZXIgYWxsIG9iamVjdHMgYW5kIG9iamVjdCB2ZXJzaW9ucyBhcmUgZGVsZXRlZCwgZGVsZXRlIHRoZSBidWNrZXQuCiAgICAgICAgICAgICAgICBzM0NsaWVudC5kZWxldGVCdWNrZXQoYnVja2V0TmFtZSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEFtYXpvblNlcnZpY2VFeGNlcHRpb24gZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgLy8gVGhlIGNhbGwgd2FzIHRyYW5zbWl0dGVkIHN1Y2Nlc3NmdWxseSwgYnV0IEFtYXpvbiBTMyBjb3VsZG4ndCBwcm9jZXNzIAogICAgICAgICAgICAgICAgLy8gaXQsIHNvIGl0IHJldHVybmVkIGFuIGVycm9yIHJlc3BvbnNlLgogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIEFtYXpvbiBTMyBjb3VsZG4ndCBiZSBjb250YWN0ZWQgZm9yIGEgcmVzcG9uc2UsIG9yIHRoZSBjbGllbnQgY291bGRuJ3QKICAgICAgICAgICAgICAgIC8vIHBhcnNlIHRoZSByZXNwb25zZSBmcm9tIEFtYXpvbiBTMy4KICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUuTWVzc2FnZSk7CiAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">IHRyeQogICAgICAgICAgICB7</text>
       </register>
-      <register name="7" type="4">
-        <text>AmazonS3 s3Client = AmazonS3ClientBuilder.standard()
-                    .withCredentials(new ProfileCredentialsProvider())
-                    .withRegion(clientRegion)
-                    .build();</text>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgfQogICAgICAgIA==</text>
+        <text encoding="base64">IE9iamVjdExpc3Rpbmcgb2JqZWN0TGlzdGluZyA9IHMzQ2xpZW50Lmxpc3RPYmplY3RzKGJ1Y2tldE5hbWUpOwogICAgICAgICAgICAgICAgd2hpbGUgKHRydWUpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgSXRlcmF0b3I8UzNPYmplY3RTdW1tYXJ5PiBvYmpJdGVyID0gb2JqZWN0TGlzdGluZy5nZXRPYmplY3RTdW1tYXJpZXMoKS5pdGVyYXRvcigpOwogICAgICAgICAgICAgICAgICAgIHdoaWxlIChvYmpJdGVyLmhhc05leHQoKSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHMzQ2xpZW50LmRlbGV0ZU9iamVjdChidWNrZXROYW1lLCBvYmpJdGVyLm5leHQoKS5nZXRLZXkoKSk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAvLyBJZiB0aGUgYnVja2V0IGNvbnRhaW5zIG1hbnkgb2JqZWN0cywgdGhlIGxpc3RPYmplY3RzKCkgY2FsbAogICAgICAgICAgICAgICAgICAgIC8vIG1pZ2h0IG5vdCByZXR1cm4gYWxsIG9mIHRoZSBvYmplY3RzIGluIHRoZSBmaXJzdCBsaXN0aW5nLiBDaGVjayB0bwogICAgICAgICAgICAgICAgICAgIC8vIHNlZSB3aGV0aGVyIHRoZSBsaXN0aW5nIHdhcyB0cnVuY2F0ZWQuIElmIHNvLCByZXRyaWV2ZSB0aGUgbmV4dCBwYWdlIG9mIG9iamVjdHMgCiAgICAgICAgICAgICAgICAgICAgLy8gYW5kIGRlbGV0ZSB0aGVtLgogICAgICAgICAgICAgICAgICAgIGlmIChvYmplY3RMaXN0aW5nLmlzVHJ1bmNhdGVkKCkpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBvYmplY3RMaXN0aW5nID0gczNDbGllbnQubGlzdE5leHRCYXRjaE9mT2JqZWN0cyhvYmplY3RMaXN0aW5nKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIC8vIERlbGV0ZSBhbGwgb2JqZWN0IHZlcnNpb25zIChyZXF1aXJlZCBmb3IgdmVyc2lvbmVkIGJ1Y2tldHMpLgogICAgICAgICAgICAgICAgVmVyc2lvbkxpc3RpbmcgdmVyc2lvbkxpc3QgPSBzM0NsaWVudC5saXN0VmVyc2lvbnMobmV3IExpc3RWZXJzaW9uc1JlcXVlc3QoKS53aXRoQnVja2V0TmFtZShidWNrZXROYW1lKSk7CiAgICAgICAgICAgICAgICB3aGlsZSAodHJ1ZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBJdGVyYXRvcjxTM1ZlcnNpb25TdW1tYXJ5PiB2ZXJzaW9uSXRlciA9IHZlcnNpb25MaXN0LmdldFZlcnNpb25TdW1tYXJpZXMoKS5pdGVyYXRvcigpOwogICAgICAgICAgICAgICAgICAgIHdoaWxlICh2ZXJzaW9uSXRlci5oYXNOZXh0KCkpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBTM1ZlcnNpb25TdW1tYXJ5IHZzID0gdmVyc2lvbkl0ZXIubmV4dCgpOwogICAgICAgICAgICAgICAgICAgICAgICBzM0NsaWVudC5kZWxldGVWZXJzaW9uKGJ1Y2tldE5hbWUsIHZzLmdldEtleSgpLCB2cy5nZXRWZXJzaW9uSWQoKSk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBpZiAodmVyc2lvbkxpc3QuaXNUcnVuY2F0ZWQoKSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZlcnNpb25MaXN0ID0gczNDbGllbnQubGlzdE5leHRCYXRjaE9mVmVyc2lvbnModmVyc2lvbkxpc3QpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgLy8gQWZ0ZXIgYWxsIG9iamVjdHMgYW5kIG9iamVjdCB2ZXJzaW9ucyBhcmUgZGVsZXRlZCwgZGVsZXRlIHRoZSBidWNrZXQuCiAgICAgICAgICAgICAgICBzM0NsaWVudC5kZWxldGVCdWNrZXQoYnVja2V0TmFtZSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEFtYXpvblNlcnZpY2VFeGNlcHRpb24gZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgLy8gVGhlIGNhbGwgd2FzIHRyYW5zbWl0dGVkIHN1Y2Nlc3NmdWxseSwgYnV0IEFtYXpvbiBTMyBjb3VsZG4ndCBwcm9jZXNzIAogICAgICAgICAgICAgICAgLy8gaXQsIHNvIGl0IHJldHVybmVkIGFuIGVycm9yIHJlc3BvbnNlLgogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIEFtYXpvbiBTMyBjb3VsZG4ndCBiZSBjb250YWN0ZWQgZm9yIGEgcmVzcG9uc2UsIG9yIHRoZSBjbGllbnQgY291bGRuJ3QKICAgICAgICAgICAgICAgIC8vIHBhcnNlIHRoZSByZXNwb25zZSBmcm9tIEFtYXpvbiBTMy4KICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUuTWVzc2FnZSk7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text>//Skip = &quot;It works fine locally but not want it be run in teamcity everything when build trigger, remove skip attribute to run it locally&quot;)]</text>
@@ -195,35 +217,83 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
