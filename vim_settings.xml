@@ -13,9 +13,10 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/ServiceRegistry.cs" timestamp="1562237596282">
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="24" column="26" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/ServiceRegistry.cs" timestamp="1562289981200">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562250623245">
         <mark key="[" line="37" column="0" />
@@ -30,12 +31,12 @@
         <mark key="[" line="23" column="24" />
         <mark key="]" line="23" column="38" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Startup.cs" timestamp="1562249584984">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="57" column="98" />
-        <mark key="^" line="59" column="70" />
-        <mark key="." line="59" column="70" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Startup.cs" timestamp="1562290037067">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="81" column="92" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1562281889861">
         <mark key="[" line="103" column="13" />
@@ -61,7 +62,7 @@
         <mark key="[" line="4" column="54" />
         <mark key="]" line="4" column="85" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562280121338">
+      <file name="/Dummy.txt" timestamp="1562290063883">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/localstack-docker-compose.yml" timestamp="1562244771332">
@@ -85,7 +86,7 @@
         <mark key="[" line="7" column="34" />
         <mark key="]" line="7" column="87" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/AssetBuilder/AssetBuilder.cs" timestamp="1562282742399">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/AssetBuilder/AssetBuilder.cs" timestamp="1562289436498">
         <mark key="[" line="19" column="5" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562243598401">
@@ -102,7 +103,7 @@
         <mark key="[" line="19" column="51" />
         <mark key="]" line="19" column="60" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1562279993916">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1562289780554">
         <mark key="[" line="1090" column="9" />
         <mark key="]" line="1090" column="72" />
         <mark key="." line="1090" column="9" />
@@ -112,6 +113,12 @@
         <mark key="]" line="79" column="0" />
         <mark key="^" line="30" column="8" />
         <mark key="." line="79" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/MockAssetsBuilder.cs" timestamp="1562289912251">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="35" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/S3Client/AmazonClientFactory.cs" timestamp="1562247976269">
         <mark key="[" line="78" column="52" />
@@ -139,37 +146,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGFzeW5jIFRhc2s8Ym9vbD4gRXhpc3RzKHRoaXMgSUFtYXpvblMzIHMzQ2xpZW50LCBzdHJpbmcgYnVja2V0TmFtZSwgc3RyaW5nIHBhdGgpCiAgICAgICAgewogICAgICAgICAgICBpZiAoc3RyaW5nLklzTnVsbE9yRW1wdHkocGF0aCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy8gSWYgYSBVUkwgKGFic29sdXRlIHBhdGgpIGlzIHBhc3NlZAogICAgICAgICAgICBpZiAocGF0aC5Jc1ZhbGlkVXJsKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIElmIGl0J3Mgbm90IGEgdmFsaWQgVVJMIGZvciB0aGlzIGJ1Y2tldAogICAgICAgICAgICAgICAgaWYgKHBhdGguSXNWYWxpZFVybEZvcihidWNrZXROYW1lKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgLy8gR2V0IHRoZSByZWxhdGl2ZSBwYXRoCiAgICAgICAgICAgICAgICBwYXRoID0gcGF0aC5HZXRSZWxhdGl2ZVBhdGhGb3IoYnVja2V0TmFtZSwgZmFsc2UpOwogICAgICAgICAgICB9CgogICAgICAgICAgICB0cnkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHJlcXVlc3QgPSBuZXcgR2V0T2JqZWN0TWV0YWRhdGFSZXF1ZXN0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQnVja2V0TmFtZSA9IGJ1Y2tldE5hbWUsCiAgICAgICAgICAgICAgICAgICAgS2V5ID0gcGF0aAogICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgICAgICBhd2FpdCBzM0NsaWVudC5HZXRPYmplY3RNZXRhZGF0YUFzeW5jKHJlcXVlc3QpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoQW1hem9uUzNFeGNlcHRpb24gZXgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIElnbm9yZSA0MDRzIGFuZCA0MDNzIGFzIGl0J3MgZXhwZWN0ZWQgdG8gaGFwcGVuCiAgICAgICAgICAgICAgICBpZiAoZXguRXJyb3JDb2RlICE9ICJOb3RGb3VuZCIgJiYgZXguRXJyb3JDb2RlICE9ICJGb3JiaWRkZW4iKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciBleHRyYURhdGEgPSBuZXcgRGljdGlvbmFyeTxzdHJpbmcsIHN0cmluZz4KICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHsgIkJ1Y2tldCIsIGJ1Y2tldE5hbWUgfSwKICAgICAgICAgICAgICAgICAgICAgICAgeyAiUGF0aCIsIHBhdGggfSwKICAgICAgICAgICAgICAgICAgICAgICAgeyAieC1hbXotcmVxdWVzdC1pZCIsIGV4LlJlcXVlc3RJZCB9LAogICAgICAgICAgICAgICAgICAgICAgICB7ICJ4LWFtei1pZC0yIiwgZXguQW1hem9uSWQyIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsgIlgtQW16LUNmLUlkIiwgZXguQW1hem9uQ2xvdWRGcm9udElkIH0KICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgIExvZy5FcnJvcigiRXJyb3Igd2hpbGUgY2hlY2tpbmcgaWYgZmlsZSBleGlzdHMgaW4gUzMuIiwgbnVsbCwgZXh0cmFEYXRhLCBleCk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuUmVwbGFjZShTZXJ2aWNlRGVzY3JpcHRvci5TY29wZWQ8SVJlZGlzQ2FjaGVDbGllbnQsIE1vY2tSZWRpc0NhY2hlQ2xpZW50PigpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRlbnQgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBVc2UgbW9ja2VkIHJlZGlzIGNsaWVudCB0byBwYXNzIGludGVncmF0aW9uIHRlc3QsIHN3aXRjaCB0byByZWFsIG9uZSBmb3IgdGhlIHRlc3QgcmVkaXMgZGIgKERvY2tlciBzcGluIHVwIGluIHRoZSBmaXh0dXJlPykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBVc2UgbW9ja2VkIHJlZGlzIGNsaWVudCB0byBwYXNzIGludGVncmF0aW9uIHRlc3QsIHN3aXRjaCB0byByZWFsIG9uZSBmb3IgdGhlIHRlc3QgcmVkaXMgZGIgKERvY2tlciBzcGluIHVwIGluIHRoZSBmaXh0dXJlPykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4aXN0cyA9IGF3YWl0IHMzLkV4aXN0cyhJbWFnZUJ1Y2tldE5hbWUsIGZpbGVzLkZpcnN0KCkpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ1aWxkU2VydmljZVByb3ZpZGVyID0gc2VydmljZXMuQnVpbGRTZXJ2aWNlUHJvdmlkZXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgczNDbGllbnQuZXhpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2NvcGVkPElBc3NldEJ1aWxkZXJTZXJ2aWNlLCBNb2NrQXNzZXQ+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciByZXF1ZXN0ID0gbmV3IEdldE9iamVjdE1ldGFkYXRhUmVxdWVzdAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIEJ1Y2tldE5hbWUgPSBidWNrZXROYW1lLAogICAgICAgICAgICAgICAgICAgIEtleSA9IHBhdGgKICAgICAgICAgICAgICAgIH07CgogICAgICAgICAgICAgICAgYXdhaXQgczNDbGllbnQuR2V0T2JqZWN0TWV0YWRhdGFBc3luYyhyZXF1ZXN0KS5Db25maWd1cmVBd2FpdChmYWxzZSk7CgogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEFtYXpvblMzRXhjZXB0aW9uIGV4KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAvLyBJZ25vcmUgNDA0cyBhbmQgNDAzcyBhcyBpdCdzIGV4cGVjdGVkIHRvIGhhcHBlbgogICAgICAgICAgICAgICAgaWYgKGV4LkVycm9yQ29kZSAhPSAiTm90Rm91bmQiICYmIGV4LkVycm9yQ29kZSAhPSAiRm9yYmlkZGVuIikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YXIgZXh0cmFEYXRhID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBzdHJpbmc+CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB7ICJCdWNrZXQiLCBidWNrZXROYW1lIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsgIlBhdGgiLCBwYXRoIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsgIngtYW16LXJlcXVlc3QtaWQiLCBleC5SZXF1ZXN0SWQgfSwKICAgICAgICAgICAgICAgICAgICAgICAgeyAieC1hbXotaWQtMiIsIGV4LkFtYXpvbklkMiB9LAogICAgICAgICAgICAgICAgICAgICAgICB7ICJYLUFtei1DZi1JZCIsIGV4LkFtYXpvbkNsb3VkRnJvbnRJZCB9CiAgICAgICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgICAgICBMb2cuRXJyb3IoIkVycm9yIHdoaWxlIGNoZWNraW5nIGlmIGZpbGUgZXhpc3RzIGluIFMzLiIsIG51bGwsIGV4dHJhRGF0YSwgZXgpOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRlbnQgPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlRmlsZXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>MockRedisCacheClient</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW1hem9uUzNcPg==</text>
@@ -219,6 +226,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
