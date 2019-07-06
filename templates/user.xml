@@ -81,7 +81,7 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="mets" value="public static void $METNAME$() {&#10;                $END$&#10;            }" toReformat="true" toShortenFQNames="true">
+  <template name="mets" value="public static void $METNAME$() {&#10;                $END$&#10;            }" description="" toReformat="true" toShortenFQNames="true">
     <variable name="METNAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />
