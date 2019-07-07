@@ -3,17 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1562537657651">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1562504014473">
         <mark key="[" line="56" column="13" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Aws/AmazonClientFactory.cs" timestamp="1562537316492">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="68" column="39" />
-        <mark key="." line="68" column="39" />
-        <mark key="^" line="68" column="42" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Aws/AmazonClientFactory.cs" timestamp="1562538309195">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/d7/9169410e/ClientFactory.cs" timestamp="1562495602076">
         <mark key="[" line="29" column="0" />
@@ -33,10 +36,10 @@
         <mark key="^" line="67" column="20" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1562503551936">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1562537862361">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="18" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="4" />
         <mark key="." line="11" column="18" />
       </file>
       <file name="/Dummy.cs" timestamp="1562503589307">
@@ -44,18 +47,12 @@
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.local.json" timestamp="1562503762660">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="11" column="25" />
-        <mark key="." line="13" column="24" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1562502912529">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1562537725742">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="23" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="23" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Startup.cs" timestamp="1562500288662">
         <mark key="[" line="53" column="0" />
@@ -113,38 +110,38 @@
       <jump line="0" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>ASPNETCORE_ENVIRONMENT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAiQVdTIjogewogICAgIlByb2ZpbGUiOiAic2VsenNoYXJlZCIsCiAgICAiUHJvZmlsZXNMb2NhdGlvbiI6ICJDOlxcQVdTXFxwcm9maWxlcy50eHQiLAogICAgIlJlZ2lvbiI6ICJ1cy1lYXN0LTEiCiAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVudmlyb25tZW50VmFyaWFibGUgPSBFbnZpcm9ubWVudC5HZXRFbnZpcm9ubWVudFZhcmlhYmxlKCJBU1BORVRDT1JFX0VOVklST05NRU5UIik7Cg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLkhlbHBlcnM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRW52aXJvbm1lbnQuU2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiQSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQW1hem9uQ2xpZW50RmFjdG9yeShBV1NPcHRpb25zIGF3c09wdGlvbnMsIEF3c0NyZWRlbnRpYWxPcHRpb24gYXdzQ3JlZGVudGlhbCwgSUVudmlyb25tZW50SGVscGVyIGVudmlyb25tZW50SGVscGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJQcm9maWxlIjogImRldmVsb3BtZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW52aXJvbm1lbnQuU2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiVEVBTUNJVFlfVkVSU0lPTiIsICIxLjIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW52aXJvbm1lbnRIZWxwZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkQVdTU2VydmljZTxJQW1hem9uU2VjcmV0c01hbmFnZXI+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVudmlyb25tZW50VmFyaWFibGUgPSBFbnZpcm9ubWVudC5HZXRFbnZpcm9ubWVudFZhcmlhYmxlKCJBU1BORVRDT1JFX0VOVklST05NRU5UIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkQVdTU2VydmljZTxJQW1hem9uU2VjcmV0c01hbmFnZXI+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW52aXJvbm1lbnQuU2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiQSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkQVdTU2VydmljZTxJQW1hem9uU2VjcmV0c01hbmFnZXI+KCk7Cg==</text>
+        <text encoding="base64">ICAgICJQcm9maWxlIjogImRldmVsb3BtZW50Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uZmlndXJlUmVwb3NpdG9yeUFuZEF3cyhzZXJ2aWNlcywgVE9ETyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkQVdTU2VydmljZTxJQW1hem9uU2VjcmV0c01hbmFnZXI+KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>east</text>
+        <text>IEnvironmentHelper</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW1hem9uUzNcPg==</text>
