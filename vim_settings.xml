@@ -32,10 +32,22 @@
         <mark key="[" line="4" column="54" />
         <mark key="]" line="4" column="85" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Aws/AmazonClientFactory.cs" timestamp="1562499387920">
+        <mark key="[" line="16" column="58" />
+        <mark key="]" line="16" column="76" />
+        <mark key="." line="16" column="128" />
+        <mark key="^" line="16" column="128" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2EF7A0C1-7E6C-4797-9144-63BE1F30633E/bb/0fed926d/ImmutableCredentials.cs" timestamp="1562490602938" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/EnvironmentHelper.cs" timestamp="1562496562253">
         <mark key="[" line="7" column="70" />
         <mark key="]" line="7" column="85" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562499102967">
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="68" column="21" />
+        <mark key="^" line="68" column="38" />
+        <mark key="." line="68" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2EF7A0C1-7E6C-4797-9144-63BE1F30633E/4f/c2b27917/StoredProfileAWSCredentials.cs" timestamp="1562484141311">
         <mark key="[" line="31" column="124" />
@@ -45,12 +57,6 @@
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Views/_ViewImports.cshtml" timestamp="1562414365549">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="12" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1562481913718">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/52DA0DD7-2F01-4599-9379-801D8AA12FC7/51/895a83e3/AmazonS3Client.cs" timestamp="1562495668717" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1562497794593">
@@ -68,11 +74,11 @@
       <file name="/Dummy.txt" timestamp="1562410484886">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1562498647465">
-        <mark key="[" line="67" column="9" />
-        <mark key="]" line="73" column="45" />
-        <mark key="." line="73" column="45" />
-        <mark key="^" line="73" column="45" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1562499556402">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="60" />
+        <mark key="." line="22" column="34" />
+        <mark key="^" line="46" column="45" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/ShopScenarios.cs" timestamp="1562482397388">
         <mark key="[" line="22" column="0" />
@@ -131,38 +137,38 @@
       <jump line="0" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPElBbWF6b25DbGllbnRGYWN0b3J5LCBBbWF6b25DbGllbnRGYWN0b3J5PigpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRTaW5nbGV0b24ocCA9PiBwLkdldFNlcnZpY2U8SUFtYXpvbkNsaWVudEZhY3Rvcnk+KCkuQ3JlYXRlUzNDbGllbnQoKSk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihwID0+IHAuR2V0U2VydmljZTxJQW1hem9uQ2xpZW50RmFjdG9yeT4oKS5DcmVhdGVMYW1iZGFDbGllbnQoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>GetConfigureManagerOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgQ29uZmlndXJlUmVwb3NpdG9yeUFuZEF3cyhJU2VydmljZUNvbGxlY3Rpb24gc2VydmljZXMsIElDb25maWd1cmF0aW9uIGNvbmZpZ3VyYXRpb24pCiAgICAgICAgewogICAgICAgICAgICAvLyBTZXR1cCBTZWx6IFJlcG9zaXRvcnkgQXdzQ3JlZGVudGFpbCBvcHRpb25zIGZyb20gU2VjcmV0IG1hbmFnZXIgaWYgc2VjcmV0bWFuYWdlciBlbmFibGVkCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNlY3JldHNNYW5hZ2VyT3B0aW9ucyhjb25maWd1cmF0aW9uKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPElBbWF6b25DbGllbnRGYWN0b3J5LCBBbWF6b25DbGllbnRGYWN0b3J5PigpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRTaW5nbGV0b24ocCA9PiBwLkdldFNlcnZpY2U8SUFtYXpvbkNsaWVudEZhY3Rvcnk+KCkuQ3JlYXRlUzNDbGllbnQoKSk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihwID0+IHAuR2V0U2VydmljZTxJQW1hem9uQ2xpZW50RmFjdG9yeT4oKS5DcmVhdGVMYW1iZGFDbGllbnQoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFNlY3JldE1hbmFnZXJPcHRpb25zIENvbmZpZ3VyZU1hbmFnZXJPcHRpb25zKHRoaXMgSUNvbmZpZ3VyYXRpb24gY29uZmlndXJhdGlvbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPElBbWF6b25DbGllbnRGYWN0b3J5LCBBbWF6b25DbGllbnRGYWN0b3J5PigpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRTaW5nbGV0b24ocCA9PiBwLkdldFNlcnZpY2U8SUFtYXpvbkNsaWVudEZhY3Rvcnk+KCkuQ3JlYXRlUzNDbGllbnQoKSk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihwID0+IHAuR2V0U2VydmljZTxJQW1hem9uQ2xpZW50RmFjdG9yeT4oKS5DcmVhdGVMYW1iZGFDbGllbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgQ29uZmlndXJlUmVwb3NpdG9yeUFuZEF3cyh0aGlzIElTZXJ2aWNlQ29sbGVjdGlvbiBzZXJ2aWNlcywgSUNvbmZpZ3VyYXRpb24gY29uZmlndXJhdGlvbikKICAgICAgICB7CiAgICAgICAgICAgIC8vIFNldHVwIFNlbHogUmVwb3NpdG9yeSBBd3NDcmVkZW50YWlsIG9wdGlvbnMgZnJvbSBTZWNyZXQgbWFuYWdlciBpZiBzZWNyZXRtYW5hZ2VyIGVuYWJsZWQKICAgICAgICAgICAgc2VydmljZXMuQWRkU2VjcmV0c01hbmFnZXJPcHRpb25zKGNvbmZpZ3VyYXRpb24pOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPElBbWF6b25DbGllbnRGYWN0b3J5LCBBbWF6b25DbGllbnRGYWN0b3J5PigpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRTaW5nbGV0b24ocCA9PiBwLkdldFNlcnZpY2U8SUFtYXpvbkNsaWVudEZhY3Rvcnk+KCkuQ3JlYXRlUzNDbGllbnQoKSk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihwID0+IHAuR2V0U2VydmljZTxJQW1hem9uQ2xpZW50RmFjdG9yeT4oKS5DcmVhdGVMYW1iZGFDbGllbnQoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgQ29uZmlndXJlUmVwb3NpdG9yeUFuZEF3cyhJU2VydmljZUNvbGxlY3Rpb24gc2VydmljZXMsIElDb25maWd1cmF0aW9uIGNvbmZpZ3VyYXRpb24pCiAgICAgICAgewogICAgICAgICAgICAvLyBTZXR1cCBTZWx6IFJlcG9zaXRvcnkgQXdzQ3JlZGVudGFpbCBvcHRpb25zIGZyb20gU2VjcmV0IG1hbmFnZXIgaWYgc2VjcmV0bWFuYWdlciBlbmFibGVkCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNlY3JldHNNYW5hZ2VyT3B0aW9ucyhjb25maWd1cmF0aW9uKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPElBbWF6b25DbGllbnRGYWN0b3J5LCBBbWF6b25DbGllbnRGYWN0b3J5PigpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRTaW5nbGV0b24ocCA9PiBwLkdldFNlcnZpY2U8SUFtYXpvbkNsaWVudEZhY3Rvcnk+KCkuQ3JlYXRlUzNDbGllbnQoKSk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihwID0+IHAuR2V0U2VydmljZTxJQW1hem9uQ2xpZW50RmFjdG9yeT4oKS5DcmVhdGVMYW1iZGFDbGllbnQoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPElBbWF6b25DbGllbnRGYWN0b3J5LCBBbWF6b25DbGllbnRGYWN0b3J5PigpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRTaW5nbGV0b24ocCA9PiBwLkdldFNlcnZpY2U8SUFtYXpvbkNsaWVudEZhY3Rvcnk+KCkuQ3JlYXRlUzNDbGllbnQoKSk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihwID0+IHAuR2V0U2VydmljZTxJQW1hem9uQ2xpZW50RmFjdG9yeT4oKS5DcmVhdGVMYW1iZGFDbGllbnQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQW1hem9uRml4dHVyZUV4dGVuc2lvbiB7CiAgICAgICAgcHVibGljIHN0YXRpYyBJU2VydmljZUNvbGxlY3Rpb24gU2V0U2VjcmV0TWFuYWdlckF3c09wdGlvbnModGhpcyBJU2VydmljZUNvbGxlY3Rpb24gc2VydmljZXMsIElDb25maWd1cmF0aW9uIGNvbmZpZykKICAgICAgICB7CiAgICAgICAgICAgIHZhciBlbmFibGVTZWNyZXRzTWFuYWdlciA9IGNvbmZpZy5HZXRWYWx1ZSgiU2VjcmV0c01hbmFnZXI6RW5hYmxlZCIsIGZhbHNlKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIEF3c0NyZWRlbnRpYWxPcHRpb24gYXdzQ3JlZGVudGlhbE9wdGlvbiA9IG51bGw7CiAgICAgICAgICAgIGlmIChlbmFibGVTZWNyZXRzTWFuYWdlcikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHNlY3JldHMgPSBjb25maWcuR2V0U2VjcmV0TWFuYWdlck9wdGlvbnMoKTsKICAgICAgICAgICAgICAgIGF3c0NyZWRlbnRpYWxPcHRpb24gPSAgbmV3IEF3c0NyZWRlbnRpYWxPcHRpb24oc2VjcmV0cy5BY2Nlc3NLZXksIHNlY3JldHMuU2VjcmV0S2V5KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihhd3NDcmVkZW50aWFsT3B0aW9uKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBd3NDcmVkZW50aWFsT3B0aW9uCiAgICB7CiAgICAgICAgcHVibGljIEF3c0NyZWRlbnRpYWxPcHRpb24oc3RyaW5nIGFjY2Vzc0tleSwgc3RyaW5nIHNlY3JldEtleSkKICAgICAgICB7CiAgICAgICAgICAgIEFjY2Vzc0tleSA9IGFjY2Vzc0tleTsKICAgICAgICAgICAgU2VjcmV0S2V5ID0gc2VjcmV0S2V5OwogICAgICAgIH0KICAgICAgICAKICAgICAgICBwdWJsaWMgc3RyaW5nIEFjY2Vzc0tleSB7IGdldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgU2VjcmV0S2V5IHsgZ2V0OyB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRW52aXJvbm1lbnQuU2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiVEVBTUNJVFlfVkVSU0lPTiIsICIxLjIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>GetSecretManagerOptions</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW1hem9uUzNcPg==</text>
