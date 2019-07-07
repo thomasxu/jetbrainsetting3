@@ -59,7 +59,7 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2EF7A0C1-7E6C-4797-9144-63BE1F30633E/bb/0fed926d/ImmutableCredentials.cs" timestamp="1562488164846" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2EF7A0C1-7E6C-4797-9144-63BE1F30633E/bb/0fed926d/ImmutableCredentials.cs" timestamp="1562490602938" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/EnvironmentHelper.cs" timestamp="1562480017654">
         <mark key="[" line="7" column="70" />
         <mark key="]" line="7" column="85" />
@@ -116,20 +116,23 @@
       <file name="C:/dev/git/selz/UI.Administration/Selz.Administration.sln" timestamp="1562366710358">
         <mark key="'" line="36" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1562489701798">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="93" column="20" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1562491389325">
+        <mark key="[" line="133" column="94" />
+        <mark key="]" line="139" column="31" />
+        <mark key="." line="139" column="31" />
+        <mark key="^" line="139" column="31" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Startup.cs" timestamp="1562490899861">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="60" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1562464296910">
         <mark key="'" line="438" column="47" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1562489924715">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="79" />
-        <mark key="." line="36" column="42" />
-        <mark key="^" line="36" column="42" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1562491230878">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="C:/dev/git/experiment_project/LocalStack/LocalstackS3SetupForNetCore/src/S3Client/LocalstackS3ClientFactory.cs" timestamp="1562240510422">
         <mark key="[" line="46" column="48" />
@@ -195,11 +198,11 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/S3Client/AmazonClientFactory.cs" timestamp="1562489968871">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="14" column="46" />
-        <mark key="." line="32" column="9" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/S3Client/AmazonClientFactory.cs" timestamp="1562490978261">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="26" column="9" />
+        <mark key="^" line="14" column="58" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -227,40 +230,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBlbmFibGVTZWNyZXRzTWFuYWdlciA9IGNvbmZpZy5HZXRWYWx1ZSgiU2VjcmV0c01hbmFnZXI6RW5hYmxlZCIsIGZhbHNlKTsKICAgICAgICAgICAgICAgIGlmIChlbmFibGVTZWNyZXRzTWFuYWdlcikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YXIgc2VjcmV0TWFuYWdlck9wdGlvbnMgPSBHZXRTZWNyZXRNYW5hZ2VyT3B0aW9ucyhjb25maWcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFNlY3JldE1hbmFnZXJPcHRpb25zIEFkZEF3c1dpdGhTZWNyZXRNYW5hZ2VyKHRoaXMgSUNvbmZpZ3VyYXRpb24gY29uZmlnKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGVuYWJsZVNlY3JldHNNYW5hZ2VyID0gY29uZmlnLkdldFZhbHVlKCJTZWNyZXRzTWFuYWdlcjpFbmFibGVkIiwgZmFsc2UpOwogICAgICAgICAgICBpZiAoZW5hYmxlU2VjcmV0c01hbmFnZXIpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBzZWNyZXRzID0gY29uZmlnLkdldFNlY3JldE1hbmFnZXJPcHRpb25zKCk7CiAgICAgICAgICAgICAgICBfYXdzQ3JlZGVudGlhbHMgPSBuZXcgQmFzaWNBV1NDcmVkZW50aWFscyhzZWNyZXRzLkFjY2Vzc0tleSwgc2VjcmV0cy5TZWNyZXRLZXkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlndXJhdGlvbi5HZXRTZWNyZXRNYW5hZ2VyT3B0aW9ucygpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBd3NDcmVkZW50aWFsT3B0aW9uCiAgICB7CiAgICAgICAgcHVibGljIEF3c0NyZWRlbnRpYWxPcHRpb24oc3RyaW5nIGFjY2Vzc0tleSwgc3RyaW5nIHNlY3JldEtleSkKICAgICAgICB7CiAgICAgICAgICAgIEFjY2Vzc0tleSA9IGFjY2Vzc0tleTsKICAgICAgICAgICAgU2VjcmV0S2V5ID0gc2VjcmV0S2V5OwogICAgICAgIH0KICAgICAgICAKICAgICAgICBwdWJsaWMgc3RyaW5nIEFjY2Vzc0tleSB7IGdldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgU2VjcmV0S2V5IHsgZ2V0OyB9CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEFXU09wdGlvbnMgX29wdGlvbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2VselJlcG9zaXRvcnlXaXRoU2VjcmV0TWFuYWdlcigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkQXdzV2l0aFNlY3JldE1hbmFnZXIoX2NvbmZpZ3VyYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuYWRkPD4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>else
-                {
-                    option.ConnectionString = config[&quot;Repository:ConnectionString&quot;];
-                }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBZGRUb0F3c1Byb2ZpbGUoc2VjcmV0TWFuYWdlck9wdGlvbnMpOwo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBCYXNpY0FXU0NyZWRlbnRpYWxzIF9hd3NDcmVkZW50aWFsczsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVuYWJsZVNlY3JldHNNYW5hZ2VyID0gY29uZmlnLkdldFZhbHVlKCJTZWNyZXRzTWFuYWdlcjpFbmFibGVkIiwgZmFsc2UpOwogICAgICAgICAgICBpZiAoZW5hYmxlU2VjcmV0c01hbmFnZXIpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBzZWNyZXRzID0gY29uZmlnLkdldFNlY3JldE1hbmFnZXJPcHRpb25zKCk7CiAgICAgICAgICAgICAgICBfYXdzQ3JlZGVudGlhbHMgPSBuZXcgQmFzaWNBV1NDcmVkZW50aWFscyhzZWNyZXRzLkFjY2Vzc0tleSwgc2VjcmV0cy5TZWNyZXRLZXkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlndXJhdGlvbi5HZXRTZWNyZXRNYW5hZ2VyT3B0aW9ucygpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25maWdbIlJlcG9zaXRvcnk6Q29ubmVjdGlvblN0cmluZyJdID0gb3B0aW9uLkNvbm5lY3Rpb25TdHJpbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IEFXU09wdGlvbnMgX29wdGlvbnM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this IServiceCollection collection,</text>
+        <text encoding="base64">VE9ETywgVE9ETykg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW1hem9uUzNcPg==</text>
