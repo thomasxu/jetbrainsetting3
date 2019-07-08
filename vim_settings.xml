@@ -18,7 +18,7 @@
         <mark key="^" line="24" column="0" />
       </file>
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Views/Shared/_Layout_Bootstrap.cshtml" timestamp="1562586543114">
-        <mark key="[" line="44" column="37" />
+        <mark key="[" line="40" column="37" />
       </file>
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Views/Shared/_Layout.cshtml" timestamp="1562564719280" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1562555837631">
@@ -66,11 +66,10 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/xunit.runner.json" timestamp="1562554783392" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/appsettings.Local.json" timestamp="1562566093297" />
       <file name="/S3Fixture.cs" timestamp="1562539887577" />
-      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/appsettings.Development.json" timestamp="1562568237372" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Program.cs" timestamp="1562562104210" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Lambda/Selz.Catalog.Lambda/Services/AmazonS3Extensions.cs" timestamp="1562559079121" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F85F9937-54B5-4CB0-9F7C-55E72FF72906/19/dc2085f3/MiddlewareApplicationBuilderExtensions.cs" timestamp="1562569295667" />
-      <file name="C:/dev/git/selz/UI.Administration/src/Selz.Administration.Mvc/Extensions/AuthenticationServiceCollection.cs" timestamp="1562585740768">
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.Administration.Mvc/Extensions/AuthenticationServiceCollection.cs" timestamp="1562587380105">
         <mark key="[" line="63" column="73" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1562586561322">
@@ -83,8 +82,7 @@
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.Administration.Mvc/TagHelpers/IfTagHelper.cs" timestamp="1562586432721" />
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Controllers/OrdersController.cs" timestamp="1562547796254" />
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Startup.cs" timestamp="1562584363202" />
-      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/appsettings.Local.json" timestamp="1562583078289" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1562586663135" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1562587469394" />
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Controllers/AdminControllerBase.cs" timestamp="1562550255501" />
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.Administration.Mvc/Extensions/NewFile2.txt" timestamp="1562586390266" />
     </filemarks>
@@ -123,34 +121,34 @@
         <text encoding="base64">ICJBV1MiOiB7CiAgICAiUmVnaW9uIjogInVzLWVhc3QtMSIsCiAgICAiUHJvZmlsZSI6ICJhc3N1bWVkX3Byb2ZpbGUiIAogIH0s</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">U2Vsei5BZG1pbmlzdHJhdGlvbi5JbmZyYXN0cnVjdHVyZTEK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">U2Vsei5VSS5BZG1pbmlzdHJhdGlvbgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>if (_awsCredential == null)
                     {
                         throw new Exception(&quot;credential can not be null&quot;);
                     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnQgPSBuZXcgQW1hem9uTGFtYmRhQ2xpZW50KF9hd3NDcmVkZW50aWFsLkFjY2Vzc0tleSwgX2F3c0NyZWRlbnRpYWwuU2VjcmV0S2V5KTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBvcHRpb25zID0gYXdzT3B0aW9ucy5HZXRBV1NPcHRpb25zKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBpZiAoX2F3c0NyZWRlbnRpYWwgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJjcmVkZW50aWFsIGNhbiBub3QgYmUgbnVsbCIpOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBPbmx5IGxvY2FsIHRlc3Qgd2lsbCB1c2UgbG9jYWwgc3RhY2ssIG1vdmUgdG8gQ29yZS5BcGkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICJQcm9maWxlc0xvY2F0aW9uIjogIkM6XFxBV1NcXHByb2ZpbGVzLnR4dCIsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJQcm9maWxlIjogInNlbHpzaGFyZWQiLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGVsZXRlIGFsbCBvYmplY3RzIGZyb20gdGhlIGJ1Y2tldC4gVGhpcyBpcyBzdWZmaWNpZW50CiAgICAgICAgICAgIC8vIGZvciB1bnZlcnNpb25lZCBidWNrZXRzLiBGb3IgdmVyc2lvbmVkIGJ1Y2tldHMsIHdoZW4geW91IGF0dGVtcHQgdG8gZGVsZXRlIG9iamVjdHMsIEFtYXpvbiBTMyBpbnNlcnRzCiAgICAgICAgICAgIC8vIGRlbGV0ZSBtYXJrZXJzIGZvciBhbGwgb2JqZWN0cywgYnV0IGRvZXNuJ3QgZGVsZXRlIHRoZSBvYmplY3QgdmVyc2lvbnMuCiAgICAgICAgICAgIC8vIFRvIGRlbGV0ZSBvYmplY3RzIGZyb20gdmVyc2lvbmVkIGJ1Y2tldHMsIGRlbGV0ZSBhbGwgb2YgdGhlIG9iamVjdCB2ZXJzaW9ucyBiZWZvcmUgZGVsZXRpbmcKICAgICAgICAgICAgLy8gdGhlIGJ1Y2tldCAoc2VlIGJlbG93IGZvciBhbiBleGFtcGxlKS4K</text>
+        <text encoding="base64">ICAgICJQcm9maWxlIjogInNlbHpzaGFyZWQiLAo=</text>
       </register>
       <register name="-" type="4">
         <text>Aws Factory to support local test run local stack and teamcity run s3 for functional test with secret manager</text>
