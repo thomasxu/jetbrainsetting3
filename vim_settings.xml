@@ -43,7 +43,7 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Categories/CategoryService.cs" timestamp="1562624288261">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Categories/CategoryService.cs" timestamp="1562625580776">
         <mark key="[" line="125" column="103" />
         <mark key="]" line="126" column="15" />
         <mark key="^" line="126" column="15" />
@@ -77,11 +77,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.Administration.Mvc/Extensions/AuthenticationServiceCollection.cs" timestamp="1562626086358" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1562586561322">
         <mark key="[" line="56" column="13" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="18" column="32" />
+      </file>
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Controllers/ShopsController.cs" timestamp="1562625783134">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="12" />
       </file>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/appsettings.json" timestamp="1562588612927">
         <mark key="[" line="29" column="28" />
@@ -94,6 +100,7 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Controllers/OrdersController.cs" timestamp="1562626079291" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1562496970784">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -140,35 +147,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2NhdGVnb3J5UmVwb3NpdG9yeS5TYXZlKGNhdGVnb3J5LCBhY3Rvcik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2VselVJUGFnZXIoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ly9UT0RPOiBJcyB0aGVyZSBhbnkgd2F5IHdlIGNhbiBtYWtlIENvcnJlbGF0aW9uIElkIGdlbmVyYXRpb24gYmV0dGVyLAogICAgICAgICAgICAvL1Byb2JhYmx5IGluamVjdCBDb3JyZWxhdGlvbiBJZCBwZXIgaHR0cCByZXF1ZXN0IGNvbnRleHQgKHNjb3BlZCkgPz8/Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U2Vsei5BZG1pbmlzdHJhdGlvbi5JbmZyYXN0cnVjdHVyZTEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2VselVJUGFnZXIoKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">U2Vsei5BZG1pbmlzdHJhdGlvbi5JbmZyYXN0cnVjdHVyZTEK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">U2Vsei5VSS5BZG1pbmlzdHJhdGlvbgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if (_awsCredential == null)
                     {
                         throw new Exception(&quot;credential can not be null&quot;);
                     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnQgPSBuZXcgQW1hem9uTGFtYmRhQ2xpZW50KF9hd3NDcmVkZW50aWFsLkFjY2Vzc0tleSwgX2F3c0NyZWRlbnRpYWwuU2VjcmV0S2V5KTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBvcHRpb25zID0gYXdzT3B0aW9ucy5HZXRBV1NPcHRpb25zKCk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBpZiAoX2F3c0NyZWRlbnRpYWwgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJjcmVkZW50aWFsIGNhbiBub3QgYmUgbnVsbCIpOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBPbmx5IGxvY2FsIHRlc3Qgd2lsbCB1c2UgbG9jYWwgc3RhY2ssIG1vdmUgdG8gQ29yZS5BcGkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJQcm9maWxlc0xvY2F0aW9uIjogIkM6XFxBV1NcXHByb2ZpbGVzLnR4dCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBPbmx5IGxvY2FsIHRlc3Qgd2lsbCB1c2UgbG9jYWwgc3RhY2ssIG1vdmUgdG8gQ29yZS5BcGkK</text>
       </register>
       <register name="-" type="4">
         <text>Administration</text>
