@@ -3,51 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Views/Products/Index.cshtml" timestamp="1562547736444" />
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Controllers/ShopsController.cs" timestamp="1562551270743" />
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/CustomServiceCollectionExtensions.cs" timestamp="1562554462431" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.json" timestamp="1562552887262" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Lambda/Selz.Catalog.Lambda/Services/IS3CacheBuster.cs" timestamp="1562559001703" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Lambda/Selz.Catalog.Lambda/Services/Commands/InventoryBalanceChangedCommandHandler.cs" timestamp="1562559144958" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Development.json" timestamp="1562553392214" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Selz.Shops.Api.csproj" timestamp="1562550565186" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1562550628185">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562551393882">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="127" />
-        <mark key="^" line="24" column="127" />
-        <mark key="." line="24" column="127" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1FAFC0EE-8752-4DAE-A50B-F9ABFA0F2DF8/eb/c1d709b9/HostingEnvironmentExtensions.cs" timestamp="1562538570315" />
-      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/libman.json" timestamp="1562547205997" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/run-api.ps1" timestamp="1562559260504" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.local.json" timestamp="1562541032503">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Controllers/AccountController.cs" timestamp="1562550252953" />
-      <file name="/S3Fixture.cs" timestamp="1562539887577" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1562552918412">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1562555837631">
         <mark key="[" line="27" column="16" />
         <mark key="]" line="26" column="9" />
         <mark key="^" line="26" column="9" />
         <mark key="." line="26" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562550972507">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Aws/AmazonClientFactory.cs" timestamp="1562557932586">
+        <mark key="[" line="86" column="20" />
+        <mark key="]" line="86" column="23" />
+        <mark key="." line="86" column="23" />
+        <mark key="^" line="86" column="23" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Aws/AmazonClientFactory.cs" timestamp="1562543879332">
-        <mark key="[" line="70" column="18" />
-        <mark key="]" line="77" column="17" />
-        <mark key="." line="77" column="17" />
-        <mark key="^" line="77" column="17" />
-      </file>
-      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Controllers/OrdersController.cs" timestamp="1562547796254" />
-      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/appsettings.Local.json" timestamp="1562554415910" />
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/docker-compose-api-local.yml" timestamp="1562559408840" />
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/appsettings.json" timestamp="1562554420255" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Properties/launchSettings.json" timestamp="1562553028553">
         <mark key="[" line="21" column="9" />
@@ -55,6 +35,51 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Views/Products/Index.cshtml" timestamp="1562547736444" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/55436FD9-0C98-43C2-A832-3D0DBFA0C6FB/36/705f2e6b/IAmazonS3.cs" timestamp="1562559034129">
+        <mark key="'" line="1092" column="46" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.json" timestamp="1562552887262" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Selz.Shops.Api.csproj" timestamp="1562550565186" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1562555858027">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562556829472">
+        <mark key="'" line="59" column="86" />
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1FAFC0EE-8752-4DAE-A50B-F9ABFA0F2DF8/eb/c1d709b9/HostingEnvironmentExtensions.cs" timestamp="1562538570315" />
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/libman.json" timestamp="1562547205997" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1562540841998">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="101" column="8" />
+      </file>
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Controllers/AccountController.cs" timestamp="1562550252953" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/xunit.runner.json" timestamp="1562554783392" />
+      <file name="/S3Fixture.cs" timestamp="1562539887577" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Lambda/Selz.Catalog.Lambda/Services/AmazonS3Extensions.cs" timestamp="1562559079121" />
+      <file name="/Dummy.txt" timestamp="1562556529882">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1562555201912">
+        <mark key="[" line="56" column="13" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="18" column="32" />
+      </file>
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Controllers/OrdersController.cs" timestamp="1562547796254" />
+      <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/appsettings.Local.json" timestamp="1562559353085" />
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Controllers/AdminControllerBase.cs" timestamp="1562550255501" />
     </filemarks>
     <jumps>
@@ -81,40 +106,46 @@
       <jump line="92" column="70" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" />
       <jump line="94" column="65" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" />
       <jump line="0" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" />
+      <jump line="14" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" />
+      <jump line="59" column="86" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" />
+      <jump line="1092" column="46" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/55436FD9-0C98-43C2-A832-3D0DBFA0C6FB/36/705f2e6b/IAmazonS3.cs" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBPbmx5IGxvY2FsIHRlc3Qgd2lsbCB1c2UgbG9jYWwgc3RhY2ssIG1vdmUgdG8gQ29yZS5BcGkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBPbmx5IGxvY2FsIHRlc3Qgd2lsbCB1c2UgbG9jYWwgc3RhY2ssIG1vdmUgdG8gQ29yZS5BcGkK</text>
+      <register name="1" type="4">
+        <text>if (_awsCredential == null)
+                    {
+                        throw new Exception(&quot;credential can not be null&quot;);
+                    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJQcm9maWxlc0xvY2F0aW9uIjogIkM6XFxBV1NcXHByb2ZpbGVzLnR4dCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGllbnQgPSBuZXcgQW1hem9uTGFtYmRhQ2xpZW50KF9hd3NDcmVkZW50aWFsLkFjY2Vzc0tleSwgX2F3c0NyZWRlbnRpYWwuU2VjcmV0S2V5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJQcm9maWxlIjogInNlbHpzaGFyZWQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBvcHRpb25zID0gYXdzT3B0aW9ucy5HZXRBV1NPcHRpb25zKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGVsZXRlIGFsbCBvYmplY3RzIGZyb20gdGhlIGJ1Y2tldC4gVGhpcyBpcyBzdWZmaWNpZW50CiAgICAgICAgICAgIC8vIGZvciB1bnZlcnNpb25lZCBidWNrZXRzLiBGb3IgdmVyc2lvbmVkIGJ1Y2tldHMsIHdoZW4geW91IGF0dGVtcHQgdG8gZGVsZXRlIG9iamVjdHMsIEFtYXpvbiBTMyBpbnNlcnRzCiAgICAgICAgICAgIC8vIGRlbGV0ZSBtYXJrZXJzIGZvciBhbGwgb2JqZWN0cywgYnV0IGRvZXNuJ3QgZGVsZXRlIHRoZSBvYmplY3QgdmVyc2lvbnMuCiAgICAgICAgICAgIC8vIFRvIGRlbGV0ZSBvYmplY3RzIGZyb20gdmVyc2lvbmVkIGJ1Y2tldHMsIGRlbGV0ZSBhbGwgb2YgdGhlIG9iamVjdCB2ZXJzaW9ucyBiZWZvcmUgZGVsZXRpbmcKICAgICAgICAgICAgLy8gdGhlIGJ1Y2tldCAoc2VlIGJlbG93IGZvciBhbiBleGFtcGxlKS4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBpZiAoX2F3c0NyZWRlbnRpYWwgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJjcmVkZW50aWFsIGNhbiBub3QgYmUgbnVsbCIpOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRW52aXJvbm1lbnQuU2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiVEVBTUNJVFlfVkVSU0lPTiIsICIxLjIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBPbmx5IGxvY2FsIHRlc3Qgd2lsbCB1c2UgbG9jYWwgc3RhY2ssIG1vdmUgdG8gQ29yZS5BcGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJQcm9maWxlIjogInNlbHpzaGFyZWQiLAogICAgIlByb2ZpbGVzTG9jYXRpb24iOiAiQzpcXEFXU1xccHJvZmlsZXMudHh0IiwK</text>
+        <text encoding="base64">ICAgICJQcm9maWxlc0xvY2F0aW9uIjogIkM6XFxBV1NcXHByb2ZpbGVzLnR4dCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJQcm9maWxlIjogInNlbHpzaGFyZWQiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRGVsZXRlIGFsbCBvYmplY3RzIGZyb20gdGhlIGJ1Y2tldC4gVGhpcyBpcyBzdWZmaWNpZW50CiAgICAgICAgICAgIC8vIGZvciB1bnZlcnNpb25lZCBidWNrZXRzLiBGb3IgdmVyc2lvbmVkIGJ1Y2tldHMsIHdoZW4geW91IGF0dGVtcHQgdG8gZGVsZXRlIG9iamVjdHMsIEFtYXpvbiBTMyBpbnNlcnRzCiAgICAgICAgICAgIC8vIGRlbGV0ZSBtYXJrZXJzIGZvciBhbGwgb2JqZWN0cywgYnV0IGRvZXNuJ3QgZGVsZXRlIHRoZSBvYmplY3QgdmVyc2lvbnMuCiAgICAgICAgICAgIC8vIFRvIGRlbGV0ZSBvYmplY3RzIGZyb20gdmVyc2lvbmVkIGJ1Y2tldHMsIGRlbGV0ZSBhbGwgb2YgdGhlIG9iamVjdCB2ZXJzaW9ucyBiZWZvcmUgZGVsZXRpbmcKICAgICAgICAgICAgLy8gdGhlIGJ1Y2tldCAoc2VlIGJlbG93IGZvciBhbiBleGFtcGxlKS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghX2hvc3RFbnZpcm9ubWVudC5Jc0xvY2FsKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW52aXJvbm1lbnQuU2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiVEVBTUNJVFlfVkVSU0lPTiIsICIxLjIiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>TODO:</text>
+        <text>Aws Factory to support local test run local stack and teamcity run s3 for functional test with secret manager</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW1hem9uUzNcPg==</text>
