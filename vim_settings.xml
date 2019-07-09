@@ -4,11 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/SlicedOption.cs" timestamp="1562636258367" />
-      <file name="/Dummy.cs" timestamp="1562503589307">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1562627813903">
         <mark key="[" line="27" column="16" />
         <mark key="]" line="26" column="9" />
@@ -22,22 +17,14 @@
         <mark key="." line="86" column="23" />
         <mark key="^" line="86" column="23" />
       </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Views/Products/Index.cshtml" timestamp="1562589706773">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Categories/CategoryService.cs" timestamp="1562634590765">
         <mark key="[" line="125" column="103" />
         <mark key="]" line="126" column="15" />
         <mark key="^" line="126" column="15" />
         <mark key="." line="126" column="15" />
       </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Startup.cs" timestamp="1562588870328">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/CustomServiceCollectionExtensions.cs" timestamp="1562636604004" />
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Mvc/Extensions/AuthenticationServiceCollection.cs" timestamp="1562636646426" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Selz.Shops.Api.csproj" timestamp="1562636081122" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562636069418">
         <mark key="[" line="24" column="13" />
@@ -45,10 +32,11 @@
         <mark key="^" line="27" column="34" />
         <mark key="." line="27" column="34" />
       </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/appsettings.Local.json" timestamp="1562589032933">
-        <mark key="[" line="33" column="24" />
-        <mark key="]" line="33" column="24" />
-        <mark key="." line="33" column="24" />
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/appsettings.Local.json" timestamp="1562636763349">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/ProductsController.cs" timestamp="1562627473823" />
       <file name="/Dummy.txt" timestamp="1562636273147">
@@ -68,17 +56,7 @@
         <mark key="]" line="28" column="12" />
         <mark key="." line="28" column="12" />
       </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Views/Products/Detail.cshtml" timestamp="1562589701522">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Controllers/OrdersController.cs" timestamp="1562626079291" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1562496970784">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="53" column="33" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/S3Fixture.cs" />
@@ -145,7 +123,7 @@
         <text encoding="base64">ICBpZiAoX2F3c0NyZWRlbnRpYWwgPT0gbnVsbCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJjcmVkZW50aWFsIGNhbiBub3QgYmUgbnVsbCIpOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>Administration</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW1hem9uUzNcPg==</text>
