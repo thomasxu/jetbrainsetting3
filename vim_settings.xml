@@ -45,7 +45,13 @@
         <mark key="^" line="62" column="28" />
       </file>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Domains/Themes/InstalledTheme.cs" timestamp="1562816108584" />
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Domains/Categories/Category.cs" timestamp="1562828112525" />
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Domains/Categories/Category.cs" timestamp="1562829482214">
+        <mark key="'" line="163" column="28" />
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="20" />
+        <mark key="." line="37" column="20" />
+        <mark key="^" line="37" column="20" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C74AFC23-3A49-441F-9D4C-9290268969EF/8a/32b6ce26/WebHostBuilderExtensions.cs" timestamp="1562812043357" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Enums/FormFieldType.cs" timestamp="1562826623238" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4EB0C234-0799-47BF-80A3-357C20BA66F2/81/8b3fdd41/StringExtensions.cs" timestamp="1562817378718" />
@@ -85,6 +91,12 @@
         <mark key="]" line="19" column="16" />
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="22" />
+      </file>
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Domains/Categories/CategoryExtensions.cs" timestamp="1562829428412">
+        <mark key="[" line="58" column="31" />
+        <mark key="]" line="58" column="36" />
+        <mark key="." line="58" column="36" />
+        <mark key="^" line="58" column="36" />
       </file>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Extensions/PageContentExtensions.cs" timestamp="1562817509811">
         <mark key="[" line="64" column="75" />
@@ -205,40 +217,41 @@
       <jump line="84" column="55" filename="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Extensions/UploadSettingsExtensions.cs" />
       <jump line="210" column="18" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/455C0C5C-BC80-4C5A-BC3A-F7275091C0C5/d5/74a806f4/TagBuilder.cs" />
       <jump line="157" column="0" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Models/ThemeDrop/FormDrop.cs" />
+      <jump line="167" column="28" filename="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Domains/Categories/Category.cs" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>TagBuilder</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbRW1haWxdCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgT2JqZWN0SWQgUGFyZW50SWQgPT4gSGFzUGFyZW50cygpID8gUGFyZW50SWRzLkxhc3QoKSA6IE9iamVjdElkLkVtcHR5Owo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkFwaS5FeHRlbnNpb25zOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">bmV3IExpc3Q8c3RyaW5nPihjYXRlZ29yeS5QYXJlbnRJZHMpCiAgICAgICAgICAgICAgICAgICAgOiBuZXcgTGlzdDxPYmplY3RJZD4oKTs=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wLkluZnJhc3RydWN0dXJlOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">bmV3IExpc3Q8c3RyaW5nPihjYXRlZ29yeS5QYXJlbnRJZHMpCiAgICAgICAgICAgICAgICAgICAgOiBuZXcgTGlzdDxPYmplY3RJZD4oKTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgSHRtbEFnaWxpdHlQYWNrOwo=</text>
+        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLlJlc291cmNlcy5UcmFuc2xhdGlvbnM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbRW1haWxdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLlNlcnZpY2VzLlRoZW1lcy5Bc3NldHM7Cg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkFwaS5FeHRlbnNpb25zOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLkluZnJhc3RydWN0dXJlLkNvbnZlcnRlcnM7Cg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wLkluZnJhc3RydWN0dXJlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLkRvbWFpbnMuQW5hbHl0aWNzOwo=</text>
+        <text encoding="base64">dXNpbmcgSHRtbEFnaWxpdHlQYWNrOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IH0KICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBleCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgLy9UT0RPOiBXaGVuIGZ1bmN0aW9uYWwgdGVzdCBydW5zIGRpZmZlcmVudCBmaXh0dXJlIHdpbGwgYmUgcnVuIHBhcmFyZWxseSBhbmQgMiB0ZXN0IHNlcnZlciB3aWxsIGJlIGNyZWF0ZWQgb24gdGhlIHNhbWUgdGltZQogICAgICAgICAgICAgICAgLy93aGljaCByZXN1bHQgaW4gYSAndGFibGUgIl9fRUZNaWdyYXRpb25zSGlzdG9yeSIgYWxyZWFkeSBleGlzdHMnIGV4Y2VwdGlvbi4gT25seSBoYXBwZW4gaW4gaW50ZWdyYXRpb24gdGVzdCBhbmQgaWdub3JlIGZvciBub3cKICAgICAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Drop</text>
+        <text>ObjectId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW1hem9uUzNcPg==</text>
