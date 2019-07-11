@@ -9,16 +9,13 @@
         <mark key="^" line="551" column="50" />
         <mark key="." line="551" column="50" />
       </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/FormTag.cs" timestamp="1562805874385" />
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Controllers/ShopBaseController.cs" timestamp="1562803815238" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/HomeController.cs" timestamp="1562805534279" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562718690915">
         <mark key="[" line="24" column="13" />
         <mark key="]" line="58" column="25" />
         <mark key="^" line="58" column="25" />
         <mark key="." line="58" column="25" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1562673337441">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.teamcity.json" timestamp="1562808274078">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="25" />
         <mark key="^" line="21" column="26" />
@@ -35,6 +32,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="C:/dev/git/selz/drachma/Drachma.sln" timestamp="1562809483853" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1562718375312">
         <mark key="[" line="23" column="71" />
         <mark key="]" line="23" column="70" />
@@ -47,8 +45,7 @@
         <mark key="^" line="1497" column="38" />
         <mark key="." line="1499" column="0" />
       </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Controllers/FluidRendering.cs" timestamp="1562805361404" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1562807314925">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1562809487273">
         <mark key="'" line="37" column="29" />
       </file>
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Views/Shared/_Layout_Bootstrap.cshtml" timestamp="1562641186660">
@@ -63,7 +60,6 @@
         <mark key="^" line="26" column="9" />
         <mark key="." line="26" column="9" />
       </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/BlockColumn.cs" timestamp="1562805922598" />
       <file name="/Dummy.txt" timestamp="1562803183694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -103,6 +99,11 @@
         <mark key="^" line="10" column="78" />
         <mark key="." line="10" column="78" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1562809583298">
+        <mark key="[" line="131" column="11" />
+        <mark key="]" line="131" column="11" />
+        <mark key="." line="131" column="11" />
+      </file>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/docker-compose-api.yml" timestamp="1562755713489">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="7" />
@@ -121,14 +122,12 @@
         <mark key="^" line="114" column="20" />
         <mark key="." line="114" column="20" />
       </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/FormBlock.cs" timestamp="1562806288311" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Dockerfile.Dev" timestamp="1562755367139">
         <mark key="[" line="22" column="42" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Controllers/SelzFluidTemplate.cs" timestamp="1562802810467" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Constants.cs" timestamp="1562806253096">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="20" />
@@ -192,29 +191,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZsdWlkVmFsdWUuQ3JlYXRlKHNvdXJjZS5Ub1F1YW50aXR5KHF0eSkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IH0KICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBleCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgLy9UT0RPOiBXaGVuIGZ1bmN0aW9uYWwgdGVzdCBydW5zIGRpZmZlcmVudCBmaXh0dXJlIHdpbGwgYmUgcnVuIHBhcmFyZWxseSBhbmQgMiB0ZXN0IHNlcnZlciB3aWxsIGJlIGNyZWF0ZWQgb24gdGhlIHNhbWUgdGltZQogICAgICAgICAgICAgICAgLy93aGljaCByZXN1bHQgaW4gYSAndGFibGUgIl9fRUZNaWdyYXRpb25zSGlzdG9yeSIgYWxyZWFkeSBleGlzdHMnIGV4Y2VwdGlvbi4gT25seSBoYXBwZW4gaW4gaW50ZWdyYXRpb24gdGVzdCBhbmQgaWdub3JlIGZvciBub3cKICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
+      <register name="2" type="4">
+        <text>try
+            {</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>catch (Exception ex)
+            {
+                //TODO: When functional test runs different fixture will be run pararelly and 2 test server will be created on the same time
+                //which result in a 'table &quot;__EFMigrationsHistory&quot; already exists' exception. Only happen in integration test and ignore for now
+            }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
+      <register name="4" type="4">
+        <text>try
+            {</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IHN0cmluZyBfYXBwbGljYXRpb25Sb290ID0gX2Vudi5Db250ZW50Um9vdFBhdGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IHN0cmluZyBfYXBwbGljYXRpb25Sb290ID0gSHR0cENvbnRleHQuQ3VycmVudC5TZXJ2ZXIuTWFwUGF0aCgifiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
