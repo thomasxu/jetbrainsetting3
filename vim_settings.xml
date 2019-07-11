@@ -3,8 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/FormTag.cs" timestamp="1562805874385" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Controllers/ShopBaseController.cs" timestamp="1562803815238" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/HomeController.cs" timestamp="1562803807529" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/HomeController.cs" timestamp="1562805534279" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1562718690915">
         <mark key="[" line="24" column="13" />
         <mark key="]" line="58" column="25" />
@@ -23,12 +24,6 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="27" column="13" />
       </file>
-      <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common/Aws/AmazonClientFactoryExtensions.cs" timestamp="1562751463553">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="13" column="104" />
-        <mark key="]" line="13" column="104" />
-        <mark key="." line="13" column="104" />
-      </file>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Controllers/CartController.cs" timestamp="1562803395482">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -46,6 +41,7 @@
         <mark key="^" line="1497" column="38" />
         <mark key="." line="1499" column="0" />
       </file>
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Controllers/FluidRendering.cs" timestamp="1562805361404" />
       <file name="C:/dev/git/selz/UI.Administration/src/Selz.UI.Administration/Views/Shared/_Layout_Bootstrap.cshtml" timestamp="1562641186660">
         <mark key="[" line="59" column="28" />
         <mark key="]" line="59" column="28" />
@@ -58,6 +54,7 @@
         <mark key="^" line="26" column="9" />
         <mark key="." line="26" column="9" />
       </file>
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/BlockColumn.cs" timestamp="1562805922598" />
       <file name="/Dummy.txt" timestamp="1562803183694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -116,7 +113,13 @@
         <mark key="^" line="126" column="15" />
         <mark key="." line="126" column="15" />
       </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Controllers/HomeController.cs" timestamp="1562803441701" />
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Controllers/HomeController.cs" timestamp="1562805597698">
+        <mark key="[" line="113" column="35" />
+        <mark key="]" line="114" column="20" />
+        <mark key="^" line="114" column="20" />
+        <mark key="." line="114" column="20" />
+      </file>
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/FormBlock.cs" timestamp="1562806288311" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Dockerfile.Dev" timestamp="1562755367139">
         <mark key="[" line="22" column="42" />
         <mark key="]" line="4" column="0" />
@@ -124,6 +127,12 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Controllers/SelzFluidTemplate.cs" timestamp="1562802810467" />
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Constants.cs" timestamp="1562806253096">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="1293" column="80" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Properties/launchSettings.json" timestamp="1562665811364">
         <mark key="[" line="14" column="9" />
         <mark key="]" line="14" column="30" />
@@ -187,33 +196,28 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IHN0cmluZyBfYXBwbGljYXRpb25Sb290ID0gX2Vudi5Db250ZW50Um9vdFBhdGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IHN0cmluZyBfYXBwbGljYXRpb25Sb290ID0gSHR0cENvbnRleHQuQ3VycmVudC5TZXJ2ZXIuTWFwUGF0aCgifiIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IHN0cmluZyBfYXBwbGljYXRpb25Sb290ID0gX2Vudi5Db250ZW50Um9vdFBhdGg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IHN0cmluZyBfYXBwbGljYXRpb25Sb290ID0gSHR0cENvbnRleHQuQ3VycmVudC5TZXJ2ZXIuTWFwUGF0aCgifiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>private readonly IHttpContextAccessor _httpContextAccessor;
-
-        public MockFileProvider(IHttpContextAccessor httpContextAccessor)
-        {
-            _httpContextAccessor = httpContextAccessor;
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>_applicationRoot</text>
+        <text>Infrastructure</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQW1hem9uUzNcPg==</text>
