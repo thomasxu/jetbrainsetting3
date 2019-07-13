@@ -6,18 +6,13 @@
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Models/ThemeDrop/SocialLinkDrop.cs" timestamp="1562926810675">
         <mark key="'" line="58" column="34" />
       </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1562977033798">
-        <mark key="'" line="581" column="34" />
-        <mark key="[" line="670" column="25" />
-        <mark key="]" line="670" column="33" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Models/ThemeDrop/UriDrop.cs" timestamp="1562933684066">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="19" column="7" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1563060344583" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" timestamp="1563057773845" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Domains/Apps/PaypalAppSettings.cs" timestamp="1562926167962">
         <mark key="'" line="20" column="7" />
@@ -48,6 +43,7 @@
         <mark key="^" line="34" column="19" />
         <mark key="." line="34" column="19" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1563060721705" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/BlockColumn.cs" timestamp="1562841265372">
         <mark key="[" line="55" column="57" />
         <mark key="]" line="55" column="56" />
@@ -102,15 +98,9 @@
         <mark key="[" line="470" column="0" />
         <mark key="]" line="471" column="78" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/RequestExtensions.cs" timestamp="1562980606288">
-        <mark key="[" line="320" column="27" />
-        <mark key="]" line="320" column="52" />
-      </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Constants.cs" timestamp="1562978744325">
-        <mark key="'" line="465" column="28" />
-        <mark key="[" line="480" column="0" />
-        <mark key="]" line="480" column="0" />
-        <mark key="." line="480" column="0" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/RequestExtensions.cs" timestamp="1563059747870">
+        <mark key="[" line="461" column="33" />
+        <mark key="]" line="461" column="43" />
       </file>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/Shortcut.cs" timestamp="1563025553699">
         <mark key="[" line="109" column="35" />
@@ -128,12 +118,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Helpers/EnvironmentHelper.cs" timestamp="1562974160290">
-        <mark key="'" line="19" column="12" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
       </file>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Startup.cs" timestamp="1562926991585">
         <mark key="[" line="97" column="12" />
@@ -171,12 +155,6 @@
         <mark key="^" line="50" column="19" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Models/ThemeDrop/TagDrop.cs" timestamp="1562934004431">
-        <mark key="'" line="31" column="47" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Helpers/GenericHtmlHelper.cs" timestamp="1562982103117">
         <mark key="'" line="689" column="38" />
         <mark key="[" line="693" column="98" />
@@ -212,6 +190,7 @@
         <mark key="[" line="273" column="39" />
         <mark key="]" line="273" column="60" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1563060417052" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/BlockBase.cs" timestamp="1563025835148">
         <mark key="[" line="47" column="140" />
         <mark key="]" line="47" column="145" />
@@ -303,8 +282,8 @@
       <jump line="145" column="58" filename="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Mvc/Helpers/DrachmaUrlHelper.cs" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElMaXN0PENhdGVnb3J5PiBHZXRDYXRlZ29yaWVzKGludCB1c2VySWQpCg==</text>
+      <register name="0" type="4">
+        <text>X-Selz-Host</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgQ29udGFjdCA9IFNlbHouQ29yZS5Eb21haW5zLkNvbnRhY3RzLkNvbnRhY3Q7Cg==</text>
