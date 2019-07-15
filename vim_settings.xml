@@ -11,10 +11,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Startup.cs" timestamp="1563157409867">
-        <mark key="[" line="83" column="32" />
-        <mark key="]" line="83" column="44" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Infrastructure/Security/IdentityExtensions.cs" timestamp="1563154502499" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Tags/FormBlock.cs" timestamp="1563146366112" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.local.json" timestamp="1563180690118" />
@@ -34,10 +30,6 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Aws/AmazonClientFactory.cs" timestamp="1563181243960" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Api/ShopRoleService.cs" timestamp="1563156158392" />
       <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common/Aws/AmazonClientFactory.cs" timestamp="1563181597525" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CDNHelper.cs" timestamp="1563152780901">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="108" column="0" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Constants.cs" timestamp="1563163076342" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Views/_ViewStart.cshtml" timestamp="1563152551046" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Constants.cs" timestamp="1563160565360" />
@@ -57,11 +49,23 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/AccountController.cs" timestamp="1563154512486" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Selz.Shops.Api.csproj" timestamp="1563181342356" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7F8C9EAB-7ADC-4DC6-B94F-C9FB10CBFF27/a8/eed2eb93/ToQuantityExtensions.cs" timestamp="1563148496224" />
+      <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common/Aws/AmazonClientFactoryExtensions.cs" timestamp="1563183618083">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="35" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0D7070E6-32BA-4DE8-9FBC-477D82DA6027/50/5c182adf/ThemeSettingInputType.cs" timestamp="1563148269828" />
-      <file name="/Dummy.txt" timestamp="1563176618106">
-        <mark key="[" line="0" column="20" />
+      <file name="/Dummy.txt" timestamp="1563183631816">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1563183512416">
+        <mark key="[" line="41" column="62" />
+        <mark key="]" line="43" column="32" />
+        <mark key="." line="43" column="32" />
+        <mark key="^" line="43" column="32" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/BaseController.cs" timestamp="1563158353768">
         <mark key="'" line="382" column="30" />
@@ -157,37 +161,37 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>code id_token</text>
+        <text>RegisterAmazonClientFactory</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQ29uc3RhbnRzID0gRHJhY2htYS5Db3JlLkNvbnN0YW50czsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW1hem9uQ2xpZW50RmFjdG9yeSBhbWF6b25DbGllbnRGYWN0b3J5ID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gbG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdGlvbi5BZGRBV1NTZXJ2aWNlPD4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQ29uc3RhbnRzID0gRHJhY2htYS5Db3JlLkNvbnN0YW50czsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUxvZ2dlciBMb2dnZXIgeyBnZXQ7IHNldDsgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gbG9nZ2VyOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3VycmVudFVzZXIgPSBuZXcgQ3VycmVudFVzZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2N1cnJlbnRVc2VyID0gY3VycmVudFVzZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUxvZ2dlciBMb2dnZXIgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, fields</text>
+        <text>regist</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWx6XD4=</text>
