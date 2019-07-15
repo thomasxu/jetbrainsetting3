@@ -72,9 +72,9 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="/BlogService.cs" timestamp="1563229062928">
-        <mark key="[" line="58" column="18" />
-        <mark key="]" line="58" column="117" />
+      <file name="/BlogService.cs" timestamp="1563233018744">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="59" column="13" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/BlogPosts/BlogPostUpsertRequestMapper.cs" timestamp="1563193250754">
         <mark key="[" line="10" column="35" />
@@ -90,12 +90,12 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Models/Extensions/ContactCreateRequest.cs" timestamp="1563232702417" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Extensions/BlogPosts/BlogPostCreateRequest.cs" timestamp="1563232705149">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="9" column="9" />
-        <mark key="^" line="11" column="11" />
+      <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Models/Extensions/ContactCreateRequest.cs" timestamp="1563233074481" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Extensions/BlogPosts/BlogPostCreateRequest.cs" timestamp="1563233064647">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="45" />
+        <mark key="^" line="12" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -175,8 +175,8 @@
       <jump line="114" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">ICAkQCJQb3N0IHdpdGggdGhlIHNsdWcge3Bvc3QuU2x1Z30gYWxyZWFkeSBleGlzdHMgZm9yIHVzZXIgd2l0aCBpZCB7YWN0b3IuU2hvcElkfS4iLCBuYW1lb2YocG9zdCkpOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFJc1NsdWdBdmFpbGFibGUoYWN0b3IuU2hvcElkLCBwb3N0LlNsdWcsIHBvc3QuSWQuVG9TdHJpbmcoKSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudEV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAkQCJQb3N0IHdpdGggdGhlIHNsdWcge3Bvc3QuU2x1Z30gYWxyZWFkeSBleGlzdHMgZm9yIHVzZXIgd2l0aCBpZCB7YWN0b3IuU2hvcElkfS4iLCBuYW1lb2YocG9zdCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
@@ -206,7 +206,7 @@
         <text encoding="base64">ICAgICAgICAgICAKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Selz.Shops.</text>
+        <text>actor.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWx6XD4=</text>
