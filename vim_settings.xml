@@ -12,7 +12,7 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45D20605-9EC8-44F8-8A47-1D6E18421912/2d/2e727cce/ILoggerFactory.cs" timestamp="1563246518594" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/GlobalIndexer/Selz.Search.GlobalIndexer/Tasks/ShopSyncTask.cs" timestamp="1563244012769" />
-      <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Controllers/ContactsController.cs" timestamp="1563242172211" />
+      <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Controllers/ContactsController.cs" timestamp="1563250818992" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1563243084122">
         <mark key="[" line="24" column="45" />
         <mark key="]" line="24" column="45" />
@@ -47,16 +47,24 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="33" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Pages/PageService.cs" timestamp="1563250910288">
+        <mark key="[" line="93" column="9" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostDataFactory.cs" timestamp="1563242411340">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1563248043825">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1563249933037">
         <mark key="'" line="111" column="16" />
         <mark key="[" line="34" column="16" />
         <mark key="]" line="34" column="16" />
         <mark key="." line="34" column="16" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1563250963012">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CE75EE58-1F9E-41FA-A2BA-74BC2B66381B/b0/4c56662b/ValidationContextExtension.cs" timestamp="1563231032305" />
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Controllers/SearchController.cs" timestamp="1563246563009" />
@@ -194,39 +202,38 @@
       <jump line="114" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbUG9zdCgiL2Jsb2dwb3N0cy92MSIpXQogICAgICAgIFRhc2s8QXBpUmVzcG9uc2U8QmxvZ1Bvc3RSZXNwb25zZT4+IENyZWF0ZShbQm9keV1CbG9nUG9zdFJlcXVlc3QgcmVxdWVzdCwgW1NlbHpTaG9wSWRdc3RyaW5nIHNob3BJZCwgW1NlbHpVc2VySWRdc3RyaW5nIHVzZXJJZCwgW0NvcnJlbGF0aW9uSWRdIHN0cmluZyBjb3JyZWxhdGlvbklkKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">W0h0dHBHZXQoInBhdGgvYXZhaWxhYmxlIildCiAgICAgICAgcHVibGljIEFjdGlvblJlc3VsdDxCb29sZWFuPiBJc1BhZ2VQYXRoQXZhaWxhYmxlKFtGcm9tUXVlcnldIElzUGFnZVBhdGhBdmFpbGFibGVSZXF1ZXN0IHJlcXVlc3Qp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dmFyIGZpbmRPcHRpb25zID0gbmV3IEZpbmRPcHRpb25zPEJsb2dQb3N0PigpOwoKICAgICAgICAgICAgaWYgKGZpZWxkcyAhPSBudWxsICYmIGZpZWxkcy5BbnkoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHByb2plY3Rpb24gPSBCdWlsZGVyczxCbG9nUG9zdD4uUHJvamVjdGlvbi5JbmNsdWRlKGMgPT4gYy5JZCk7CgogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIGZpZWxkIGluIGZpZWxkcykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBwcm9qZWN0aW9uID0gcHJvamVjdGlvbi5JbmNsdWRlKGZpZWxkKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBmaW5kT3B0aW9ucy5Qcm9qZWN0aW9uID0gcHJvamVjdGlvbjsKICAgICAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbmRPcHRpb25zID0gbmV3IEZpbmRPcHRpb25zPEJsb2dQb3N0PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gTWFwIHBhZ2UKICAgICAgICAgICAgUGFnZSBwYWdlOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dmFyIGZpbmRPcHRpb25zID0gbmV3IEZpbmRPcHRpb25zPEJsb2dQb3N0PigpOwoKICAgICAgICAgICAgaWYgKGZpZWxkcyAhPSBudWxsICYmIGZpZWxkcy5BbnkoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHByb2plY3Rpb24gPSBCdWlsZGVyczxCbG9nUG9zdD4uUHJvamVjdGlvbi5JbmNsdWRlKGMgPT4gYy5JZCk7CgogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIGZpZWxkIGluIGZpZWxkcykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBwcm9qZWN0aW9uID0gcHJvamVjdGlvbi5JbmNsdWRlKGZpZWxkKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBmaW5kT3B0aW9ucy5Qcm9qZWN0aW9uID0gcHJvamVjdGlvbjsKICAgICAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzTmV3ID0gc3RyaW5nLklzTnVsbE9yRW1wdHkocmVxdWVzdC5JZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzTmV3ID0gc3RyaW5nLklzTnVsbE9yRW1wdHkocmVxdWVzdC5JZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text>if (result == null)
-                throw new Exception($&quot;Blogpost not found wit _id {id} ands shopId {shopId}&quot;);</text>
+        <text encoding="base64">dmFyIGZpbmRPcHRpb25zID0gbmV3IEZpbmRPcHRpb25zPEJsb2dQb3N0PigpOwoKICAgICAgICAgICAgaWYgKGZpZWxkcyAhPSBudWxsICYmIGZpZWxkcy5BbnkoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHByb2plY3Rpb24gPSBCdWlsZGVyczxCbG9nUG9zdD4uUHJvamVjdGlvbi5JbmNsdWRlKGMgPT4gYy5JZCk7CgogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIGZpZWxkIGluIGZpZWxkcykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBwcm9qZWN0aW9uID0gcHJvamVjdGlvbi5JbmNsdWRlKGZpZWxkKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBmaW5kT3B0aW9ucy5Qcm9qZWN0aW9uID0gcHJvamVjdGlvbjsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbmRPcHRpb25zID0gbmV3IEZpbmRPcHRpb25zPEJsb2dQb3N0PigpOwo=</text>
       </register>
+      <register name="9" type="4">
+        <text encoding="base64">dmFyIGZpbmRPcHRpb25zID0gbmV3IEZpbmRPcHRpb25zPEJsb2dQb3N0PigpOwoKICAgICAgICAgICAgaWYgKGZpZWxkcyAhPSBudWxsICYmIGZpZWxkcy5BbnkoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHByb2plY3Rpb24gPSBCdWlsZGVyczxCbG9nUG9zdD4uUHJvamVjdGlvbi5JbmNsdWRlKGMgPT4gYy5JZCk7CgogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIGZpZWxkIGluIGZpZWxkcykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBwcm9qZWN0aW9uID0gcHJvamVjdGlvbi5JbmNsdWRlKGZpZWxkKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBmaW5kT3B0aW9ucy5Qcm9qZWN0aW9uID0gcHJvamVjdGlvbjsKICAgICAgICAgICAgfQ==</text>
+      </register>
       <register name="-" type="4">
-        <text>(&quot;&quot;)</text>
+        <text>new Actor(ShopId, UserId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWx6XD4=</text>
