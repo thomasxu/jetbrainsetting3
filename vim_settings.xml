@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common/Aws/AwsCredentialOption.cs" timestamp="1563427303186" />
+      <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common/Aws/AwsCredentialOption.cs" timestamp="1563428703853" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Pages/PageRequest.cs" timestamp="1563412163497">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -32,6 +32,12 @@
         <mark key="^" line="14" column="51" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1563418791551" />
+      <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common/Selz.Core.Common.csproj" timestamp="1563429536839">
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchOrderCommand.cs" timestamp="1563403191364" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1563407458728">
         <mark key="[" line="36" column="32" />
@@ -177,35 +183,35 @@
       <register name="0" type="2">
         <text encoding="base64">UlVOIHJtIC1mIHN0YXIubG9jYWwtc2Vsei5jb20ucGZ4Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CiAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAvLyBDbGllbnQgc2lkZSB2YWxpZGF0b3IKICAgICAgICBwdWJsaWMgSUVudW1lcmFibGU8TW9kZWxDbGllbnRWYWxpZGF0aW9uUnVsZT4gR2V0Q2xpZW50VmFsaWRhdGlvblJ1bGVzKE1vZGVsTWV0YWRhdGEgbWV0YWRhdGEsIENvbnRyb2xsZXJDb250ZXh0IGNvbnRleHQpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcnVsZSA9IG5ldyBNb2RlbENsaWVudFZhbGlkYXRpb25SdWxlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEVycm9yTWVzc2FnZSA9IEVycm9yTWVzc2FnZSA/PyBzdHJpbmcuRm9ybWF0KE1lc3NhZ2VzLlZhbGlkYXRpb25fUmVxdWlyZWQsIG1ldGFkYXRhLkRpc3BsYXlOYW1lKSwKICAgICAgICAgICAgICAgIFZhbGlkYXRpb25UeXBlID0gInJlcXVpcmVkaWYiLAogICAgICAgICAgICB9OwoKICAgICAgICAgICAgdmFyIGRlcFByb3AgPSBJc0Z1bGxQcm9wZXJ0eUlkCiAgICAgICAgICAgICAgICA/IERlcGVuZGVudFByb3BlcnR5IAogICAgICAgICAgICAgICAgOiBCdWlsZERlcGVuZGVudFByb3BlcnR5SWQobWV0YWRhdGEsIGNvbnRleHQgYXMgVmlld0NvbnRleHQpOwoKICAgICAgICAgICAgdmFyIHRhcmdldFZhbHVlID0gc3RyaW5nLkVtcHR5OwogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKFRhcmdldFZhbHVlICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRhcmdldFZhbHVlID0gVGFyZ2V0VmFsdWUgaXMgYm9vbAogICAgICAgICAgICAgICAgICAgID8gVGFyZ2V0VmFsdWUuVG9TdHJpbmcoKS5Ub0xvd2VyKCkgLy8gSmF2YVNjcmlwdCBib29sIGlzIGFsd2F5cyBsb3dlcmNhc2VkCiAgICAgICAgICAgICAgICAgICAgOiAoVGFyZ2V0VmFsdWUgaXMgQXJyYXkgPyBzdHJpbmcuSm9pbigiLCIsIChzdHJpbmdbXSlUYXJnZXRWYWx1ZSkgOiBUYXJnZXRWYWx1ZS5Ub1N0cmluZygpKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcnVsZS5WYWxpZGF0aW9uUGFyYW1ldGVycy5BZGQoImRlcGVuZGVudHByb3BlcnR5IiwgZGVwUHJvcCk7CiAgICAgICAgICAgIHJ1bGUuVmFsaWRhdGlvblBhcmFtZXRlcnMuQWRkKCJ0YXJnZXR2YWx1ZSIsIHRhcmdldFZhbHVlKTsKCiAgICAgICAgICAgIHlpZWxkIHJldHVybiBydWxlOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBzdHJpbmcgQnVpbGREZXBlbmRlbnRQcm9wZXJ0eUlkKE1vZGVsTWV0YWRhdGEgbWV0YWRhdGEsIFZpZXdDb250ZXh0IHZpZXdDb250ZXh0KQogICAgICAgIHsKICAgICAgICAgICAgLy8gQnVpbGQgdGhlIElEIG9mIHRoZSBwcm9wZXJ0eQogICAgICAgICAgICB2YXIgZGVwUHJvcCA9IHZpZXdDb250ZXh0LlZpZXdEYXRhLlRlbXBsYXRlSW5mby5HZXRGdWxsSHRtbEZpZWxkSWQoRGVwZW5kZW50UHJvcGVydHkpOwogICAgICAgICAgICAKICAgICAgICAgICAgdmFyIHRoaXNGaWVsZCA9IG1ldGFkYXRhLlByb3BlcnR5TmFtZSArICJfIjsKICAgICAgICAgICAgaWYgKGRlcFByb3AuU3RhcnRzV2l0aCh0aGlzRmllbGQpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBkZXBQcm9wID0gZGVwUHJvcC5TdWJzdHJpbmcodGhpc0ZpZWxkLkxlbmd0aCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBkZXBQcm9wOwogICAgICAgIH0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IC8vIENsaWVudCBzaWRlIHZhbGlkYXRvcgogICAgICAgIHB1YmxpYyBJRW51bWVyYWJsZTxNb2RlbENsaWVudFZhbGlkYXRpb25SdWxlPiBHZXRDbGllbnRWYWxpZGF0aW9uUnVsZXMoTW9kZWxNZXRhZGF0YSBtZXRhZGF0YSwgQ29udHJvbGxlckNvbnRleHQgY29udGV4dCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBydWxlID0gbmV3IE1vZGVsQ2xpZW50VmFsaWRhdGlvblJ1bGUKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgRXJyb3JNZXNzYWdlID0gRXJyb3JNZXNzYWdlID8/IHN0cmluZy5Gb3JtYXQoTWVzc2FnZXMuVmFsaWRhdGlvbl9SZXF1aXJlZCwgbWV0YWRhdGEuRGlzcGxheU5hbWUpLAogICAgICAgICAgICAgICAgVmFsaWRhdGlvblR5cGUgPSAicmVxdWlyZWRpZiIsCiAgICAgICAgICAgIH07CgogICAgICAgICAgICB2YXIgZGVwUHJvcCA9IElzRnVsbFByb3BlcnR5SWQKICAgICAgICAgICAgICAgID8gRGVwZW5kZW50UHJvcGVydHkgCiAgICAgICAgICAgICAgICA6IEJ1aWxkRGVwZW5kZW50UHJvcGVydHlJZChtZXRhZGF0YSwgY29udGV4dCBhcyBWaWV3Q29udGV4dCk7CgogICAgICAgICAgICB2YXIgdGFyZ2V0VmFsdWUgPSBzdHJpbmcuRW1wdHk7CiAgICAgICAgICAgIAogICAgICAgICAgICBpZiAoVGFyZ2V0VmFsdWUgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGFyZ2V0VmFsdWUgPSBUYXJnZXRWYWx1ZSBpcyBib29sCiAgICAgICAgICAgICAgICAgICAgPyBUYXJnZXRWYWx1ZS5Ub1N0cmluZygpLlRvTG93ZXIoKSAvLyBKYXZhU2NyaXB0IGJvb2wgaXMgYWx3YXlzIGxvd2VyY2FzZWQKICAgICAgICAgICAgICAgICAgICA6IChUYXJnZXRWYWx1ZSBpcyBBcnJheSA/IHN0cmluZy5Kb2luKCIsIiwgKHN0cmluZ1tdKVRhcmdldFZhbHVlKSA6IFRhcmdldFZhbHVlLlRvU3RyaW5nKCkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBydWxlLlZhbGlkYXRpb25QYXJhbWV0ZXJzLkFkZCgiZGVwZW5kZW50cHJvcGVydHkiLCBkZXBQcm9wKTsKICAgICAgICAgICAgcnVsZS5WYWxpZGF0aW9uUGFyYW1ldGVycy5BZGQoInRhcmdldHZhbHVlIiwgdGFyZ2V0VmFsdWUpOwoKICAgICAgICAgICAgeWllbGQgcmV0dXJuIHJ1bGU7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFBhZ2VQYXRoIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFBhZ2VQYXRoIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFBhZ2VQYXRoUHJlZml4IHsgZ2V0OyBzZXQ7IH0K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFBhZ2VQYXRoUHJlZml4IHsgZ2V0OyBzZXQ7IH0K</text>
+      </register>
       <register name="-" type="4">
-        <text>string.Format(</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
