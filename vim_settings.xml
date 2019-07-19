@@ -10,11 +10,11 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" timestamp="1563505705662">
         <mark key="[" line="15" column="13" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1563513428731">
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="53" column="38" />
-        <mark key="." line="53" column="38" />
-        <mark key="^" line="45" column="30" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1563514040340">
+        <mark key="[" line="53" column="20" />
+        <mark key="]" line="53" column="20" />
+        <mark key="." line="53" column="20" />
+        <mark key="^" line="53" column="23" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ShopScenarioBase.cs" timestamp="1563509383009" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/AllowOnlySafeHtmlTagsAttribute.cs" timestamp="1563502227297" />
@@ -44,11 +44,11 @@
         <mark key="^" line="52" column="21" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostDataFactory.cs" timestamp="1563512452345" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1563511910048">
-        <mark key="[" line="112" column="126" />
-        <mark key="]" line="112" column="126" />
-        <mark key="." line="112" column="126" />
-        <mark key="^" line="36" column="15" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1563513963720">
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="38" column="59" />
+        <mark key="." line="38" column="59" />
+        <mark key="^" line="38" column="59" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1563497633265">
         <mark key="[" line="100" column="10" />
@@ -178,34 +178,35 @@
         <text encoding="base64">ICAgICAgICBbRmFjdChTa2lwID0gIlRoZXJlIGlzIHBlcm1pc3Npb24gaXNzdWUgd2hlbiBkZWxldGUgYSBzMyBwYXRoIHdpbGwgZW5hYmxlIGl0IHVudGlsIG9wcyBzb2x2ZSBpdCIpXQo=</text>
       </register>
       <register name="1" type="4">
+        <text>try{
+            var</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CiAgICAgICAgW0ZhY3Rd</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHByaXZhdGUgYm9vbCBIYXNOb3RBbGxvd2VkVGFncyhzdHJpbmcgaHRtbCkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShodG1sKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIHZhciBhbGxvd2VkVGFncyA9IENvbnN0YW50cy5FZGl0b3IuRGVmYXVsdEFsbG93ZWRUYWdzLlVuaW9uKG5ld1tdIHsgSWZyYW1lIH0pOwogICAgICAgICAgICAKICAgICAgICAgICAgcmV0dXJuIGFsbG93ZWRUYWdzLkFueShodG1sLkNvbnRhaW5zKTsKICAgICAgICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbXBvbmVudE1vZGVsLkRhdGFBbm5vdGF0aW9uczsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBCbG9nUG9zdFJlcXVlc3Q6IEJhc2VSZXF1ZXN0CiAgICB7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db250cmFjdHMuRGF0YUFubm90YXRpb247Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>Console</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
