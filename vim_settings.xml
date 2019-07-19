@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1563498582495">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1563502063007">
         <mark key="[" line="112" column="126" />
         <mark key="]" line="112" column="126" />
         <mark key="." line="112" column="126" />
@@ -43,19 +43,20 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563501068948">
+      <file name="/Dummy.txt" timestamp="1563502761115">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Dockerfile" timestamp="1563445483291">
         <mark key="^" line="14" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Blog/BlogPost.cs" timestamp="1563499439456" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1563501191435">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/AllowOnlySafeHtmlTagsAttribute.cs" timestamp="1563502227297" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1563502930266">
         <mark key="'" line="51" column="32" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="35" />
+        <mark key="^" line="16" column="57" />
+        <mark key="." line="27" column="35" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Models/Extensions/BlogPosts/BlogPostRequest.cs" timestamp="1563501181148">
         <mark key="[" line="14" column="39" />
@@ -63,6 +64,7 @@
         <mark key="." line="14" column="51" />
         <mark key="^" line="14" column="51" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Binders/StringBinder.cs" timestamp="1563502539205" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IBlogPostsApi.cs" timestamp="1563408079119">
         <mark key="[" line="15" column="67" />
         <mark key="]" line="15" column="67" />
@@ -81,10 +83,12 @@
         <mark key="." line="52" column="21" />
         <mark key="^" line="52" column="21" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/BlogPosts/BlogPostRequest.cs" timestamp="1563501381636">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/BlogPosts/BlogPostRequest.cs" timestamp="1563502755425">
+        <mark key="'" line="15" column="48" />
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -175,40 +179,41 @@
       <jump line="71" column="83" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/DataAnnotation/RequiredIfAttribute.cs" />
       <jump line="169" column="45" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/366F296F-670D-4283-BC11-860CD6D4BAEC/db/087fefce/AbstractValidator`1.cs" />
       <jump line="32" column="32" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" />
+      <jump line="15" column="48" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/BlogPosts/BlogPostRequest.cs" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">UlVOIHJtIC1mIHN0YXIubG9jYWwtc2Vsei5jb20ucGZ4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db250cmFjdHMuRGF0YUFubm90YXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbQWxsb3dPbmx5U2FmZUh0bWxUYWdzKG5ld1tdIHsgImlmcmFtZSIgfSldCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db250cmFjdHMuRGF0YUFubm90YXRpb247Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5BcGkuTW9kZWxzLkV4dGVuc2lkb25zLkJsb2dQb3N0czsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">IHByaXZhdGUgYm9vbCBIYXNOb3RBbGxvd2VkVGFncyhzdHJpbmcgaHRtbCkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShodG1sKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIHZhciBhbGxvd2VkVGFncyA9IENvbnN0YW50cy5FZGl0b3IuRGVmYXVsdEFsbG93ZWRUYWdzLlVuaW9uKG5ld1tdIHsgSWZyYW1lIH0pOwogICAgICAgICAgICAKICAgICAgICAgICAgcmV0dXJuIGFsbG93ZWRUYWdzLkFueShodG1sLkNvbnRhaW5zKTsKICAgICAgICB9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbXBvbmVudE1vZGVsLkRhdGFBbm5vdGF0aW9uczsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBCbG9nUG9zdFJlcXVlc3Q6IEJhc2VSZXF1ZXN0CiAgICB7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIFNsdWdQYXR0ZXJuID0gQCJbLTAtOWEtel0qIjsK</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db250cmFjdHMuRGF0YUFubm90YXRpb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW01heExlbmd0aCgxMDApXQo=</text>
+        <text encoding="base64">ICAgICAgICBbQWxsb3dPbmx5U2FmZUh0bWxUYWdzKG5ld1tdIHsgImlmcmFtZSIgfSldCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW01heExlbmd0aCgxMDApXQogICAgICAgIFtSZWd1bGFyRXhwcmVzc2lvbihTbHVnUGF0dGVybildCg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db250cmFjdHMuRGF0YUFubm90YXRpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbTWF4TGVuZ3RoKDc1MCldCg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5BcGkuTW9kZWxzLkV4dGVuc2lkb25zLkJsb2dQb3N0czsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.Must(HasNotAllowedTags)</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
