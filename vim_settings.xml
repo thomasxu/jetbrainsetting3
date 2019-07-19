@@ -10,11 +10,11 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" timestamp="1563505705662">
         <mark key="[" line="15" column="13" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1563514040340">
-        <mark key="[" line="53" column="20" />
-        <mark key="]" line="53" column="20" />
-        <mark key="." line="53" column="20" />
-        <mark key="^" line="53" column="23" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1563516247298">
+        <mark key="[" line="46" column="46" />
+        <mark key="]" line="46" column="46" />
+        <mark key="." line="46" column="46" />
+        <mark key="^" line="58" column="23" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ShopScenarioBase.cs" timestamp="1563509383009" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/AllowOnlySafeHtmlTagsAttribute.cs" timestamp="1563502227297" />
@@ -31,10 +31,6 @@
         <mark key="." line="14" column="51" />
         <mark key="^" line="14" column="51" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1563504982029">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="98" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Binders/StringBinder.cs" timestamp="1563502539205" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/fd/ef5018aa/ConfigurationExtensions.cs" timestamp="1563509582969" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/DataAnnotation/AllowOnlySafeHtmlTagsAttribute.cs" timestamp="1563499306555">
@@ -44,11 +40,11 @@
         <mark key="^" line="52" column="21" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostDataFactory.cs" timestamp="1563512452345" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1563513963720">
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="38" column="59" />
-        <mark key="." line="38" column="59" />
-        <mark key="^" line="38" column="59" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1563516660826">
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="14" />
+        <mark key="." line="38" column="14" />
+        <mark key="^" line="49" column="7" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1563497633265">
         <mark key="[" line="100" column="10" />
@@ -56,7 +52,16 @@
         <mark key="^" line="99" column="79" />
         <mark key="." line="100" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/1/Log.cs" timestamp="1563516162181">
+        <mark key="'" line="40" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5ACA63E1-5879-4E37-A863-9E1D55811905/d8/bc779c17/FluentValidationMvcExtensions.cs" timestamp="1563504877869">
+        <mark key="'" line="55" column="30" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4EB0C234-0799-47BF-80A3-357C20BA66F2/76/c88174fa/ServiceCollectionExtensions.cs" timestamp="1563511102509" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/366F296F-670D-4283-BC11-860CD6D4BAEC/db/087fefce/AbstractValidator`1.cs" timestamp="1563498743476">
+        <mark key="'" line="169" column="45" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1563505616115" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/ShopValidator.cs" timestamp="1563501497710" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Startup.cs" timestamp="1563506792749">
@@ -172,41 +177,42 @@
       <jump line="32" column="32" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" />
       <jump line="15" column="48" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/BlogPosts/BlogPostRequest.cs" />
       <jump line="55" column="30" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5ACA63E1-5879-4E37-A863-9E1D55811905/d8/bc779c17/FluentValidationMvcExtensions.cs" />
+      <jump line="40" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/1/Log.cs" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdChTa2lwID0gIlRoZXJlIGlzIHBlcm1pc3Npb24gaXNzdWUgd2hlbiBkZWxldGUgYSBzMyBwYXRoIHdpbGwgZW5hYmxlIGl0IHVudGlsIG9wcyBzb2x2ZSBpdCIpXQo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IH0KICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBEZWJ1Zy5Xcml0ZUxpbmUoZ2V0QnlTbHVnUmVzcG9uc2U/LkVycm9yLk1lc3NhZ2UpOwogICAgICAgICAgICAgICAgICAgIHRocm93IGU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICA=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IHRyeQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIERlYnVnLldyaXRlTGluZSgiYWJjIik7</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuV3JpdGUoInNvbWV0aGluZyIpOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IENvbnNvbGUuLldyaXRlTGluZSgiQ29uc29sZSIpOwogICAgICAgICAgICAgICAgRGVidWcuV3JpdGVMaW5lKCJEZWJ1ZyIpOwogICAgICAgICAgICAgICAgVHJhY2UuV3JpdGVMaW5lKCJUcmFjZSIpOwogICAgICAgICAgICAgICAgRGVidWcuUHJpbnQoIkRlYnVnIFByaW50Iik7</text>
+      </register>
+      <register name="5" type="4">
         <text>try{
             var</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgW0ZhY3Rd</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHByaXZhdGUgYm9vbCBIYXNOb3RBbGxvd2VkVGFncyhzdHJpbmcgaHRtbCkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShodG1sKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIHZhciBhbGxvd2VkVGFncyA9IENvbnN0YW50cy5FZGl0b3IuRGVmYXVsdEFsbG93ZWRUYWdzLlVuaW9uKG5ld1tdIHsgSWZyYW1lIH0pOwogICAgICAgICAgICAKICAgICAgICAgICAgcmV0dXJuIGFsbG93ZWRUYWdzLkFueShodG1sLkNvbnRhaW5zKTsKICAgICAgICB9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbXBvbmVudE1vZGVsLkRhdGFBbm5vdGF0aW9uczsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBCbG9nUG9zdFJlcXVlc3Q6IEJhc2VSZXF1ZXN0CiAgICB7Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>Console</text>
+        <text>getBySlugResponse;</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
