@@ -28,11 +28,11 @@
         <mark key="^" line="1026" column="15" />
         <mark key="." line="1026" column="15" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/PageValidator.cs" timestamp="1563700596374">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="25" />
-        <mark key="^" line="23" column="25" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/PageValidator.cs" timestamp="1563701941842">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+        <mark key="^" line="22" column="65" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B095A56F-3BE0-40CD-8205-081672035163/18/a9845b13/FluidGrammar.cs" timestamp="1563624436640">
         <mark key="'" line="63" column="23" />
@@ -55,6 +55,7 @@
         <mark key="^" line="526" column="9" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/DataAnnotation/RequiredIfAttribute.cs" timestamp="1563700133977" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Pages/Page.cs" timestamp="1563702000168" />
     </filemarks>
     <jumps>
       <jump line="20" column="8" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Models/ThemeDrop/ProductVariantDrop.cs" />
@@ -160,7 +161,7 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbRmFjdChTa2lwID0gIlRoZXJlIGlzIHBlcm1pc3Npb24gaXNzdWUgd2hlbiBkZWxldGUgYSBzMyBwYXRoIHdpbGwgZW5hYmxlIGl0IHVudGlsIG9wcyBzb2x2ZSBpdCIpXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUnVsZUZvcih4ID0+IHguTGlua1VybCkuTm90RW1wdHkoKS5XaGVuKHggPT4geC5Jc0xpbmspCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5NYXRjaGVzKFNsdWdQYXR0ZXJuKQo=</text>
@@ -190,7 +191,7 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>IsLink</text>
+        <text>.link</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZVRva2VuXD4=</text>
