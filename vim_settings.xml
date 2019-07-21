@@ -14,7 +14,7 @@
         <mark key="." line="14" column="83" />
         <mark key="^" line="14" column="83" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1563709937386">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1563712596617">
         <mark key="[" line="80" column="29" />
         <mark key="]" line="80" column="29" />
         <mark key="^" line="106" column="57" />
@@ -52,13 +52,13 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1563702174973">
         <mark key="'" line="28" column="27" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPageApi.cs" timestamp="1563702587097">
-        <mark key="[" line="15" column="156" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="15" column="60" />
-        <mark key="." line="17" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPageApi.cs" timestamp="1563712572412">
+        <mark key="[" line="24" column="146" />
+        <mark key="]" line="24" column="40" />
+        <mark key="^" line="24" column="40" />
+        <mark key="." line="24" column="40" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Pages/PageRequestMapper.cs" timestamp="1563711231888" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Pages/PageRequestMapper.cs" timestamp="1563712102857" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1563704544943">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -70,10 +70,11 @@
         <mark key="^" line="1026" column="15" />
         <mark key="." line="1026" column="15" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/PageValidator.cs" timestamp="1563711074527">
-        <mark key="[" line="31" column="83" />
-        <mark key="]" line="31" column="83" />
-        <mark key="." line="31" column="83" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/PageValidator.cs" timestamp="1563712402261">
+        <mark key="[" line="34" column="133" />
+        <mark key="]" line="34" column="116" />
+        <mark key="." line="34" column="116" />
+        <mark key="^" line="34" column="116" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1563707764610" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1563709330045">
@@ -86,7 +87,7 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="21" column="13" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Pages/PageService.cs" timestamp="1563709474460">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Pages/PageService.cs" timestamp="1563712317680">
         <mark key="[" line="118" column="48" />
         <mark key="]" line="118" column="29" />
         <mark key="^" line="118" column="29" />
@@ -97,6 +98,7 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Pages/PageFilterRequest.cs" timestamp="1563712719283" />
     </filemarks>
     <jumps>
       <jump line="64" column="16" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/FormBlock.cs" />
@@ -232,7 +234,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHBhZ2VzID0gYXdhaXQgX3BhZ2VSZXBvc2l0b3J5LkZpbmRBc3luYyh4ID0+IHguU2hvcElkLkVxdWFscyhzaG9wSWQpKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcGFnZVNlcnZpY2VcPg==</text>
