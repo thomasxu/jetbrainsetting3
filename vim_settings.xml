@@ -14,7 +14,7 @@
         <mark key="." line="14" column="83" />
         <mark key="^" line="14" column="83" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1563750921291">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1563751024320">
         <mark key="[" line="102" column="61" />
         <mark key="]" line="102" column="66" />
         <mark key="^" line="102" column="66" />
@@ -40,11 +40,11 @@
         <mark key="]" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" timestamp="1563750844837">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" timestamp="1563751917151">
         <mark key="[" line="56" column="50" />
-        <mark key="]" line="56" column="50" />
-        <mark key="^" line="58" column="88" />
-        <mark key="." line="56" column="50" />
+        <mark key="]" line="23" column="42" />
+        <mark key="^" line="23" column="42" />
+        <mark key="." line="23" column="42" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1563623570484">
         <mark key="[" line="258" column="1" />
@@ -80,6 +80,7 @@
         <mark key="." line="34" column="116" />
         <mark key="^" line="34" column="116" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1563751599547" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1563709330045">
         <mark key="[" line="1253" column="70" />
         <mark key="]" line="1253" column="69" />
@@ -90,11 +91,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="21" column="13" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Pages/PageService.cs" timestamp="1563712317680">
-        <mark key="[" line="118" column="48" />
-        <mark key="]" line="118" column="29" />
-        <mark key="^" line="118" column="29" />
-        <mark key="." line="118" column="29" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Pages/PageService.cs" timestamp="1563751632322">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="28" />
+        <mark key="^" line="112" column="29" />
+        <mark key="." line="43" column="28" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Pages/PageServiceTest.cs" timestamp="1563709522027">
         <mark key="[" line="83" column="0" />
@@ -214,34 +215,41 @@
         <text>1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFNob3BJZCB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgcGFnZSBpZCBpcyBkZWZhdWx0IHBhZ2UgaWQsIGNsZWFyIGl0IGJlZm9yZSBjcmVhdGUKICAgICAgICAgICAgaWYgKENvbnN0YW50cy5QYWdlcy5EZWZhdWx0UGFnZUlkcy5Db250YWlucyhwYWdlLklkKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcGFnZS5JZCA9IE9iamVjdElkLkVtcHR5Owo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>// If page id is default page id, clear it before create
+            if (Constants.Pages.DefaultPageIds.Contains(page.Id))
+            {
+                page.Id = ObjectId.Empty;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbXBvbmVudE1vZGVsLkRhdGFBbm5vdGF0aW9uczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbVXJsXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgcHVibGljIHN0YXRpYyBJRW51bWVyYWJsZTxQYWdlUmVzcG9uc2U+IE1hcFRvUmVzcG9uc2UodGhpcyBJTGlzdDxQYWdlPiBwYWdlcykgewogICAgICAgICAgICByZXR1cm4gcGFnZXMuU2VsZWN0KHAgPT4gcC5NYXBUb1Jlc3BvbnNlKCkpICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2s8UGFnZT4gR2V0UGFnZShQYWdlUmVxdWVzdCByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgUGFnZSBwYWdlID0gbnVsbDsKICAgICAgICAgICAgLy8gcGFnZSB3YXMgYWxyZWFkeSBzdG9yZWQKICAgICAgICAgICAgaWYgKCFzdHJpbmcuSXNOdWxsT3JFbXB0eShyZXF1ZXN0LklkKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcGFnZSA9IENvbnN0YW50cy5QYWdlcy5EZWZhdWx0UGFnZXMuRmlyc3RPckRlZmF1bHQocCA9PiBwLklkID09IE9iamVjdElkLlBhcnNlKHJlcXVlc3QuSWQpKT8uQ3JlYXRlRGVmYXVsdFBhZ2UoKTsKCiAgICAgICAgICAgICAgICBpZiAocGFnZSA9PSBudWxsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciBwYWdlUGF0aCA9IHJlcXVlc3QuSXNEZWZhdWx0ID8gcmVxdWVzdC5QYWdlUGF0aCA6IFBhZ2UuVG9QYWdlUGF0aChyZXF1ZXN0LlBhZ2VQYXRoKTsKICAgICAgICAgICAgICAgICAgICBwYWdlID0gYXdhaXQgX3BhZ2VTZXJ2aWNlLkZpbmQocmVxdWVzdC5JZCwgcGFnZVBhdGgsIFNob3BJZCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBwYWdlOwogICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="7" type="4">
+        <text>// If page id is default page id, clear it before create
+            if (Constants.Pages.DefaultPageIds.Contains(page.Id))
+            {
+                page.Id = ObjectId.Empty;
+            }</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFNob3BJZCB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">ICYmIHBhZ2UuSWQgIT0gT2JqZWN0SWQuRW1wdHk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcGFnZVNlcnZpY2VcPg==</text>
