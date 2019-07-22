@@ -50,11 +50,25 @@
         <mark key="]" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/PageContents/ContentBlockUpsertRequest.cs" timestamp="1563756901666" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" timestamp="1563754804912">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="^" line="57" column="68" />
         <mark key="." line="58" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PageContentsController.cs" timestamp="1563758073453">
+        <mark key="'" line="181" column="22" />
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="11" />
+        <mark key="^" line="30" column="66" />
+        <mark key="." line="43" column="11" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/PageContentValidator.cs" timestamp="1563757836685">
+        <mark key="[" line="17" column="124" />
+        <mark key="]" line="17" column="122" />
+        <mark key="^" line="17" column="122" />
+        <mark key="." line="17" column="122" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1563623570484">
         <mark key="[" line="258" column="1" />
@@ -78,7 +92,7 @@
         <mark key="]" line="24" column="40" />
         <mark key="." line="24" column="40" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1563704544943">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1563757299265">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -123,7 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="20" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/FormBlock.cs" />
       <jump line="110" column="24" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/FormBlock.cs" />
       <jump line="120" column="24" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/FormBlock.cs" />
       <jump line="126" column="16" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/FormBlock.cs" />
@@ -223,43 +236,41 @@
       <jump line="348" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B182083D-5048-4347-8DAC-3F04C9E7EB7F/c3/e1575b7b/HtmlSanitizer.cs" />
       <jump line="10" column="29" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/PageValidator.cs" />
       <jump line="194" column="15" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7208242E-8171-474E-A12D-B9D506D0C43F/6/Attributes.cs" />
+      <jump line="144" column="22" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PageContentsController.cs" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlclJlc3BvbnNlLlNlbGVjdCh4ID0+IHguSWQpLlNob3VsZCgpLkNvbnRhaW4oYWRkUmVzcG9uc2UuSWQpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJTZWx6LkNvcmUuTG9nZ2luZyIgVmVyc2lvbj0iMi4xLjIyIiAvPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IC8vIElmIGFuIGV4aXN0aW5nIGJsb2NrLi4uCiAgICAgICAgICAgIGlmICghc3RyaW5nLklzTnVsbE9yRW1wdHkocmVxdWVzdC5JZCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGJsb2NrID0gYXdhaXQgX3BhZ2VDb250ZW50U2VydmljZS5HZXRDb250ZW50QmxvY2socmVxdWVzdC5QYWdlQ29udGVudC5JZCwgcmVxdWVzdC5JZCwgU2hvcElkKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlclJlc3BvbnNlLlNob3VsZCgpLkhhdmVDb3VudCgwKTsK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBmaWx0ZXJSZXNwb25zZSA9IGNsaWVudC5GaWx0ZXIobmV3IFBhZ2VGaWx0ZXJSZXF1ZXN0IHtJc1B1Ymxpc2hlZCA9IGZhbHNlfSwgRGVmYXVsdFNob3BJZCwgY29yKS5SZXN1bHQuQ29udGVudDsKICAgICAgICAgICAgICAgIGZpbHRlclJlc3BvbnNlLlNob3VsZCgpLk5vdEJlTnVsbCgpOwogICAgICAgICAgICAgICAgZmlsdGVyUmVzcG9uc2UuU2hvdWxkKCkuSGF2ZUNvdW50KDEpOwogICAgICAgICAgICAgICAgZmlsdGVyUmVzcG9uc2UuU2VsZWN0KHggPT4geC5JZCkuU2hvdWxkKCkuQ29udGFpbihhZGRSZXNwb25zZS5JZCk7Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzTmV3UGFnZSA9IHBhZ2UgPT0gbnVsbDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgcGFnZSBpZCBpcyBkZWZhdWx0IHBhZ2UgaWQsIGNsZWFyIGl0IGJlZm9yZSBjcmVhdGUKICAgICAgICAgICAgaWYgKENvbnN0YW50cy5QYWdlcy5EZWZhdWx0UGFnZUlkcy5Db250YWlucyhwYWdlLklkKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcGFnZS5JZCA9IE9iamVjdElkLkVtcHR5Owo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>// If page id is default page id, clear it before create
-            if (Constants.Pages.DefaultPageIds.Contains(page.Id))
-            {
-                page.Id = ObjectId.Empty;</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQ2hlY2sgaWYgdGhlIGJsb2NrIGlzIG5lc3RhYmxlIGlmIHdlJ3JlIGFkZGluZyB0byByZWdpb24gKGdyaWQgY29sdW1uKQogICAgICAgICAgICBpZiAoIXN0cmluZy5Jc051bGxPckVtcHR5KHJlcXVlc3QuQ29udGVudFJlZ2lvbklkKSAmJiBDb25zdGFudHMuQmxvY2tzLkRpc2FibGVOZXN0aW5nLkNvbnRhaW5zKHJlcXVlc3QuVHlwZSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBTZWx6RXhjZXB0aW9uKEFjdG9yLCBudWxsLCAiQ2FuIG5vdCBhZGQgZ3JpZCBibG9jayB0byBncmlkIGNvbHVtbiByZWdpb24iKTsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQ2hlY2sgaWYgdGhlIGJsb2NrIGlzIG5lc3RhYmxlIGlmIHdlJ3JlIGFkZGluZyB0byByZWdpb24gKGdyaWQgY29sdW1uKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IC8vIENoZWNrIGlmIHRoZSBibG9jayBpcyBuZXN0YWJsZSBpZiB3ZSdyZSBhZGRpbmcgdG8gcmVnaW9uIChncmlkIGNvbHVtbikKICAgICAgICAgICAgaWYgKCFzdHJpbmcuSXNOdWxsT3JFbXB0eShyZXF1ZXN0LkNvbnRlbnRSZWdpb25JZCkgJiYgQ29uc3RhbnRzLkJsb2Nrcy5EaXNhYmxlTmVzdGluZy5Db250YWlucyhyZXF1ZXN0LlR5cGUpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgU2VsekV4Y2VwdGlvbihBY3RvciwgbnVsbCwgIkNhbiBub3QgYWRkIGdyaWQgYmxvY2sgdG8gZ3JpZCBjb2x1bW4gcmVnaW9uIik7CiAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgQ2hlY2tOZXN0ZWRSZWdpb24xKENvbnRlbnRCbG9ja1Vwc2VydFJlcXVlc3QgYXJnMSwgc3RyaW5nIGFyZzIpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IHByaXZhdGUgYm9vbCBDaGVja05lc3RlZFJlZ2lvbjEoQ29udGVudEJsb2NrVXBzZXJ0UmVxdWVzdCBhcmcxLCBzdHJpbmcgYXJnMikKICAgICAgICB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwogICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWdlVG9VcGRhdGUuSXNEZWZhdWx0IHx8IHBhZ2VUb1VwZGF0ZS5Jc0NvbnRlbnRQYWdlICYmIG1vZGVsLklzUHVibGlzaGVkOw==</text>
+        <text>Save</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcGFnZVNlcnZpY2VcPg==</text>
