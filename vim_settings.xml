@@ -11,12 +11,12 @@
         <mark key="^" line="57" column="68" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PageContentsController.cs" timestamp="1563771596340">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PageContentsController.cs" timestamp="1563772958596">
         <mark key="'" line="159" column="22" />
-        <mark key="[" line="72" column="21" />
-        <mark key="]" line="41" column="51" />
-        <mark key="^" line="41" column="51" />
-        <mark key="." line="41" column="51" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="117" column="21" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/PageContentValidator.cs" timestamp="1563757836685">
         <mark key="[" line="17" column="124" />
@@ -38,7 +38,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/PageContents/ContentBlockUpsertRequestMapper.cs" timestamp="1563771535568">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/PageContents/ContentBlockUpsertRequestMapper.cs" timestamp="1563771794584">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="12" column="34" />
@@ -80,11 +80,11 @@
         <mark key="." line="24" column="40" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1563751599547" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/PageContents/PageContentService.cs" timestamp="1563770500379">
-        <mark key="[" line="269" column="99" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="77" column="10" />
-        <mark key="." line="87" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/PageContents/PageContentService.cs" timestamp="1563772821837">
+        <mark key="[" line="331" column="0" />
+        <mark key="]" line="331" column="0" />
+        <mark key="^" line="350" column="17" />
+        <mark key="." line="331" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Staging.json" timestamp="1563754462718">
         <mark key="[" line="28" column="3" />
@@ -197,35 +197,37 @@
         <text encoding="base64">ICAgICAgICBUYXNrPFBhZ2VDb250ZW50PiBTYXZlKFBhZ2VDb250ZW50IHBhZ2VDb250ZW50LCBJQWN0b3IgYWN0b3IsIGJvb2wgaXNQbGFjZWhvbGRlciA9IGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElkID0gcmVxdWVzdC5JZC5Ub09iamVjdElkKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IEFsd2F5cyBwYXNzIGNvbnRlbnRCbG9jayBmb3IgdXBkYXRlcwo=</text>
+      <register name="3" type="4">
+        <text>if (contentBlockIds == null || !contentBlockIds.Any())
+            {
+                throw new ArgumentException(@&quot;Page content block ids has to be set&quot;, nameof(contentBlockIds));
+            }</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgSUxpc3Q8Q29udGVudEJsb2NrUmVzcG9uc2U+IE1hcFRvUmVzcG9uc2UodGhpcyBQYWdlQ29udGVudCBjb250ZW50KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIGNvbnRlbnQuQ29udGVudEJsb2Nrcy5NYXBUb1Jlc3BvbnNlKGNvbnRlbnQuSWQuVG9TdHJpbmcoKSk7CiAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVXBkYXRlIG9yZGVyIG9uIHJlZ2lvbgogICAgICAgICAgICBpZiAoY29udGVudFJlZ2lvbiAhPSBudWxsKQogICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gR2V0IGJsb2NrIHNldHRpbmdzCiAgICAgICAgICAgIHZhciBzZXR0aW5ncyA9IHJlcXVlc3QuU2V0dGluZ3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBMb2cuV2FybmluZygiQ291bGQgbm90IGZpbmQgY29udGVudCBibG9jayB0byB1cGRhdGUiLCBuZXcKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBwYWdlQ29udGVudElkID0gaWQsCiAgICAgICAgICAgICAgICAgICAgY29udGVudEJsb2NrSWQgPSBjb250ZW50QmxvY2suSWQKICAgICAgICAgICAgICAgIH0sIGFjdG9yKTsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>if (contentRegion != null)
-            {</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IFNhdmUocGFnZUNvbnRlbnQsIGFjdG9yKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGVsc2UKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgTG9nLldhcm5pbmcoIkNhbid0IGZpbmQgQ29udGVudFJlZ2lvbiBieSBpZC4iLCBuZXcgeyByZWdpb25JZCA9IGlkIH0sIGFjdG9yKTsKICAgICAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBTZWx6RXhjZXB0aW9uKGFjdG9yLCBuZXcgeyBpZCB9LCAiQ2FuJ3QgZmluZCBQYWdlQ29udGVudCBieSBpZC4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>boolb</text>
+        <text>theiiwww</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcGFnZVNlcnZpY2VcPg==</text>
