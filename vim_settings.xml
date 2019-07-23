@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Tags/TagScenarios.cs" timestamp="1563875673150">
-        <mark key="[" line="23" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Tags/TagScenarios.cs" timestamp="1563878235067">
+        <mark key="[" line="24" column="30" />
         <mark key="]" line="23" column="118" />
         <mark key="." line="20" column="55" />
         <mark key="^" line="20" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4EB0C234-0799-47BF-80A3-357C20BA66F2/0a/e590cffc/RepositoryExtensions.cs" timestamp="1563863157189" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TagsController.cs" timestamp="1563875442402">
-        <mark key="[" line="60" column="39" />
-        <mark key="]" line="60" column="65" />
-        <mark key="." line="60" column="65" />
-        <mark key="^" line="60" column="75" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TagsController.cs" timestamp="1563877877051">
+        <mark key="[" line="67" column="64" />
+        <mark key="]" line="67" column="80" />
+        <mark key="." line="67" column="80" />
+        <mark key="^" line="67" column="80" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/PageContents/PageContentsScenarios.cs" timestamp="1563846408500">
         <mark key="[" line="63" column="41" />
@@ -58,6 +58,9 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1563875184532">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="125" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1563763457296">
+        <mark key="'" line="28" column="27" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/ITaggingApi.cs" timestamp="1563870501061">
         <mark key="[" line="20" column="161" />
@@ -119,6 +122,9 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="111" column="9" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7208242E-8171-474E-A12D-B9D506D0C43F/6/Attributes.cs" timestamp="1563843464065">
+        <mark key="'" line="248" column="17" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/HomeController.cs" timestamp="1563863646503" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/ServiceRegistry.cs" timestamp="1563865341376">
         <mark key="[" line="30" column="54" />
@@ -163,6 +169,9 @@
         <mark key="." line="74" column="12" />
         <mark key="^" line="74" column="39" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/52D57F27-21D6-403B-B269-6DF28E1EBA0A/7f/21251757/Enumerable.cs" timestamp="1563877670702">
+        <mark key="'" line="1695" column="39" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1563865204235">
         <mark key="[" line="32" column="23" />
         <mark key="]" line="32" column="23" />
@@ -177,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="16" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/FormBlock.cs" />
       <jump line="147" column="16" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/FormBlock.cs" />
       <jump line="190" column="38" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/FormBlock.cs" />
       <jump line="124" column="45" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/ae/2ddc614c/JsonSerializerSettings.cs" />
@@ -277,34 +285,35 @@
       <jump line="248" column="17" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7208242E-8171-474E-A12D-B9D506D0C43F/6/Attributes.cs" />
       <jump line="54" column="15" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" />
       <jump line="14" column="35" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/ITagsApi.cs" />
+      <jump line="1695" column="39" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/52D57F27-21D6-403B-B269-6DF28E1EBA0A/7f/21251757/Enumerable.cs" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>UseSelzRequestResponseLogging</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkFwaS5NaWRkbGV3YXJlczsK</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkVudGlkdHlGcmFtZXdvcmtDb3JlLkludGVybmFsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkFwaS5NaWRkbGV3YXJlczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgcHVibGljIGNsYXNzIEVycm9ySGFuZGxpbmdNaWRkbGV3YXJlCg==</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgcHVibGljIGNsYXNzIEVycm9ySGFuZGxpbmdNaWRkbGV3YXJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ5U2x1Z1Jlc3BvbnNlLlNsdWcgPSB0YWc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0YWcgPSB0YWdSZXF1ZXN0LlRhZ3MuRmlyc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ5U2x1Z1Jlc3BvbnNlLlNsdWcgPSB0YWc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmaWx0ZXJSZXNwb25zZSA9IGNsaWVudC5GaWx0ZXIobmV3IFRhZ0ZpbHRlclJlcXVlc3QoKSB7TmFtZXMgPSB0YWdSZXF1ZXN0LlRhZ3N9LCBEZWZhdWx0U2hvcElkLCBjb3IpLlJlc3VsdC5Db250ZW50OwogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0YWcgPSB0YWdSZXF1ZXN0LlRhZ3MuRmlyc3QoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmaWx0ZXJSZXNwb25zZSA9IGNsaWVudC5GaWx0ZXIobmV3IFRhZ0ZpbHRlclJlcXVlc3QoKSB7TmFtZXMgPSB0YWdSZXF1ZXN0LlRhZ3N9LCBEZWZhdWx0U2hvcElkLCBjb3IpLlJlc3VsdC5Db250ZW50OwogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
