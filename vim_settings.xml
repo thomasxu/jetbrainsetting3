@@ -15,11 +15,14 @@
         <mark key="." line="31" column="75" />
         <mark key="^" line="31" column="75" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/PageContents/PageContentsScenarios.cs" timestamp="1563837941132">
-        <mark key="[" line="42" column="123" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/PageContents/PageContentsScenarios.cs" timestamp="1563839523868">
+        <mark key="[" line="36" column="68" />
+        <mark key="]" line="36" column="80" />
+        <mark key="." line="36" column="80" />
+        <mark key="^" line="36" column="80" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1563839924919">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Pages/ContentRegion.cs" timestamp="1563768364435">
         <mark key="[" line="13" column="62" />
@@ -30,7 +33,7 @@
         <mark key="^" line="57" column="68" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PageContentsController.cs" timestamp="1563837813238">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PageContentsController.cs" timestamp="1563839599874">
         <mark key="'" line="160" column="22" />
         <mark key="[" line="25" column="17" />
         <mark key="]" line="25" column="17" />
@@ -49,7 +52,7 @@
         <mark key="." line="682" column="0" />
         <mark key="^" line="950" column="9" />
       </file>
-      <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Controllers/ContactsController.cs" timestamp="1563835088428" />
+      <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Controllers/ContactsController.cs" timestamp="1563838874679" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/PageContents/PageContentResponseMapper.cs" timestamp="1563769042351">
         <mark key="[" line="22" column="25" />
         <mark key="]" line="22" column="25" />
@@ -71,11 +74,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/PageContents/ContentBlockUpsertRequestMapper.cs" timestamp="1563802439613">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/PageContents/ContentBlockUpsertRequestMapper.cs" timestamp="1563840031263">
+        <mark key="[" line="63" column="65" />
+        <mark key="]" line="63" column="65" />
         <mark key="^" line="12" column="34" />
-        <mark key="." line="16" column="0" />
+        <mark key="." line="63" column="65" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/PageContents/IPageContentService.cs" timestamp="1563802194600">
         <mark key="[" line="32" column="0" />
@@ -237,7 +240,7 @@
         <text encoding="base64">ICAgICAgICBUYXNrIFJlc2V0U3RvcmUoc3RyaW5nIGluc3RhbGxlZFRoZW1lSWQsIElBY3RvciBhY3Rvcik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>new Uri(request.PageUrl).AbsolutePath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcGFnZVNlcnZpY2VcPg==</text>
