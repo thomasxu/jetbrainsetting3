@@ -72,7 +72,11 @@
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Shared/Selz.Webhooks.Core/Domain/Webhook.cs" timestamp="1564009413049" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Shared/Selz.Webhooks.Core/Helpers/CryptoHelper.cs" timestamp="1564010094527" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Shared/Selz.Webhooks.Core/Models/OrderModel.cs" timestamp="1564009548268" />
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Services/ItemService.cs" timestamp="1564042949534" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Services/ItemService.cs" timestamp="1564046566947">
+        <mark key="[" line="162" column="13" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoresController.cs" timestamp="1563965929564">
         <mark key="[" line="88" column="35" />
         <mark key="]" line="91" column="45" />
@@ -179,11 +183,11 @@
         <mark key="." line="58" column="103" />
         <mark key="^" line="60" column="87" />
       </file>
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Mappings/ItemMappings.cs" timestamp="1564045612322">
-        <mark key="[" line="125" column="13" />
-        <mark key="]" line="120" column="18" />
-        <mark key="." line="120" column="18" />
-        <mark key="^" line="120" column="18" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Mappings/ItemMappings.cs" timestamp="1564045869118">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="123" column="22" />
+        <mark key="." line="123" column="22" />
+        <mark key="^" line="123" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -293,31 +297,31 @@
         <text>api-version:1.0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXR1c0xpc3QgPSByZXF1ZXN0LlN0YXR1c0xpc3QuU2VsZWN0KHMgPT4gKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlciAmPSBidWlsZGVyMS5PcihmaWx0ZXIsIGJ1aWxkZXIxLikgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXR1c0xpc3QgPSByZXF1ZXN0LlN0YXR1c0xpc3QuU2VsZWN0KHMgPT4gKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgY2xhc3MgUGFnZWRMaXN0T3B0aW9ucwogIHsKICAgIHB1YmxpYyBQYWdlZExpc3RPcHRpb25zKCkKICAgIHsKICAgICAgaWYgKHBhZ2VTaXplIDwgMCkKICAgICAgewogICAgICAgIHBhZ2VTaXplID0gMTA7CiAgICAgIH0KCiAgICAgIGlmIChwYWdlU2l6ZSA+IDUwKQogICAgICB7CiAgICAgICAgcGFnZVNpemUgPSA1MDsKICAgICAgfQoKICAgICAgdGhpcy5QYWdlU2l6ZTEgPSBwYWdlU2l6ZTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBJdGVtU2xpY2VkTGlzdE9wdGlvbnMxOiBTbGljZWRMaXN0T3B0aW9ucyB7CiAgICAgICAgcHVibGljIEl0ZW1TbGljZWRMaXN0T3B0aW9uczEoaW50IGxpbWl0LCBzdHJpbmcgc3RhcnRpbmdBZnRlciwgc3RyaW5nIGVuZGluZ0JlZm9yZSkgOiBiYXNlKGxpbWl0LCBzdGFydGluZ0FmdGVyLCBlbmRpbmdCZWZvcmUpCiAgICAgICAgewogICAgICAgIH0KCiAgICAgICAgcHVibGljIGludD8gU2hvcElkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgYm9vbD8gSXNQdWJsaXNoZWQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBJdGVtVHlwZT8gVHlwZSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIElMaXN0PEl0ZW1TdGF0dXM+IFN0YXR1c0xpc3QgeyBnZXQ7IHNldDsgfQogICAgfQogICAgCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgY2xhc3MgUGFnZWRMaXN0T3B0aW9ucwogIHsKICAgIHB1YmxpYyBQYWdlZExpc3RPcHRpb25zKCkKICAgIHsKICAgICAgaWYgKHBhZ2VTaXplIDwgMCkKICAgICAgewogICAgICAgIHBhZ2VTaXplID0gMTA7CiAgICAgIH0KCiAgICAgIGlmIChwYWdlU2l6ZSA+IDUwKQogICAgICB7CiAgICAgICAgcGFnZVNpemUgPSA1MDsKICAgICAgfQoKICAgICAgdGhpcy5QYWdlU2l6ZTEgPSBwYWdlU2l6ZTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdG9yCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBJdGVtU2xpY2VkTGlzdE9wdGlvbnMxOiBTbGljZWRMaXN0T3B0aW9ucyB7CiAgICAgICAgcHVibGljIEl0ZW1TbGljZWRMaXN0T3B0aW9uczEoaW50IGxpbWl0LCBzdHJpbmcgc3RhcnRpbmdBZnRlciwgc3RyaW5nIGVuZGluZ0JlZm9yZSkgOiBiYXNlKGxpbWl0LCBzdGFydGluZ0FmdGVyLCBlbmRpbmdCZWZvcmUpCiAgICAgICAgewogICAgICAgIH0KCiAgICAgICAgcHVibGljIGludD8gU2hvcElkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgYm9vbD8gSXNQdWJsaXNoZWQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBJdGVtVHlwZT8gVHlwZSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIElMaXN0PEl0ZW1TdGF0dXM+IFN0YXR1c0xpc3QgeyBnZXQ7IHNldDsgfQogICAgfQogICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdG9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB7CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSXRlbVNsaWNlZExpc3RPcHRpb25zMShpbnQgbGkpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB7CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSXRlbVNsaWNlZExpc3RPcHRpb25zMShpbnQgbGkpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YXdhaXQg</text>
