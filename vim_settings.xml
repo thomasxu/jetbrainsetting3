@@ -85,6 +85,9 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1563943889360">
+        <mark key="[" line="177" column="66" />
+      </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CategoryDataFixture.cs" timestamp="1564021766949">
         <mark key="[" line="15" column="29" />
         <mark key="]" line="15" column="28" />
@@ -96,6 +99,9 @@
         <mark key="[" line="4" column="8" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/packages.config" timestamp="1563965330923">
+        <mark key="[" line="89" column="113" />
       </file>
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Shared/Selz.Webhooks.Core/Domain/Webhook.cs" timestamp="1564009413049" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Shared/Selz.Webhooks.Core/Helpers/CryptoHelper.cs" timestamp="1564010094527" />
@@ -118,7 +124,7 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Shared/Selz.Webhooks.Core/Providers/CategoryWebhookPayloadProvider.cs" timestamp="1564009727532" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1564024664876">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1564051025107">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="23" />
         <mark key="." line="12" column="20" />
@@ -139,7 +145,7 @@
         <mark key="]" line="343" column="42" />
         <mark key="." line="343" column="42" />
       </file>
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1564050959299" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1564051120509" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PagesController.cs" timestamp="1564024889065">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="23" />
@@ -150,11 +156,14 @@
         <mark key="]" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3F19B331-4C9B-4A59-9058-21B431A7B7C9/c1/fcc25c0b/ISlicedList`2.cs" timestamp="1564051845742">
+        <mark key="[" line="13" column="3" />
+      </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Services/Filtering/ItemListOptions.cs" timestamp="1564033576096" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Shared/Selz.Webhooks.Core/Extensions/WebHookEventTypeExtensions.cs" timestamp="1564009486053" />
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Services/Filtering/ItemSlicedListOptions.cs" timestamp="1564043865785">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Services/Filtering/ItemSlicedListOptions.cs" timestamp="1564051921120">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="133" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Shared/Selz.Webhooks.Core/Services/WebhookPayloadService.cs" timestamp="1564009981854" />
@@ -218,9 +227,9 @@
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api/Startup.cs" timestamp="1564008845429" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1564008914916" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1564019521995" />
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Mappings/ItemMappings.cs" timestamp="1564050777505">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="99" column="42" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Mappings/ItemMappings.cs" timestamp="1564051940738">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="103" />
         <mark key="^" line="99" column="42" />
         <mark key="." line="99" column="42" />
       </file>
@@ -328,8 +337,8 @@
       <jump line="21" column="17" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/523208DF-A789-4126-9282-D4D8C2E1CFAC/13/ApiVersionAttribute.cs" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>api-version:1.0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIEl0ZW1TbGljZWRMaXN0T3B0aW9ucyBUb0l0ZW1TbGljZWRMaXN0T3B0aW9ucyh0aGlzIEl0ZW1TbGljZWRMaXN0UmVxdWVzdCByZXF1ZXN0KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlciAmPSBidWlsZGVyMS5PcihmaWx0ZXIsIGJ1aWxkZXIxLikgICAgCg==</text>
