@@ -36,12 +36,11 @@
         <mark key="." line="524" column="52" />
         <mark key="^" line="524" column="52" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TagsController.cs" timestamp="1564024909083">
-        <mark key="'" line="66" column="12" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="23" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TagsController.cs" timestamp="1564027722746">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
         <mark key="^" line="64" column="13" />
-        <mark key="." line="13" column="24" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/Drachma.sln" timestamp="1564007408181" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.FunctionalTests/Selz.Webhooks.Api.FunctionalTests.csproj" timestamp="1564008831804" />
@@ -183,7 +182,7 @@
         <mark key="." line="149" column="42" />
       </file>
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api/docker-compose-api-local.yml" timestamp="1564008527935" />
-      <file name="/Dummy.txt" timestamp="1564025443956">
+      <file name="/Dummy.txt" timestamp="1564027753231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -230,6 +229,13 @@
       </file>
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api/docker-compose-api.yml" timestamp="1564008556569" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api/Startup.cs" timestamp="1564008845429" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" timestamp="1564027464091">
+        <mark key="'" line="137" column="46" />
+        <mark key="[" line="201" column="51" />
+        <mark key="]" line="201" column="62" />
+        <mark key="." line="201" column="62" />
+        <mark key="^" line="201" column="62" />
+      </file>
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1564008914916" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1564019521995" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1564024198520">
@@ -248,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="15" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Models/ThemeDrop/BlogDrop.cs" />
       <jump line="103" column="45" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Models/ThemeDrop/StoreDrop.cs" />
       <jump line="91" column="67" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Models/ThemeDrop/StoreDrop.cs" />
       <jump line="57" column="47" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Infrastructure/Security/CurrentUser.cs" />
@@ -348,40 +353,41 @@
       <jump line="30" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IBlogPostsApi.cs" />
       <jump line="9" column="70" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPageContentApi.cs" />
       <jump line="27" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPageApi.cs" />
+      <jump line="137" column="46" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>api-version:1.0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuV3JpdGVMaW5lKHJlcXVlc3QuTmFtZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Ub0xpc3QoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3RhZ1JlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Qcm9qZWN0PFRoZW1lVmVyc2lvbj4oQnVpbGRlcnM8VGhlbWU+LlByb2plY3Rpb24uSW5jbHVkZSh4ID0+IHguSWQpLkluY2x1ZGUoeCA9PiB4LlBhY2thZ2UpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90aGVyZSBpcyBsYXRlbmN5IHdpdGggdGhlIG1vbmdvIGNsdXN0ZXIgLSB0aGlzIGlzIHRvIGdpdmUgdGhlCiAgICAgICAgICAgIC8vZGF0YSBmaXh0dXJlIGEgY2hhbmNlIHRvIGNvbW1pdCBkYXRhIGJlZm9yZSB0ZXN0cyBmaXJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IG9iamVjdCBfbG9jayA9IG5ldyBvYmplY3QoKTsK</text>
+        <text encoding="base64">dXNpbmcgU3RyaW5nRXh0ZW5zaW9ucyA9IFNlbHouQ29yZS5SZXBvc2l0b3J5LlN0cmluZ0V4dGVuc2lvbnM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElSZXBvc2l0b3J5PFBhZ2U+IF9wYWdlUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLkRvbWFpbnMuQmxvZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3BhZ2VSZXBvc2l0b3J5ID0gX3NlcnZpY2VQcm92aWRlci5HZXRTZXJ2aWNlPElSZXBvc2l0b3J5PFBhZ2U+PigpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>v1/</text>
+        <text>projection</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJTW9uZ29Db2xsZWN0aW9uXD4=</text>
