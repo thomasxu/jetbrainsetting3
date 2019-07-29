@@ -25,17 +25,18 @@
         <mark key="." line="75" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Controllers/ContactsController.cs" timestamp="1564359947633" />
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Infrastructures/Security/CurrentUser.cs" timestamp="1564381581688">
-        <mark key="[" line="188" column="50" />
-        <mark key="]" line="188" column="67" />
-        <mark key="." line="188" column="67" />
-        <mark key="^" line="188" column="67" />
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Infrastructures/Security/CurrentUser.cs" timestamp="1564382339364">
+        <mark key="[" line="312" column="16" />
+        <mark key="]" line="312" column="16" />
+        <mark key="^" line="312" column="21" />
+        <mark key="." line="312" column="16" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1564380395216">
         <mark key="[" line="737" column="0" />
         <mark key="]" line="737" column="122" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/StoreBuilderAttribute.cs" timestamp="1564371868358" />
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/GoogleWrappers/IGoogleWebFonts.cs" timestamp="1564382567169" />
       <file name="C:/dev/git/selz/Services.Core/Client/src/Selz.Core.Client/Refit/SelzUrlParameterFormatter.cs" timestamp="1564358693052">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="54" column="4" />
@@ -56,6 +57,12 @@
         <mark key="]" line="152" column="25" />
         <mark key="^" line="152" column="25" />
         <mark key="." line="152" column="25" />
+      </file>
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Infrastructures/Security/IdentityExtensions.cs" timestamp="1564382530711">
+        <mark key="[" line="237" column="61" />
+        <mark key="]" line="237" column="18" />
+        <mark key="." line="237" column="18" />
+        <mark key="^" line="237" column="18" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/LiquidCacheAttribute.cs" timestamp="1564360494480" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Startup.cs" timestamp="1564379675915" />
@@ -207,34 +214,34 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgSW5zdGFsbGVkVGhlbWUgR2V0UHVibGlzaGVkSW5zdGFsbGVkVGhlbWUoaW50IHNob3BJZCwgYm9vbCBsb2FkVGhlbWUgPSB0cnVlLCBib29sIGNoZWNrQXBwSW5zdGFsbGVkID0gdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmVxdWVzdFRyYWNrZXIK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChzaG9wLlRyYWNrZXIgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgVHJhY2tlciA9IFJlcXVlc3RUcmFja2VyLk1hcChzaG9wLlRyYWNrZXIpOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIExvZ291dChzdHJpbmcgcmV0dXJuVXJsID0gbnVsbCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIERlbGV0ZSBleGlzdGluZyBzZXNzaW9uIHRvIGF2b2lkIFNlc3Npb24gRml4YXRpb24KICAgICAgICAgICAgQWJhbmRvblNlc3Npb24oX2h0dHBDb250ZXh0KTsKCiAgICAgICAgICAgIC8vIENhbGwgbG9nb3V0IGluIElEUwogICAgICAgICAgICBfaHR0cENvbnRleHQuUmVxdWVzdC5HZXRPd2luQ29udGV4dCgpLkF1dGhlbnRpY2F0aW9uLlNpZ25PdXQobmV3IEF1dGhlbnRpY2F0aW9uUHJvcGVydGllcyB7IFJlZGlyZWN0VXJpID0gcmV0dXJuVXJsIH0pOwogICAgICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU2hvcEVudGl0eSA9IERyYWNobWEuQ29yZS5Eb21haW5zLlNob3BzLlNob3A7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVudW0uVHJ5UGFyc2UodmFsdWUsIHRydWUsIG91dCBTaG9wQWNjb3VudFR5cGUgYWNjb3VudFR5cGUpOwoKICAgICAgICAgICAgICAgIHJldHVybiBhY2NvdW50VHlwZTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJbnN0YWxsZWRUaGVtZSBHZXRQdWJsaXNoZWRJbnN0YWxsZWRUaGVtZShvYmplY3QgaWQsIGJvb2wgYiwgYm9vbCBiMSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Z2V0ID0+IChsb25nKV9odHRwQ29udGV4dC5TZXNzaW9uLigiVXNlcl9DcmVhdGVkVGltZVVuaXgiKTsKICAgICAgICAgICAgc2V0ID0+IF9odHRwQ29udGV4dC5TZXNzaW9uWyJVc2VyX0NyZWF0ZWRUaW1lVW5peCJdID0gdmFsdWU7</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICBpbnRlcm5hbCBjbGFzcyBJVGhlbWluZ1NlcnZpY2UKICAgIHsKICAgIH0=</text>
+        <text encoding="base64">ICAgICBnZXQgPT4gRGF0ZVRpbWUuVHJ5UGFyc2UoX2h0dHBDb250ZXh0LlNlc3Npb24uR2V0U3RyaW5nKCJHcmFjZVBlcmlvZEVuZERhdGUiKSwgb3V0IHZhciByZXN1bHQpID8gcmVzdWx0OiAoRGF0ZVRpbWU/KW51bGw7CiAgICAgICAgICAgIHNldCA9PiBfaHR0cENvbnRleHQuU2Vzc2lvbi5TZXRTdHJpbmcoIkdyYWNlUGVyaW9kRW5kRGF0ZSIsIHZhbHVlLlRvU3RyaW5nKCkpOw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3Nob3BTZXJ2aWNlID0gUmVxdWVzdC5SZXF1ZXN0Q29udGV4dC5HZXRXb3JrQ29udGV4dCgpLlJlc29sdmU8SVNob3BTZXJ2aWNlPigpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGdldCA9PiAoRGF0ZVRpbWU/KV9odHRwQ29udGV4dC5TZXNzaW9uWyJUcmlhbEVuZERhdGUiXTsKICAgICAgICAgICAgc2V0ID0+IF9odHRwQ29udGV4dC5TZXNzaW9uWyJUcmlhbEVuZERhdGUiXSA9IHZhbHVlOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgICAgIHByb3RlY3RlZCBJVGhlbWVSZW5kZXJlciBUaGVtZVJlbmRlcmVyIHsgZ2V0OyBwcml2YXRlIHNldDsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTZXR0aW5ncwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChzaG9wLlRyYWNrZXIgIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgVHJhY2tlciA9IFJlcXVlc3RUcmFja2VyLk1hcChzaG9wLlRyYWNrZXIpOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBJUHJvZHVjdFNldHRpbmdzIFByb2R1Y3RTZXR0aW5ncyA9PiBSZXF1ZXN0LlJlcXVlc3RDb250ZXh0LkdldFdvcmtDb250ZXh0KCkuUmVzb2x2ZTxJUHJvZHVjdFNldHRpbmdzPigpOwoKICAgICAgICAvLyBTZXJ2aWNlcwogICAgICAgIHB1YmxpYyBJVGhlbWluZ1NlcnZpY2UgVGhlbWluZ1NlcnZpY2UgPT4gUmVxdWVzdC5SZXF1ZXN0Q29udGV4dC5HZXRXb3JrQ29udGV4dCgpLlJlc29sdmU8SVRoZW1pbmdTZXJ2aWNlPigpOwogICAgICAgIHB1YmxpYyBJT3JkZXJTZXJ2aWNlIE9yZGVyU2VydmljZSA9PiBSZXF1ZXN0LlJlcXVlc3RDb250ZXh0LkdldFdvcmtDb250ZXh0KCkuUmVzb2x2ZTxJT3JkZXJTZXJ2aWNlPigpOwoKICAgICAgICBwdWJsaWMgSUdvb2dsZU1lcmNoYW50U2VydmljZSBHb29nbGVNZXJjaGFudFNlcnZpY2UgPT4gUmVxdWVzdC5SZXF1ZXN0Q29udGV4dC5HZXRXb3JrQ29udGV4dCgpLlJlc29sdmU8SUdvb2dsZU1lcmNoYW50U2VydmljZT4oKTsKCiAgICAgICAgcHVibGljIElIZWFwU2VydmljZSBIZWFwU2VydmljZSA9PiBSZXF1ZXN0LlJlcXVlc3RDb250ZXh0LkdldFdvcmtDb250ZXh0KCkuUmVzb2x2ZTxJSGVhcFNlcnZpY2U+KCk7CgoKICAgICAgICBwdWJsaWMgSVNob3BTZXJ2aWNlIFNob3BTZXJ2aWNlID0+IFJlcXVlc3QuUmVxdWVzdENvbnRleHQuR2V0V29ya0NvbnRleHQoKS5SZXNvbHZlPElTaG9wU2VydmljZT4oKTsKICAgICAgICAKCiAgICAgICAgcHVibGljIElDb3VudHJ5U2VydmljZSBDb3VudHJ5U2VydmljZSA9PiBSZXF1ZXN0LlJlcXVlc3RDb250ZXh0LkdldFdvcmtDb250ZXh0KCkuUmVzb2x2ZTxJQ291bnRyeVNlcnZpY2U+KCk7Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNpbmcgU2hvcEVudGl0eSA9IERyYWNobWEuQ29yZS5Eb21haW5zLlNob3BzLlNob3A7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>nameof(ShopLogo)]</text>
+        <text>Constants.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJTW9uZ29Db2xsZWN0aW9uXD4=</text>
