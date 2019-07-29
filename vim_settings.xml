@@ -45,6 +45,7 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/StoreBuilderAttribute.cs" timestamp="1564371868358" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/AmazonWrappers/IAmazonS3Actions.cs" timestamp="1564385024076" />
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Models/ThemeDrop/StoreDrop.cs" timestamp="1564394918458" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/GoogleWrappers/IGoogleWebFonts.cs" timestamp="1564385112648">
         <mark key="'" line="179" column="26" />
         <mark key="[" line="206" column="24" />
@@ -70,12 +71,12 @@
         <mark key="." line="8" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7A1988E1-B30A-4B31-A426-F13C1858A2BE/42/4d4c5321/AmazonClientFactoryExtensions.cs" timestamp="1564365814280" />
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/ThemeRenderer.cs" timestamp="1564394624378">
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/ThemeRenderer.cs" timestamp="1564394900064">
         <mark key="'" line="811" column="81" />
-        <mark key="[" line="925" column="16" />
-        <mark key="]" line="925" column="16" />
-        <mark key="." line="925" column="16" />
-        <mark key="^" line="925" column="28" />
+        <mark key="[" line="1078" column="32" />
+        <mark key="]" line="1078" column="32" />
+        <mark key="." line="1078" column="32" />
+        <mark key="^" line="1077" column="24" />
       </file>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Infrastructures/Security/IdentityExtensions.cs" timestamp="1564382530711">
         <mark key="[" line="237" column="61" />
@@ -250,8 +251,8 @@
       <jump line="809" column="81" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/ThemeRenderer.cs" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>HttpContext.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNob3BBbmFseXRpY3MgPSBfc2hvcFNlcnZpY2UuR2V0U2hvcEFuYWx5dGljcyhTZWxsZXIuSWQpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsK</text>
@@ -281,7 +282,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>EnvironmentHelper</text>
+        <text>_shopService.GetShopAnalytics(Seller.Id);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJTW9uZ29Db2xsZWN0aW9uXD4=</text>
