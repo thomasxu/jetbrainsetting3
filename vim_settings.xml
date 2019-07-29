@@ -18,6 +18,7 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Controllers/CartController.cs" timestamp="1564372724254" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" timestamp="1564378392624" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Controllers/AdminControllerBase.cs" timestamp="1564379173873" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/GlobalIndexer/Selz.Search.GlobalIndexer/Tasks/ShopSyncTask.cs" timestamp="1564390656916" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1564380656372">
         <mark key="'" line="80" column="8" />
         <mark key="[" line="75" column="0" />
@@ -62,12 +63,12 @@
         <mark key="." line="8" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7A1988E1-B30A-4B31-A426-F13C1858A2BE/42/4d4c5321/AmazonClientFactoryExtensions.cs" timestamp="1564365814280" />
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/ThemeRenderer.cs" timestamp="1564384985508">
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/ThemeRenderer.cs" timestamp="1564390679971">
         <mark key="'" line="1273" column="46" />
-        <mark key="[" line="153" column="12" />
-        <mark key="]" line="153" column="25" />
-        <mark key="^" line="153" column="25" />
-        <mark key="." line="153" column="25" />
+        <mark key="[" line="183" column="12" />
+        <mark key="]" line="184" column="0" />
+        <mark key="^" line="184" column="40" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Infrastructures/Security/IdentityExtensions.cs" timestamp="1564382530711">
         <mark key="[" line="237" column="61" />
@@ -115,7 +116,12 @@
         <mark key="." line="1239" column="35" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/DrachmaUrlHelper.cs" timestamp="1564378211456" />
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/CurrentUser.cs" timestamp="1564385176314" />
+      <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/CurrentUser.cs" timestamp="1564387225610">
+        <mark key="[" line="58" column="30" />
+        <mark key="]" line="58" column="50" />
+        <mark key="." line="58" column="50" />
+        <mark key="^" line="58" column="50" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="195" column="35" filename="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Services/Theming/Tags/BlockBase.cs" />
@@ -224,34 +230,34 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0cmluZyBJbWFnZUJ1Y2tldE5hbWUgPT4gX3MzT3B0aW9ucy5DdXJyZW50VmFsdWUuSW1hZ2VCdWNrZXROYW1lOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyID0gTnVsbExvZ2dlci5JbnN0YW5jZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXRpY0J1Y2tldCA9IF9hbWF6b25TMy5Vc2luZyhfczNPcHRpb25zLlN0YXRpY0J1Y2tldE5hbWUpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXRpY0J1Y2tldCA9IF9hbWF6b25TMy5Vc2luZyhfczNPcHRpb25zLlN0YXRpY0J1Y2tldE5hbWUpOwogICAgICAgICAgICB2YXIgbWV0YURhdGEgPSBzdGF0aWNCdWNrZXQuR2V0SXRlbU1ldGFkYXRhKHMzS2V5KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FtYXpvblMzLkdldE9iamVjdE1ldGFkYXRhQXN5bmMoKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXRpY0J1Y2tldCA9IF9hbWF6b25TMy5Vc2luZyhfczNPcHRpb25zLlN0YXRpY0J1Y2tldE5hbWUpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgR29vZ2xlV2ViRm9udHMoCiAgICAgICAgICAgIElPcHRpb25zPFMzT3B0aW9uPiBzM09wdGlvbnMsIAogICAgICAgICAgICBJT3B0aW9uczxHb29nbGVPcHRpb25zPiBnb29nbGVPcHRpb25zLAogICAgICAgICAgICBJQW1hem9uUzMgYW1hem9uUzMsCiAgICAgICAgICAgIElFbnZpcm9ubWVudEhlbHBlciBlbnZIZWxwZXIKICAgICAgICAgICAgCiAgICAgICAgICAgIC8vIElNZW1vcnlDYWNoZUNsaWVudCBtZW1vcnlDYWNoZUNsaWVudAogICAgICAgICAgICApCiAgICAgICAgeyAgICAgICAgICAgIAogICAgICAgICAgICBfZ29vZ2xlT3B0aW9ucyA9IGdvb2dsZU9wdGlvbnMuQ3VycmVudFZhbHVlOwogICAgICAgICAgICBfczNPcHRpb25zID0gczNPcHRpb25zOwogICAgICAgICAgICBfYW1hem9uUzMgPSBhbWF6b25TMzsKICAgICAgICAgICAgX2VudkhlbHBlciA9IGVudkhlbHBlcjsKICAgICAgICAgICAgLy8gX21lbW9yeUNhY2hlQ2xpZW50ID0gbWVtb3J5Q2FjaGVDbGllbnQ7CiAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXRpY0J1Y2tldCA9IF9hbWF6b25TMy5Vc2luZyhfczNPcHRpb25zLlN0YXRpY0J1Y2tldE5hbWUpOwogICAgICAgICAgICB2YXIgbWV0YURhdGEgPSBzdGF0aWNCdWNrZXQuR2V0SXRlbU1ldGFkYXRhKHMzS2V5KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2FtYXpvblMzLkdldE9iamVjdE1ldGFkYXRhQXN5bmMoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXRpY0J1Y2tldCA9IF9hbWF6b25TMy5Vc2luZyhfczNPcHRpb25zLlN0YXRpY0J1Y2tldE5hbWUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>await</text>
+        <text>HttpContext.Current.Request.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJTW9uZ29Db2xsZWN0aW9uXD4=</text>
