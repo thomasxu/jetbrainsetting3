@@ -19,9 +19,6 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Pages/ContentBlock.cs" timestamp="1564458002246" />
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Blogs/BlogPostSummary.cs" timestamp="1564460671600" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Settings/ISiteSettings.cs" timestamp="1564449681607" />
-      <file name="C:/dev/git/selz/UI.Shop/src/Selz.Shop.Core/Helpers/Bundles.cs" timestamp="1564402630408">
-        <mark key="[" line="79" column="13" />
-      </file>
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Pages/Page.cs" timestamp="1564463213506">
         <mark key="'" line="79" column="29" />
         <mark key="[" line="6" column="10" />
@@ -31,6 +28,7 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/ProductDrop.cs" timestamp="1564465284635" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Constants.cs" timestamp="1564464497180" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1564449814940" />
+      <file name="C:/dev/git/experiment_project/Swagger/WebApplication2/WebApplication2/Program.cs" timestamp="1564467801555" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Pages/ContentBlock.cs" timestamp="1564456955464" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/PostsController.cs" timestamp="1564462315670">
         <mark key="[" line="6" column="0" />
@@ -62,6 +60,7 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Constants.cs" timestamp="1564460061015" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1564459924979" />
+      <file name="C:/dev/git/experiment_project/Swagger/WebApplication2/WebApplication2/Startup.cs" timestamp="1564467991708" />
       <file name="C:/dev/git/selz/UI.Shop/src/Selz.UI.Shop/Models/ThemeDrop/BlogDrop.cs" timestamp="1564391273121">
         <mark key="[" line="29" column="27" />
         <mark key="]" line="29" column="27" />
@@ -79,6 +78,7 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/HomeController.cs" timestamp="1564464749091" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/ImagePathExtension.cs" timestamp="1564457040371" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Pages/PageContentExtensions.cs" timestamp="1564463954869" />
+      <file name="C:/dev/git/experiment_project/Swagger/WebApplication2/WebApplication2/appsettings.Development.json" timestamp="1564467789493" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_Disqus/Models/DisqusViewModel.cs" timestamp="1564462195034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -93,8 +93,10 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Pages/ContentBlockGroup.cs" timestamp="1564458020619" />
-      <file name="/Dummy.txt" timestamp="1564463769959">
+      <file name="/Dummy.txt" timestamp="1564468030921">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Tagging/Tag.cs" timestamp="1564461009788">
         <mark key="[" line="0" column="0" />
@@ -108,7 +110,7 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/Blog/BlogPost.cs" timestamp="1564458468813" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1564465757204">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1564468331288">
         <mark key="[" line="280" column="57" />
         <mark key="]" line="272" column="32" />
         <mark key="^" line="272" column="32" />
@@ -259,7 +261,7 @@
         <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkRvbWFpbnMuQmxvZzsK</text>
       </register>
       <register name="-" type="4">
-        <text>Page.</text>
+        <text>catalogs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJTW9uZ29Db2xsZWN0aW9uXD4=</text>
