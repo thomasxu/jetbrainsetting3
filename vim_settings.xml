@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Drachma.Web.csproj" timestamp="1564537837359">
@@ -8,9 +8,7 @@
         <mark key="]" line="20" column="22" />
         <mark key="." line="20" column="22" />
       </file>
-      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/Tests/RepositoryTests.cs" timestamp="1564560760513" />
-      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/Pagination/SlicedList/SlicedListOptions.cs" timestamp="1564560179280" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Selz.Shops.Api.csproj" timestamp="1564541588523" />
+      <file name="C:/dev/git/selz/fluid/Fluid/DefaultFluidParser.cs" timestamp="1564624850839" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Tags/FormBlock.cs" timestamp="1564472688247">
         <mark key="[" line="54" column="38" />
         <mark key="]" line="54" column="39" />
@@ -22,11 +20,15 @@
         <mark key="." line="12" column="53" />
         <mark key="^" line="12" column="53" />
       </file>
+      <file name="C:/dev/git/selz/fluid/Fluid.Tests/CaseStatementTests.cs" timestamp="1564625299478">
+        <mark key="[" line="48" column="129" />
+        <mark key="]" line="48" column="129" />
+        <mark key="." line="47" column="18" />
+        <mark key="^" line="47" column="18" />
+      </file>
       <file name="/Dummy.cs" timestamp="1564543116602">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/FluidRendering.cs" timestamp="1564550061226" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Constants.cs" timestamp="1564537310393" />
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/Base/RepositoryFixture.cs" timestamp="1564569518622">
         <mark key="[" line="92" column="9" />
         <mark key="]" line="93" column="61" />
@@ -36,7 +38,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A9F45899-67B6-4E56-8D89-3BC5894C4FEF/64/9dbe9a0a/EnvironmentVariablesExtensions.cs" timestamp="1564567380185">
         <mark key="[" line="33" column="146" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Drachma.Tests.csproj" timestamp="1564541806640" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1564543585765">
         <mark key="[" line="767" column="13" />
         <mark key="]" line="767" column="13" />
@@ -49,7 +50,6 @@
         <mark key="^" line="47" column="6" />
         <mark key="." line="47" column="6" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/AffiliateServiceTest.cs" timestamp="1564537394032" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Helpers/TestHelper.cs" timestamp="1564528652123">
         <mark key="[" line="90" column="16" />
         <mark key="]" line="90" column="16" />
@@ -65,7 +65,9 @@
         <mark key="]" line="2710" column="48" />
         <mark key="." line="2710" column="48" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CDNHelper.cs" timestamp="1564543836424" />
+      <file name="C:/dev/git/selz/fluid/Fluid/Ast/CaseStatement.cs" timestamp="1564624746540">
+        <mark key="[" line="51" column="16" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1564462986784">
         <mark key="[" line="35" column="10" />
         <mark key="]" line="35" column="10" />
@@ -97,7 +99,6 @@
         <mark key="[" line="5" column="70" />
         <mark key="." line="5" column="110" />
       </file>
-      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/Pagination/PagedList/PagedList.cs" timestamp="1564560101734" />
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Constants.cs" timestamp="1564460267748">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="6" />
@@ -219,34 +220,34 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm9ybUFyZ3VtZW50cy5SdWxlIHw9IFN0cmluZ0xpdGVyYWxBbGwgKyBQaXBlICsgRXhwcmVzc2lvbkxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgV2hlblN0YXRlbWVudChuZXcgTGlzdDxFeHByZXNzaW9uPiB7IEEgfSwgCiAgICAgICAgICAgICAgICAgICAgbmV3IExpc3Q8U3RhdGVtZW50PiB7IG5ldyBUZXh0U3RhdGVtZW50KG5ldyBTdHJpbmdTZWdtZW50KCJ4IikpLCBuZXcgVGV4dFN0YXRlbWVudChuZXcgU3RyaW5nU2VnbWVudCgieSIpKSB9KQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJ4dW5pdCIgVmVyc2lvbj0iMi40LjEiIC8+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">bmV3W10gewogICAgICAgICAgICAgICAgICAgIG5ldyBXaGVuU3RhdGVtZW50KG5ldyBMaXN0PEV4cHJlc3Npb24+IHsgQSB9LCAKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IExpc3Q8U3RhdGVtZW50PiB7IG5ldyBUZXh0U3RhdGVtZW50KG5ldyBTdHJpbmdTZWdtZW50KCJ4IikpLCBuZXcgVGV4dFN0YXRlbWVudChuZXcgU3RyaW5nU2VnbWVudCgieSIpKSB9KQogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2Vycm9ycy5BZGQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJ4dW5pdCIgVmVyc2lvbj0iMi40LjEiIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRW52aXJvbm1lbnQuR2V0RW52aXJvbm1lbnRWYXJpYWJsZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2Vycm9ycy5BZGQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVtcHR5ID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW52aXJvbm1lbnQuR2V0RW52aXJvbm1lbnRWYXJpYWJsZXMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVtcHR5ID0gIiI7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBUeXBlIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgRHJhY2htYS5UZXN0cy5FeHRlbnNpb25zOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRleHQgPT0gbnVsbCkK</text>
+        <text encoding="base64">dXNpbmcgRHJhY2htYS5UZXN0cy5FeHRlbnNpb25zOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Notification1</text>
