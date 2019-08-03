@@ -3,14 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1564818944745">
-        <mark key="[" line="629" column="11" />
-        <mark key="]" line="629" column="11" />
-        <mark key="^" line="632" column="77" />
-        <mark key="." line="629" column="11" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1564821059076">
+        <mark key="'" line="550" column="47" />
+        <mark key="[" line="343" column="9" />
+        <mark key="]" line="279" column="39" />
+        <mark key="^" line="279" column="39" />
+        <mark key="." line="279" column="39" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Startup.cs" timestamp="1564794555335">
         <mark key="'" line="74" column="13" />
+      </file>
+      <file name="/Selz.Sample.sln" timestamp="1564794923402">
+        <mark key="'" line="20" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Extensions/HealthChecksBuilderExtensions.cs" timestamp="1564821075126" />
+      <file name="/ItemMappings.cs" timestamp="1564806803571">
+        <mark key="'" line="131" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Program.cs" timestamp="1564794161196">
         <mark key="'" line="50" column="0" />
@@ -18,17 +26,18 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/40/b21ace16/MvcCoreServiceCollectionExtensions.cs" timestamp="1564793885186">
         <mark key="'" line="107" column="34" />
       </file>
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/thomas.cs" timestamp="1564809954431">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-      </file>
-      <file name="/Selz.Sample.sln" timestamp="1564794923402">
-        <mark key="'" line="20" column="0" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/thomas.cs" timestamp="1564821269870">
+        <mark key="[" line="83" column="8" />
+        <mark key="]" line="83" column="7" />
+        <mark key="^" line="83" column="7" />
+        <mark key="." line="83" column="7" />
       </file>
       <file name="/ItemsController.cs" timestamp="1564808512403">
         <mark key="[" line="457" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Domains/Item.cs" timestamp="1564821457204">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="40" column="39" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/89E901F5-02EC-4DB4-BBC5-F7BFEA24CDDA/61/29cef35e/IWebHostBuilder.cs" timestamp="1564794094155">
         <mark key="'" line="60" column="20" />
@@ -41,16 +50,6 @@
         <mark key="]" line="39" column="6" />
         <mark key="." line="39" column="6" />
       </file>
-      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/HealthChecks/ElasticsearchHealthCheck.cs" timestamp="1564792901826">
-        <mark key="'" line="17" column="15" />
-        <mark key="[" line="64" column="16" />
-        <mark key="]" line="50" column="15" />
-        <mark key="." line="50" column="15" />
-        <mark key="^" line="50" column="15" />
-      </file>
-      <file name="/ItemMappings.cs" timestamp="1564806803571">
-        <mark key="'" line="131" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Services/ItemService.cs" timestamp="1564811290262">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -62,9 +61,9 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Mappings/ItemMappings.cs" timestamp="1564808462691" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Validation/ItemValidator.cs" timestamp="1564821657564" />
     </filemarks>
     <jumps>
-      <jump line="189" column="37" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" />
       <jump line="229" column="50" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" />
       <jump line="348" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B182083D-5048-4347-8DAC-3F04C9E7EB7F/c3/e1575b7b/HtmlSanitizer.cs" />
       <jump line="10" column="29" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/PageValidator.cs" />
@@ -164,10 +163,11 @@
       <jump line="20" column="0" filename="/Selz.Sample.sln" />
       <jump line="131" column="0" filename="/ItemMappings.cs" />
       <jump line="77" column="8" filename="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Services/ItemService.cs" />
+      <jump line="550" column="47" filename="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuTG9nRXJyb3IoInVuaGVhbHRoIiwgZSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBJdGVtIDogRW50aXR5LCBJVGVuYW50LCBJQ3JlYXRhYmxlLCBJVXBkYXRhYmxlCiAgICB7CiAgICAgICAgcHVibGljIGludCBTaG9wSWQgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IC8vIE5PVEU6IHRoZSByb3V0ZSAiLyRpdGVtJHMvc2xpY2VkLWxpc3QiIHdhcyBhZGRlZCBqdXN0IHRvIGF2b2lkIGNvbmZsaWN0IHdpdGggb3RoZXIgc2FtcGxlIGZpbHRlcmluZyBlbmRwb2ludHMKICAgICAgICAgICAgLy8gSW4gYSByZWFsIGFwcGxpY2F0aW9uIHdlIHdvdWxkIG5vcm1hbGx5IGhhdmUgb25seSAxIGZpbHRlcmluZyBlbmRwb2ludCBhbmQgaXQgc2hvdWxkIGJlIHRoZSByb290IGUuZzogIkdFVCAvJGl0ZW0kcz97ZmlsdGVyc30iCg==</text>
@@ -197,7 +197,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>sliced</text>
+        <text>$Prop$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXJtXD4=</text>
