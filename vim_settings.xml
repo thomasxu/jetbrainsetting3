@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1564811925828">
-        <mark key="[" line="55" column="9" />
-        <mark key="]" line="30" column="50" />
-        <mark key="^" line="30" column="50" />
-        <mark key="." line="30" column="50" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1564818944745">
+        <mark key="[" line="629" column="11" />
+        <mark key="]" line="629" column="11" />
+        <mark key="^" line="632" column="77" />
+        <mark key="." line="629" column="11" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Startup.cs" timestamp="1564794555335">
         <mark key="'" line="74" column="13" />
@@ -169,35 +169,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuTG9nRXJyb3IoInVuaGVhbHRoIiwgZSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gJGRvbWFpbiQuVG8kRG9tYWluJGVzcG9uc2UoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IC8vIE5PVEU6IHRoZSByb3V0ZSAiLyRpdGVtJHMvc2xpY2VkLWxpc3QiIHdhcyBhZGRlZCBqdXN0IHRvIGF2b2lkIGNvbmZsaWN0IHdpdGggb3RoZXIgc2FtcGxlIGZpbHRlcmluZyBlbmRwb2ludHMKICAgICAgICAgICAgLy8gSW4gYSByZWFsIGFwcGxpY2F0aW9uIHdlIHdvdWxkIG5vcm1hbGx5IGhhdmUgb25seSAxIGZpbHRlcmluZyBlbmRwb2ludCBhbmQgaXQgc2hvdWxkIGJlIHRoZSByb290IGUuZzogIkdFVCAvJGl0ZW0kcz97ZmlsdGVyc30iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gRGVsZXRlIEkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gJGRvbWFpbiQuVG8kRG9tYWluJGVzcG9uc2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgXyRkb21haW4kZXBvc2l0b3J5LkRlbGV0ZUVudGl0eUFzeW5jKGl0ZW0sIGFjdG9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLy8gRGVsZXRlIEkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgXyRkb21haW4kZXBvc2l0b3J5LkRlbGV0ZUVudGl0eUFzeW5jKGl0ZW0sIGFjdG9yKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxJTGlzdDwkbWFpbiQ+PiBGaW5kQnlJZHMoSUxpc3Q8c3RyaW5nPiBpZHMpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBGaW5kIGl0ZW1zIGJ5IGlkcwogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJpZHMiPkxpc3Qgb2YgaXRlbSBpZHM8L3BhcmFtPgogICAgICAgIC8vLyA8cmV0dXJucz5MaXN0IG9mIGl0ZW1zPC9yZXR1cm5zPgogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPElMaXN0PEl0ZW0+PiBGaW5kQnlJZHMoSUxpc3Q8c3RyaW5nPiBpZHMpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gYXdhaXQgX2l0ZW1SZXBvc2l0b3J5LkZpbmRBc3luYyhjID0+IGlkcy5Ub09iamVjdElkTGlzdCgpLkNvbnRhaW5zKGMuSWQpKTsKICAgICAgICB9</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">bmV3IFNlcnZpY2VEZXNjcmlwdG9yKHR5cGVvZihUKSwgc2VydmljZVByb3ZpZGVyID0+IG5ldyBDbGllbnRGYWN0b3J5KHR5cGVvZihUKSwgb3B0aW9ucykuQ3JlYXRlU2VydmljZUNsaWVudCkpCiAgICAgIG5ldyBTZXJ2aWNlRGVzY3JpcHRvcih0eXBlb2YoVCksIG5ldyBDbGllbnRGYWN0b3J5KHR5cGVvZihUKSwgb3B0aW9ucykuQ3JlYXRlU2VydmljZUNsaWVudCgpKQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEFXU1hSYXlSZWNvcmRlci5Jbml0aWFsaXplSW5zdGFuY2UoQ29uZmlndXJhdGkK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsK</text>
-      </register>
       <register name="-" type="4">
-        <text>Item</text>
+        <text>sliced</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXJtXD4=</text>
