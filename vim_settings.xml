@@ -10,15 +10,15 @@
         <mark key="." line="25" column="1" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1564875635546">
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="54" column="22" />
-        <mark key="." line="50" column="12" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1564878332941">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Startup.cs" timestamp="1564794555335">
         <mark key="'" line="74" column="13" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1D4DCEB2-4309-4644-8BB7-4FA6AC66E0F7/0/ITypeConverter.cs" timestamp="1564877449518" />
       <file name="/Selz.Sample.sln" timestamp="1564794923402">
         <mark key="'" line="20" column="0" />
       </file>
@@ -38,6 +38,7 @@
       <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Program.cs" timestamp="1564794161196">
         <mark key="'" line="50" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/AutoMapper/ItemProfile.cs" timestamp="1564879151272" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/40/b21ace16/MvcCoreServiceCollectionExtensions.cs" timestamp="1564793885186">
         <mark key="'" line="107" column="34" />
       </file>
@@ -51,6 +52,7 @@
         <mark key="[" line="457" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Core/Client/src/Selz.Core.Client/Extensions/RefitExtensions.cs" timestamp="1564874639168" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api.Models/ItemResponse.cs" timestamp="1564879084486" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/89E901F5-02EC-4DB4-BBC5-F7BFEA24CDDA/61/29cef35e/IWebHostBuilder.cs" timestamp="1564794094155">
         <mark key="'" line="60" column="20" />
       </file>
@@ -186,33 +188,33 @@
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBJdGVtIDogRW50aXR5LCBJVGVuYW50LCBJQ3JlYXRhYmxlLCBJVXBkYXRhYmxlCiAgICB7CiAgICAgICAgcHVibGljIGludCBTaG9wSWQgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX21hcHBlci5NZXJnZUludG88SXRlbT4ob3JpZ2luYWxJdGVtLCByZXF1ZXN0KTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX21hcHBlci5NYXA8SXRlbT4oaXRlbSkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgcHVibGljIGNsYXNzIEl0ZW1QYWdlZExpc3RSZXF1ZXN0OiAKICAgIHsKICAgICAgICAKICAgIH0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>public ItemPagedListOptions1(int pageSize, int pageNumber) : base(pageSize, pageNumber)
         {
         }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGlmIChvcHRpb25zLklzUHVibGlzaGVkICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGZpbHRlciA9IGJ1aWxkZXIuQW5kKGZpbHRlciwgYnVpbGRlci5FcShpID0+IGkuSXNQdWJsaXNoZWQsIG9wdGlvbnMuSXNQdWJsaXNoZWQpKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKG9wdGlvbnMuVHlwZSAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBmaWx0ZXIgPSBidWlsZGVyLkFuZChmaWx0ZXIsIGJ1aWxkZXIuRXEoaSA9PiBpLlR5cGUsIG9wdGlvbnMuVHlwZSkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAob3B0aW9ucy5TdGF0dXNMaXN0ICE9IG51bGwgJiYgb3B0aW9ucy5TdGF0dXNMaXN0LkFueSgpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBmaWx0ZXIgPSBidWlsZGVyLkFuZChmaWx0ZXIsIGJ1aWxkZXIuSW4oaSA9PiBpLlN0YXR1cywgb3B0aW9ucy5TdGF0dXNMaXN0KSk7CiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IC8vIE5PVEU6IHRoZSByb3V0ZSAiLyRpdGVtJHMvc2xpY2VkLWxpc3QiIHdhcyBhZGRlZCBqdXN0IHRvIGF2b2lkIGNvbmZsaWN0IHdpdGggb3RoZXIgc2FtcGxlIGZpbHRlcmluZyBlbmRwb2ludHMKICAgICAgICAgICAgLy8gSW4gYSByZWFsIGFwcGxpY2F0aW9uIHdlIHdvdWxkIG5vcm1hbGx5IGhhdmUgb25seSAxIGZpbHRlcmluZyBlbmRwb2ludCBhbmQgaXQgc2hvdWxkIGJlIHRoZSByb290IGUuZzogIkdFVCAvJGl0ZW0kcz97ZmlsdGVyc30iCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gJGRvbWFpbiQuVG8kRG9tYWluJGVzcG9uc2UoKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gRGVsZXRlIEkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgXyRkb21haW4kZXBvc2l0b3J5LkRlbGV0ZUVudGl0eUFzeW5jKGl0ZW0sIGFjdG9yKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxJTGlzdDwkbWFpbiQ+PiBGaW5kQnlJZHMoSUxpc3Q8c3RyaW5nPiBpZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gRGVsZXRlIEkK</text>
       </register>
       <register name="-" type="4">
         <text>override</text>
