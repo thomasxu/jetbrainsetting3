@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Blog/BlogPostEditModel.cs" timestamp="1564965846624" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Blog/BlogPostEditModel.cs" timestamp="1564975353465" />
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Tags/Tag.cs" timestamp="1564970470708">
         <mark key="[" line="11" column="47" />
         <mark key="]" line="11" column="59" />
@@ -49,9 +49,10 @@
         <mark key="^" line="18" column="38" />
       </file>
       <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common/Selz.Core.Common.csproj" timestamp="1564965332574" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1564970277501">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1564974825003">
+        <mark key="'" line="386" column="29" />
+        <mark key="[" line="379" column="0" />
+        <mark key="]" line="425" column="9" />
         <mark key="." line="36" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Constants.cs" timestamp="1564970474312">
@@ -69,7 +70,7 @@
         <mark key="]" line="22" column="9" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/ApiBaseController.cs" timestamp="1564959597385" />
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/ShopImageSize.cs" timestamp="1564969061991">
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/ShopImageSize.cs" timestamp="1564974044807">
         <mark key="'" line="2" column="18" />
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="21" />
@@ -79,12 +80,12 @@
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/ModelBinders/CustomBodyModelBinder.cs" timestamp="1564959882701" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Shared/Selz.Api.Public.Core/ObjectIdRouteConstraint.cs" timestamp="1564959623876" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Filters/BaseControllerFilters.cs" timestamp="1564959919187" />
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" timestamp="1564970612279">
-        <mark key="'" line="8" column="23" />
-        <mark key="[" line="132" column="9" />
-        <mark key="]" line="133" column="7" />
-        <mark key="^" line="133" column="7" />
-        <mark key="." line="133" column="7" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" timestamp="1564974858524">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="92" column="9" />
+        <mark key="]" line="93" column="7" />
+        <mark key="^" line="93" column="7" />
+        <mark key="." line="93" column="7" />
       </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api.FunctionalTests/Tests/ItemScenarios.cs" timestamp="1564921365489">
         <mark key="[" line="805" column="27" />
@@ -108,6 +109,9 @@
         <mark key="^" line="60" column="43" />
         <mark key="." line="60" column="43" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ImageViewModel.cs" timestamp="1564975090125">
+        <mark key="'" line="123" column="0" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/HomeController.cs" timestamp="1564971416871">
         <mark key="[" line="248" column="43" />
       </file>
@@ -116,57 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="22" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/PageContentsController.cs" />
-      <jump line="23" column="76" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/PageContents/PageContentsDataFactory.cs" />
-      <jump line="248" column="17" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7208242E-8171-474E-A12D-B9D506D0C43F/6/Attributes.cs" />
-      <jump line="54" column="15" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Pages/PagesScenarios.cs" />
-      <jump line="14" column="35" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/ITagsApi.cs" />
-      <jump line="1695" column="39" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/52D57F27-21D6-403B-B269-6DF28E1EBA0A/7f/21251757/Enumerable.cs" />
-      <jump line="14" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Tags/TagService.cs" />
-      <jump line="2" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Tags/TagService.cs" />
-      <jump line="62" column="56" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Tags/TagService.cs" />
-      <jump line="77" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingServiceTest.cs" />
-      <jump line="78" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingServiceTest.cs" />
-      <jump line="31" column="42" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingServiceTest.cs" />
-      <jump line="523" column="52" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Ajax/Controllers/GoogleCampaignController.cs" />
-      <jump line="14" column="17" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Search/SearchDependencyFactory.cs" />
-      <jump line="19" column="30" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IShopsApi.cs" />
-      <jump line="43" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" />
-      <jump line="121" column="7" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" />
-      <jump line="125" column="26" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" />
-      <jump line="54" column="15" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" />
-      <jump line="35" column="15" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" />
-      <jump line="67" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TagsController.cs" />
-      <jump line="39" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPageContentApi.cs" />
-      <jump line="30" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IBlogPostsApi.cs" />
-      <jump line="9" column="70" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPageContentApi.cs" />
-      <jump line="27" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Client/IPageApi.cs" />
-      <jump line="137" column="46" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Themes/ThemingService.cs" />
-      <jump line="21" column="17" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/523208DF-A789-4126-9282-D4D8C2E1CFAC/13/ApiVersionAttribute.cs" />
-      <jump line="119" column="8" filename="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Mappings/ItemMappings.cs" />
-      <jump line="121" column="9" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Blog/BlogService.cs" />
-      <jump line="14" column="76" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/BlogPosts/BlogPostSearchMapper.cs" />
-      <jump line="109" column="45" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Pages/PageService.cs" />
-      <jump line="40" column="69" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Pages/PageServiceTest.cs" />
-      <jump line="94" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3F19B331-4C9B-4A59-9058-21B431A7B7C9/8e/7248c247/MongoRepository`2.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
-      <jump line="70" column="4" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/BaseController.cs" />
-      <jump line="52" column="62" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/BaseController.cs" />
-      <jump line="97" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" />
-      <jump line="101" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" />
-      <jump line="108" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" />
-      <jump line="98" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" />
-      <jump line="100" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" />
-      <jump line="107" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" />
-      <jump line="109" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" />
-      <jump line="112" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" />
-      <jump line="118" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" />
-      <jump line="124" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" />
-      <jump line="73" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" />
-      <jump line="2128" column="16" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
-      <jump line="1182" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
-      <jump line="228" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
-      <jump line="184" column="22" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
       <jump line="654" column="11" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
       <jump line="222" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
       <jump line="1148" column="27" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
@@ -216,49 +169,100 @@
       <jump line="2" column="18" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/ShopImageSize.cs" />
       <jump line="15" column="33" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/ShopImage.cs" />
       <jump line="8" column="23" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="23" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="1144" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="1138" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="1135" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="388" column="38" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="359" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="357" column="49" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="355" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="354" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="352" column="49" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="350" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="349" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="345" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="41" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="55" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="62" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="45" column="7" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="59" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="48" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="5" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="15" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="18" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="23" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="29" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="53" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="78" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="99" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="60" column="26" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="35" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="40" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="96" column="29" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="144" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="89" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="83" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="80" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="77" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="71" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="68" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="65" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="58" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="426" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="439" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="433" column="29" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="427" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="88" column="29" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="386" column="29" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
+      <jump line="52" column="29" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="93" column="7" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="90" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
+      <jump line="118" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ImageViewModel.cs" />
+      <jump line="123" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ImageViewModel.cs" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEZvcmNlIGEgc3RyaW5nIFVSTCB0byBiZSBIVFRQUwogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJpbnB1dCI+PC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+PC9yZXR1cm5zPgogICAgICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIFRvU2VjdXJlVXJsKHRoaXMgc3RyaW5nIGlucHV0KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuICFzdHJpbmcuSXNOdWxsT3JFbXB0eShpbnB1dCkgPyBpbnB1dC5SZXBsYWNlKCJodHRwOiIsICJodHRwczoiKSA6IG51bGw7CiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>ShopImageSizeType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW1hZ2UgPSBzdHJpbmcuRm9ybWF0KGJhc2VVcmwsICI3LXN0ZXBzLXRvLXN0YXJ0LXlvdXItb25saW5lLWNsb3RoZXMtc2hvcEAxeC5qcGciKSwK</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIENvbnZlcnQgSFRNTCBpbnRvIGEgdGV4dCBzdHJpbmcKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iaHRtbCI+PC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InRyaW1OZXdMaW5lcyI+UmVtb3ZlIG5ldyBsaW5lcz88L3BhcmFtPgogICAgICAgIC8vLyA8cmV0dXJucz48L3JldHVybnM+CiAgICAgICAgcHVibGljIHN0YXRpYyBzdHJpbmcgU3RyaXBIdG1sKHRoaXMgc3RyaW5nIGh0bWwsIGJvb2wgdHJpbU5ld0xpbmVzID0gZmFsc2UpCiAgICAgICAgewogICAgICAgICAgICBpZiAoc3RyaW5nLklzTnVsbE9yRW1wdHkoaHRtbCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBzdHJpbmcuRW1wdHk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIERlZmF1bHQgdG8gdXNlIEVudmlyb25tZW50IG5ldyBsaW5lCiAgICAgICAgICAgIHZhciBuZXdMaW5lID0gU3lzdGVtLkVudmlyb25tZW50Lk5ld0xpbmUgKyBTeXN0ZW0uRW52aXJvbm1lbnQuTmV3TGluZTsKICAgICAgICAgICAgaWYgKHRyaW1OZXdMaW5lcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmV3TGluZSA9ICIgIjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy8gQ3JlYXRlIG5ldyBIVE1MIGRvY3VtZW50CiAgICAgICAgICAgIHZhciBodG1sRG9jID0gbmV3IEh0bWxEb2N1bWVudCgpOwoKICAgICAgICAgICAgLy8gTG9hZCBjb250ZW50IGludG8gZG9jdW1lbnQKICAgICAgICAgICAgaHRtbERvYy5Mb2FkSHRtbChodG1sKTsKCiAgICAgICAgICAgIC8vIEJhaWwgaWYgZXJyb3JzCiAgICAgICAgICAgIGlmIChodG1sRG9jLlBhcnNlRXJyb3JzLkFueSgpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gc3RyaW5nLkVtcHR5OwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBSZXBsYWNlIG11bHRpcGxlIGxpbmUgYnJlYWtzCiAgICAgICAgICAgIHZhciB0ZXh0ID0gUmVnZXguUmVwbGFjZShodG1sRG9jLkRvY3VtZW50Tm9kZS5Jbm5lclRleHQsIEAiKFxyXG4pezIsfSIsIG5ld0xpbmUpOwoKICAgICAgICAgICAgLy8gUmVwbGFjZSBhbnkgd2VpcmQgZW5jb2RlZCBIVE1MIGNyYXAgbGlrZSAmbmJzcDsgKGEgc3BhY2UpCiAgICAgICAgICAgIHRleHQgPSBXZWJVdGlsaXR5Lkh0bWxEZWNvZGUodGV4dCk7CgogICAgICAgICAgICAvLyBSZXBsYWNlIGRvdWJsZSBzcGFjZXMsIHRhYnMgZXRjCiAgICAgICAgICAgIGlmICh0cmltTmV3TGluZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRleHQgPSBSZWdleC5SZXBsYWNlKHRleHQsIEAiXHMrIiwgIiAiKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIHRleHQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEdldCB0aGUgZmlyc3Qgc2V2ZXJhbCB3b3JkcyBmcm9tIHRoZSBzdW1tYXJ5LgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgcHVibGljIHN0YXRpYyBzdHJpbmcgRmlyc3RXb3Jkcyh0aGlzIHN0cmluZyBpbnB1dCwgaW50IG51bWJlcldvcmRzKQogICAgICAgIHsKICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIE51bWJlciBvZiB3b3JkcyB3ZSBzdGlsbCB3YW50IHRvIGRpc3BsYXkuCiAgICAgICAgICAgICAgICB2YXIgd29yZHMgPSBudW1iZXJXb3JkczsKICAgICAgICAgICAgICAgIC8vIExvb3AgdGhyb3VnaCBlbnRpcmUgc3VtbWFyeS4KICAgICAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgaW5wdXQuTGVuZ3RoOyBpKyspCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgLy8gSW5jcmVtZW50IHdvcmRzIG9uIGEgc3BhY2UuCiAgICAgICAgICAgICAgICAgICAgaWYgKGlucHV0W2ldID09ICcgJykKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHdvcmRzLS07CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIC8vIElmIHdlIGhhdmUgbm8gbW9yZSB3b3JkcyB0byBkaXNwbGF5LCByZXR1cm4gdGhlIHN1YnN0cmluZy4KICAgICAgICAgICAgICAgICAgICBpZiAod29yZHMgPT0gMCkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBpbnB1dC5TdWJzdHJpbmcoMCwgaSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24pCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIExvZyB0aGUgZXJyb3IuCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHN0cmluZy5FbXB0eTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHN0YXRpYyByZWFkb25seSBQYWdlIEVycm9yUGFnZSA9IG5ldyBQYWdlIHsgSWQgPSBFcnJvclBhZ2VJZCwgTmFtZSA9ICJFcnJvciIgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW1hZ2UgPSBzdHJpbmcuRm9ybWF0KGJhc2VVcmwsICI3LXN0ZXBzLXRvLXN0YXJ0LXlvdXItb25saW5lLWNsb3RoZXMtc2hvcEAxeC5qcGciKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEdldCB0aGUgZmlyc3Qgc2V2ZXJhbCB3b3JkcyBmcm9tIHRoZSBzdW1tYXJ5LgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgcHVibGljIHN0YXRpYyBzdHJpbmcgRmlyc3RXb3Jkcyh0aGlzIHN0cmluZyBpbnB1dCwgaW50IG51bWJlcldvcmRzKQogICAgICAgIHsKICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIE51bWJlciBvZiB3b3JkcyB3ZSBzdGlsbCB3YW50IHRvIGRpc3BsYXkuCiAgICAgICAgICAgICAgICB2YXIgd29yZHMgPSBudW1iZXJXb3JkczsKICAgICAgICAgICAgICAgIC8vIExvb3AgdGhyb3VnaCBlbnRpcmUgc3VtbWFyeS4KICAgICAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgaW5wdXQuTGVuZ3RoOyBpKyspCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgLy8gSW5jcmVtZW50IHdvcmRzIG9uIGEgc3BhY2UuCiAgICAgICAgICAgICAgICAgICAgaWYgKGlucHV0W2ldID09ICcgJykKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHdvcmRzLS07CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIC8vIElmIHdlIGhhdmUgbm8gbW9yZSB3b3JkcyB0byBkaXNwbGF5LCByZXR1cm4gdGhlIHN1YnN0cmluZy4KICAgICAgICAgICAgICAgICAgICBpZiAod29yZHMgPT0gMCkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBpbnB1dC5TdWJzdHJpbmcoMCwgaSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24pCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIExvZyB0aGUgZXJyb3IuCiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHN0cmluZy5FbXB0eTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcHVibGljIGNvbnN0IHN0cmluZyBGZWF0dXJlZENhdGVnb3J5U2x1ZyA9ICJmZWF0dXJlZCI7CiAgICAgICAgICAgIC8vIHB1YmxpYyBjb25zdCBzdHJpbmcgQWxsQ2F0ZWdvcnlTbHVnID0gImFsbCI7CiAgICAgICAgICAgIC8vIHB1YmxpYyBzdGF0aWMgcmVhZG9ubHkgTGlzdDxzdHJpbmc+IENvcmVDYXRlZ29yaWVzID0gbmV3IExpc3Q8c3RyaW5nPgogICAgICAgICAgICAvLyB7CiAgICAgICAgICAgIC8vICAgICBBbGxDYXRlZ29yeVNsdWcsCiAgICAgICAgICAgIC8vICAgICBGZWF0dXJlZENhdGVnb3J5U2x1ZwogICAgICAgICAgICAvLyB9OwogICAgICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHN0YXRpYyByZWFkb25seSBQYWdlIEVycm9yUGFnZSA9IG5ldyBQYWdlIHsgSWQgPSBFcnJvclBhZ2VJZCwgTmFtZSA9ICJFcnJvciIgfTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ly8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBDb252ZXJ0IEhUTUwgaW50byBhIHRleHQgc3RyaW5nCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9Imh0bWwiPjwvcGFyYW0+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJ0cmltTmV3TGluZXMiPlJlbW92ZSBuZXcgbGluZXM/PC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+PC9yZXR1cm5zPgogICAgICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIFN0cmlwSHRtbCh0aGlzIHN0cmluZyBodG1sLCBib29sIHRyaW1OZXdMaW5lcyA9IGZhbHNlKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPckVtcHR5KGh0bWwpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gc3RyaW5nLkVtcHR5OwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBEZWZhdWx0IHRvIHVzZSBFbnZpcm9ubWVudCBuZXcgbGluZQogICAgICAgICAgICB2YXIgbmV3TGluZSA9IFN5c3RlbS5FbnZpcm9ubWVudC5OZXdMaW5lICsgU3lzdGVtLkVudmlyb25tZW50Lk5ld0xpbmU7CiAgICAgICAgICAgIGlmICh0cmltTmV3TGluZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5ld0xpbmUgPSAiICI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIENyZWF0ZSBuZXcgSFRNTCBkb2N1bWVudAogICAgICAgICAgICB2YXIgaHRtbERvYyA9IG5ldyBIdG1sRG9jdW1lbnQoKTsKCiAgICAgICAgICAgIC8vIExvYWQgY29udGVudCBpbnRvIGRvY3VtZW50CiAgICAgICAgICAgIGh0bWxEb2MuTG9hZEh0bWwoaHRtbCk7CgogICAgICAgICAgICAvLyBCYWlsIGlmIGVycm9ycwogICAgICAgICAgICBpZiAoaHRtbERvYy5QYXJzZUVycm9ycy5BbnkoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIHN0cmluZy5FbXB0eTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy8gUmVwbGFjZSBtdWx0aXBsZSBsaW5lIGJyZWFrcwogICAgICAgICAgICB2YXIgdGV4dCA9IFJlZ2V4LlJlcGxhY2UoaHRtbERvYy5Eb2N1bWVudE5vZGUuSW5uZXJUZXh0LCBAIihcclxuKXsyLH0iLCBuZXdMaW5lKTsKCiAgICAgICAgICAgIC8vIFJlcGxhY2UgYW55IHdlaXJkIGVuY29kZWQgSFRNTCBjcmFwIGxpa2UgJm5ic3A7IChhIHNwYWNlKQogICAgICAgICAgICB0ZXh0ID0gV2ViVXRpbGl0eS5IdG1sRGVjb2RlKHRleHQpOwoKICAgICAgICAgICAgLy8gUmVwbGFjZSBkb3VibGUgc3BhY2VzLCB0YWJzIGV0YwogICAgICAgICAgICBpZiAodHJpbU5ld0xpbmVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0ZXh0ID0gUmVnZXguUmVwbGFjZSh0ZXh0LCBAIlxzKyIsICIgIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiB0ZXh0OwogICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHN0YXRpYyByZWFkb25seSBJTGlzdDxPYmplY3RJZD4gRGVmYXVsdFBhZ2VJZHMgPSBuZXcgTGlzdDxPYmplY3RJZD4geyBIb21lUGFnZUlkLCBTZWFyY2hQYWdlSWQsIENhdGVnb3JpZXNQYWdlSWQsIEJsb2dQYWdlSWR9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcHVibGljIGNvbnN0IHN0cmluZyBGZWF0dXJlZENhdGVnb3J5U2x1ZyA9ICJmZWF0dXJlZCI7CiAgICAgICAgICAgIC8vIHB1YmxpYyBjb25zdCBzdHJpbmcgQWxsQ2F0ZWdvcnlTbHVnID0gImFsbCI7CiAgICAgICAgICAgIC8vIHB1YmxpYyBzdGF0aWMgcmVhZG9ubHkgTGlzdDxzdHJpbmc+IENvcmVDYXRlZ29yaWVzID0gbmV3IExpc3Q8c3RyaW5nPgogICAgICAgICAgICAvLyB7CiAgICAgICAgICAgIC8vICAgICBBbGxDYXRlZ29yeVNsdWcsCiAgICAgICAgICAgIC8vICAgICBGZWF0dXJlZENhdGVnb3J5U2x1ZwogICAgICAgICAgICAvLyB9OwogICAgICAgICAgICAvLwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGNvbnN0IHN0cmluZyBUYWdQYWdlUGF0aFByZWZpeCA9ICIvdGFnLyI7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBDb252ZXJ0IEhUTUwgaW50byBhIHRleHQgc3RyaW5nCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9Imh0bWwiPjwvcGFyYW0+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJ0cmltTmV3TGluZXMiPlJlbW92ZSBuZXcgbGluZXM/PC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+PC9yZXR1cm5zPgogICAgICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIFN0cmlwSHRtbCh0aGlzIHN0cmluZyBodG1sLCBib29sIHRyaW1OZXdMaW5lcyA9IGZhbHNlKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPckVtcHR5KGh0bWwpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gc3RyaW5nLkVtcHR5OwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBEZWZhdWx0IHRvIHVzZSBFbnZpcm9ubWVudCBuZXcgbGluZQogICAgICAgICAgICB2YXIgbmV3TGluZSA9IFN5c3RlbS5FbnZpcm9ubWVudC5OZXdMaW5lICsgU3lzdGVtLkVudmlyb25tZW50Lk5ld0xpbmU7CiAgICAgICAgICAgIGlmICh0cmltTmV3TGluZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5ld0xpbmUgPSAiICI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIENyZWF0ZSBuZXcgSFRNTCBkb2N1bWVudAogICAgICAgICAgICB2YXIgaHRtbERvYyA9IG5ldyBIdG1sRG9jdW1lbnQoKTsKCiAgICAgICAgICAgIC8vIExvYWQgY29udGVudCBpbnRvIGRvY3VtZW50CiAgICAgICAgICAgIGh0bWxEb2MuTG9hZEh0bWwoaHRtbCk7CgogICAgICAgICAgICAvLyBCYWlsIGlmIGVycm9ycwogICAgICAgICAgICBpZiAoaHRtbERvYy5QYXJzZUVycm9ycy5BbnkoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIHN0cmluZy5FbXB0eTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy8gUmVwbGFjZSBtdWx0aXBsZSBsaW5lIGJyZWFrcwogICAgICAgICAgICB2YXIgdGV4dCA9IFJlZ2V4LlJlcGxhY2UoaHRtbERvYy5Eb2N1bWVudE5vZGUuSW5uZXJUZXh0LCBAIihcclxuKXsyLH0iLCBuZXdMaW5lKTsKCiAgICAgICAgICAgIC8vIFJlcGxhY2UgYW55IHdlaXJkIGVuY29kZWQgSFRNTCBjcmFwIGxpa2UgJm5ic3A7IChhIHNwYWNlKQogICAgICAgICAgICB0ZXh0ID0gV2ViVXRpbGl0eS5IdG1sRGVjb2RlKHRleHQpOwoKICAgICAgICAgICAgLy8gUmVwbGFjZSBkb3VibGUgc3BhY2VzLCB0YWJzIGV0YwogICAgICAgICAgICBpZiAodHJpbU5ld0xpbmVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0ZXh0ID0gUmVnZXguUmVwbGFjZSh0ZXh0LCBAIlxzKyIsICIgIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiB0ZXh0OwogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGNvbnN0IHN0cmluZyBQcm9kdWN0UGFnZVBhdGhQcmVmaXggPSAiL2l0ZW0vIjsKICAgICAgICAgICAgcHVibGljIGNvbnN0IHN0cmluZyBDYXRlZ29yeVBhZ2VQYXRoUHJlZml4ID0gIi9jYXRlZ29yaWVzLyI7CiAgICAgICAgICAgIHB1YmxpYyBjb25zdCBzdHJpbmcgQ29udGVudFBhZ2VQYXRoUHJlZml4ID0gIi9wYWdlcy8iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHN0YXRpYyByZWFkb25seSBJTGlzdDxPYmplY3RJZD4gRGVmYXVsdFBhZ2VJZHMgPSBuZXcgTGlzdDxPYmplY3RJZD4geyBIb21lUGFnZUlkLCBTZWFyY2hQYWdlSWQsIENhdGVnb3JpZXNQYWdlSWQsIEJsb2dQYWdlSWR9Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>ShopImage</text>
+        <text>Shop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUZXJtXD4=</text>
+        <text>f{</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUZXJtXD4=</last-search>
+      <last-search>f{</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUZXJtXD4=</last-pattern>
+      <last-pattern>f{</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxJTW9uZ29Db2xsZWN0aW9uXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -266,7 +270,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfaG9zdGluZ1w+</entry>
         <entry encoding="base64">XDxfYnVuZGxlSGVscGVyXD4=</entry>
         <entry encoding="base64">XDxTY3JlZW5SZWFkZXJPbmx5XD4=</entry>
         <entry encoding="base64">XDxJbnN0YWxsZWRUaGVtZVw+</entry>
@@ -286,6 +289,7 @@
         <entry encoding="base64">XDxFeHByZXNzaW9uTGlzdFw+</entry>
         <entry encoding="base64">XDxFeHByZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxUZXJtXD4=</entry>
+        <entry>f{</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -342,6 +346,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
