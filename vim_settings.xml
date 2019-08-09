@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/ImageDrop.cs" timestamp="1565152298512">
-        <mark key="[" line="146" column="9" />
-        <mark key="]" line="158" column="44" />
-        <mark key="^" line="158" column="44" />
-        <mark key="." line="158" column="44" />
-      </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1565320334070" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Blog/BlogPost.cs" timestamp="1565326194838" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/AddressExtensions.cs" timestamp="1565326168935" />
@@ -17,11 +11,15 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/ServiceRegistry.cs" timestamp="1565147097191">
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="28" column="17" />
-        <mark key="." line="28" column="17" />
-        <mark key="^" line="28" column="17" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Shop/PaymentVerificationStatus.cs" timestamp="1565328508019">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/ShopImageExtension.cs" timestamp="1565328936854">
+        <mark key="[" line="65" column="54" />
+        <mark key="]" line="65" column="54" />
+        <mark key="." line="65" column="54" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Controllers/StoreController.cs" timestamp="1565172046789">
         <mark key="[" line="4" column="0" />
@@ -29,22 +27,11 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsBaseController.cs" timestamp="1565320391775" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/ShopsController.cs" timestamp="1565224284324">
-        <mark key="[" line="52" column="81" />
-        <mark key="]" line="52" column="39" />
-        <mark key="^" line="52" column="39" />
-        <mark key="." line="52" column="39" />
-      </file>
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Images/ShopImageExtension.cs" timestamp="1565328097358" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Startup.cs" timestamp="1565143247554">
         <mark key="[" line="43" column="87" />
         <mark key="]" line="43" column="87" />
         <mark key="." line="43" column="87" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Pages/Page.cs" timestamp="1565157416258">
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="72" column="4" />
-        <mark key="." line="72" column="4" />
-        <mark key="^" line="72" column="4" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/Pages/PageRequest.cs" timestamp="1565138099005">
         <mark key="[" line="4" column="28" />
@@ -52,13 +39,15 @@
         <mark key="." line="4" column="28" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Ajax/Models/ProductListModel.cs" timestamp="1565321435940" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1565327999576" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/ProductsController.cs" timestamp="1565313428319" />
-      <file name="/Dummy.txt" timestamp="1565321946913">
+      <file name="/Dummy.txt" timestamp="1565328647640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/AutoMapper/ItemProfile.cs" timestamp="1565320103018" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Catalog/Selz.Core.Domains.Catalog.csproj" timestamp="1565327366205" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1565321425377" />
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Blogs/BlogPostExtension.cs" timestamp="1565326384018" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1565151964115">
@@ -66,29 +55,18 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Ui/AccountTests.cs" timestamp="1565324966357" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Infrastructures/HttpContextActorProvider.cs" timestamp="1565146452572">
-        <mark key="[" line="10" column="60" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/BlogPostExtension.cs" timestamp="1565328828081">
+        <mark key="[" line="9" column="80" />
+        <mark key="]" line="9" column="80" />
+        <mark key="^" line="9" column="231" />
+        <mark key="." line="9" column="80" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Ui/AccountTests.cs" timestamp="1565324966357" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Shop/Shop.cs" timestamp="1565328533165" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/BlogPosts/BlogPostRequest.cs" timestamp="1565138117142">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="32" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Core/FluidDrop.cs" timestamp="1565171627023">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ImageViewModel.cs" timestamp="1565152708863">
-        <mark key="[" line="334" column="41" />
-        <mark key="]" line="356" column="42" />
-        <mark key="^" line="356" column="42" />
-        <mark key="." line="356" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -198,19 +176,19 @@
         <text>using ShopEntity = Drachma.Core.Domains.Shops.Shop;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkRvbWFpbnMuVXNlcnM7Cg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuU2hvcHMuRXh0ZW5zaW9uczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkRvbWFpbnMuU2hvcHM7Cg==</text>
+        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkRvbWFpbnMuVXNlcnM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU2hvcDEgPSBTaG9wCg==</text>
+        <text encoding="base64">dXNpbmcgRHJhY2htYS5Db3JlLkRvbWFpbnMuU2hvcHM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU2hvcEVudGl0eSA9IERyYWNobWEuQ29yZS5Eb21haW5zLlNob3BzLlNob3A7Cg==</text>
+        <text encoding="base64">dXNpbmcgU2hvcDEgPSBTaG9wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbQnNvbklnbm9yZV0K</text>
+        <text encoding="base64">dXNpbmcgU2hvcEVudGl0eSA9IERyYWNobWEuQ29yZS5Eb21haW5zLlNob3BzLlNob3A7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBbQnNvbklnbm9yZV0K</text>
@@ -219,13 +197,13 @@
         <text encoding="base64">ICAgICAgICBbQnNvbklnbm9yZV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBbQnNvbklnbm9yZV0K</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>Domains\Selz.Core.Domains.Shops\Blogs</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VTcXVhcmVcPg==</text>
@@ -321,6 +299,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
