@@ -78,13 +78,6 @@
         <mark key="^" line="114" column="15" />
         <mark key="." line="114" column="15" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Startup.cs" timestamp="1565524804981">
-        <mark key="'" line="191" column="31" />
-        <mark key="[" line="125" column="49" />
-        <mark key="]" line="125" column="48" />
-        <mark key="^" line="125" column="48" />
-        <mark key="." line="125" column="48" />
-      </file>
       <file name="/Dummy.txt" timestamp="1565484116890">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -93,10 +86,20 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0B98D913-6CE4-47E5-B507-641297D8AC62/6b/cb50bcb0/ClaimsPrincipal.cs" timestamp="1565430646515">
         <mark key="'" line="195" column="38" />
       </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Validation/WebhookValidator.cs" timestamp="1565528720004" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F83C56DD-FEE2-4E09-9B2F-B33BD507D91E/ae/8d9a91ba/ActionDescriptorExtensions.cs" timestamp="1565528356909">
+        <mark key="[" line="21" column="76" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Builder/Controllers/HomeController.cs" timestamp="1565151964115">
         <mark key="[" line="34" column="72" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Extensions/HealthChecksBuilderExtensions.cs" timestamp="1565529252265">
+        <mark key="[" line="17" column="81" />
+        <mark key="]" line="21" column="100" />
+        <mark key="^" line="21" column="100" />
+        <mark key="." line="21" column="100" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/BlogPostExtension.cs" timestamp="1565329587357">
         <mark key="[" line="9" column="80" />
@@ -124,6 +127,10 @@
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="32" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3398B92-C50B-4940-8A8E-0B05AED1B967/00/d08e134a/BlockingDetectionMiddlewareExtensions.cs" timestamp="1565528630201">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="61" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87E8CE02-3EE4-404D-9082-6C8A5038171A/e0/402aed48/InputFormatterResult.cs" timestamp="1565523786942">
         <mark key="'" line="47" column="18" />
@@ -232,35 +239,35 @@
       <jump line="47" column="18" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87E8CE02-3EE4-404D-9082-6C8A5038171A/e0/402aed48/InputFormatterResult.cs" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnN0YW50cy5TY29wZXMuQXBpUmVhZE9ubHksCg==</text>
+      <register name="0" type="4">
+        <text>BlockingDetectionMiddleware</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dE1vZGVsLk1vZGlmaWVkRmllbGRzIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJhc2UuR2V0VmFsdWUoa2V5KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyICBmb3JtYXR0ZXIgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dE1vZGVsLk1vZGlmaWVkRmllbGRzIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyICBmb3JtYXR0ZXIgPSBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFtBcGlWZXJzaW9uKCIxLjAiKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXR0cmlidXRlLkdldEN1c3RvbUF0dHJpYnV0ZTw+KCkK</text>
+        <text encoding="base64">ICAgIFtBcGlWZXJzaW9uKCIxLjAiKV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5vQ29udGVudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXR0cmlidXRlLkdldEN1c3RvbUF0dHJpYnV0ZTw+KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGh0dHBDb250ZXh0LlVzZXIuRmluZEFsbCgic2NvcGUiKS5TZWxlY3QocyA9PiBzLlZhbHVlKS5Ub0xpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5vQ29udGVudCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGh0dHBDb250ZXh0LlVzZXIuRmluZEFsbCgic2NvcGUiKS5TZWxlY3QocyA9PiBzLlZhbHVlKS5Ub0xpc3QoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIExpc3Q8c3RyaW5nPiBHZXRTY29wZSh0aGlzIEh0dHBDb250ZXh0IGh0dHBDb250ZXh0KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIGh0dHBDb250ZXh0LlVzZXIuRmluZEFsbCgic2NvcGUiKS5TZWxlY3QocyA9PiBzLlZhbHVlKS5Ub0xpc3QoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>cb</text>
