@@ -46,8 +46,12 @@
         <mark key="^" line="676" column="12" />
         <mark key="." line="676" column="12" />
       </file>
-      <file name="C:/dev/git/experiment_project/Swagger/ConsoleApp2/ConsoleApp2/Program.cs" timestamp="1565921869447">
-        <mark key="^" line="66" column="36" />
+      <file name="C:/dev/git/experiment_project/Swagger/ConsoleApp2/ConsoleApp2/Program.cs" timestamp="1565925854007">
+        <mark key="'" line="68" column="25" />
+        <mark key="[" line="17" column="58" />
+        <mark key="]" line="17" column="58" />
+        <mark key="^" line="17" column="57" />
+        <mark key="." line="17" column="58" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1565876668098">
         <mark key="'" line="32" column="26" />
@@ -64,9 +68,9 @@
         <mark key="." line="46" column="38" />
         <mark key="^" line="46" column="38" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ShopBaseController.cs" timestamp="1565925074174" />
     </filemarks>
     <jumps>
-      <jump line="96" column="29" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
       <jump line="144" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
       <jump line="89" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
       <jump line="83" column="0" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
@@ -166,16 +170,22 @@
       <jump line="32" column="26" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" />
       <jump line="17" column="15" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5CD2201B-6906-495A-84AF-5573EEA3B963/b8/593bb04b/BaseFluidTemplate`1.cs" />
       <jump line="80" column="1" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5CD2201B-6906-495A-84AF-5573EEA3B963/b8/593bb04b/BaseFluidTemplate`1.cs" />
+      <jump line="68" column="25" filename="C:/dev/git/experiment_project/Swagger/ConsoleApp2/ConsoleApp2/Program.cs" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>ContentBlockInsertPosition</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc2l0ZXMuQWRkKCJodHRwczovL3plZXNlbGwuZGV2LXNlbHouY29tL3NpdGVtYXAvIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGx5ID0gd2MuRG93bmxvYWRTdHJpbmcoc2l0ZSk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2l0ZXMuQWRkKCJodHRwczovL3plZXNlbGwuZGV2LXNlbHouY29tL3NpdGVtYXAvIik7Cg==</text>
+      <register name="2" type="4">
+        <text>/*Create a new instance of the System.Net Webclient*/
+            WebClient wc = new WebClient();
+            /*Set the Encodeing on the Web Client*/
+            wc.Encoding = System.Text.Encoding.UTF8;
+
+            string reply = &quot;&quot;;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -184,22 +194,22 @@
         <text encoding="base64">ICAgICAgICAgICAgc2l0ZXMuQWRkKCJodHRwczovL3plZXNlbGwuZGV2LXNlbHouY29tL3NpdGVtYXAvIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb2JqZWN0IGFiYyB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZm9ybWF0dGFibGVTdHJpbmcgPSAkImFiY3todHRwQ2xpZW50LkdldEFzeW5jKHVybCkuUmVzdWx0fWJjZCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2l0ZXMuQWRkKCJodHRwczovL3plZXNlbGwuZGV2LXNlbHouY29tL3NpdGVtYXAvIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgb2JqZWN0IGFiYyB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlJ1bnRpbWUuQ29tcGlsZXJTZXJ2aWNlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZm9ybWF0dGFibGVTdHJpbmcgPSAkImFiY3todHRwQ2xpZW50LkdldEFzeW5jKHVybCkuUmVzdWx0fWJjZCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlJ1bnRpbWUuQ29tcGlsZXJTZXJ2aWNlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>http://zeesell.dev-selz.com/sitemap/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VTcXVhcmVcPg==</text>
