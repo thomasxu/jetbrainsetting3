@@ -86,16 +86,19 @@
         <mark key="^" line="219" column="35" />
         <mark key="." line="219" column="35" />
       </file>
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Mapping/ItemProfile.cs" timestamp="1565994662512">
-        <mark key="[" line="29" column="33" />
-        <mark key="]" line="29" column="32" />
-        <mark key="^" line="29" column="32" />
-        <mark key="." line="29" column="32" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Mapping/ItemProfile.cs" timestamp="1566007244905">
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="89" column="21" />
+        <mark key="." line="87" column="137" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B05C8A8E-228A-4BFF-8A0B-AF8A1A3D4CFC/60/cad7b448/PagedList`1.cs" timestamp="1565963485002">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Mapping/TypeConverters.cs" timestamp="1566007308261">
+        <mark key="[" line="8" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E1F52F8-0D4F-437D-886B-8CB3D4E55583/1b/16bed479/Notification.cs" timestamp="1565963840049">
         <mark key="[" line="13" column="4" />
@@ -269,37 +272,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2l0ZXMuQWRkKCJodHRwczovL3plZXNlbGwuZGV2LXNlbHouY29tL3NpdGVtYXAvIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIocCA9PiBwLlVwZGF0ZWRCeSwgb3B0ID0+IG9wdC5JZ25vcmUoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdHJpbmcgTkFNRSB7IGdldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlTWFwPD4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IF9pdGVtUmVwb3NpdG9yeS5GaW5kUGFnZWRMaXN0QXN5bmMob3B0aW9ucywgZmlsdGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdHJpbmcgTkFNRSB7IGdldDsgcHJpdmF0ZSBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JBbGxNZW1iZXJzKHAgPT4gKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBUb09iamVjdElkTGlzdCgpCiAgICB7CiAgICAgIHZhbHVlcy5TZWxlY3QoeCA9PiB4LlRvT2JqZWN0SWQpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIocCA9PiBwLlVwZGF0ZWRCeSwgb3B0ID0+IG9wdC5JZ25vcmUoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVwb3NpdG9yeS5GaW5kT25lQXN5bmMoZmlsdGVyRGVmaW5pdGlvbiwgZmluZE9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdHJpbmcgTkFNRSB7IGdldDsgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmluZE9wdGlvbnMuc2V0X2xpICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IF9pdGVtUmVwb3NpdG9yeS5GaW5kUGFnZWRMaXN0QXN5bmMob3B0aW9ucywgZmlsdGVyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZmluZE9wdGlvbnMuU29ydCA9IHNvcnREZWZpbml0aW9uMQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdHJpbmcgTkFNRSB7IGdldDsgcHJpdmF0ZSBzZXQ7IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFyIG9wdGlvbnMgPSBuZXcgRmluZE9wdGlvbnM8VD4oKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBUb09iamVjdElkTGlzdCgpCiAgICB7CiAgICAgIHZhbHVlcy5TZWxlY3QoeCA9PiB4LlRvT2JqZWN0SWQpCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCdWlsZGVyczxUPi5Tb3J0LkRlc2NlbmRpbmcoeCA9PiB4LklkKQo=</text>
+        <text encoding="base64">ICAgICAgcmVwb3NpdG9yeS5GaW5kT25lQXN5bmMoZmlsdGVyRGVmaW5pdGlvbiwgZmluZE9wdGlvbnMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>FindOneAsync</text>
+        <text>itmRes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VTcXVhcmVcPg==</text>
