@@ -27,8 +27,12 @@
         <mark key="^" line="489" column="50" />
         <mark key="." line="489" column="50" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Startup.cs" timestamp="1566025395366" />
-      <file name="C:/dev/git/selz/API/src/Selz.Framework/Selz.Framework.csproj" timestamp="1566025062110" />
+      <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/DockerService.cs" timestamp="1566088064704">
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="22" />
+        <mark key="." line="33" column="13" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E1F52F8-0D4F-437D-886B-8CB3D4E55583/ce/fafc4ef5/INotification.cs" timestamp="1565963793666">
         <mark key="[" line="14" column="58" />
         <mark key="]" line="14" column="40" />
@@ -69,8 +73,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/Properties/launchSettings.json" timestamp="1566025527156" />
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Program.cs" timestamp="1566025425412" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B05C8A8E-228A-4BFF-8A0B-AF8A1A3D4CFC/60/cad7b448/PagedList`1.cs" timestamp="1566009912628">
         <mark key="[" line="34" column="87" />
         <mark key="]" line="34" column="87" />
@@ -131,7 +133,6 @@
         <mark key="." line="17" column="29" />
         <mark key="^" line="17" column="29" />
       </file>
-      <file name="C:/dev/git/experiment_project/Swagger/ConsoleApp2/ConsoleApp2/Program.cs" timestamp="1566022135018" />
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Services/ItemService.cs" timestamp="1566009332487">
         <mark key="[" line="193" column="65" />
         <mark key="]" line="199" column="28" />
@@ -264,34 +265,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIocCA9PiBwLlVwZGF0ZWRCeSwgb3B0ID0+IG9wdC5JZ25vcmUoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2MgICAgICBvcHRpb24gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpdGUgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyIHw9IGZpdGxlcnIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFyZ3VtZW50cyA9fQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIElUeXBlQ09udmVydGVyPHNsaWNlZExpc3RSZXNwb25zZSBhbmQgcGFnZWRMaXN0UmVzcG9uc2U+Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">Y2MgICAgICBvcHRpb24gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTbGljZWRMaXN0UmVzcG9uc2U8VFJlc3VsdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyIHw9IGZpdGxlcnIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgIElUeXBlQ09udmVydGVyPHNsaWNlZExpc3RSZXNwb25zZSBhbmQgcGFnZWRMaXN0UmVzcG9uc2U+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJRW51bWVyYWJsZTxUPiBEYXRhIHsgZ2V0OyBzZXQ7IH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTbGljZWRMaXN0UmVzcG9uc2U8VFJlc3VsdD4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2xpY2VkTGlzdFR5cGVDb252ZXJ0ZXIxKCkKICAgICAgICB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
