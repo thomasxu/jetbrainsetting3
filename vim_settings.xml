@@ -12,10 +12,12 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1566275569867">
         <mark key="'" line="25" column="24" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/ProductsController.cs" timestamp="1566278408358">
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="38" column="29" />
-        <mark key="." line="38" column="13" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/ProductsController.cs" timestamp="1566280272123">
+        <mark key="'" line="72" column="31" />
+        <mark key="[" line="68" column="64" />
+        <mark key="]" line="68" column="63" />
+        <mark key="." line="68" column="63" />
+        <mark key="^" line="68" column="63" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/EditableRegion.cs" timestamp="1566276264828" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95A049BF-56B0-493F-AB6E-A7433DC8E59B/52/e6d433bd/FilterExpression.cs" timestamp="1566276845406" />
@@ -35,7 +37,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95A049BF-56B0-493F-AB6E-A7433DC8E59B/78/7afaa951/FilterCollection.cs" timestamp="1566276876170" />
     </filemarks>
     <jumps>
-      <jump line="88" column="29" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
       <jump line="386" column="29" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" />
       <jump line="52" column="29" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
       <jump line="93" column="7" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Extensions/StringExtensions.cs" />
@@ -135,57 +136,57 @@
       <jump line="962" column="18" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/77/20c28536/DateTime.cs" />
       <jump line="56" column="91" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77A26029-7DE4-4284-9A96-A0F2080CD8D7/b8/e8071d03/TestServer.cs" />
       <jump line="25" column="24" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" />
+      <jump line="61" column="31" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/ProductsController.cs" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJTZWx6LkNvcmUuRG9tYWlucy5TaG9wcyIgVmVyc2lvbj0iMS4wLjEwLWFscGhhIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvcHNTZXJ2ZXIxKElXZWJIb3N0QnVpbGRlciBidWlsZGVyLCBJRmVhdHVyZUNvbGxlY3Rpb24gZmVhdHVyZUNvbGxlY3Rpb24pIDogYmFzZShidWlsZGVyLCBmZWF0dXJlQ29sbGVjdGlvbikgeyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdHMxID09IG51bGwgfHwgcHJvZHVjdHMxQW55KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGF0LkNvbnRlbnQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2R1Y3RzMSA9IGF3YWl0IF9wcm9kdWN0U2VydmljZS5GaW5kQnlJZHMoaWRzKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgIHJldHVybiBPayhwcm9kdWN0czEpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHJlYW0uQ29weVRvKG1lbW9yeVN0cmVhbSk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBCYWRSZXF1ZXN0KE1vZGVsU3RhdGUpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICByZXR1cm4gUmVzdFNlcnZpY2UuRm9yPFQ+KENyZWF0ZUNsaWVudCgpLCBuZXcgUmVmaXRTZXR0aW5ncygpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgVXJsUGFyYW1ldGVyRm9ybWF0dGVyID0gbmV3IFNlbHpVcmxQYXJhbWV0ZXJGb3JtYXR0ZXIoKQogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvcHNTZXJ2ZXIxKElXZWJIb3N0QnVpbGRlciBidWlsZGVyLCBJRmVhdHVyZUNvbGxlY3Rpb24gZmVhdHVyZUNvbGxlY3Rpb24pIDogYmFzZShidWlsZGVyLCBmZWF0dXJlQ29sbGVjdGlvbikgeyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGF0LkNvbnRlbnQgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXN0U2VydmljZS5Gb3I8VD4oQ3JlYXRlQ2xpZW50KCksIG5ldyBSZWZpdFNldHRpbmdzKCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBVcmxQYXJhbWV0ZXJGb3JtYXR0ZXIgPSBuZXcgU2VselVybFBhcmFtZXRlckZvcm1hdHRlcigpCiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHJlYW0uQ29weVRvKG1lbW9yeVN0cmVhbSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhID0gZXg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICByZXR1cm4gUmVzdFNlcnZpY2UuRm9yPFQ+KENyZWF0ZUNsaWVudCgpLCBuZXcgUmVmaXRTZXR0aW5ncygpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgVXJsUGFyYW1ldGVyRm9ybWF0dGVyID0gbmV3IFNlbHpVcmxQYXJhbWV0ZXJGb3JtYXR0ZXIoKQogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBEYXRlVGltZS5UcnlQYXJzZSh2YWx1ZS5Ub1N0cmluZygpKQogICAgICAgICAgICAgICAgU3lzdGVtLkdsb2JhbGl6YXRpb24uRGF0ZVRpbWVGb3JtYXRJbmZvIAogICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXN0U2VydmljZS5Gb3I8VD4oQ3JlYXRlQ2xpZW50KCksIG5ldyBSZWZpdFNldHRpbmdzKCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBVcmxQYXJhbWV0ZXJGb3JtYXR0ZXIgPSBuZXcgU2VselVybFBhcmFtZXRlckZvcm1hdHRlcigpCiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>CreateHostBuilder1()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCdWlsZFRlc3RMb2NhbFw+</text>
+        <text>{</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCdWlsZFRlc3RMb2NhbFw+</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCdWlsZFRlc3RMb2NhbFw+</last-pattern>
+      <last-pattern>{</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>f{</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZWx6XD4=</entry>
         <entry encoding="base64">XDxHZXRQYWdlXD4=</entry>
         <entry>inter</entry>
         <entry encoding="base64">XDxlZGl0YWJsZVJlZ2lvbkFyZ3VtZW50c1w+</entry>
@@ -205,6 +206,7 @@
         <entry encoding="base64">XDx1c2VTcXVhcmVcPg==</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxCdWlsZFRlc3RMb2NhbFw+</entry>
+        <entry>{</entry>
       </history-search>
       <history-cmd />
       <history-expr />
