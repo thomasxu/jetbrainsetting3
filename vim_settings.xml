@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Theme.cs" timestamp="1566284004724" />
@@ -15,12 +15,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07A24826-5CDA-43C3-9597-C3BD165C5C34/b8/3cae7a09/ServiceCollectionExtensions.cs" timestamp="1566256149260" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1566257804684" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/ServiceRegistry.cs" timestamp="1566259651618" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/FluidRendering.cs" timestamp="1566292496821">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/FluidRendering.cs" timestamp="1566292667055">
         <mark key="'" line="31" column="40" />
-        <mark key="[" line="95" column="27" />
-        <mark key="]" line="95" column="26" />
-        <mark key="." line="95" column="26" />
-        <mark key="^" line="95" column="26" />
+        <mark key="[" line="61" column="44" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Startup.cs" timestamp="1566257174831" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1566292364652">
@@ -154,31 +153,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgKCQicGF0aDoge3BhdGh9e0Vudmlyb25tZW50Lk5ld0xpbmV9e1N0cmluZy5Kb2luKEVudmlyb25tZW50Lk5ld0xpbmUsIGVycm9ycyl9Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdHMxID09IG51bGwgfHwgcHJvZHVjdHMxQW55KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvcnMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2R1Y3RzMSA9IGF3YWl0IF9wcm9kdWN0U2VydmljZS5GaW5kQnlJZHMoaWRzKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgIHJldHVybiBPayhwcm9kdWN0czEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBCYWRSZXF1ZXN0KE1vZGVsU3RhdGUpOwogICAgICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgKCQicGF0aDoge3BhdGh9e0Vudmlyb25tZW50Lk5ld0xpbmV9e1N0cmluZy5Kb2luKEVudmlyb25tZW50Lk5ld0xpbmUsIGVycm9ycyl9Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvcHNTZXJ2ZXIxKElXZWJIb3N0QnVpbGRlciBidWlsZGVyLCBJRmVhdHVyZUNvbGxlY3Rpb24gZmVhdHVyZUNvbGxlY3Rpb24pIDogYmFzZShidWlsZGVyLCBmZWF0dXJlQ29sbGVjdGlvbikgeyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdHMxID09IG51bGwgfHwgcHJvZHVjdHMxQW55KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGF0LkNvbnRlbnQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb2R1Y3RzMSA9IGF3YWl0IF9wcm9kdWN0U2VydmljZS5GaW5kQnlJZHMoaWRzKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgIHJldHVybiBPayhwcm9kdWN0czEpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHJlYW0uQ29weVRvKG1lbW9yeVN0cmVhbSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBCYWRSZXF1ZXN0KE1vZGVsU3RhdGUpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICByZXR1cm4gUmVzdFNlcnZpY2UuRm9yPFQ+KENyZWF0ZUNsaWVudCgpLCBuZXcgUmVmaXRTZXR0aW5ncygpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgVXJsUGFyYW1ldGVyRm9ybWF0dGVyID0gbmV3IFNlbHpVcmxQYXJhbWV0ZXJGb3JtYXR0ZXIoKQogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2hvcHNTZXJ2ZXIxKElXZWJIb3N0QnVpbGRlciBidWlsZGVyLCBJRmVhdHVyZUNvbGxlY3Rpb24gZmVhdHVyZUNvbGxlY3Rpb24pIDogYmFzZShidWlsZGVyLCBmZWF0dXJlQ29sbGVjdGlvbikgeyB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>{Environment.NewLine}</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
