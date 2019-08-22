@@ -3,20 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Extensions/ServiceCollectionExtensions.cs" timestamp="1566435888540">
+      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Extensions/ServiceCollectionExtensions.cs" timestamp="1566440222109">
         <mark key="[" line="52" column="1" />
         <mark key="]" line="52" column="1" />
         <mark key="." line="52" column="1" />
         <mark key="^" line="33" column="29" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Extensions/SanitizerExtensions.cs" timestamp="1566429155948" />
+      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Extensions/ConnectionStringConfig.cs" timestamp="1566440180827" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1566436741377">
         <mark key="'" line="972" column="37" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1566433066421">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="63" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07A24826-5CDA-43C3-9597-C3BD165C5C34/b8/3cae7a09/ServiceCollectionExtensions.cs" timestamp="1566439852460" />
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Serialization/CustomContractResolver.cs" timestamp="1566426029997">
         <mark key="[" line="53" column="54" />
         <mark key="]" line="53" column="53" />
@@ -27,13 +25,21 @@
         <mark key="[" line="52" column="1" />
         <mark key="]" line="52" column="1" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9648128D-72B7-47E0-8D4B-5746AA5CCA6F/ce/693fa6a3/ServiceCollectionExtensions.cs" timestamp="1566439969189" />
       <file name="C:/dev/git/selz/fluid/Fluid.MvcSample/Startup.cs" timestamp="1566432705068" />
       <file name="C:/dev/git/selz/fluid/Fluid.Tests/IfStatementTests.cs" timestamp="1566431644178" />
-      <file name="/Dummy.txt" timestamp="1566436752951">
+      <file name="/Dummy.txt" timestamp="1566439613868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1566439978211">
+        <mark key="[" line="19" column="77" />
+        <mark key="]" line="19" column="79" />
+        <mark key="^" line="19" column="79" />
+        <mark key="." line="19" column="79" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/43462361-4349-4445-A217-C47F27D6AFE3/ab/a240eae2/ServiceCollectionExtensions.cs" timestamp="1566439781475" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/8d/ff45db96/AcceptedAtActionResult.cs" timestamp="1566429047805" />
     </filemarks>
     <jumps>
@@ -146,28 +152,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgQ29ubmVjdGlvblN0cmluZ0NvbmZpZyBHZXRDb25uZWN0aW9uQ29uZmlnRnJvbVNlY3JldE1hbmFnZXIodGhpcyBJQ29uZmlndXJhdGlvbiBjb25maWd1cmF0aW9uKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIG9wdGlvbnMgPSBjb25maWd1cmF0aW9uLkdldEFXU09wdGlvbnMoKTsKICAgICAgICAgICAgdXNpbmcgKHZhciBjbGllbnQgPSBvcHRpb25zLkNyZWF0ZVNlcnZpY2VDbGllbnQ8SUFtYXpvblNlY3JldHNNYW5hZ2VyPigpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgc2VjcmV0SWQgPSBjb25maWd1cmF0aW9uLkdldFZhbHVlKCJTZWNyZXRzTWFuYWdlcjpBcm4iLCAiIik7CiAgICAgICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBjbGllbnQuR2V0U2VjcmV0VmFsdWVBc3luYyhuZXcgR2V0U2VjcmV0VmFsdWVSZXF1ZXN0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgU2VjcmV0SWQgPSBzZWNyZXRJZAogICAgICAgICAgICAgICAgfSkuQ29uZmlndXJlQXdhaXQoZmFsc2UpLkdldEF3YWl0ZXIoKS5HZXRSZXN1bHQoKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gSnNvbkNvbnZlcnQuRGVzZXJpYWxpemVPYmplY3Q8Q29ubmVjdGlvblN0cmluZ0NvbmZpZz4ocmVzcG9uc2UuU2VjcmV0U3RyaW5nKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgVCBHZXRDb25maWdGcm9tU2VjcmV0TWFuYWdlcjxUPih0aGlzIElDb25maWd1cmF0aW9uIGNvbmZpZ3VyYXRpb24pCiAgICAgICAgewogICAgICAgICAgICB2YXIgb3B0aW9ucyA9IGNvbmZpZ3VyYXRpb24uR2V0QVdTT3B0aW9ucygpOwogICAgICAgICAgICB1c2luZyAodmFyIGNsaWVudCA9IG9wdGlvbnMuQ3JlYXRlU2VydmljZUNsaWVudDxJQW1hem9uU2VjcmV0c01hbmFnZXI+KCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBzZWNyZXRJZCA9IGNvbmZpZ3VyYXRpb24uR2V0VmFsdWUoIlNlY3JldHNNYW5hZ2VyOkFybiIsICIiKTsKICAgICAgICAgICAgICAgIHZhciByZXNwb25zZSA9IGNsaWVudC5HZXRTZWNyZXRWYWx1ZUFzeW5jKG5ldyBHZXRTZWNyZXRWYWx1ZVJlcXVlc3QKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBTZWNyZXRJZCA9IHNlY3JldElkCiAgICAgICAgICAgICAgICB9KS5Db25maWd1cmVBd2FpdChmYWxzZSkuR2V0QXdhaXRlcigpLkdldFJlc3VsdCgpOwoKICAgICAgICAgICAgICAgIHJldHVybiBKc29uQ29udmVydC5EZXNlcmlhbGl6ZU9iamVjdDxUPihyZXNwb25zZS5TZWNyZXRTdHJpbmcpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBPa09iamVjdFJlc3VsdCh2YWx1ZSk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgQ29ubmVjdGlvblN0cmluZ0NvbmZpZyBHZXRDb25uZWN0aW9uQ29uZmlnRnJvbVNlY3JldE1hbmFnZXIodGhpcyBJQ29uZmlndXJhdGlvbiBjb25maWd1cmF0aW9uKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIG9wdGlvbnMgPSBjb25maWd1cmF0aW9uLkdldEFXU09wdGlvbnMoKTsKICAgICAgICAgICAgdXNpbmcgKHZhciBjbGllbnQgPSBvcHRpb25zLkNyZWF0ZVNlcnZpY2VDbGllbnQ8SUFtYXpvblNlY3JldHNNYW5hZ2VyPigpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgc2VjcmV0SWQgPSBjb25maWd1cmF0aW9uLkdldFZhbHVlKCJTZWNyZXRzTWFuYWdlcjpBcm4iLCAiIik7CiAgICAgICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBjbGllbnQuR2V0U2VjcmV0VmFsdWVBc3luYyhuZXcgR2V0U2VjcmV0VmFsdWVSZXF1ZXN0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgU2VjcmV0SWQgPSBzZWNyZXRJZAogICAgICAgICAgICAgICAgfSkuQ29uZmlndXJlQXdhaXQoZmFsc2UpLkdldEF3YWl0ZXIoKS5HZXRSZXN1bHQoKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gSnNvbkNvbnZlcnQuRGVzZXJpYWxpemVPYmplY3Q8Q29ubmVjdGlvblN0cmluZ0NvbmZpZz4ocmVzcG9uc2UuU2VjcmV0U3RyaW5nKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUVudW1lcmFibGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJhc2UuQ3JlYXRlT2JqZWN0Q29udHJhY3Qob2JqZWN0VHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBPa09iamVjdFJlc3VsdCh2YWx1ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>empty object id for parse null string input</text>
