@@ -30,11 +30,21 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9648128D-72B7-47E0-8D4B-5746AA5CCA6F/ce/693fa6a3/ServiceCollectionExtensions.cs" timestamp="1566447244507" />
       <file name="C:/dev/git/selz/fluid/Fluid.MvcSample/Startup.cs" timestamp="1566432705068" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Themes/ThemesScenarios.cs" timestamp="1566450074423">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1566449615598">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
       <file name="C:/dev/git/selz/fluid/Fluid.Tests/IfStatementTests.cs" timestamp="1566431644178" />
-      <file name="/Dummy.txt" timestamp="1566448580218">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1566449668371">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/SelzSecretManagerExtensions.cs" timestamp="1566448447217">
         <mark key="[" line="20" column="16" />
@@ -152,34 +162,34 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkQXdzQ2xpZW50RmFjdG9yeU9wdGlvbnMoQ29uZmlndXJhdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkQXdzQ2xpZW50RmFjdG9yeU9wdGlvbnMoX2NvbmZpZ3VyYXRpb24pOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IHB1YmxpYyBzdGF0aWMgVCBHZXRDb25maWdGcm9tU2VjcmV0TWFuYWdlcjxUPih0aGlzIElDb25maWd1cmF0aW9uIGNvbmZpZ3VyYXRpb24pCiAgICAgICAgewogICAgICAgICAgICB2YXIgb3B0aW9ucyA9IGNvbmZpZ3VyYXRpb24uR2V0QVdTT3B0aW9ucygpOwogICAgICAgICAgICB1c2luZyAodmFyIGNsaWVudCA9IG9wdGlvbnMuQ3JlYXRlU2VydmljZUNsaWVudDxJQW1hem9uU2VjcmV0c01hbmFnZXI+KCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBzZWNyZXRJZCA9IGNvbmZpZ3VyYXRpb24uR2V0VmFsdWUoIlNlY3JldHNNYW5hZ2VyOkFybiIsICIiKTsKICAgICAgICAgICAgICAgIHZhciByZXNwb25zZSA9IGNsaWVudC5HZXRTZWNyZXRWYWx1ZUFzeW5jKG5ldyBHZXRTZWNyZXRWYWx1ZVJlcXVlc3QKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBTZWNyZXRJZCA9IHNlY3JldElkCiAgICAgICAgICAgICAgICB9KS5Db25maWd1cmVBd2FpdChmYWxzZSkuR2V0QXdhaXRlcigpLkdldFJlc3VsdCgpOwoKICAgICAgICAgICAgICAgIHJldHVybiBKc29uQ29udmVydC5EZXNlcmlhbGl6ZU9iamVjdDxUPihyZXNwb25zZS5TZWNyZXRTdHJpbmcpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgQ29ubmVjdGlvblN0cmluZ0NvbmZpZyBHZXRDb25uZWN0aW9uQ29uZmlnRnJvbVNlY3JldE1hbmFnZXIodGhpcyBJQ29uZmlndXJhdGlvbiBjb25maWd1cmF0aW9uKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIG9wdGlvbnMgPSBjb25maWd1cmF0aW9uLkdldEFXU09wdGlvbnMoKTsKICAgICAgICAgICAgdXNpbmcgKHZhciBjbGllbnQgPSBvcHRpb25zLkNyZWF0ZVNlcnZpY2VDbGllbnQ8SUFtYXpvblNlY3JldHNNYW5hZ2VyPigpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgc2VjcmV0SWQgPSBjb25maWd1cmF0aW9uLkdldFZhbHVlKCJTZWNyZXRzTWFuYWdlcjpBcm4iLCAiIik7CiAgICAgICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBjbGllbnQuR2V0U2VjcmV0VmFsdWVBc3luYyhuZXcgR2V0U2VjcmV0VmFsdWVSZXF1ZXN0CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgU2VjcmV0SWQgPSBzZWNyZXRJZAogICAgICAgICAgICAgICAgfSkuQ29uZmlndXJlQXdhaXQoZmFsc2UpLkdldEF3YWl0ZXIoKS5HZXRSZXN1bHQoKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gSnNvbkNvbnZlcnQuRGVzZXJpYWxpemVPYmplY3Q8Q29ubmVjdGlvblN0cmluZ0NvbmZpZz4ocmVzcG9uc2UuU2VjcmV0U3RyaW5nKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHQK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBPa09iamVjdFJlc3VsdCh2YWx1ZSk7Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>layout</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
