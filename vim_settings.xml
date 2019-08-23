@@ -126,6 +126,11 @@
         <mark key="^" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F83C56DD-FEE2-4E09-9B2F-B33BD507D91E/f5/e3bb07cd/MvcCoreServiceCollectionExtensions.cs" timestamp="1566523710970">
+        <mark key="[" line="33" column="80" />
+        <mark key="]" line="33" column="80" />
+        <mark key="." line="33" column="80" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/99/e49f45d6/ObjectResultExecutor.cs" timestamp="1566519847378">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="17" column="35" />
@@ -344,7 +349,7 @@
         <text encoding="base64">ICAgICAgICBWYWx1ZVRhc2sK</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>.ContractResolver = new CustomContractResolver())</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
