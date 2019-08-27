@@ -9,7 +9,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api.Models/ItemRequest.cs" timestamp="1566880366933" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api.Models/ItemRequest.cs" timestamp="1566880646765" />
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Extensions/ServiceCollectionExtensions.cs" timestamp="1566804767140">
         <mark key="[" line="52" column="1" />
         <mark key="]" line="52" column="1" />
@@ -82,11 +82,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1566880596110">
-        <mark key="[" line="18" column="59" />
-        <mark key="]" line="18" column="59" />
-        <mark key="." line="18" column="59" />
-        <mark key="^" line="23" column="30" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1566880777631">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="45" column="88" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/BlogPosts/BlogPostMappingProfile.cs" timestamp="1566867020495">
         <mark key="[" line="25" column="32" />
@@ -129,11 +129,11 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="10" column="7" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/TagValidator.cs" timestamp="1566879495215">
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="33" column="31" />
-        <mark key="." line="33" column="31" />
-        <mark key="^" line="33" column="31" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/TagValidator.cs" timestamp="1566880929350">
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="29" column="40" />
+        <mark key="." line="29" column="40" />
+        <mark key="^" line="29" column="40" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Images/ImageMappingProfile.cs" timestamp="1566867566652">
         <mark key="[" line="8" column="13" />
@@ -165,10 +165,11 @@
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/Pagination/SlicedList/ISlicedList.cs" timestamp="1566799303759">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1566879933360">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Blog/BlogService.cs" timestamp="1566881246000">
+        <mark key="[" line="55" column="64" />
+        <mark key="]" line="55" column="64" />
+        <mark key="." line="55" column="64" />
+        <mark key="^" line="90" column="48" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/BlogPosts/BlogPostRequest.cs" timestamp="1566880567266">
         <mark key="[" line="30" column="21" />
@@ -177,7 +178,7 @@
         <mark key="^" line="30" column="27" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ImageViewModel.cs" timestamp="1566867298124" />
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Validation/ItemValidator.cs" timestamp="1566880081837" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Validation/ItemValidator.cs" timestamp="1566880679165" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" />
@@ -286,34 +287,34 @@
         <text encoding="base64">ICBwdWJsaWMgY2xhc3MgVGFnIDogUGFnZUJhc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDYWxsIEltYWdlIHNlcnZpY2UgaW5zdGVhZCBhZnRlciBpdCBpcyBkb25lCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8QmxvZ1Bvc3Q+IEdldEJ5U2x1Z0FzeW5jKHN0cmluZyBzbHVnLCBpbnQgc2hvcElkLCBib29sPyBwdWJsaXNoZWRPbmx5ID0gbnVsbCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciByZXN1bHQgPSAoYXdhaXQgX3Bvc3RSZXBvc2l0b3J5LkZpbmRBc3luYyhmaWx0ZXIpCiAgICAgICAgICAgICAgICAuQ29uZmlndXJlQXdhaXQoZmFsc2UpKS5GaXJzdE9yRGVmYXVsdCgpOwoKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgICB9</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICBwcml2YXRlIHN0YXRpYyBMaXN0PFRhZz4gTG9hZEZ1bGxUYWdzKElFbnVtZXJhYmxlPFRhZz4gYWxsVGFnc0ZvclVzZXIsIEJsb2dQb3N0IHBvc3QpCiAgICAgICAgewogICAgICAgICAgICBpZiAocG9zdC5UYWdzICE9IG51bGwgJiYgcG9zdC5UYWdzLkFueSgpKQogICAgICAgICAgICAgICAgcmV0dXJuIGFsbFRhZ3NGb3JVc2VyLldoZXJlKHAgPT4gcG9zdC5UYWdzLkNvbnRhaW5zKHAuSWQpKS5Ub0xpc3QoKTsKCiAgICAgICAgICAgIHJldHVybiBuZXcgTGlzdDxUYWc+KCk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">dmFyIGZpbHRlckJ1aWxkZXIgPSBCdWlsZGVyczxCbG9nUG9zdD4uRmlsdGVyOwogICAgICAgICAgICB2YXIgZmlsdGVyID0gZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguU2hvcElkLCBzaG9wSWQpICYgZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguU2x1Zywgc2x1Zyk7CiAgICAgICAgICAgIGlmIChwdWJsaXNoZWRPbmx5Lkhhc1ZhbHVlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBmaWx0ZXIgJj0gZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguSXNQdWJsaXNoZWQsIHRydWUpOwogICAgICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFsbFRhZ3NGb3JVc2VyID0gYXdhaXQgX3RhZ1NlcnZpY2UuRmluZChzaG9wSWQpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IC8vTG9hZCBhbGwgdGFncwogICAgICAgICAgICB2YXIgYWxsVGFnc0ZvclVzZXIgPSBhd2FpdCBfdGFnU2VydmljZS5GaW5kKG9wdGlvbnMuU2hvcElkKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBwb3N0IGluIHJlc3VsdCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcG9zdC5GdWxsVGFncyA9IExvYWRGdWxsVGFncyhhbGxUYWdzRm9yVXNlciwgcG9zdCk7CiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IC8vVE9ETzogRGVhbCB3aXRoIHJlY3ljbGUgYmluIGFuZCBibG9nIGV2ZW50cyBsYXRlciBvbgogICAgICAgIC8vIHByaXZhdGUgcmVhZG9ubHkgSUJsb2dFdmVudHMgX2Jsb2dFdmVudHM7CiAgICAgICAgLy8gcHJpdmF0ZSByZWFkb25seSBJUmVjeWNsZUJpblNlcnZpY2UgX3JlY3ljbGVCaW5TZXJ2aWNlOwogICAgICAgIC8vIHByaXZhdGUgcmVhZG9ubHkgSVJlZGlzQ2FjaGVDbGllbnQgX3JlZGlzQ2FjaGVDbGllbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFsbFRhZ3NGb1VzZXIgPSBhd2FpdCBfdGFnU2VydmljZS5GaW5kKHNob3BJZCkuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3RhZ1NlcnZpY2UgPSB0YWdTZXJ2aWNlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ICurrentActorProvider currentActor</text>
+        <text>.ConfigureAwait(false)</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
