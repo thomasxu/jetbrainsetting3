@@ -61,6 +61,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/ServiceCollectionExtensions.cs" timestamp="1566911767762" />
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Pages/Page.cs" timestamp="1566886135303">
         <mark key="[" line="60" column="5" />
         <mark key="]" line="61" column="52" />
@@ -119,11 +120,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/LogHelper.cs" timestamp="1566911416857">
-        <mark key="[" line="126" column="38" />
-        <mark key="]" line="125" column="48" />
-        <mark key="." line="125" column="48" />
-        <mark key="^" line="125" column="48" />
+      <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/LogHelper.cs" timestamp="1566911653750">
+        <mark key="[" line="126" column="98" />
+        <mark key="]" line="126" column="97" />
+        <mark key="." line="126" column="97" />
+        <mark key="^" line="126" column="97" />
       </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Services/ItemService.cs" timestamp="1566886732026">
         <mark key="[" line="199" column="70" />
@@ -136,6 +137,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/WebHostBuilderExtensions.cs" timestamp="1566911697714" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1566869971574">
         <mark key="[" line="83" column="12" />
         <mark key="]" line="56" column="46" />
@@ -162,6 +164,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/StructuredLogFormatter.cs" timestamp="1566912270896">
+        <mark key="[" line="37" column="84" />
+        <mark key="]" line="37" column="24" />
+        <mark key="^" line="37" column="24" />
+        <mark key="." line="37" column="24" />
       </file>
       <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging.Middleware/Extensions/HttpContextExtensions.cs" timestamp="1566908786375">
         <mark key="[" line="42" column="38" />
@@ -340,34 +348,34 @@
         <text>shopResizedMessage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXgK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBGb20oKQogICAgICAgIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwogICAgICAgICAgICAgICAgdGhyb3c7Cg==</text>
+        <text encoding="base64">ZXgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZU1pZGRsZXdhcmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwogICAgICAgICAgICAgICAgdGhyb3c7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZU1pZGRsZXdhcmUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX25leHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIENvcnJlbGF0aW9uSWRLZXkxID0gIlgtQ29ycmVsYXRpb24tSWQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX25leHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuQmxvZzsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIENvcnJlbGF0aW9uSWRLZXkxID0gIlgtQ29ycmVsYXRpb24tSWQiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgawo=</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuQmxvZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2hvcFJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgawo=</text>
       </register>
       <register name="-" type="4">
-        <text>ex</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
