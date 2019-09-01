@@ -3,36 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Shared/Selz.Api.Public.Core/ObjectIdRouteConstraint.cs" timestamp="1567296718640">
-        <mark key="[" line="57" column="16" />
-        <mark key="]" line="57" column="16" />
-        <mark key="^" line="57" column="32" />
-        <mark key="." line="57" column="16" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1567333539598">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
       </file>
-      <file name="C:/dev/git/experiment_project/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1567331385256" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Filters/BlogPostsControllerFilters.cs" timestamp="1567296981469">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="12" />
-        <mark key="^" line="11" column="12" />
-        <mark key="." line="11" column="12" />
+      <file name="C:/dev/git/experiment_project/Services.Shop/Service/src/Api/Selz.Shops.Contracts/BlogPosts/BlogPostResponse.cs" timestamp="1567333551764" />
+      <file name="C:/dev/git/experiment_project/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Blog/BlogPostService.cs" timestamp="1567333650152" />
+      <file name="C:/dev/git/experiment_project/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1567333420264" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/IBlogService.cs" timestamp="1567333239556" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/BlogPostService.cs" timestamp="1567333149820" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/BlogPosts/BlogPostResponse.cs" timestamp="1567333485777">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="28" column="4" />
+        <mark key="." line="30" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Startup.cs" timestamp="1567295512256">
-        <mark key="[" line="54" column="115" />
-        <mark key="]" line="118" column="59" />
-        <mark key="^" line="118" column="59" />
-        <mark key="." line="118" column="59" />
-      </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Shared/Selz.Api.Public.Core/Helpers/StringToDefaultEnumConverter.cs" timestamp="1567296771736">
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-      </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Providers/SnakeCaseQueryStringValueProviderFactory.cs" timestamp="1567297027504">
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="27" column="7" />
-        <mark key="^" line="27" column="7" />
-        <mark key="." line="27" column="7" />
-      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1567333533023" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/BlogService.cs" timestamp="1567333355301" />
     </filemarks>
     <jumps>
       <jump line="47" column="18" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87E8CE02-3EE4-404D-9082-6C8A5038171A/e0/402aed48/InputFormatterResult.cs" />
@@ -141,37 +130,34 @@
         <text encoding="base64">Rm9yYmlkUmVzdWx0IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2Zvcm1hdHRlcnMuaXRsaQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBCbG9nUG9zdFJlc3BvbnNlCiAgICB7CiAgICAgICAgCiAgICB9Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2Zvcm1hdHRlcnMuQ291bnQuZm9yCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVhZGVyRmFjdG9yeS5DcmVhdGVSZWFkZXIK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElUYWdTZXJ2aWNlIF90YWdTZXJ2aWNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJhc2UuQ2FuQ29udmVydChvYmplY3RUeXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2ltYWdlU2VydmljZSA9IGltYWdlU2VydmljZTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>public override void WriteJson(JsonWriter writer, object value, JsonSerializer serializer)
-        {
-            base.WriteJson(writer, value, serializer);
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElJbWFnZVNlcnZpY2UgX2ltYWdlU2VydmljZTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERpc3Bvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBbSHR0cEdldCgic2x1Zy97c2x1Z30iKV0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxBY3Rpb25SZXN1bHQ8QmxvZ1Bvc3RSZXNwb25zZT4+IEdldEJ5U2x1Z0FzeW5jKHN0cmluZyBzbHVnLCBib29sPyBwdWJsaXNoZWRPbmx5KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGJsb2dQb3N0ID0gYXdhaXQgX2Jsb2dQb3N0U2VydmljZS5GaW5kQnlTbHVnKHNsdWcsIHB1Ymxpc2hlZE9ubHksIFNob3BJZCk7CiAgICAgICAgICAgIGlmIChibG9nUG9zdCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gTm90Rm91bmQoKTsKICAgICAgICAgICAgfQogICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBfbWFwcGVyLk1hcDxCbG9nUG9zdFJlc3BvbnNlPihibG9nUG9zdCk7CiAgICAgICAgICAgIAogICAgICAgICAgICByZXR1cm4gT2socmVzcG9uc2UpOwogICAgICAgIH0KCiAgICAgICAgW0h0dHBQdXQoIntpZH0iKV0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxBY3Rpb25SZXN1bHQ8QmxvZ1Bvc3RSZXNwb25zZT4+IFJlcGxhY2VBc3luYyhzdHJpbmcgaWQsIEJsb2dQb3N0UmVxdWVzdCByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIG9yaWdpbmFsQmxvZ1Bvc3QgPSBhd2FpdCBfYmxvZ1Bvc3RTZXJ2aWNlLkZpbmRCeUlkKGlkLCBTaG9wSWQpOwogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKG9yaWdpbmFsQmxvZ1Bvc3QgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIE5vdEZvdW5kKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciB1cGRhdGVkQmxvZ1Bvc3QgPSBfbWFwcGVyLk1lcmdlSW50bzxCbG9nUG9zdD4ob3JpZ2luYWxCbG9nUG9zdCwgcmVxdWVzdCk7CiAgICAgICAgICAKCiAgICAgICAgICAgIHVwZGF0ZWRCbG9nUG9zdCA9IGF3YWl0IF9ibG9nUG9zdFNlcnZpY2UuVXBkYXRlKHVwZGF0ZWRCbG9nUG9zdCwgQWN0b3IpOwogICAgICAgICAgICAKICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gX21hcHBlci5NYXA8QmxvZ1Bvc3RSZXNwb25zZT4odXBkYXRlZEJsb2dQb3N0KTsKICAgICAgICAgICAgcmV0dXJuIE9rKHJlc3BvbnNlKTsKICAgICAgICB9CgogICAgICAgIFtIdHRwUG9zdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxBY3Rpb25SZXN1bHQ8QmxvZ1Bvc3RSZXNwb25zZT4+IENyZWF0ZUFzeW5jKEJsb2dQb3N0UmVxdWVzdCByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGJsb2dQb3N0ID0gX21hcHBlci5NYXA8QmxvZ1Bvc3Q+KHJlcXVlc3QpOwoKICAgICAgICAgICAgYmxvZ1Bvc3QgPSBhd2FpdCBfYmxvZ1Bvc3RTZXJ2aWNlLkNyZWF0ZShibG9nUG9zdCwgQWN0b3IpOwoKICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gX21hcHBlci5NYXA8QmxvZ1Bvc3RSZXNwb25zZT4oYmxvZ1Bvc3QpOwoKICAgICAgICAgICAgcmV0dXJuIENyZWF0ZWQocmVzcG9uc2UpOwogICAgICAgIH0KCiAgICAgICAgW0h0dHBEZWxldGUoIntpZH0iKV0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxBY3Rpb25SZXN1bHQ+IERlbGV0ZUFzeW5jKHN0cmluZyBpZCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBibG9nUG9zdCA9IGF3YWl0IF9ibG9nUG9zdFNlcnZpY2UuRmluZEJ5SWQoaWQsIFNob3BJZCk7CiAgICAgICAgICAgIGlmIChibG9nUG9zdCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gTm90Rm91bmQoKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy8gRGVsZXRlCiAgICAgICAgICAgIGF3YWl0IF9ibG9nUG9zdFNlcnZpY2UuRGVsZXRlKGJsb2dQb3N0LCBuZXcgQWN0b3IoU2hvcElkLCBVc2VySWQpKTsKCiAgICAgICAgICAgIHJldHVybiBOb0NvbnRlbnQoKTsKICAgICAgICB9CiAgICAgICAgCgogICAgICAgIFtIdHRwR2V0XQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrPEFjdGlvblJlc3VsdDxQYWdlZExpc3RSZXNwb25zZTxCbG9nUG9zdFJlc3BvbnNlPj4+IEZpbmRBc3luYyhbRnJvbVF1ZXJ5XSBCbG9nUG9zdFBhZ2VkTGlzdFJlcXVlc3QgcmVxdWVzdCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBvcHRpb25zID0gX21hcHBlci5NYXA8QmxvZ1Bvc3RQYWdlZExpc3RPcHRpb25zPihyZXF1ZXN0KTsKCiAgICAgICAgICAgIHZhciBibG9nUG9zdHMgPSBhd2FpdCBfYmxvZ1Bvc3RTZXJ2aWNlLkZpbmQob3B0aW9ucyk7CiAgICAgICAgICAgIAogICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBfbWFwcGVyLk1hcDxQYWdlZExpc3RSZXNwb25zZTxCbG9nUG9zdFJlc3BvbnNlPj4oYmxvZ1Bvc3RzKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiBPayhyZXNwb25zZSk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBleGNlcHRpb24xID0gYXdhaXQgQXBpRXhjZXB0aW9uLkNyZWF0ZShyZXNwb25zZS5SZXF1ZXN0TWVzc2FnZSwgcmVzcG9uc2UuUmVxdWVzdE1lc3NhZ2UuTWV0aG9kLCByZXNwb25zZSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">W0h0dHBHZXQoInNsdWcve3NsdWd9IildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8QWN0aW9uUmVzdWx0PEJsb2dQb3N0UmVzcG9uc2U+PiBHZXRCeVNsdWdBc3luYyhzdHJpbmcgc2x1ZywgYm9vbD8gcHVibGlzaGVkT25seSkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBibG9nUG9zdHMgPSBhd2FpdCBfYmxvZ1NlcnZpY2UuR2V0QnlTbHVnQXN5bmMoU2hvcElkLCBzbHVnLCBwdWJsaXNoZWRPbmx5KTsKICAgICAgICAgICAgaWYgKGJsb2dQb3N0cyA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gTm90Rm91bmQoKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gYmxvZ1Bvc3RzLlRvQmxvZ1Bvc3RSZXNwb25zZSgpOwogICAgICAgICAgICAKICAgICAgICAgICAgcmV0dXJuIE9rKHJlc3BvbnNlKTsKICAgICAgICB9CgogICAgICAgIFtIdHRwUHV0KCJ7aWR9IildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8QWN0aW9uUmVzdWx0PEJsb2dQb3N0UmVzcG9uc2U+PiBVcGRhdGVBc3luYyhzdHJpbmcgaWQsIEJsb2dQb3N0UmVxdWVzdCByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgaWYgKCFNb2RlbFN0YXRlLklzVmFsaWQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBCYWRSZXF1ZXN0KE1vZGVsU3RhdGUpOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgYmxvZ1Bvc3QgPSBhd2FpdCBfYmxvZ1NlcnZpY2UuR2V0QnlJZEFzeW5jKFNob3BJZCwgaWQpOwogICAgICAgICAgICBpZiAoYmxvZ1Bvc3QgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIE5vdEZvdW5kKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIGJsb2dQb3N0ID0gcmVxdWVzdC5NYXAoYmxvZ1Bvc3QpOwoKICAgICAgICAgICAgYmxvZ1Bvc3QgPSBhd2FpdCBfYmxvZ1NlcnZpY2UuVXBkYXRlQXN5bmMoYmxvZ1Bvc3QsIEFjdG9yKTsKCiAgICAgICAgICAgIHZhciByZXNwb25zZSA9IGJsb2dQb3N0LlRvQmxvZ1Bvc3RSZXNwb25zZSgpOwoKICAgICAgICAgICAgcmV0dXJuIE9rKHJlc3BvbnNlKTsKICAgICAgICB9CgogICAgICAgIFtIdHRwUG9zdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxBY3Rpb25SZXN1bHQ8QmxvZ1Bvc3RSZXNwb25zZT4+IENyZWF0ZUFzeW5jKEJsb2dQb3N0UmVxdWVzdCByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgaWYgKCFNb2RlbFN0YXRlLklzVmFsaWQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBCYWRSZXF1ZXN0KE1vZGVsU3RhdGUpOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgYmxvZ1Bvc3QgPSByZXF1ZXN0Lk1hcCgpOwoKICAgICAgICAgICAgYmxvZ1Bvc3QgPSBhd2FpdCBfYmxvZ1NlcnZpY2UuQ3JlYXRlQXN5bmMoYmxvZ1Bvc3QsIEFjdG9yKTsKCiAgICAgICAgICAgIHZhciByZXNwb25zZSA9IGJsb2dQb3N0LlRvQmxvZ1Bvc3RSZXNwb25zZSgpOwogICAgICAgICAgIAogICAgICAgICAgICByZXR1cm4gQ3JlYXRlZEF0QWN0aW9uKG5hbWVvZihHZXRCeUlkQXN5bmMpLCBuZXcgeyBpZCA9IHJlc3BvbnNlLklkIH0sIHJlc3BvbnNlKTsKICAgICAgICB9CgogICAgICAgIFtIdHRwRGVsZXRlKCJ7aWR9IildCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8QWN0aW9uUmVzdWx0PiBEZWxldGVBc3luYyhzdHJpbmcgaWQpCiAgICAgICAgewogICAgICAgICAgICB2YXIgYmxvZ1Bvc3QgPSBhd2FpdCBfYmxvZ1NlcnZpY2UuR2V0QnlJZEFzeW5jKFNob3BJZCwgaWQpOwogICAgICAgICAgICBpZiAoYmxvZ1Bvc3QgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIE5vdEZvdW5kKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIERlbGV0ZQogICAgICAgICAgICBhd2FpdCBfYmxvZ1NlcnZpY2UuUmVtb3ZlQXN5bmMoYmxvZ1Bvc3QsIG5ldyBBY3RvcihTaG9wSWQsIFVzZXJJZCkpOwoKICAgICAgICAgICAgcmV0dXJuIE5vQ29udGVudCgpOwogICAgICAgIH0KICAgICAgICAKCiAgICAgICAgW0h0dHBHZXRdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8QWN0aW9uUmVzdWx0PFBhZ2VkTGlzdFJlc3BvbnNlPEJsb2dQb3N0UmVzcG9uc2U+Pj4gU2VhcmNoKFtGcm9tUXVlcnldIEJsb2dQb3N0UGFnZWRMaXN0UmVxdWVzdCByZXF1ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgaWYgKCFNb2RlbFN0YXRlLklzVmFsaWQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBCYWRSZXF1ZXN0KE1vZGVsU3RhdGUpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICB2YXIgb3B0aW9ucyA9IHJlcXVlc3QuVG9CbG9nUG9zdFBhZ2VkTGlzdE9wdGlvbnMoKTsKICAgICAgICAgICAgb3B0aW9ucy5TaG9wSWQgPSBTaG9wSWQ7CgogICAgICAgICAgICB2YXIgcmVzdWx0cyA9IGF3YWl0IF9ibG9nU2VydmljZS5GaW5kKG9wdGlvbnMpOwogICAgICAgICAgICB2YXIgcGFnZWRMaXN0UmVzcG9uc2UgPSByZXN1bHRzLk1hcCgpOwogICAgICAgICAgICByZXR1cm4gT2socGFnZWRMaXN0UmVzcG9uc2UpOwogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlkZW50aXR5U2VydmVyT3B0aW9ucyA9IENvbmZpZ3VyYXRpb24uR2V0U2VjdGlvbigiSWRlbnRpdHlTZXJ2ZXIiKS5HZXQ8SWRlbnRpdHlTZXJ2ZXJPcHRpb25zPigpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRBdXRoZW50aWNhdGlvbihJZGVudGl0eVNlcnZlckF1dGhlbnRpY2F0aW9uRGVmYXVsdHMuQXV0aGVudGljYXRpb25TY2hlbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2Zvcm1hdHRlcnMuaXRsaQo=</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>SelzApiController</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
