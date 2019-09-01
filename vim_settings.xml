@@ -4,8 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/API/src/Selz.Core.Webhooks/Payloads/BlogPostWebhookPayloadProvider.cs" timestamp="1567333961406" />
-      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1567338019239" />
+      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1567340727308" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/60CAF381-E330-419C-98A8-76F3A03FAD65/46/e360c184/MvcCoreServiceCollectionExtensions.cs" timestamp="1567339426774" />
+      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/BlogPosts/BlogPostPostModel.cs" timestamp="1567341576120" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77A26029-7DE4-4284-9A96-A0F2080CD8D7/b8/e8071d03/TestServer.cs" timestamp="1567342056085" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/IBlogPostService.cs" timestamp="1567334433792" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/CategoriesController.cs" timestamp="1567337988944" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" timestamp="1567340465703" />
@@ -30,6 +32,9 @@
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo/Startup.cs" timestamp="1567339967177" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1567333533023" />
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Services/ItemService.cs" timestamp="1567336536788" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CatalogTestServer.cs" timestamp="1567342098773">
+        <mark key="[" line="9" column="1" />
+      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/BlogService.cs" timestamp="1567333355301" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1567340392416">
         <mark key="[" line="4" column="0" />
@@ -43,11 +48,18 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CatalogScenarioBase.cs" timestamp="1567341884431">
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="26" column="48" />
+        <mark key="^" line="26" column="48" />
+        <mark key="." line="26" column="48" />
+      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/IBlogService.cs" timestamp="1567333239556" />
       <file name="/Dummy.txt" timestamp="1567339083804">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Dockerfile" timestamp="1567339875776" />
+      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/BlogPosts/BlogPostPutModel.cs" timestamp="1567341556495" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/BlogPosts/BlogPostResponse.cs" timestamp="1567333485777">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="30" column="0" />
@@ -174,18 +186,21 @@
         <text encoding="base64">Rm9yYmlkUmVzdWx0IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2NvcGVkPElJdGVtU2VydmljZSwgSXRlbVNlcnZpY2U+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLkFkZENvbmZpZ3VyYXRpb24oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU2VydmljZXNkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2NvcGVkPElJdGVtU2VydmljZSwgSXRlbVNlcnZpY2U+KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl7MEUzRTBFMDktRTk5RS00NUFFLUFBM0YtMDA1MTE3MTU5NjdCfSA9IHswNUNDMjc5RC0xRDEyLTQzMUMtQTJFRC1DOEU2NkNDQUNDRDl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU2VydmljZXNkCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CQl7MEUzRTBFMDktRTk5RS00NUFFLUFBM0YtMDA1MTE3MTU5NjdCfSA9IHswNUNDMjc5RC0xRDEyLTQzMUMtQTJFRC1DOEU2NkNDQUNDRDl9Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{0E3E0E09-E99E-45AE-AA3F-00511715967B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0E3E0E09-E99E-45AE-AA3F-00511715967B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E3E0E09-E99E-45AE-AA3F-00511715967B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -193,22 +208,19 @@
 		{0E3E0E09-E99E-45AE-AA3F-00511715967B}.Test|Any CPU.ActiveCfg = Debug|Any CPU
 		{0E3E0E09-E99E-45AE-AA3F-00511715967B}.Test|Any CPU.Build.0 = Debug|Any CPU</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQl7M0E0QkU2NzMtODNCRC00RDFELUE1OTMtMEYxOTVERDVBNEI5fSA9IHswNUNDMjc5RC0xRDEyLTQzMUMtQTJFRC1DOEU2NkNDQUNDRDl9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{3A4BE673-83BD-4D1D-A593-0F195DD5A4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3A4BE673-83BD-4D1D-A593-0F195DD5A4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A4BE673-83BD-4D1D-A593-0F195DD5A4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A4BE673-83BD-4D1D-A593-0F195DD5A4B9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3A4BE673-83BD-4D1D-A593-0F195DD5A4B9}.Test|Any CPU.ActiveCfg = Debug|Any CPU
 		{3A4BE673-83BD-4D1D-A593-0F195DD5A4B9}.Test|Any CPU.Build.0 = Debug|Any CPU</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>Item</text>
