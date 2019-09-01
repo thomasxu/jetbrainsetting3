@@ -4,37 +4,36 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/API/src/Selz.Core.Webhooks/Payloads/BlogPostWebhookPayloadProvider.cs" timestamp="1567333961406" />
-      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1567340727308" />
+      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1567344853751">
+        <mark key="[" line="45" column="62" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/60CAF381-E330-419C-98A8-76F3A03FAD65/46/e360c184/MvcCoreServiceCollectionExtensions.cs" timestamp="1567339426774" />
-      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/BlogPosts/BlogPostPostModel.cs" timestamp="1567341576120" />
+      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/BlogPosts/BlogPostPostModel.cs" timestamp="1567344801228" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77A26029-7DE4-4284-9A96-A0F2080CD8D7/b8/e8071d03/TestServer.cs" timestamp="1567342056085" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/IBlogPostService.cs" timestamp="1567334433792" />
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/CategoriesController.cs" timestamp="1567337988944" />
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" timestamp="1567340465703" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" timestamp="1567342876300" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/Shops/ShopsProfile.cs" timestamp="1567339139731" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/TaggingService.cs" timestamp="1567344873479" />
       <file name="C:/dev/git/experiment_project/Services.Shop/Service/src/Api/Selz.Shops.Core/Services/Blog/BlogPostService.cs" timestamp="1567333650152" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopDataFixture.cs" timestamp="1567339287214" />
       <file name="C:/dev/git/experiment_project/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1567334473717" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1567339604556" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/BlogPosts/BlogPostProfile.cs" timestamp="1567337770947">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="10" column="51" />
-        <mark key="." line="10" column="51" />
-        <mark key="^" line="10" column="51" />
-      </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Startup.cs" timestamp="1567340034346" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40343BBC-71F2-4F56-B78F-AF94A97AE3DA/10/012079dc/BlogPost.cs" timestamp="1567344998549" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/FakeCategories.cs" timestamp="1567344789560">
+        <mark key="'" line="11" column="61" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1567340083794">
         <mark key="[" line="108" column="32" />
         <mark key="]" line="108" column="32" />
         <mark key="." line="108" column="32" />
       </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CategoryDataFixture.cs" timestamp="1567342959748" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ScenarioBase.cs" timestamp="1567338896622" />
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo/Startup.cs" timestamp="1567339967177" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1567333533023" />
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Services/ItemService.cs" timestamp="1567336536788" />
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CatalogTestServer.cs" timestamp="1567342098773">
-        <mark key="[" line="9" column="1" />
-      </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CatalogTestServer.cs" timestamp="1567342577981" />
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/BlogService.cs" timestamp="1567333355301" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1567340392416">
         <mark key="[" line="4" column="0" />
@@ -48,39 +47,22 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CatalogScenarioBase.cs" timestamp="1567341884431">
-        <mark key="[" line="26" column="50" />
-        <mark key="]" line="26" column="48" />
-        <mark key="^" line="26" column="48" />
-        <mark key="." line="26" column="48" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CatalogScenarioBase.cs" timestamp="1567342603535">
+        <mark key="]" line="16" column="40" />
+        <mark key="^" line="16" column="40" />
+        <mark key="." line="16" column="40" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/IBlogService.cs" timestamp="1567333239556" />
-      <file name="/Dummy.txt" timestamp="1567339083804">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Dockerfile" timestamp="1567339875776" />
       <file name="C:/dev/git/selz/API/src/Selz.Model/Models/BlogPosts/BlogPostPutModel.cs" timestamp="1567341556495" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/BlogPosts/BlogPostResponse.cs" timestamp="1567333485777">
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="28" column="4" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/Shops/TokenProfile.cs" timestamp="1567339151669" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/docker-compose-api-local.yml" timestamp="1567339710267" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/60CAF381-E330-419C-98A8-76F3A03FAD65/f2/612e5c1a/BaseController.cs" timestamp="1567334496859" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IBlogPostClient.cs" timestamp="1567337837586">
-        <mark key="[" line="7" column="85" />
-        <mark key="]" line="11" column="53" />
-        <mark key="." line="11" column="53" />
-        <mark key="^" line="11" column="53" />
-      </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api.Client/IItemClient.cs" timestamp="1567337852830">
         <mark key="[" line="20" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="18" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87E8CE02-3EE4-404D-9082-6C8A5038171A/e0/402aed48/InputFormatterResult.cs" />
       <jump line="43" column="89" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Startup.cs" />
       <jump line="111" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/ShopResponse.cs" />
       <jump line="165" column="32" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Core/Domains/ShopExtensions.cs" />
@@ -180,6 +162,7 @@
       <jump line="149" column="20" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/89E5A1BE-3FFC-4BB1-B2E6-387DC8C61499/2C/ProtocolResponse.cs" />
       <jump line="70" column="32" filename="C:/dev/git/experiment_project/IdentityServer4_2/src/IdentityServer4_2/Config.cs" />
       <jump line="49" column="42" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7208242E-8171-474E-A12D-B9D506D0C43F/5/ApiResponse.cs" />
+      <jump line="90" column="61" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/FakeCategories.cs" />
     </jumps>
     <registers>
       <register name="0" type="4">
