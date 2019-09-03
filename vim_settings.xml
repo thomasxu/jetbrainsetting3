@@ -101,11 +101,11 @@
         <mark key="." line="27" column="41" />
         <mark key="^" line="27" column="48" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1567468191578">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1567468934185">
         <mark key="[" line="2710" column="48" />
         <mark key="]" line="2710" column="48" />
         <mark key="." line="2710" column="48" />
-        <mark key="^" line="2710" column="48" />
+        <mark key="^" line="2710" column="47" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CA55E692-DA2C-4C8A-912D-364A352AAD35/e5/7ae28cce/AppContext.cs" timestamp="1567378004823">
         <mark key="[" line="27" column="127" />
@@ -151,10 +151,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="31" column="44" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1567468206576">
-        <mark key="[" line="481" column="44" />
-        <mark key="]" line="481" column="44" />
-        <mark key="." line="481" column="44" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1567468950922">
+        <mark key="[" line="481" column="48" />
+        <mark key="]" line="481" column="48" />
+        <mark key="." line="481" column="48" />
+        <mark key="^" line="481" column="47" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/ThemeFileProvider.cs" timestamp="1567467986758" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Themes/InstalledTheme.cs" timestamp="1567468133719" />
@@ -307,7 +308,7 @@
         <text encoding="base64">ICAKICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>new ThemeFileProvider(InstalledTheme.Theme)</text>
+        <text>ThemeFileProvider(InstalledTheme.Theme))</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
