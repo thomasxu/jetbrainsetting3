@@ -3,18 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/Selz.Shops.Api.Client.csproj" timestamp="1567508061297" />
       <file name="C:/dev/git/selz/fluid/Fluid/DefaultFluidParser.cs" timestamp="1567470057358" />
       <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1567484896364">
         <mark key="[" line="55" column="78" />
         <mark key="]" line="55" column="78" />
         <mark key="." line="55" column="78" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/Tags/TagProfile.cs" timestamp="1567489802305">
-        <mark key="'" line="10" column="41" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="10" column="41" />
       </file>
       <file name="/ThemeRenderer.cs" timestamp="1567471561958" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/ITagClient.cs" timestamp="1567495338032">
@@ -48,13 +42,6 @@
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/Tags/TagResponse.cs" timestamp="1567489597456">
         <mark key="[" line="3" column="1" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1567398686921">
-        <mark key="'" line="24" column="8" />
-        <mark key="[" line="85" column="71" />
-        <mark key="]" line="85" column="71" />
-        <mark key="." line="85" column="71" />
-        <mark key="^" line="85" column="70" />
       </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Mapping/TypeConverters.cs" timestamp="1567483378584" />
       <file name="C:/dev/git/experiment_project/AutomapperSample/AutomapperSample/Program.cs" timestamp="1567487038832">
@@ -129,18 +116,19 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Tags/TagServiceTest.cs" timestamp="1567506106163">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Tags/TagServiceTest.cs" timestamp="1567506188573">
         <mark key="[" line="47" column="27" />
-        <mark key="]" line="47" column="27" />
-        <mark key="^" line="42" column="40" />
-        <mark key="." line="47" column="27" />
+        <mark key="]" line="32" column="51" />
+        <mark key="^" line="32" column="51" />
+        <mark key="." line="32" column="51" />
       </file>
       <file name="C:/dev/git/selz/Services.Cart/Service/src/Api/Selz.Cart.Api.Models/DiscountResponse.cs" timestamp="1567477244238" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/Helpers/CDNHelper.cs" timestamp="1567466812813" />
-      <file name="/Dummy.txt" timestamp="1567472150760">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1567506159639">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ShopTestServer.cs" timestamp="1567495353588">
         <mark key="[" line="45" column="0" />
@@ -191,7 +179,6 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/MockFileProvider.cs" timestamp="1567468226621" />
     </filemarks>
     <jumps>
-      <jump line="209" column="47" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mappings/Images/ImageResponseMapper.cs" />
       <jump line="21" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingFixture.cs" />
       <jump line="59" column="21" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostFixture.cs" />
       <jump line="54" column="35" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostFixture.cs" />
@@ -291,6 +278,7 @@
       <jump line="69" column="12" filename="C:/dev/git/selz/Services.Sample/Service/src/Shared/Selz.Sample.Core/Services/ItemService.cs" />
       <jump line="11" column="41" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/Tags/TagProfile.cs" />
       <jump line="44" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B2FC0BD-62D8-46FE-BDE5-75F3854A3694/3c/7c45bb81/StringExtensions.cs" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -324,7 +312,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.BeNull();</text>
+        <text>e utility function to private</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
