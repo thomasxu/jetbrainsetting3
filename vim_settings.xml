@@ -39,7 +39,16 @@
         <mark key="." line="46" column="37" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/ProductsController.cs" timestamp="1567552832337" />
+      <file name="C:/dev/git/experiment_project/Services.Shop/Service/src/Api/Selz.Shops.Client/Selz.Shops.Client.csproj" timestamp="1567565495106">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="27" />
+      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Model/Models/BlogPosts/BlogPostModel.cs" timestamp="1567551402016" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B2FC0BD-62D8-46FE-BDE5-75F3854A3694/3c/7c45bb81/StringExtensions.cs" timestamp="1567497869512">
+        <mark key="'" line="44" column="23" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1567557995345">
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
@@ -113,15 +122,17 @@
         <mark key="." line="499" column="9" />
         <mark key="^" line="499" column="9" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1567557072618">
-        <mark key="[" line="42" column="57" />
-        <mark key="]" line="32" column="8" />
-        <mark key="^" line="32" column="8" />
-        <mark key="." line="32" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DBBBBD64-65BB-4F5D-88B0-00E5D8096615/5/ApiException.cs" timestamp="1567565949126">
+        <mark key="'" line="12" column="17" />
+      </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1567565935400">
+        <mark key="[" line="42" column="70" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Taggings/TaggingFixture.cs" />
       <jump line="59" column="21" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostFixture.cs" />
       <jump line="54" column="35" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostFixture.cs" />
       <jump line="33" column="28" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" />
@@ -221,10 +232,11 @@
       <jump line="11" column="41" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/Tags/TagProfile.cs" />
       <jump line="44" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B2FC0BD-62D8-46FE-BDE5-75F3854A3694/3c/7c45bb81/StringExtensions.cs" />
       <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="12" column="17" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DBBBBD64-65BB-4F5D-88B0-00E5D8096615/5/ApiException.cs" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZhciB0YWdJZHMgPSBuZXdbXSB7IE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKSwgT2JqZWN0SWQuR2VuZXJhdGVOZXdJZCgpIH07Cg==</text>
+      <register name="0" type="4">
+        <text>NUGET_BUILD_NUMBE</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
@@ -254,7 +266,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZha2VCbG9nUG9zdC5UYWdzID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Count</text>
+        <text>tags</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
