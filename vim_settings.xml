@@ -92,6 +92,11 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Blog/BlogPostViewModel.cs" timestamp="1567551608998" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/BlogPosts/BlogPostResponse.cs" timestamp="1567551902904" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/BlogPostProfile.cs" timestamp="1567568751605">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+      </file>
       <file name="/Dummy.txt" timestamp="1567563483738">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -125,11 +130,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DBBBBD64-65BB-4F5D-88B0-00E5D8096615/5/ApiException.cs" timestamp="1567565949126">
         <mark key="'" line="12" column="17" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1567565935400">
-        <mark key="[" line="42" column="70" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1567568635880">
+        <mark key="[" line="41" column="87" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -239,34 +243,34 @@
         <text>NUGET_BUILD_NUMBE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkNsaWVudC5IZWFkZXJzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZhciB0YWdJZHMgPSBuZXdbXSB7IE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKSwgT2JqZWN0SWQuR2VuZXJhdGVOZXdJZCgpIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwaWNrUmFuZG9tLlRvTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZhciB0YWdJZHMgPSBuZXdbXSB7IE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKSwgT2JqZWN0SWQuR2VuZXJhdGVOZXdJZCgpIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0YWdJZHMgPSBGYWtlVGFncy5BbGwuU2VsZWN0KHQgPT4gdC5JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwaWNrUmFuZG9tLlRvTGlzdCgpOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0YWdJZHMgPSBGYWtlVGFncy5BbGwuU2VsZWN0KHQgPT4gdC5JZCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IC5SdWxlRm9yKGMgPT4gYy5UYWdzLCBmID0+IG5ldyBMaXN0PE9iamVjdElkPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBPYmplY3RJZC5HZW5lcmF0ZU5ld0lkKCksCiAgICAgICAgICAgICAgICBPYmplY3RJZC5HZW5lcmF0ZU5ld0lkKCkKICAgICAgICAgICAgfSk7</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXV0b01hcHBlci5Db25maWd1cmF0aW9uUHJvdmlkZXIuQXNzZXJ0Q29uZmlndXJhdGlvbklzVmFsaWQoKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZha2VCbG9nUG9zdC5UYWdzID0gCg==</text>
-      </register>
       <register name="-" type="4">
-        <text>tags</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>{</text>
