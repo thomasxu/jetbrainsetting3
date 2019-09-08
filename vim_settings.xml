@@ -3,36 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1567850570904" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/IBlogPostService.cs" timestamp="1567724530891">
-        <mark key="[" line="11" column="80" />
-        <mark key="]" line="11" column="80" />
-        <mark key="." line="11" column="80" />
-        <mark key="^" line="11" column="80" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Selz.Api.Public.csproj" timestamp="1567854849631">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/ITagClient.cs" timestamp="1567722837664">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="9" column="85" />
-        <mark key="." line="9" column="85" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1567850943383">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="77" column="15" />
+        <mark key="." line="86" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/TaggingService.cs" timestamp="1567860173556" />
-      <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.UnitTests/WebhookServiceTest.cs" timestamp="1567840278772" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Filters/BlogPostsControllerFilters.cs" timestamp="1567855760839" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1567850642137">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="103" column="18" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/BlogPosts/BlogPostProfile.cs" timestamp="1567860830231">
-        <mark key="[" line="39" column="57" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5E1F52F8-0D4F-437D-886B-8CB3D4E55583/1b/16bed479/Notification.cs" timestamp="1567860945930" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api/Validators/WebhookValidator.cs" timestamp="1567840451102">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="11" />
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="11" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.FunctionalTests/WebhookScenarios.cs" timestamp="1567749683913">
+        <mark key="[" line="241" column="40" />
+        <mark key="]" line="241" column="40" />
+        <mark key="." line="241" column="40" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/BlogPosts/BlogPostGetRequest.cs" timestamp="1567855533857">
         <mark key="[" line="4" column="18" />
@@ -40,7 +31,18 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/SlicedListResponse.cs" timestamp="1567859488912" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Shops/ShopServiceTest.cs" timestamp="1567723157986">
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="63" column="60" />
+        <mark key="^" line="63" column="60" />
+        <mark key="." line="63" column="60" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/IBlogPostService.cs" timestamp="1567724530891">
+        <mark key="[" line="11" column="80" />
+        <mark key="]" line="11" column="80" />
+        <mark key="." line="11" column="80" />
+        <mark key="^" line="11" column="80" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/BlogPostService.cs" timestamp="1567724512688">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="93" />
@@ -49,6 +51,16 @@
       <file name="/Selz.Api.Public.csproj" timestamp="1567854845446">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="69" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/SlicedListTypeConverter.cs" timestamp="1567857238745">
+        <mark key="[" line="13" column="64" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/ITagClient.cs" timestamp="1567722837664">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="9" column="85" />
+        <mark key="." line="9" column="85" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ScenarioBase.cs" timestamp="1567743560670">
         <mark key="[" line="35" column="31" />
@@ -62,41 +74,11 @@
         <mark key="." line="30" column="12" />
         <mark key="^" line="31" column="55" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1567850943383">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="77" column="15" />
-        <mark key="." line="86" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1567854638507" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Shops/ShopServiceTest.cs" timestamp="1567723157986">
-        <mark key="[" line="49" column="55" />
-        <mark key="]" line="63" column="60" />
-        <mark key="^" line="63" column="60" />
-        <mark key="." line="63" column="60" />
-      </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/BlogPostProfile.cs" timestamp="1567859014514">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/BlogPostProfile.cs" timestamp="1567980968308">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="34" column="30" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/ProductsController.cs" timestamp="1567843029654" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Selz.Api.Public.csproj" timestamp="1567854849631">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.FunctionalTests/WebhookScenarios.cs" timestamp="1567749683913">
-        <mark key="[" line="241" column="40" />
-        <mark key="]" line="241" column="40" />
-        <mark key="." line="241" column="40" />
-      </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/WebhooksController.cs" timestamp="1567854868292" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/SlicedListTypeConverter.cs" timestamp="1567857238745">
-        <mark key="[" line="13" column="64" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IBlogPostClient.cs" timestamp="1567743199165">
         <mark key="[" line="17" column="30" />
@@ -114,6 +96,15 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1567850642137">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="103" column="18" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/BlogPosts/BlogPostProfile.cs" timestamp="1567981540159">
+        <mark key="[" line="39" column="57" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1567858056600">
         <mark key="'" line="60" column="15" />
