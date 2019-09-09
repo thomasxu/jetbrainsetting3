@@ -66,6 +66,13 @@
       <file name="/Dummy.txt" timestamp="1568032945716">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1568069401521">
+        <mark key="[" line="38" column="64" />
+        <mark key="]" line="38" column="72" />
+        <mark key="." line="38" column="72" />
+        <mark key="^" line="38" column="72" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/FakeBlogPosts.cs" timestamp="1568069436387" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.FunctionalTests/WebhookScenarios.cs" timestamp="1567749683913">
         <mark key="[" line="241" column="40" />
         <mark key="]" line="241" column="40" />
@@ -84,7 +91,7 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/BlogPosts/BlogPostResponse.cs" timestamp="1567990879742">
         <mark key="[" line="36" column="47" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1568067453416" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1568068929073" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api/Mapping/TypeConverters.cs" timestamp="1567986701232">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="12" />
@@ -97,8 +104,7 @@
         <mark key="." line="17" column="30" />
         <mark key="^" line="18" column="99" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostsControllerTest.cs" timestamp="1568067355537">
-        <mark key="[" line="75" column="17" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostsControllerTest.cs" timestamp="1568068643836">
         <mark key="]" line="66" column="12" />
         <mark key="^" line="66" column="12" />
         <mark key="." line="66" column="12" />
@@ -108,7 +114,7 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1568034209000">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1568067883989">
         <mark key="'" line="69" column="107" />
         <mark key="[" line="69" column="16" />
         <mark key="]" line="50" column="22" />
@@ -223,34 +229,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIoZCA9PiBkLkN1cnNvciwgb3B0ID0+IG9wdC5JZ25vcmUoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdmFyIGR0byA9IG1hcHBlci5NZXJnZUludG88QmxvZ1Bvc3RSZXNwb25zZT4odGFncywgYmxvZ1Bvc3QsICk7IAo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIG1jLkFkZFByb2ZpbGUobmV3IEJhc2VQcm9maWxlKCkpOwogICAgICAgICAgICAgICAgICAgbWMuQWRkUHJvZmlsZShuZXcgQ29tbW9uUHJvZmlsZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgdmFyIGR0byA9IG1hcHBlci5NZXJnZUludG88QmxvZ1Bvc3RSZXNwb25zZT4odGFncywgYmxvZ1Bvc3QsICk7IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIG1jLkFkZFByb2ZpbGUobmV3IEJhc2VQcm9maWxlKCkpOwogICAgICAgICAgICAgICAgICAgbWMuQWRkUHJvZmlsZShuZXcgQ29tbW9uUHJvZmlsZSgpKTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlTWFwPFF1ZXJ5UmVxdWVzdCwgU2xpY2VkTGlzdFJlcXVlc3Q+KCk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">dmFyIGJsb2dQb3N0UmVzcG9uc2UgPSBuZXcgQXBpUmVzcG9uc2U8QmxvZ1Bvc3RSZXNwb25zZT4ge0NvbnRlbnQgPSBuZXcgQmxvZ1Bvc3RSZXNwb25zZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfX07</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">a2sK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGJsb2dQb3N0c0NvdW50ID0gYmxvZ1Bvc3RzUmVzcG9uc2UuQ29udGVudD8uRGF0YT8uQ291bnQoKSA/PyAwOwogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGJsb2dQb3N0c0NvdW50ID09IDApCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBOb3RGb3VuZCgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYmxvZ1Bvc3RzUmVzcG9uc2UuRW5zdXJlU3VjY2Vzc1N0YXR1c0NvZGVBc3luYygpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJsb2dQb3N0UmVzcG9uc2UuQ29udGVudCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gTm90Rm91bmQoKTsKICAgICAgICAgICAgfQo=</text>
-      </register>
       <register name="-" type="4">
-        <text>int?</text>
+        <text encoding="base64">IHNldDs=</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
