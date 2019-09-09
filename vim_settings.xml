@@ -66,17 +66,23 @@
       <file name="/Dummy.txt" timestamp="1568032945716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1568069401521">
-        <mark key="[" line="38" column="64" />
-        <mark key="]" line="38" column="72" />
-        <mark key="." line="38" column="72" />
-        <mark key="^" line="38" column="72" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1568070255505">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="23" column="57" />
+        <mark key="." line="23" column="57" />
+        <mark key="^" line="23" column="57" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/FakeBlogPosts.cs" timestamp="1568069436387" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.FunctionalTests/WebhookScenarios.cs" timestamp="1567749683913">
         <mark key="[" line="241" column="40" />
         <mark key="]" line="241" column="40" />
         <mark key="." line="241" column="40" />
+      </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/FakeBlogPosts.cs" timestamp="1568070191910">
+        <mark key="[" line="42" column="47" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+        <mark key="^" line="14" column="41" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/BlogPostService.cs" timestamp="1567724512688">
         <mark key="[" line="48" column="0" />
@@ -92,6 +98,12 @@
         <mark key="[" line="36" column="47" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1568068929073" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/FakeTags.cs" timestamp="1568070100417">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="23" column="75" />
+      </file>
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api/Mapping/TypeConverters.cs" timestamp="1567986701232">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="12" />
@@ -226,37 +238,41 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIoZCA9PiBkLkN1cnNvciwgb3B0ID0+IG9wdC5JZ25vcmUoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLlNob3BJZCwgZiA9PiBDb25zdGFudHMuRGVmYXVsdFNob3BJZCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+      <register name="1" type="4">
+        <text>new BlogPostResponse
+        {
+            FakeBlogPosts.All();
+            
+        })</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdmFyIGR0byA9IG1hcHBlci5NZXJnZUludG88QmxvZ1Bvc3RSZXNwb25zZT4odGFncywgYmxvZ1Bvc3QsICk7IAo=</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuU2hvcHMuQmxvZ3M7CnVzaW5nIFNlbHouQ29yZS5Eb21haW5zLlNob3BzLkltYWdlczsKdXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuU2hvcHMuVGFnczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIG1jLkFkZFByb2ZpbGUobmV3IEJhc2VQcm9maWxlKCkpOwogICAgICAgICAgICAgICAgICAgbWMuQWRkUHJvZmlsZShuZXcgQ29tbW9uUHJvZmlsZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLlBhZ2VQYXRoLCBmID0+IGYuKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLk1ldGFEZXNjcmlwdGlvbiwgZiA9PiBmLkxvcmVtLlNlbnRlbmNlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlTWFwPFF1ZXJ5UmVxdWVzdCwgU2xpY2VkTGlzdFJlcXVlc3Q+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLlBhZ2VUaXRsZSwgZiA9PiBzdHJpbmcuSm9pbigiICIsIGYuTG9yZW0uV29yZHMoKSkpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dmFyIGJsb2dQb3N0UmVzcG9uc2UgPSBuZXcgQXBpUmVzcG9uc2U8QmxvZ1Bvc3RSZXNwb25zZT4ge0NvbnRlbnQgPSBuZXcgQmxvZ1Bvc3RSZXNwb25zZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfX07</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLklzUHVibGlzaGVkLCBmID0+IGYuUmFuZG9tLkJvb2woKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkNyZWF0ZWRCeSwgZiA9PiBDb25zdGFudHMuRGVmYXVsdFVzZXJJZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJsb2dQb3N0c0NvdW50ID0gYmxvZ1Bvc3RzUmVzcG9uc2UuQ29udGVudD8uRGF0YT8uQ291bnQoKSA/PyAwOwogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGJsb2dQb3N0c0NvdW50ID09IDApCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBOb3RGb3VuZCgpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lZGl1bSA9IGYuSW1hZ2UuTG9yZW1QaXhlbFVybCgpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYmxvZ1Bvc3RzUmVzcG9uc2UuRW5zdXJlU3VjY2Vzc1N0YXR1c0NvZGVBc3luYygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNtYWxsID0gZi5JbWFnZS5Mb3JlbVBpeGVsVXJsKCksCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNldDs=</text>
+        <text>Faker.</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
