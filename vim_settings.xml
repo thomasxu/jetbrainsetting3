@@ -66,11 +66,11 @@
       <file name="/Dummy.txt" timestamp="1568032945716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1568070255505">
-        <mark key="[" line="23" column="59" />
-        <mark key="]" line="23" column="57" />
-        <mark key="." line="23" column="57" />
-        <mark key="^" line="23" column="57" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1568071231861">
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
+        <mark key="^" line="15" column="58" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/FakeBlogPosts.cs" timestamp="1568069436387" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.FunctionalTests/WebhookScenarios.cs" timestamp="1567749683913">
@@ -116,10 +116,10 @@
         <mark key="." line="17" column="30" />
         <mark key="^" line="18" column="99" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostsControllerTest.cs" timestamp="1568068643836">
-        <mark key="]" line="66" column="12" />
-        <mark key="^" line="66" column="12" />
-        <mark key="." line="66" column="12" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostsControllerTest.cs" timestamp="1568071244313">
+        <mark key="[" line="72" column="68" />
+        <mark key="]" line="72" column="68" />
+        <mark key="." line="72" column="68" />
       </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api.Client/IItemClient.cs" timestamp="1567743301824">
         <mark key="[" line="44" column="0" />
@@ -240,39 +240,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLlNob3BJZCwgZiA9PiBDb25zdGFudHMuRGVmYXVsdFNob3BJZCkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="2" type="4">
         <text>new BlogPostResponse
         {
             FakeBlogPosts.All();
             
         })</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuU2hvcHMuQmxvZ3M7CnVzaW5nIFNlbHouQ29yZS5Eb21haW5zLlNob3BzLkltYWdlczsKdXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuU2hvcHMuVGFnczsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLlBhZ2VQYXRoLCBmID0+IGYuKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLk1ldGFEZXNjcmlwdGlvbiwgZiA9PiBmLkxvcmVtLlNlbnRlbmNlKCkpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLlBhZ2VUaXRsZSwgZiA9PiBzdHJpbmcuSm9pbigiICIsIGYuTG9yZW0uV29yZHMoKSkpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLklzUHVibGlzaGVkLCBmID0+IGYuUmFuZG9tLkJvb2woKSkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkNyZWF0ZWRCeSwgZiA9PiBDb25zdGFudHMuRGVmYXVsdFVzZXJJZCkK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1lZGl1bSA9IGYuSW1hZ2UuTG9yZW1QaXhlbFVybCgpLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNtYWxsID0gZi5JbWFnZS5Mb3JlbVBpeGVsVXJsKCksCg==</text>
-      </register>
       <register name="-" type="4">
-        <text>Faker.</text>
+        <text encoding="base64">cHJpdmF0ZSBzZXQ7IA==</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
