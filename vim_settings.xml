@@ -10,11 +10,6 @@
         <mark key="." line="60" column="0" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1568266472986" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/Tags/TagProfile.cs" timestamp="1568259847574">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Model/Models/BlogPosts/BlogPostPostModel.cs" timestamp="1568264090074" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/IBlogPostService.cs" timestamp="1568169881063">
         <mark key="[" line="15" column="0" />
@@ -42,7 +37,7 @@
       <file name="/Dummy.cs" timestamp="1568080246824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/TaggingService.cs" timestamp="1568267292500" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/TaggingService.cs" timestamp="1568268454528" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1568260890896" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Tokens/TokenScenarios.cs" timestamp="1568261850578" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/TagScenarios.cs" timestamp="1568261045060">
@@ -52,7 +47,10 @@
         <mark key="^" line="37" column="58" />
         <mark key="." line="64" column="67" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1568261349299" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1568269192906">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="77" />
+      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/StoreController.cs" timestamp="1568156354915">
         <mark key="[" line="42" column="41" />
         <mark key="]" line="42" column="41" />
@@ -67,6 +65,7 @@
         <mark key="^" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62482472-4CB7-4733-8768-0A67B3D4B2D8/93/fab16c0b/DefaultSecretsManagerConfigurationBuilder.cs" timestamp="1568268965724" />
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1568266664364" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.UnitTests/Tags/TagServiceTest.cs" timestamp="1568262508738">
         <mark key="'" line="76" column="49" />
@@ -75,7 +74,7 @@
         <mark key="." line="62" column="11" />
         <mark key="^" line="62" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADE1F68B-5077-4F7B-934E-BFC4EF763470/b9/67f50c34/Tag.cs" timestamp="1568266925945">
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADE1F68B-5077-4F7B-934E-BFC4EF763470/b9/67f50c34/Tag.cs" timestamp="1568268410634">
         <mark key="[" line="27" column="28" />
         <mark key="]" line="27" column="27" />
       </file>
@@ -110,6 +109,10 @@
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/BlogPosts/BlogPostResponse.cs" timestamp="1567990879742">
         <mark key="[" line="36" column="47" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Extensions/HealthChecksBuilderExtensions.cs" timestamp="1568269205094">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="118" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IBlogPostClient.cs" timestamp="1568178197103">
         <mark key="[" line="18" column="165" />
@@ -243,8 +246,8 @@
       <register name="/" type="4">
         <text>{</text>
       </register>
-      <register name="0" type="4">
-        <text />
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5BZGRNb25nb0RiKHJlcG9zaXRvcnlPcHRpb25zLkNvbm5lY3Rpb25TdHJpbmcsICJtb25nb2RiIiwgZmFpbHVyZVN0YXR1cywgdGFnczogbmV3W10geyAiU2hvcHMiIH0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5Db3JlLk9wdGlvbnM7Cg==</text>
