@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1568348662970">
@@ -37,12 +37,11 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="26" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1568354338382">
-        <mark key="'" line="204" column="11" />
-        <mark key="[" line="220" column="29" />
-        <mark key="]" line="220" column="15" />
-        <mark key="." line="220" column="15" />
-        <mark key="^" line="220" column="15" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1568354964071">
+        <mark key="'" line="242" column="20" />
+        <mark key="[" line="321" column="35" />
+        <mark key="]" line="321" column="35" />
+        <mark key="." line="321" column="35" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/BlogPosts/BlogPostProfile.cs" timestamp="1568354164291">
         <mark key="[" line="57" column="47" />
@@ -87,8 +86,6 @@
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.Models/ProductRequest.cs" timestamp="1568353678978" />
     </filemarks>
     <jumps>
-      <jump line="37" column="29" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8A4F0DF9-F598-4F7A-B064-4495A181E49F/0c/07e9f9be/IncludeStatement.cs" />
-      <jump line="26" column="8" filename="C:/dev/git/selz/fluid/Fluid/Ast/IncludeStatement.cs" />
       <jump line="53" column="31" filename="C:/dev/git/selz/fluid/Fluid/Ast/IncludeStatement.cs" />
       <jump line="488" column="33" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
       <jump line="490" column="37" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
@@ -187,6 +184,8 @@
       <jump line="141" column="45" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A03F13DC-4D43-40F7-B8EA-E143055EEE72/cc/9b1cfa20/DateTimeAssertions.cs" />
       <jump line="203" column="11" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" />
       <jump line="215" column="1" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" />
+      <jump line="243" column="41" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" />
+      <jump line="242" column="20" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -196,7 +195,7 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Details</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
@@ -205,31 +204,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIoZGVzdCA9PiBkZXN0LlVybCwgb3B0ID0+IG9wdC5JZ25vcmUoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIoZGVzdCA9PiBkZXN0Liwgb3B0ID0+IG9wdC5JZ25vcmUoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBibG9nUG9zdC5FcnJvci5Db250ZW50LkNvbnRhaW5zKG5vdEV4aXN0SWQyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBibG9nUG9zdC5FcnJvci5Db250ZW50LkNvbnRhaW5zKG5vdEV4aXN0SWQxKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLklkLCBmID0+IE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGQgCiAgICAgICAgICAgICAgICAgICAgYmxvZ1Bvc3RUb0NyZWF0ZS5UYWdzLkFkZChub3RFeGlzdElkMSk7CiAgICAgICAgICAgICAgICAgICAgYmxvZ1Bvc3RUb0NyZWF0ZS5UYWdzLkFkZChub3RFeGlzdElkMik7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IElkID0gT2JqZWN0SWQuR2VuZXJhdGVOZXdJZCgpLAogICAgICAgICAgICAgICAgSXNGZWF0dXJlZCA9IGYuUmFuZG9tLkJvb2woKSwKICAgICAgICAgICAgICAgIElzUHJvY2Vzc2VkID0gZi5TeXN0ZW0uUmFuZG9tLkJvb2woKSwKICAgICAgICAgICAgICAgIExhcmdlID0gZi5Mb3JlbS5Xb3JkKCksCiAgICAgICAgICAgICAgICBPcmlnaW5hbCA9IGYuTG9yZW0uV29yZCgpLAogICAgICAgICAgICAgICAgTGFyZ2VzdFNpemUgPSBmLlBpY2tSYW5kb208U2hvcEltYWdlU2l6ZVR5cGU+KCksCiAgICAgICAgICAgICAgICBNZWRpdW0gPSBmLkxvcmVtLldvcmQoKSwKICAgICAgICAgICAgICAgIFNtYWxsID0gZi5Mb3JlbS5Xb3JkKCksCiAgICAgICAgICAgICAgICBTb3VyY2UgPSBmLlBpY2tSYW5kb208SW1hZ2VTb3VyY2U+KCk=</text>
+        <text>var notExistId1 = ObjectId.GenerateNewId().ToString();
+                    var notExistId2 = ObjectId.GenerateNewId().ToString();</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkNyZWF0ZWRCeSwgZiA9PiBDb25zdGFudHMuRGVmYXVsdFVzZXJJZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIoZGVzdCA9PiBkZXN0Liwgb3B0ID0+IG9wdC5JZ25vcmUoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLlNob3BJZCwgZiA9PiBmLlBpY2tSYW5kb20oQ29uc3RhbnRzLkRlZmF1bHRTaG9wSWQsIENvbnN0YW50cy5Ob25EZWZhdWx0U2hvcElkKSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLklkLCBmID0+IE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKSkK</text>
       </register>
     </registers>
     <search>
