@@ -53,10 +53,11 @@
       </file>
       <file name="/TagsController.cs" timestamp="1568327766860" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CE0DCA46-F4E3-42F2-9321-6D4B2ACC2EF3/71/5fc771cd/ShopImage.cs" timestamp="1568341465840" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1568344888129">
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1568345088080">
+        <mark key="[" line="39" column="82" />
+        <mark key="]" line="39" column="82" />
+        <mark key="." line="39" column="82" />
+        <mark key="^" line="39" column="83" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/BlogPostService.cs" timestamp="1568339512873">
         <mark key="[" line="78" column="20" />
@@ -219,7 +220,7 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text>await</text>
+        <text>slug</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
@@ -230,29 +231,29 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">cHJpdmF0ZSBhc3luYyBUYXNrPGJvb2w+IFNsdWdOb3RFeGlzdEluRGIxKEJsb2dQb3N0UmVxdWVzdCByZXF1ZXN0LCBzdHJpbmcgc2x1ZykKICAgICAgICB7CiAgICAgICAgICAgIHZhciBibG9nUG9zdCA9IGF3YWl0IF9ibG9nUG9zdFNlcnZpY2UuRmluZEJ5U2x1Z0FzeW5jKHNsdWcsIF9odHRwQ29udGV4dEFjY2Vzc29yLkh0dHBDb250ZXh0LkdldFNob3BJZCgpLlZhbHVlKTsKCiAgICAgICAgICAgIHJldHVybiBibG9nUG9zdCA9PSBudWxsIHx8IGJsb2dQb3N0LklkLlRvU3RyaW5nKCkgPT0gcmVxdWVzdC5JZDsKICAgICAgICB9CgogICAgICAgIHByaXZhdGUgYXN5bmMgVGFzazxib29sPiBTbHVnTm90RXhpc3RJbkRiKEJsb2dQb3N0UmVxdWVzdCByZXF1ZXN0LCBzdHJpbmcgc2x1ZykKICAgICAgICB7CiAgICAgICAgICAgIHZhciBibG9nUG9zdCA9IGF3YWl0IF9ibG9nUG9zdFNlcnZpY2UuRmluZEJ5U2x1Z0FzeW5jKHNsdWcsIF9odHRwQ29udGV4dEFjY2Vzc29yLkh0dHBDb250ZXh0LkdldFNob3BJZCgpLlZhbHVlKTsKCiAgICAgICAgICAgIHJldHVybiBibG9nUG9zdCA9PSBudWxsIHx8IGJsb2dQb3N0LklkLlRvU3RyaW5nKCkgPT0gcmVxdWVzdC5JZDsKICAgICAgICB9</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIGludCBTaG9wSWQgeyBnZXQ7IHNldDsgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgcHVibGljIGludCBTaG9wSWQgeyBnZXQ7IHNldDsgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbQnNvbklnbm9yZUlmTnVsbF0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2N1cnJlbnRBY3RvciA9IGN1cnJlbnRBY3RvcjsK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElIdHRwQ29udGV4dEFjY2Vzc29yIF9jdXJyZW50QWN0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbQnNvbklnbm9yZUlmTnVsbF0K</text>
       </register>
     </registers>
     <search>
