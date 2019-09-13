@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1568332592170">
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="125" column="29" />
+        <mark key="." line="123" column="12" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1568332331217" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Tags/TagScenarios.cs" timestamp="1568329863394">
         <mark key="[" line="85" column="20" />
         <mark key="]" line="85" column="20" />
@@ -22,7 +29,7 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/StringExtensions.cs" timestamp="1568289405045">
         <mark key="[" line="28" column="9" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TagsController.cs" timestamp="1568329972317">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TagsController.cs" timestamp="1568332793551">
         <mark key="'" line="71" column="11" />
         <mark key="[" line="71" column="83" />
         <mark key="]" line="68" column="60" />
@@ -47,7 +54,7 @@
       <file name="/Dummy.cs" timestamp="1568080246824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/TaggingService.cs" timestamp="1568330850392" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/TaggingService.cs" timestamp="1568332667592" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.UnitTests/WebhookServiceTest.cs" timestamp="1568328185450" />
       <file name="/TagService.cs" timestamp="1568327849859" />
       <file name="/Dummy.txt" timestamp="1568330301765">
@@ -82,6 +89,7 @@
         <mark key="^" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Blog/ITaggingService.cs" timestamp="1568332192548" />
     </filemarks>
     <jumps>
       <jump line="388" column="27" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" />
@@ -202,32 +210,31 @@
         <text encoding="base64">ICAgICAgcHVibGljIGFzeW5jIFRhc2s8SUxpc3Q8VGFnPj4gQ3JlYXRlQXN5bmMoSUxpc3Q8c3RyaW5nPiBuYW1lcywgQWN0b3IgYWN0b3IpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2Jsb2dQb3N0U2VydmljZS5DCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgcHVibGljIGFzeW5jIFRhc2s8SUxpc3Q8VGFnPj4gQ3JlYXRlQXN5bmMoc3RyaW5nIHRhZ3MsIEFjdG9yIGFjdG9yKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPckVtcHR5KHRhZ3MpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgdmFyIHRhZ0xpc3QgPSB0YWdzLlNwbGl0KCcsJyk7CiAgICAgICAgICAgIHRhZ0xpc3QgPSB0YWdMaXN0LlNlbGVjdChwID0+IHAuVHJpbSgpKS5EaXN0aW5jdChTdHJpbmdDb21wYXJlci5JbnZhcmlhbnRDdWx0dXJlSWdub3JlQ2FzZSkuVG9BcnJheSgpOwoKICAgICAgICAgICAgLy8gQ3JlYXRlIHRoZSB0YWdzCiAgICAgICAgICAgIHJldHVybiBhd2FpdCBDcmVhdGVBc3luYyh0YWdMaXN0LCBhY3Rvcik7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgLy8gR3VpZC5OZXdHdWlkKCkuVG9TdHJpbmcoKSwgZmlsdGVyZWRUYWdzLkZpcnN0KCkuTmFtZQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBPbmUgbm90IGV4aXN0IHRhZyBhbmQgb25lIGFscmVhZHkgZXhpc3QgaW4gZGIgdGFnCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdGFncyA9IHN0cmluZy5Kb2luKCcsJywgR3VpZC5OZXdHdWlkKCkuVG9TdHJpbmcoKSwgZmlsdGVyZWRUYWdzLkZpcnN0KCkuTmFtZS5Ub1N0cmluZygpKTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHNsdWcgPSB0YWdUb1NhdmUuU2x1ZzsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>response.UpdatedTime.Should().BeCloseTo(tag.UpdatedTime);
-            response.DeletedTime.Should().Be(tag.DeletedTime);</text>
       </register>
     </registers>
     <search>
