@@ -16,7 +16,7 @@
         <mark key="." line="85" column="20" />
         <mark key="^" line="86" column="134" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1568587555440" />
+      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1568591736320" />
       <file name="C:/dev/git/selz/API/src/Selz.Model/Models/BlogPosts/BlogPostPostModel.cs" timestamp="1568587549679" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/IBlogPostService.cs" timestamp="1568341535078">
         <mark key="[" line="15" column="12" />
@@ -25,12 +25,17 @@
         <mark key="." line="16" column="4" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/ApiBaseController.cs" timestamp="1568588835859" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/BlogPosts/BlogPostRequest.cs" timestamp="1568591235744" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/ITagClient.cs" timestamp="1568587294127">
-        <mark key="[" line="19" column="59" />
-        <mark key="]" line="19" column="59" />
-        <mark key="." line="19" column="59" />
-        <mark key="^" line="19" column="76" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/BlogPosts/BlogPostRequest.cs" timestamp="1568591836512">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="14" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/ITagClient.cs" timestamp="1568592163121">
+        <mark key="[" line="19" column="180" />
+        <mark key="]" line="19" column="71" />
+        <mark key="." line="19" column="71" />
+        <mark key="^" line="19" column="71" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/ModelBinders/CustomBodyModelBinder.cs" timestamp="1568384932262">
         <mark key="]" line="126" column="41" />
@@ -81,7 +86,7 @@
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1568591367046">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1568591860161">
         <mark key="'" line="120" column="46" />
         <mark key="[" line="131" column="128" />
         <mark key="]" line="128" column="0" />
@@ -198,13 +203,13 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">SUxpc3Q8VGFnUmVzcG9uc2U+</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIoZGVzdCA9PiBkZXN0LlVybCwgb3B0ID0+IG9wdC5JZ25vcmUoKSkK</text>
+        <text encoding="base64">ICAgICAgICBbUG9zdCgiL3Nob3BzL3RhZ3MiKV0KICAgICAgICBUYXNrPEFwaVJlc3BvbnNlPElMaXN0PFRhZ1Jlc3BvbnNlPj4+IENyZWF0ZUFzeW5jKFtRdWVyeV0gSUxpc3Q8c3RyaW5nPiB0YWdzLCBbQ29ycmVsYXRpb25JZF0gc3RyaW5nIGNvbGxlcmF0aW9uSWQsIFtTZWx6U2hvcElkXSBzdHJpbmcgc2hvcElkLCBbU2VselVzZXJJZF0gc3RyaW5nIHVzZXJJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgSW1hZ2VSZXNwb25zZSA9IFNlbHouU2hvcHMuQXBpLk1vZGVscy5JbWFnZVJlc3BvbnNlOwo=</text>
