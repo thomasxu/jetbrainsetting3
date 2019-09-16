@@ -12,6 +12,12 @@
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1568627708722" />
       <file name="C:/dev/git/selz/API/src/Selz.Model/Models/BlogPosts/BlogPostPostModel.cs" timestamp="1568627670014" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/IBlogPostService.cs" timestamp="1568628315114">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="44" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="44" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/ITagClient.cs" timestamp="1568602934680">
         <mark key="[" line="19" column="180" />
         <mark key="]" line="13" column="59" />
@@ -35,12 +41,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1568611294082">
-        <mark key="'" line="242" column="20" />
-        <mark key="[" line="323" column="0" />
-        <mark key="]" line="323" column="0" />
-        <mark key="." line="323" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/BlogPosts/BlogPostProfile.cs" timestamp="1568604938609">
         <mark key="[" line="43" column="85" />
         <mark key="]" line="44" column="55" />
@@ -58,7 +58,14 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/BlogPostService.cs" timestamp="1568628325515">
+        <mark key="[" line="90" column="55" />
+        <mark key="]" line="80" column="32" />
+        <mark key="." line="80" column="32" />
+        <mark key="^" line="80" column="32" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Annotations/AllowOnlySafeHtmlTagsAttribute.cs" timestamp="1568587264874" />
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo/Function.cs" timestamp="1568627763644" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4A33782-7C12-4B0A-A2C9-CB0EF8693295/0c/dbe59634/MiddlewareApplicationBuilderExtensions.cs" timestamp="1568609241585" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/99/ca4000dd/ControllerBase.cs" timestamp="1568612764705" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Program.cs" timestamp="1568602885289">
@@ -67,12 +74,13 @@
         <mark key="^" line="15" column="15" />
         <mark key="." line="15" column="15" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1568627725083">
-        <mark key="[" line="144" column="58" />
-        <mark key="]" line="144" column="58" />
-        <mark key="^" line="144" column="57" />
-        <mark key="." line="144" column="58" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1568628508458">
+        <mark key="[" line="172" column="108" />
+        <mark key="]" line="176" column="29" />
+        <mark key="^" line="176" column="29" />
+        <mark key="." line="176" column="29" />
       </file>
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1568627872652" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/ApiBaseController.cs" timestamp="1568609554972" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/BlogPosts/BlogPostRequest.cs" timestamp="1568605906704">
         <mark key="[" line="10" column="22" />
@@ -114,6 +122,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D31047D7-1DAB-4068-AA61-7DFF5983CA69/51/58cc1a2a/HtmlSanitizer.cs" timestamp="1568383619893">
         <mark key="'" line="678" column="50" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IBlogPostClient.cs" timestamp="1568628691616">
+        <mark key="[" line="28" column="149" />
+        <mark key="]" line="28" column="161" />
+        <mark key="." line="28" column="161" />
+        <mark key="^" line="28" column="161" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DBBBBD64-65BB-4F5D-88B0-00E5D8096615/7/Attributes.cs" timestamp="1568616104972">
         <mark key="'" line="203" column="17" />
       </file>
@@ -123,6 +137,9 @@
         <mark key="]" line="199" column="0" />
         <mark key="^" line="198" column="25" />
         <mark key="." line="199" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api.Client/IItemClient.cs" timestamp="1568628696712">
+        <mark key="[" line="27" column="147" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1568616453619">
         <mark key="[" line="37" column="39" />
@@ -240,7 +257,7 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text>Create</text>
+        <text>TODO</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
@@ -249,34 +266,32 @@
         <text>BlogPosts.GetById</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBVcGRhdGVBc3luYygpCiAgICAgICAgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IFtIdHRwUGF0Y2hdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8QWN0aW9uUmVzdWx0PEJsb2dQb3N0UmVzcG9uc2U+PiBVcGRhdGVBc3luYyhCbG9nUG9zdFJlcXVlc3QgcmVxdWVzdCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBibG9nUG9zdCA9IF9tYXBwZXIuTWFwPEJsb2dQb3N0PihyZXF1ZXN0KTsKCiAgICAgICAgICAgIC8vIENyZWF0ZQogICAgICAgICAgICBibG9nUG9zdCAgPSBhd2FpdCBfYmxvZ1Bvc3RTZXJ2aWNlLkNyZWF0ZUFzeW5jKGJsb2dQb3N0LCBuZXcgQWN0b3IoU2hvcElkLCBVc2VySWQpKTsKCiAgICAgICAgICAgIHZhciByZXNwb25zZSA9IF9tYXBwZXIuTWFwPEJsb2dQb3N0UmVzcG9uc2U+KGJsb2dQb3N0KTsKCiAgICAgICAgICAgIHJldHVybiBDcmVhdGVkKHJlc3BvbnNlKTsKICAgICAgICB9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>using BlogPostResponse = Selz.Api.Public.Models.BlogPosts.BlogPostResponse;
 using ShopBlogPostResponse = Selz.Shops.Api.Models.BlogPosts.BlogPostResponse;</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dXNpbmcgUmVmaXQ7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4cGVjdGVkYWFCbG9nUG9zdCA9IEZha2VCbG9nUG9zdHMuQWxsLkZpcnN0KGZwID0+IGZwLklkID09IGJsb2dQb3N0UmVzcG9uc2UuSWQpOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHZhciBmYWtlQmxvZ1Bvc3QgPSBGYWtlQmxvZ1Bvc3RzLkFsbC5GaXJzdCgpOyAvLyBHZXQgdGhlIHNlY29uZCBwYWdlCiAgICAgICAgICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4cGVjdGVkYWFCbG9nUG9zdCA9IEZha2VCbG9nUG9zdHMuQWxsLkZpcnN0KGZwID0+IGZwLklkID09IGJsb2dQb3N0UmVzcG9uc2UuSWQpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>mockShopHandler
-                .When(HttpMethod.Post, $&quot;{TagClientBaseUrl}&quot;)
-                .Respond(&quot;application/json&quot;, tagsJson);</text>
+        <text encoding="base64">IHZhciBmYWtlQmxvZ1Bvc3QgPSBGYWtlQmxvZ1Bvc3RzLkFsbC5GaXJzdCgpOyAvLyBHZXQgdGhlIHNlY29uZCBwYWdlCiAgICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCgo=</text>
       </register>
     </registers>
     <search>
