@@ -10,8 +10,11 @@
         <mark key="." line="3" column="27" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1568722414228" />
+      <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Mapping/BaseProfile.cs" timestamp="1568723662446">
+        <mark key="[" line="15" column="96" />
+      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Model/Models/BlogPosts/BlogPostPostModel.cs" timestamp="1568722473507" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/BlogPosts/BlogPostRequest.cs" timestamp="1568671321550">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/BlogPosts/BlogPostRequest.cs" timestamp="1568723025819">
         <mark key="'" line="29" column="29" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -33,11 +36,11 @@
         <mark key="^" line="362" column="69" />
         <mark key="." line="294" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/BlogPosts/BlogPostProfile.cs" timestamp="1568693277231">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="59" column="11" />
-        <mark key="." line="62" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/BlogPosts/BlogPostProfile.cs" timestamp="1568723599730">
+        <mark key="[" line="44" column="57" />
+        <mark key="]" line="44" column="57" />
+        <mark key="^" line="44" column="60" />
+        <mark key="." line="44" column="57" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/ProductsController.cs" timestamp="1568691060258" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1568720750787">
@@ -45,17 +48,18 @@
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Products/ProductRequest.cs" timestamp="1568690921108" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/WebHooks/WebHookPutRequest.cs" timestamp="1568689974115" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/60CAF381-E330-419C-98A8-76F3A03FAD65/cc/aab682d9/BaseProfile.cs" timestamp="1568723324521" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Program.cs" timestamp="1568693026588">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="15" />
         <mark key="^" line="15" column="15" />
         <mark key="." line="15" column="15" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1568718151829">
-        <mark key="[" line="165" column="13" />
-        <mark key="]" line="165" column="27" />
-        <mark key="^" line="180" column="8" />
-        <mark key="." line="165" column="13" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1568722902878">
+        <mark key="[" line="163" column="12" />
+        <mark key="]" line="163" column="12" />
+        <mark key="^" line="163" column="14" />
+        <mark key="." line="163" column="12" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Validation/ProductPutRequestValidator.cs" timestamp="1568690651968" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/BlogPosts/BlogPostRequest.cs" timestamp="1568690353335">
@@ -212,7 +216,7 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text>model</text>
+        <text>MapFrom</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
@@ -220,32 +224,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5SZXBsYWNlSWZGb3VuZChtb2RlbCwgeCA9PiB4LkRpc2FibGVDb21tZW50cyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgICAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLk1vZGlmaWVkRmllbGRzLkNvbnRhaW5zKG5hbWVvZihtb2RlbC5UYWdzKSkpCiAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLk1vZGlmaWVkRmllbGRzLkNvbnRhaW5zKG5hbWVvZihtb2RlbC5NZXRhVGl0bGUpKSkKICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLk1vZGlmaWVkRmllbGRzLkNvbnRhaW5zKG5hbWVvZihtb2RlbC5UYWdzKSkpCiAgICAgICAgICAgIHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLk1vZGlmaWVkRmllbGRzLkNvbnRhaW5zKG5hbWVvZihtb2RlbC5UaXRsZSkpKQogICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLk1vZGlmaWVkRmllbGRzLkNvbnRhaW5zKG5hbWVvZihtb2RlbC5NZXRhVGl0bGUpKSkKICAgICAgICAgICAgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZXNwb25zZS5JbWFnZS5VcmwuU2hvdWxkKCkuQmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVxdWVzdC5SZXBsYWNlSWZGb3VuZChtb2RlbCwgeCA9PiB4LkltYWdlLlVybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLk1vZGlmaWVkRmllbGRzLkNvbnRhaW5zKG5hbWVvZihtb2RlbC5UaXRsZSkpKQogICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZXNwb25zZS5JbWFnZS5VcmwuU2hvdWxkKCkuQmUoKQo=</text>
       </register>
     </registers>
     <search>
