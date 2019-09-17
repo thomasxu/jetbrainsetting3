@@ -23,11 +23,10 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/BlogPosts/BlogPostRequest.cs" timestamp="1568678286809">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="11" column="22" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/BlogPosts/BlogPostRequest.cs" timestamp="1568679390505">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/ITagClient.cs" timestamp="1568602934680">
         <mark key="[" line="19" column="180" />
@@ -118,6 +117,12 @@
         <mark key="]" line="15" column="15" />
         <mark key="^" line="15" column="15" />
         <mark key="." line="15" column="15" />
+      </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostsControllerTest.cs" timestamp="1568679521241">
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="^" line="196" column="25" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api.Client/IItemClient.cs" timestamp="1568628696712">
         <mark key="[" line="27" column="147" />
@@ -247,31 +252,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5Db250ZW50LlNsdWcuU2hvdWxkKCkuQmUoYmxvZ1Bvc3RUb1VwZGF0ZS5TbHVnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZXhwZWN0ZWRUYWdOYW1lcyA9IEZha2VUYWdzLkFsbC5XaGVyZSh0ID0+IGJsb2dQb3N0VG9VcGRhdGUuVGFncy5Db250YWlucyh0LklkLlRvU3RyaW5nKCkpKS5TZWxlY3QodCA9PiB0Lk5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElkID0gbnVsbCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElkID0gbnVsbCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIElkIHsgZ2V0OyBzZXQ7IH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZXhwZWN0ZWRUYWdOYW1lcyA9IEZha2VUYWdzLkFsbC5XaGVyZSh0ID0+IGJsb2dQb3N0VG9VcGRhdGUuVGFncy5Db250YWlucyh0LklkLlRvU3RyaW5nKCkpKS5TZWxlY3QodCA9PiB0Lk5hbWUpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1ZXN0LlJlcGxhY2UoaSA9PiBpLk1ldGFEZXNjcmlwdGlvbiwgYmxvZ1Bvc3RUb1VwZGF0ZS5NZXRhRGVzY3JpcHRpb24pOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1ZXN0LlJlcGxhY2UoaSA9PiBpLlNsdWcsIGJsb2dQb3N0VG9VcGRhdGUuU2x1Zyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1ZXN0Lk9wZXJhdGlvbnMuQWRkKG5ldyBPcGVyYXRpb248QmxvZ1Bvc3RSZXF1ZXN0PigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBVcGRhdGVBc3luYygpCiAgICAgICAgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
