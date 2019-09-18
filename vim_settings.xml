@@ -9,7 +9,7 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1568724731223">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1568777808322">
         <mark key="[" line="161" column="10" />
         <mark key="]" line="160" column="0" />
         <mark key="^" line="160" column="0" />
@@ -24,7 +24,6 @@
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="14" />
         <mark key="." line="5" column="14" />
-        <mark key="^" line="7" column="43" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/BlogPosts/BlogPostRequest.cs" timestamp="1568774705187">
         <mark key="'" line="29" column="29" />
@@ -53,13 +52,22 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568766192999">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Selz.Api.Public.csproj" timestamp="1568779889209">
+        <mark key="[" line="61" column="60" />
+        <mark key="]" line="61" column="60" />
+        <mark key="." line="61" column="60" />
+        <mark key="^" line="61" column="60" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1568779526587">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Core/Api/src/Selz.Core.Api/Extensions/HostingEnvironmentExtensions.cs" timestamp="1568760850400" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1568776572167">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1568778475981">
         <mark key="'" line="19" column="0" />
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="36" />
       </file>
+      <file name="/Selz.Api.Public.csproj" timestamp="1568779162795" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IBlogPostClient.cs" timestamp="1568774656900">
         <mark key="[" line="28" column="8" />
         <mark key="]" line="28" column="8" />
@@ -81,7 +89,7 @@
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api.Client/IItemClient.cs" timestamp="1568628696712">
         <mark key="[" line="27" column="147" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1568776875530">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1568779006856">
         <mark key="'" line="154" column="0" />
         <mark key="[" line="152" column="32" />
         <mark key="]" line="30" column="56" />
@@ -199,13 +207,13 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text>, Name = &quot;BlogPosts.Put</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
       </register>
       <register name="0" type="4">
-        <text>NUGET_BUILD_NUMBER</text>
+        <text>[-0-9a-z]+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxBY3Rpb25SZXN1bHQ8TW9kZWxzLkJsb2dQb3N0cy5CbG9nUG9zdFJlc3BvbnNlPj4gUHV0QXN5bmMoc3RyaW5nIGlkLCBbRnJvbUJvZHldIEJsb2dQb3N0UHV0UmVxdWVzdCBtb2RlbCkK</text>
