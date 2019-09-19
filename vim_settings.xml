@@ -36,21 +36,21 @@
       </file>
       <file name="C:/dev/git/selz/Services.Cart/Service/src/Api/Selz.Cart.Api/Controllers/DiscountsController.cs" timestamp="1568865399980" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/WebhooksController.cs" timestamp="1568853787597" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/TestClientBase.cs" timestamp="1568868617375">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/TestClientBase.cs" timestamp="1568870119964">
+        <mark key="[" line="10" column="92" />
+        <mark key="]" line="10" column="92" />
+        <mark key="." line="10" column="92" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Validation/BlogPostPutRequestValidator.cs" timestamp="1568850262581">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/TestTagsClient.cs" timestamp="1568869173195">
-        <mark key="[" line="37" column="32" />
-        <mark key="]" line="37" column="27" />
-        <mark key="." line="37" column="27" />
-        <mark key="^" line="37" column="27" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/TestTagsClient.cs" timestamp="1568870371522">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="30" />
+        <mark key="." line="38" column="30" />
+        <mark key="^" line="45" column="40" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1568866023285">
         <mark key="'" line="19" column="0" />
@@ -67,7 +67,7 @@
         <mark key="." line="22" column="40" />
         <mark key="^" line="22" column="40" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Webhooks/TestWebhooksClient.cs" timestamp="1568863371792" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Webhooks/TestWebhooksClient.cs" timestamp="1568869706492" />
     </filemarks>
     <jumps>
       <jump line="48" column="15" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Contracts/PageContents/ContentBlockRequest.cs" />
@@ -179,7 +179,7 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text>StatusObjectResponse(tags, HttpStatusCode.OK);</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXR0ZXJuXD4=</text>
