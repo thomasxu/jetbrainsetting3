@@ -26,11 +26,12 @@
       <file name="/Dummy.cs" timestamp="1568896419261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/FileUploadModel.cs" timestamp="1568941181181">
-        <mark key="[" line="119" column="20" />
-        <mark key="]" line="120" column="0" />
-        <mark key="^" line="120" column="37" />
-        <mark key="." line="118" column="17" />
+      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/FileUploadModel.cs" timestamp="1568942661008" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Extensions/StringExtensions.cs" timestamp="1568942770266">
+        <mark key="[" line="304" column="51" />
+        <mark key="]" line="304" column="50" />
+        <mark key="^" line="304" column="50" />
+        <mark key="." line="304" column="50" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/BlogPostScenarios.cs" timestamp="1568937415530">
         <mark key="[" line="66" column="44" />
@@ -205,7 +206,7 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text>, 'a', 'z'</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXR0ZXJuXD4=</text>
@@ -213,36 +214,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24uQ29udGFpbnNLZXkobmFtZW9mKEJsb2dQb3N0UmVzcG9uc2UuTWV0YVRpdGxlKSkuU2hvdWxkKCkuQmVUcnVlKCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdzsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ly8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBBIGJhc2U2NCBlbmNvZGVkIHN0cmluZyByZXByZXNlbnRpbmcgdGhlIGZpbGUKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIHB1YmxpYyBzdHJpbmcgQXR0YWNobWVudCB7IGdldDsgc2V0OyB9CgogICAgICAgIC8vLyA8c3VtbWFyeT4KICAgICAgICAvLy8gVGhlIG5hbWUgb2YgdGhlIGZpbGUsIHJlcXVpcmVkIGlmIHVzaW5nIGJhc2U2NCBlbmNvZGVkIHN0cmluZwogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgcHVibGljIHN0cmluZyBGaWxlbmFtZSB7IGdldDsgc2V0OyB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24ubm90ZAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgogICAgICAgIFtKc29uSWdub3JlXQogICAgICAgIHB1YmxpYyBTdHJlYW0gRmlsZVN0cmVhbSB7IGdldDsgc2V0OyB9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LkRlZmF1bHRSZXF1ZXN0SGVhZGVycy5UcnlBZGRXaXRob3V0VmFsaWRhdGlvbigiQ29udGVudC1UeXBlIiwgTWVkaWFUeXBlTmFtZXMuQXBwbGljYXRpb24uSnNvbik7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IFtKc29uSWdub3JlXQogICAgICAgIHB1YmxpYyBzdHJpbmcgRmlsZVN0cmVhbUVycm9yIHsgZ2V0OyBzZXQ7IH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LkRlZmF1bHRSZXF1ZXN0SGVhZGVycy5BY2NlcHQuQWRkKG5ldyBNZWRpYVR5cGVXaXRoUXVhbGl0eUhlYWRlclZhbHVlKE1lZGlhVHlwZU5hbWVzLkFwcGxpY2F0aW9uLkpzb24pKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">W0pzb25JZ25vcmVdCiAgICAgICAgcHVibGljIHZpcnR1YWwgSUxpc3Q8c3RyaW5nPiBGaWxlVHlwZXNBbGxvd2VkIHsgZ2V0OyBzZXQ7IH0KCiAgICAgICAgW0pzb25JZ25vcmVdCiAgICAgICAgcHVibGljIHZpcnR1YWwgSUxpc3Q8c3RyaW5nPiBGaWxlVHlwZXNGb3JiaWRkZW4geyBnZXQ7IHNldDsgfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyBSZXNwb25zZSBzaG91bGQgaGF2ZSBzbHVnIGFzIGtleSBpbiBlcnJvciBtb2RlbCBzdGF0ZSBqc29uCiAgICAgICAgICAgICAgICBqc29uLkNvbnRhaW5zS2V5KG5hbWVvZihCbG9nUG9zdFJlc3BvbnNlLlNsdWcpKS5TaG91bGQoKS5CZVRydWUoKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aHJvdzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24ubm90ZAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>Models.BlogPosts.BlogPostRequest
-                {
-                    Slug = slug,
-                    Title = &quot;changed-title&quot;
-                };</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LkRlZmF1bHRSZXF1ZXN0SGVhZGVycy5UcnlBZGRXaXRob3V0VmFsaWRhdGlvbigiQ29udGVudC1UeXBlIiwgTWVkaWFUeXBlTmFtZXMuQXBwbGljYXRpb24uSnNvbik7Cg==</text>
       </register>
     </registers>
     <search>
