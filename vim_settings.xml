@@ -25,8 +25,11 @@
       <file name="/Dummy.cs" timestamp="1568896419261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/607D3C01-2D48-402A-9F4C-477FE162FEF6/8f/bf97385e/ServiceCollectionExtensions.cs" timestamp="1569072853797">
-        <mark key="[" line="22" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/607D3C01-2D48-402A-9F4C-477FE162FEF6/8f/bf97385e/ServiceCollectionExtensions.cs" timestamp="1569073714179">
+        <mark key="'" line="46" column="19" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Model/Models/FileUploadModel.cs" timestamp="1568988949380">
         <mark key="[" line="137" column="0" />
@@ -90,12 +93,6 @@
         <mark key="]" line="51" column="87" />
         <mark key="." line="51" column="87" />
       </file>
-      <file name="C:/dev/git/selz/Services.Cart/Service/src/Api/Selz.Cart.Api.FunctionalTests/Tests/DataFixture.cs" timestamp="1569072840958">
-        <mark key="[" line="70" column="12" />
-        <mark key="]" line="74" column="62" />
-        <mark key="^" line="74" column="62" />
-        <mark key="." line="74" column="62" />
-      </file>
       <file name="C:/dev/git/selz/Services.Cart/Service/src/Api/Selz.Cart.Api.FunctionalTests/Base/CartServer.cs" timestamp="1569072242750">
         <mark key="[" line="75" column="71" />
         <mark key="]" line="75" column="71" />
@@ -106,7 +103,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05ABF565-93A1-4972-B3F6-F0E0F7038247/04/8cea40ac/GzipDecompressionHandler.cs" timestamp="1569071092690" />
     </filemarks>
     <jumps>
-      <jump line="524" column="16" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/bd/fe8427b2/DateTimeOffset.cs" />
       <jump line="163" column="42" filename="C:/dev/git/selz/fluid/Fluid/Filters/MiscFilters.cs" />
       <jump line="962" column="18" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/77/20c28536/DateTime.cs" />
       <jump line="56" column="91" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77A26029-7DE4-4284-9A96-A0F2080CD8D7/b8/e8071d03/TestServer.cs" />
@@ -206,6 +202,7 @@
       <jump line="36" column="8" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/BlogPostsClient.cs" />
       <jump line="83" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/c6/b4741c4f/Path.cs" />
       <jump line="32" column="23" filename="C:/dev/git/selz/Services.Cart/Service/src/Api/Selz.Cart.Api/Controllers/DiscountsController.cs" />
+      <jump line="45" column="19" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/607D3C01-2D48-402A-9F4C-477FE162FEF6/8f/bf97385e/ServiceCollectionExtensions.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -224,10 +221,10 @@
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiQWFiYiIpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xsZWN0aW9uLkFkZEh0dHBDbGllbnQ8TT4oKQo=</text>
+        <text encoding="base64">ICAgICAgY29sbGVjdGlvbi5Db25maWd1cmU8UmVwb3NpdG9yeU9wdGlvbnM+KG9wdGlvbiA9PiBvcHRpb24uQ29ubmVjdGlvblN0cmluZyA9IHJlcG9zaXRvcnlPcHRpb25zLkNvbm5lY3Rpb25TdHJpbmcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xsZWN0aW9uLkFkZEh0dHBDbGllbnQ8TT4oKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -236,19 +233,19 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRW52aXJvbm1lbnQuU2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiQVNQTkVUQ09SRV9FTlZJUk9OTUVOVCIsICJUZWFtQ2l0eSIpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgRW52aXJvbm1lbnQuU2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiQVNQTkVUQ09SRV9FTlZJUk9OTUVOVCIsICJUZWFtQ2l0eSIpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgSEVuCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICBhd2FpdCByZXNwb25zZS5Db250ZW50LkNvcHlUb0FzeW5jKG1zKTsKICAgICAgICAgIG1zLlNlZWsoMEwsIFNlZWtPcmlnaW4uQmVnaW4pOwogICAgICAgICAgdXNpbmcgKHZhciBnWmlwU3RyZWFtID0gbmV3IEdaaXBTdHJlYW0obXMsIENvbXByZXNzaW9uTW9kZS5EZWNvbXByZXNzKQogICAgICAgICAgewogICAgICAgICAgICB1c2luZyhNZW1vcnlTdHJlYW0gPSBuZXcgTWVtb3J5U3RyZWFtKCkpewogICAgICAgICAgICByZXNwb25zZS5Db250ZW50ID0gbmV3IFN0cmluZ0NvbnRlbnQoRW5jb2RpbmcuVVRGOC5HZXRTdHJpbmcobWVtb3J5U3RyZWFtLlRvQXJyYXkoKSksIEVuY29kaW5nLlVURjgpKTsKICAgICAgICAgICAgfQogICAgICAgICAgfTs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBnemlwU3RyZWFtLkNvcHlUbyhtZW1vcnlTdHJlYW0pKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMuWmlwcGVkKGh0dHBSZXNwb25zZU1lc3NhZ2UpKQogICAgICB7CiAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBnemlwU3RyZWFtLkNvcHlUbyhtZW1vcnlTdHJlYW0pKQo=</text>
       </register>
     </registers>
     <search>
