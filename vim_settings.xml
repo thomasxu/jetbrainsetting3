@@ -9,11 +9,11 @@
         <mark key="^" line="58" column="20" />
         <mark key="." line="58" column="20" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/FakeBlogPosts.cs" timestamp="1569142120680">
-        <mark key="[" line="65" column="106" />
-        <mark key="]" line="65" column="67" />
-        <mark key="." line="65" column="67" />
-        <mark key="^" line="65" column="67" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/FakeBlogPosts.cs" timestamp="1569195153926">
+        <mark key="[" line="69" column="21" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="69" column="20" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Validation/BlogPostRequestValidator.cs" timestamp="1568864853528">
         <mark key="[" line="20" column="48" />
@@ -52,8 +52,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/BlogPostScenarios.cs" timestamp="1569194078435">
-        <mark key="[" line="135" column="41" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/BlogPostScenarios.cs" timestamp="1569194296809">
+        <mark key="[" line="233" column="26" />
         <mark key="]" line="135" column="42" />
         <mark key="^" line="135" column="27" />
         <mark key="." line="135" column="42" />
@@ -64,7 +64,7 @@
         <mark key="^" line="415" column="41" />
         <mark key="." line="415" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569145278538">
+      <file name="/Dummy.txt" timestamp="1569194318164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/TestClientBase.cs" timestamp="1568950663433">
@@ -102,6 +102,7 @@
         <mark key="^" line="75" column="71" />
         <mark key="." line="75" column="71" />
       </file>
+      <file name="/FakeBlogPosts.cs" timestamp="1569194836683" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1569192576252">
         <mark key="[" line="210" column="9" />
         <mark key="]" line="218" column="21" />
@@ -219,40 +220,55 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QuVGl0bGUgPSBlbXB0eVZhbHVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLlN0cmljdE1vZGUodHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTbHVnID0gZW1wdHlWYWx1ZQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">LlJ1bGVGb3IoYyA9PiBjLlRpdGxlLCBmID0+IGYuUGlja1JhbmRvbShmLkNvbW1lcmNlLkNhdGVnb3JpZXMoMTAwKSkpCiAgICAgICAgICAgIC5SdWxlRm9yKGMgPT4gYy5TbHVnLCBmID0+IGYuSW50ZXJuZXQuRG9tYWluV29yZCgpKQogICAgICAgICAgICAuUnVsZUZvcihjID0+IGMuSXNQdWJsaXNoZWQsIGYgPT4gZi5SYW5kb20uQm9vbCgpKQogICAgICAgICAgICAuUnVsZUZvcihjID0+IGMuTWV0YVRpdGxlLCBmID0+IHN0cmluZy5Kb2luKCIgIiwgZi5Mb3JlbS5Xb3JkcygpKSkKICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLk1ldGFEZXNjcmlwdGlvbiwgZiA9PiBmLkxvcmVtLlNlbnRlbmNlKCkpCiAgICAgICAgICAgIC5SdWxlRm9yKGMgPT4gYy5Db250ZW50LCBmID0+IGYuTG9yZW0uU2VudGVuY2VzKDUpKQogICAgICAgICAgICAuUnVsZUZvcihjID0+IGMuRGlzYWJsZUNvbW1lbnRzLCBmID0+IGYuUmFuZG9tLkJvb2woKSkKICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkV4Y2VycHQsIGYgPT4gZi5Mb3JlbS5TZW50ZW5jZSgpKQogICAgICAgICAgICAuUnVsZUZvcihjID0+IGMuVGFncywgZiA9PiBzdHJpbmcuSm9pbignLCcsIGYuUGlja1JhbmRvbShGYWtlVGFncy5BbGwuU2VsZWN0KHQgPT4gdC5JZCksIDMpKSk=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dmFyIGpzb24gPSBKT2JqZWN0LlBhcnNlKGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKSk7CgogICAgICAgICAgICAgICAgcmVzcG9uc2UuU3RhdHVzQ29kZS5TaG91bGQoKS5CZShTdGF0dXNDb2Rlcy5TdGF0dXM0MDBCYWRSZXF1ZXN0KTsK</text>
+      <register name="3" type="4">
+        <text>new ImageResponse
+            {
+                IsFeatured = f.Random.Bool(),
+                IsDefault = f.Random.Bool(),
+                Original = f.Image.LoremPixelUrl(),
+                Pico = f.Image.LoremPixelUrl(),
+                Thumb = f.Image.LoremPixelUrl(),
+                Compact = f.Image.LoremPixelUrl(),
+                Small = f.Image.LoremPixelUrl(),
+                Medium = f.Image.LoremPixelUrl(),
+                Large = f.Image.LoremPixelUrl(),
+                Huge = f.Image.LoremPixelUrl(),
+                Grande = f.Image.LoremPixelUrl(),
+                MuchoGrande = f.Image.LoremPixelUrl(),
+                Icon = f.Image.LoremPixelUrl()
+            })</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIGpzb24gPSBKT2JqZWN0LlBhcnNlKGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKSk7CgogICAgICAgICAgICAgICAgcmVzcG9uc2UuU3RhdHVzQ29kZS5TaG91bGQoKS5CZShTdGF0dXNDb2Rlcy5TdGF0dXM0MDBCYWRSZXF1ZXN0KTsKCiAgICAgICAgICAgICAgICB2YXIganNvbiA9IEpPYmplY3QuUGFyc2UoYXdhaXQgcmVzcG9uc2UuQ29udGVudC5SZWFkQXNTdHJpbmdBc3luYygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTbHVnID0gZW1wdHlWYWx1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiIildCg==</text>
+        <text encoding="base64">dmFyIGpzb24gPSBKT2JqZWN0LlBhcnNlKGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKSk7CgogICAgICAgICAgICAgICAgcmVzcG9uc2UuU3RhdHVzQ29kZS5TaG91bGQoKS5CZShTdGF0dXNDb2Rlcy5TdGF0dXM0MDBCYWRSZXF1ZXN0KTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIHZvaWQgVGVzdF8oKQogICAgICAgIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyIGpzb24gPSBKT2JqZWN0LlBhcnNlKGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKSk7CgogICAgICAgICAgICAgICAgcmVzcG9uc2UuU3RhdHVzQ29kZS5TaG91bGQoKS5CZShTdGF0dXNDb2Rlcy5TdGF0dXM0MDBCYWRSZXF1ZXN0KTsKCiAgICAgICAgICAgICAgICB2YXIganNvbiA9IEpPYmplY3QuUGFyc2UoYXdhaXQgcmVzcG9uc2UuQ29udGVudC5SZWFkQXNTdHJpbmdBc3luYygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBkZCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiIildCg==</text>
       </register>
     </registers>
     <search>
