@@ -9,6 +9,12 @@
         <mark key="^" line="58" column="20" />
         <mark key="." line="58" column="20" />
       </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/FakeBlogPosts.cs" timestamp="1569142120680">
+        <mark key="[" line="65" column="106" />
+        <mark key="]" line="65" column="67" />
+        <mark key="." line="65" column="67" />
+        <mark key="^" line="65" column="67" />
+      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Validation/BlogPostRequestValidator.cs" timestamp="1568864853528">
         <mark key="[" line="20" column="48" />
         <mark key="]" line="20" column="48" />
@@ -43,11 +49,11 @@
         <mark key="[" line="298" column="13" />
       </file>
       <file name="C:/dev/git/selz/Services.Cart/Service/src/Api/Selz.Cart.Api.FunctionalTests/Clients/TestShopClient.cs" timestamp="1569140614366" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/BlogPostScenarios.cs" timestamp="1569141798049">
-        <mark key="[" line="118" column="48" />
-        <mark key="]" line="118" column="48" />
-        <mark key="." line="118" column="48" />
-        <mark key="^" line="127" column="12" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/BlogPostScenarios.cs" timestamp="1569142528302">
+        <mark key="[" line="115" column="135" />
+        <mark key="]" line="115" column="134" />
+        <mark key="." line="115" column="134" />
+        <mark key="^" line="115" column="134" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/344FCAAB-FBA9-4344-97EB-A787677FED00/76/db60018c/DecompressionMethods.cs" timestamp="1568976565394">
         <mark key="[" line="8" column="0" />
@@ -210,40 +216,40 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text>HStatuc</text>
+        <text>Status200OK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiQWFiYiIpXQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHJlYWRvbmx5IEZha2VyPE1vZGVscy5CbG9nUG9zdHMuQmxvZ1Bvc3RQdXRSZXF1ZXN0PiBCbG9nUG9zdFB1dFJlcXVlc3RGYWtlciA9IG5ldyBGYWtlcjxNb2RlbHMuQmxvZ1Bvc3RzLkJsb2dQb3N0UHV0UmVxdWVzdD4oKQogICAgICAgICAgICAuUnVsZUZvcihjID0+IGMuVGl0bGUsIGYgPT4gZi5QaWNrUmFuZG9tKGYuQ29tbWVyY2UuQ2F0ZWdvcmllcygxMDApKSkKICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLlNsdWcsIGYgPT4gZi5JbnRlcm5ldC5Eb21haW5Xb3JkKCkpCiAgICAgICAgICAgIC5SdWxlRm9yKGMgPT4gYy5Jc1B1Ymxpc2hlZCwgZiA9PiBmLlJhbmRvbS5Cb29sKCkpCiAgICAgICAgICAgIC5SdWxlRm9yKGMgPT4gYy5NZXRhVGl0bGUsIGYgPT4gc3RyaW5nLkpvaW4oIiAiLCBmLkxvcmVtLldvcmRzKCkpKQogICAgICAgICAgICAuUnVsZUZvcihjID0+IGMuTWV0YURlc2NyaXB0aW9uLCBmID0+IGYuTG9yZW0uU2VudGVuY2UoKSkKICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkNvbnRlbnQsIGYgPT4gZi5Mb3JlbS5TZW50ZW5jZXMoNSkpCiAgICAgICAgICAgIC5SdWxlRm9yKGMgPT4gYy5EaXNhYmxlQ29tbWVudHMsIGYgPT4gZi5SYW5kb20uQm9vbCgpKQogICAgICAgICAgICAuUnVsZUZvcihjID0+IGMuRXhjZXJwdCwgZiA9PiBmLkxvcmVtLlNlbnRlbmNlKCkpCiAgICAgICAgICAgIC5SdWxlRm9yKGMgPT4gYy5UYWdzLCBmID0+IHN0cmluZy5Kb2luKCcsJywgZi5QaWNrUmFuZG9tKEZha2VUYWdzLkFsbC5TZWxlY3QodCA9PiB0LklkKSwgMykpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBqc29uID0gSk9iamVjdC5QYXJzZShhd2FpdCByZXNwb25zZS5Db250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZXF1ZXN0ID0gbmV3IEh0dHBSZXF1ZXN0TWVzc2FnZShIdHRwTWV0aG9kLlBvc3QsIEJsb2dQb3N0c0Jhc2VVcmwpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ29udGVudCA9IG5ldyBTdHJpbmdDb250ZW50KG1hbGZvcm1lZEpzb24sIEVuY29kaW5nLlVURjgsIE1lZGlhVHlwZU5hbWVzLkFwcGxpY2F0aW9uLkpzb24pCiAgICAgICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29sbGVjdGlvbi5Db25maWd1cmU8UmVwb3NpdG9yeU9wdGlvbnM+KG9wdGlvbiA9PiBvcHRpb24uQ29ubmVjdGlvblN0cmluZyA9IHJlcG9zaXRvcnlPcHRpb25zLkNvbm5lY3Rpb25TdHJpbmcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xsZWN0aW9uLkFkZEh0dHBDbGllbnQ8TT4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBleHBlY3RlZEJsb2dQb3N0ID0gRmFrZUJsb2dQb3N0cy5BbGwuRmlyc3QoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBleHBlY3RlZEJsb2dQb3N0ID0gRmFrZUJsb2dQb3N0cy5BbGwuRmlyc3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgRW52aXJvbm1lbnQuU2V0RW52aXJvbm1lbnRWYXJpYWJsZSgiQVNQTkVUQ09SRV9FTlZJUk9OTUVOVCIsICJUZWFtQ2l0eSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZXF1ZXN0ID0gbmV3IEh0dHBSZXF1ZXN0TWVzc2FnZShIdHRwTWV0aG9kLlBvc3QsIEJsb2dQb3N0c0Jhc2VVcmwpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ29udGVudCA9IG5ldyBTdHJpbmdDb250ZW50KG1hbGZvcm1lZEpzb24sIEVuY29kaW5nLlVURjgsIE1lZGlhVHlwZU5hbWVzLkFwcGxpY2F0aW9uLkpzb24pCiAgICAgICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgSEVuCg==</text>
+        <text encoding="base64">ICAgICAgY29sbGVjdGlvbi5Db25maWd1cmU8UmVwb3NpdG9yeU9wdGlvbnM+KG9wdGlvbiA9PiBvcHRpb24uQ29ubmVjdGlvblN0cmluZyA9IHJlcG9zaXRvcnlPcHRpb25zLkNvbm5lY3Rpb25TdHJpbmcpOwo=</text>
       </register>
     </registers>
     <search>
