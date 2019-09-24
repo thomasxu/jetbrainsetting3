@@ -20,7 +20,10 @@
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" timestamp="1569289901044">
         <mark key="[" line="91" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1C2AD4C4-6384-434F-A2CA-ABC8ECD2691F/de/43353513/AmazonClientFactoryExtensions.cs" timestamp="1569291546951" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1C2AD4C4-6384-434F-A2CA-ABC8ECD2691F/de/43353513/AmazonClientFactoryExtensions.cs" timestamp="1569291602860">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="29" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/Shops/ShopsProfile.cs" timestamp="1569289960286" />
       <file name="C:/dev/git/experiment_project/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1569290982932" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/73485942-4FF1-45E1-A01B-34700FCBD9A8/0b/42741c27/AmazonClientFactoryExtensions.cs" timestamp="1569291081598" />
@@ -39,11 +42,11 @@
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Selz.Catalog.Api.FunctionalTests.csproj" timestamp="1569287454011" />
       <file name="C:/dev/git/experiment_project/Services.Shop/Service/src/Api/Selz.Shops.Core/Domain_Extensions/BlogPostExtension.cs" timestamp="1569290892902" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/ba/0ca3cf9d/RequestDelegate.cs" timestamp="1569289584736" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1569291301851">
-        <mark key="[" line="122" column="20" />
-        <mark key="]" line="122" column="27" />
-        <mark key="^" line="122" column="27" />
-        <mark key="." line="122" column="27" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1569291593360">
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="29" column="6" />
+        <mark key="^" line="29" column="33" />
+        <mark key="." line="29" column="6" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Startup.cs" timestamp="1569287888361" />
       <file name="C:/dev/git/selz/API/src/Selz.Core/Helpers/MimeTypeHelper.cs" timestamp="1569283872552" />
@@ -160,13 +163,13 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text>new ObjectId(s</text>
+        <text>RegisterAmazonClientFactory</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5DcmVhdGVNYXA8T2JqZWN0SWQsIHN0cmluZz4oKS5Db252ZXJ0VXNpbmcoRXhwcmVzc2lvbi5MYW1iZGE8RnVuYzxPYmplY3RJZCwgc3RyaW5nPj4oKEV4cHJlc3Npb24pIEV4cHJlc3Npb24uQ2FsbChvLCAoTWV0aG9kSW5mbykgTWV0aG9kQmFzZS5HZXRNZXRob2RGcm9tSGFuZGxlKF9fbWV0aG9kcmVmIChvYmplY3QuVG9TdHJpbmcpKSwgQXJyYXkuRW1wdHk8RXhwcmVzc2lvbj4oKSksIHBhcmFtZXRlckV4cHJlc3Npb24zKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>Selz.Core.Common.Aws</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2NvcGVkPElBbWF6b25TMywgQW1hem9uUzM+KCkK</text>
