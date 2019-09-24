@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1569279831017">
-        <mark key="[" line="197" column="24" />
-        <mark key="]" line="191" column="66" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1569286399385">
+        <mark key="[" line="188" column="19" />
+        <mark key="]" line="188" column="19" />
         <mark key="^" line="191" column="66" />
-        <mark key="." line="191" column="66" />
+        <mark key="." line="188" column="19" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1569246462164">
         <mark key="[" line="10" column="0" />
@@ -36,9 +36,6 @@
         <mark key="]" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1569234271492">
-        <mark key="[" line="120" column="69" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/StringExtensions.cs" timestamp="1569246261828">
         <mark key="[" line="65" column="9" />
       </file>
@@ -50,7 +47,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Helpers/MimeTypeHelper.cs" timestamp="1569283872552" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CatalogScenarioBase.cs" timestamp="1569285460777" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/ProductsController.cs" timestamp="1569285344699" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/Images/FilePostModel.cs" timestamp="1569245264606">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -60,6 +58,16 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/ErrorHandlingMiddleware.cs" timestamp="1569285991719" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/BlogPosts/BlogPostProfile.cs" timestamp="1569284704838" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1569285968515">
+        <mark key="[" line="120" column="69" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Helpers/MimeTypeHelper.cs" timestamp="1569283872552" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/60CAF381-E330-419C-98A8-76F3A03FAD65/cc/aab682d9/BaseProfile.cs" timestamp="1569284833498">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="255" />
       </file>
     </filemarks>
     <jumps>
@@ -172,13 +180,13 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text>fileUpload</text>
+        <text>:objectid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQ29uZmlndXJlPFMzT3B0aW9ucz4oQ29uZmlndXJhdGlvbi5HZXRTZWN0aW9uKCJTMyIpKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5DcmVhdGVNYXA8T2JqZWN0SWQsIHN0cmluZz4oKS5Db252ZXJ0VXNpbmcoRXhwcmVzc2lvbi5MYW1iZGE8RnVuYzxPYmplY3RJZCwgc3RyaW5nPj4oKEV4cHJlc3Npb24pIEV4cHJlc3Npb24uQ2FsbChvLCAoTWV0aG9kSW5mbykgTWV0aG9kQmFzZS5HZXRNZXRob2RGcm9tSGFuZGxlKF9fbWV0aG9kcmVmIChvYmplY3QuVG9TdHJpbmcpKSwgQXJyYXkuRW1wdHk8RXhwcmVzc2lvbj4oKSksIHBhcmFtZXRlckV4cHJlc3Npb24zKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
