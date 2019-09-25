@@ -26,7 +26,7 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1569409744167" />
+      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1569412697113" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.json" timestamp="1569390838093">
         <mark key="[" line="27" column="3" />
       </file>
@@ -50,10 +50,10 @@
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" timestamp="1569289901044">
         <mark key="[" line="91" column="21" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/Images/AddImageRequest.cs" timestamp="1569411677262">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/Images/AddImageRequest.cs" timestamp="1569412784516">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/ImagePathExtension.cs" timestamp="1569381540458">
         <mark key="[" line="9" column="9" />
@@ -64,6 +64,7 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="5" column="19" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Images/FileDownloadService.cs" timestamp="1569411913792" />
       <file name="C:/dev/git/selz/API/src/Selz.Core/Constants.cs" timestamp="1569407127678">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="102" column="9" />
@@ -75,12 +76,12 @@
         <mark key="." line="12" column="3" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1569411447511" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1569408902496">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1569412032840">
         <mark key="'" line="255" column="26" />
-        <mark key="[" line="354" column="25" />
-        <mark key="]" line="354" column="25" />
-        <mark key="." line="354" column="25" />
-        <mark key="^" line="354" column="28" />
+        <mark key="[" line="290" column="9" />
+        <mark key="]" line="374" column="25" />
+        <mark key="." line="374" column="25" />
+        <mark key="^" line="374" column="28" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/BlogPosts/BlogPostProfile.cs" timestamp="1569408250748">
         <mark key="[" line="69" column="56" />
@@ -88,8 +89,10 @@
       <file name="/Dummy.txt" timestamp="1569392728052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1569407238346">
-        <mark key="[" line="71" column="9" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1569412723564">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1569389309675">
         <mark key="[" line="130" column="0" />
@@ -238,18 +241,30 @@
         <text>&quot;.t</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IC8vIFByb2ZpbGUgIAogICAgICAgICAgICBpZiAoX2ZhY3RvcnlPcHRpb25zID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBfYXdzT3B0aW9uLkNyZWF0ZVNlcnZpY2VDbGllbnQ8SUFtYXpvblMzPigpOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICJBbWF6b25DbGllbnRGYWN0b3J5IjogewogICAgIlVzZUxvY2Fsc3RhY2siOiB0cnVlLAogICAgIlVzZVNlY3JldE1hbmFnZXIiOiBmYWxzZQogIH0sICA=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>&quot;AWS&quot;: {
     &quot;Region&quot;: &quot;us-east-1&quot;,
     &quot;UseHttp&quot;: true,
@@ -257,18 +272,6 @@
     &quot;ProxyHost&quot;: &quot;localhost&quot;,
     &quot;ProxyPort&quot;: &quot;4572&quot;
   },</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICJBbWF6b25DbGllbnRGYWN0b3J5IjogewogICAgIlVzZUxvY2Fsc3RhY2siOiB0cnVlLAogICAgIlVzZVNlY3JldE1hbmFnZXIiOiBmYWxzZQogIH0s</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICBkIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgLy8gYWRkSW1hZ2VSZXN1bHQuQWRkRXJyb3IoImJlZm9yZSBzYXZlIGltYWdlIHRvIHMzIiwgYWRkSW1hZ2U/LkZpbGVFeHRlbnNpb24pOwogICAgICAgICAgICAvLyByZXR1cm4gYWRkSW1hZ2VSZXN1bHQ7</text>
       </register>
     </registers>
     <search>
