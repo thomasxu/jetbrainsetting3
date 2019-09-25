@@ -8,15 +8,15 @@
         <mark key="]" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1569379651022">
-        <mark key="p" line="242" column="13" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1569382946296">
+        <mark key="p" line="233" column="13" />
         <mark key="'" line="67" column="83" />
-        <mark key="[" line="219" column="7" />
-        <mark key="]" line="219" column="7" />
-        <mark key="." line="219" column="7" />
-        <mark key="^" line="236" column="54" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="^" line="207" column="63" />
+        <mark key="." line="193" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569382351549">
+      <file name="/Dummy.txt" timestamp="1569383750758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1569378856741">
@@ -47,14 +47,14 @@
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" timestamp="1569289901044">
         <mark key="[" line="91" column="21" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1569383296069">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+      </file>
+      <file name="/BlogPostScenarios.cs" timestamp="1569383534536" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/AwsClientFactory/AmazonClientFactory.cs" timestamp="1569333041355">
         <mark key="[" line="41" column="52" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Images/IImageService.cs" timestamp="1569323055757">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/AwsClientFactory/AwsCredentialOption.cs" timestamp="1569299782978">
         <mark key="[" line="6" column="8" />
@@ -84,18 +84,13 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/BlogPosts/BlogPostProfile.cs" timestamp="1569325816562">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="68" column="30" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1569382288514">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1569383266611" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1569383775437">
         <mark key="'" line="254" column="26" />
-        <mark key="[" line="268" column="40" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-        <mark key="^" line="12" column="35" />
+        <mark key="[" line="166" column="76" />
+        <mark key="]" line="157" column="7" />
+        <mark key="." line="157" column="7" />
+        <mark key="^" line="157" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -208,7 +203,7 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text>addImage?.FileExtension</text>
+        <text>First</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
@@ -219,34 +214,33 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShhZGRJbWFnZVJlc3BvbnNlPy5VcmwpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBNb2RlbFN0YXRlLkFkZE1vZGVsRXJyb3IoIiIsICJhZGRJbWFnZVJlc3BvbnNlIGlzIG51bGwiKTsKICAgICAgICAgICAgICAgIHJldHVybiBCYWRSZXF1ZXN0KE1vZGVsU3RhdGUpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPckVtcHR5KGFkZEltYWdlUmVzcG9uc2UuVXJsKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgTW9kZWxTdGF0ZS5BZGRNb2RlbEVycm9yKG5hbWVvZihhZGRJbWFnZVJlc3BvbnNlLlVybCksICJhZGRJbWFnZVJlc3BvbnNlLlVybCBjYW4gbm90IGJlIGVtcHR5LiIpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBhZGRJbWFnZVJlc3BvbnNlID0gbmV3IEFkZEltYWdlUmVzcG9uc2UoKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBVcmwgPSAiVGVtcCIKICAgICAgICAgICAgfTs=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShhZGRJbWFnZVJlc3VsdC5VcmwpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBhZGRJbWFnZVJlc3VsdC5BZGRFcnJvcihuYW1lb2YoYWRkSW1hZ2VSZXN1bHQuVXJsKSwgIkFkZEltYWdlUmVzdWx0LlVybCBjYW4gbm90IGJlIGVtcHR5LiIpOwogICAgICAgICAgICB9</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="4">
         <text>else
             {
                 addImageResult.AddError(&quot;putObjectResponse&quot;, $&quot;Fail to add s3 image, status code: {putObjectResponse.HttpStatusCode}. ImagePath: {imagePath}, bucket: {ImageBucketName}&quot;);
                 return addImageResult;
             }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IH0KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgYWRkSW1hZ2VSZXN1bHQuQWRkRXJyb3IoImluIGV4IiwgZXguTWVzc2FnZSArIGV4LlN0YWNrVHJhY2UpOwogICAgICAgICAgICAgICAgcmV0dXJuIGFkZEltYWdlUmVzdWx0OwogICAgICAgICAgICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBleCkK</text>
-      </register>
-      <register name="6" type="4">
-        <text>try
-            {</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhZGRJbWFnZVJlc3VsdCA9IG5ldyBBZGRJbWFnZVJlc3VsdCgpOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHVzaW5nIChhZGRJbWFnZS5TdHJlYW0pCiAgICAgICAgICAgIHs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFic29sdXRlSW1hZ2VQYXRoID0gCg==</text>
       </register>
     </registers>
     <search>
