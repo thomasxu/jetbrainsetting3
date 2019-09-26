@@ -3,14 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1569458381823">
-        <mark key="p" line="233" column="13" />
-        <mark key="'" line="67" column="83" />
-        <mark key="[" line="208" column="37" />
-        <mark key="]" line="208" column="42" />
-        <mark key="^" line="208" column="42" />
-        <mark key="." line="208" column="42" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/S3Extension.cs" timestamp="1569459463028">
         <mark key="'" line="31" column="12" />
         <mark key="[" line="83" column="39" />
@@ -52,6 +44,12 @@
       <file name="/Dummy.cs" timestamp="1569416336653">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/git/experiment_project/TestConsole/TestConsole/Program.cs" timestamp="1569460966718">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="20" column="33" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/ImagePathExtension.cs" timestamp="1569381540458">
         <mark key="[" line="9" column="9" />
       </file>
@@ -67,13 +65,6 @@
         <mark key="]" line="52" column="84" />
         <mark key="^" line="52" column="49" />
         <mark key="." line="52" column="84" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1569417435330">
-        <mark key="'" line="255" column="26" />
-        <mark key="[" line="258" column="27" />
-        <mark key="]" line="258" column="111" />
-        <mark key="." line="374" column="25" />
-        <mark key="^" line="374" column="28" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/BlogPosts/BlogPostProfile.cs" timestamp="1569408250748">
         <mark key="[" line="69" column="56" />
@@ -108,11 +99,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="8" column="63" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IBlogPostClient.cs" timestamp="1569411639230">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Constants.cs" timestamp="1569407160115">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -123,6 +109,12 @@
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Staging.json" timestamp="1569390827206">
         <mark key="[" line="27" column="3" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1569460478107">
+        <mark key="[" line="42" column="99" />
+        <mark key="]" line="42" column="99" />
+        <mark key="^" line="42" column="100" />
+        <mark key="." line="42" column="99" />
       </file>
     </filemarks>
     <jumps>
@@ -235,7 +227,7 @@
         <text>blogPostId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PERlbGV0ZU9iamVjdFJlc3BvbnNlPg==</text>
+        <text>del = delegate(int i) {  };</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
@@ -244,32 +236,32 @@
         <text>https://www.google.com.au/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9ja2VyIGltYWdlIHBydW5lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRG9ja2VyCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IAogICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>using (var httpClient = _httpFactory.CreateClient())
                     {</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2h0dHBGYWN0b3J5ID0gaHR0cEZhY3Rvcnk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElIdHRwQ2xpZW50RmFjdG9yeSBfaHR0cEZhY3Rvcnk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2h0dHBGYWN0b3J5ID0gaHR0cEZhY3Rvcnk7Cg==</text>
       </register>
     </registers>
     <search>
