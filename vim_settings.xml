@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Amazons/S3ActionsService.cs" timestamp="1569668128983" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Images/ImageService.cs" timestamp="1569672825793">
-        <mark key="[" line="84" column="116" />
-        <mark key="]" line="84" column="116" />
-        <mark key="^" line="84" column="116" />
-        <mark key="." line="84" column="116" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Images/ImageService.cs" timestamp="1569673043712">
+        <mark key="[" line="78" column="137" />
+        <mark key="]" line="78" column="137" />
+        <mark key="^" line="78" column="140" />
+        <mark key="." line="78" column="137" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1569672679428">
         <mark key="[" line="252" column="0" />
@@ -56,6 +56,12 @@
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Validation/WebhookValidator.cs" timestamp="1569668319006" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/CustomersController.cs" timestamp="1569655790551" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/ModelBinders/CustomBodyModelBinderProvider.cs" timestamp="1569650582071" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/99/ca4000dd/ControllerBase.cs" timestamp="1569673370333">
+        <mark key="'" line="357" column="35" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/2c/788ae573/DefaultContractResolver.cs" timestamp="1569650665288">
+        <mark key="'" line="127" column="11" />
+      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Program.cs" timestamp="1569654537425" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Webhooks/TestWebhooksClient.cs" timestamp="1569629687784">
         <mark key="[" line="57" column="40" />
@@ -64,14 +70,17 @@
         <mark key="." line="57" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADE1F68B-5077-4F7B-934E-BFC4EF763470/bf/7efac3fa/ShopImage.cs" timestamp="1569666911880" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1569672391169">
-        <mark key="'" line="27" column="17" />
-        <mark key="[" line="256" column="30" />
-        <mark key="]" line="256" column="29" />
-        <mark key="." line="256" column="29" />
-        <mark key="^" line="256" column="29" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1569673769552">
+        <mark key="'" line="270" column="18" />
+        <mark key="[" line="251" column="13" />
+        <mark key="]" line="277" column="0" />
+        <mark key="." line="277" column="0" />
+        <mark key="^" line="276" column="30" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Shared/Selz.Api.Public.Core/Attributes/AllowOnlySafeHtmlTagsAttribute.cs" timestamp="1569655862573" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/9c/9d18a6ee/SnakeCaseNamingStrategy.cs" timestamp="1569650671745">
+        <mark key="'" line="54" column="11" />
+      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/ApiBaseController.cs" timestamp="1569653453613">
         <mark key="[" line="74" column="29" />
         <mark key="]" line="74" column="26" />
@@ -112,6 +121,7 @@
         <mark key="." line="33" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79908E34-7135-419F-AA48-A43CC812C8B9/d7/e9cd8d6a/DeleteObjectResponse.cs" timestamp="1569672717404" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05ABF565-93A1-4972-B3F6-F0E0F7038247/a0/c6ae695e/BaseController.cs" timestamp="1569673951377" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/d2/bc5a7797/StringEnumConverter.cs" timestamp="1569665899198" />
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Images/ImageService.cs" timestamp="1569668951527" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.Local.json" timestamp="1569654277654" />
@@ -119,8 +129,6 @@
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Constants.cs" timestamp="1569656425550" />
     </filemarks>
     <jumps>
-      <jump line="70" column="32" filename="C:/dev/git/experiment_project/IdentityServer4_2/src/IdentityServer4_2/Config.cs" />
-      <jump line="49" column="42" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7208242E-8171-474E-A12D-B9D506D0C43F/5/ApiResponse.cs" />
       <jump line="90" column="61" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/FakeCategories.cs" />
       <jump line="200" column="35" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3420AE3-4FA7-4237-A6AE-294FF4B44BC7/58/7054273b/AssertionExtensions.cs" />
       <jump line="17" column="8" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" />
@@ -219,6 +227,8 @@
       <jump line="127" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/2c/788ae573/DefaultContractResolver.cs" />
       <jump line="54" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/9c/9d18a6ee/SnakeCaseNamingStrategy.cs" />
       <jump line="27" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
+      <jump line="357" column="35" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/99/ca4000dd/ControllerBase.cs" />
+      <jump line="266" column="18" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -231,7 +241,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>OK</text>
+        <text>updateAsync</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
@@ -240,31 +250,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGVudW1UeXBlMSA9IGVudW1UeXBlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYltdCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYltdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbUm91dGUoKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYltdCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHB1YmxpYyBvdmVycmlkZSBib29sIENhbkNvbnZlcnQoVHlwZSBvYmplY3RUeXBlKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKG9iamVjdFR5cGUuSXNFbnVtKSByZXR1cm4gdHJ1ZTsKCiAgICAgICAgICAgIHZhciBudWxsYWJsZSA9IE51bGxhYmxlLkdldFVuZGVybHlpbmdUeXBlKG9iamVjdFR5cGUpOwogICAgICAgICAgICByZXR1cm4gKG51bGxhYmxlICE9IG51bGwpICYmIG51bGxhYmxlLklzRW51bTsKICAgICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYltdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh2YWx1ZTIgaXMgaW50KQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBbUm91dGUoKV0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlIGlmIE9iamVjdElkCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHB1YmxpYyBvdmVycmlkZSBib29sIENhbkNvbnZlcnQoVHlwZSBvYmplY3RUeXBlKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKG9iamVjdFR5cGUuSXNFbnVtKSByZXR1cm4gdHJ1ZTsKCiAgICAgICAgICAgIHZhciBudWxsYWJsZSA9IE51bGxhYmxlLkdldFVuZGVybHlpbmdUeXBlKG9iamVjdFR5cGUpOwogICAgICAgICAgICByZXR1cm4gKG51bGxhYmxlICE9IG51bGwpICYmIG51bGxhYmxlLklzRW51bTsKICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcHRpb25zLk1vZGVsQmluZGVyUHJvdmlkZXJzLkluc2VydCgwLCBjb252ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh2YWx1ZTIgaXMgaW50KQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlIGlmIE9iamVjdElkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcHRpb25zLk1vZGVsQmluZGVyUHJvdmlkZXJzLkluc2VydCgwLCBjb252ZXIpOwo=</text>
       </register>
     </registers>
     <search>
