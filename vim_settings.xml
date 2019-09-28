@@ -4,17 +4,18 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/API.Public/Service/src/Shared/Selz.Api.Public.Core/Attributes/AllowOnlySafeHtmlTagsAttribute.cs" timestamp="1569655862573" />
+      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1569662148972" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/ApiBaseController.cs" timestamp="1569653453613">
         <mark key="[" line="74" column="29" />
         <mark key="]" line="74" column="26" />
         <mark key="^" line="74" column="26" />
         <mark key="." line="74" column="26" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Webhooks/WebHookScenarios.cs" timestamp="1569658657943">
-        <mark key="[" line="109" column="21" />
-        <mark key="]" line="108" column="72" />
-        <mark key="^" line="108" column="72" />
-        <mark key="." line="108" column="72" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Webhooks/WebHookScenarios.cs" timestamp="1569662053706">
+        <mark key="[" line="150" column="84" />
+        <mark key="]" line="150" column="84" />
+        <mark key="^" line="150" column="93" />
+        <mark key="." line="150" column="84" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.json" timestamp="1569653875611" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/WebhookPactScenarios.cs" timestamp="1569655818873" />
@@ -48,11 +49,6 @@
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Extensions/HealthChecksBuilderExtensions.cs" timestamp="1569653545274" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/CustomersController.cs" timestamp="1569655790551" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/ModelBinders/CustomBodyModelBinderProvider.cs" timestamp="1569650582071" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Providers/SnakeCaseQueryStringValueProviderFactory.cs" timestamp="1569651095064">
-        <mark key="[" line="16" column="86" />
-        <mark key="]" line="16" column="86" />
-        <mark key="." line="16" column="86" />
-      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Program.cs" timestamp="1569654537425" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Constants.cs" timestamp="1569656425550" />
     </filemarks>
@@ -169,7 +165,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>requestJson</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
