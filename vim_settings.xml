@@ -23,10 +23,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F4C1E2AF-34ED-4042-9212-A3B1BB606B7F/54/c22aa788/ConfigurationBinder.cs" timestamp="1569806984693">
         <mark key="'" line="105" column="23" />
       </file>
-      <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common.Aws/AmazonClientFactory.cs" timestamp="1569808337037">
-        <mark key="[" line="104" column="1" />
-        <mark key="]" line="104" column="1" />
-        <mark key="." line="104" column="1" />
+      <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common.Aws/AmazonClientFactory.cs" timestamp="1569812281119">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="53" column="27" />
+        <mark key="." line="53" column="27" />
         <mark key="^" line="70" column="15" />
       </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo/Events/SnsEventHandler.cs" timestamp="1569796923577" />
@@ -62,7 +63,7 @@
       <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common/Collections/IPagedList.cs" timestamp="1569805463074" />
       <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common.Aws/AwsCredentialOptions.cs" timestamp="1569809911643" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ShopTestServer.cs" timestamp="1569805191616" />
-      <file name="/Dummy.txt" timestamp="1569810630230">
+      <file name="/Dummy.txt" timestamp="1569812293655">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05ABF565-93A1-4972-B3F6-F0E0F7038247/a0/c6ae695e/BaseController.cs" timestamp="1569811074778" />
@@ -77,7 +78,6 @@
       <file name="C:/dev/git/selz/API/src/Selz.Core/Amazons/IS3Service.cs" timestamp="1569799071784" />
     </filemarks>
     <jumps>
-      <jump line="44" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B2FC0BD-62D8-46FE-BDE5-75F3854A3694/3c/7c45bb81/StringExtensions.cs" />
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="12" column="17" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DBBBBD64-65BB-4F5D-88B0-00E5D8096615/5/ApiException.cs" />
       <jump line="195" column="38" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0B98D913-6CE4-47E5-B507-641297D8AC62/6b/cb50bcb0/ClaimsPrincipal.cs" />
@@ -177,6 +177,7 @@
       <jump line="20" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/AmazonFixture.cs" />
       <jump line="105" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F4C1E2AF-34ED-4042-9212-A3B1BB606B7F/54/c22aa788/ConfigurationBinder.cs" />
       <jump line="33" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
+      <jump line="9" column="17" filename="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common.Aws/AmazonClientFactory.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -189,7 +190,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>AwsCredentialOptions</text>
+        <text>IsNullOrEmpty</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
