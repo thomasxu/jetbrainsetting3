@@ -21,7 +21,12 @@
         <mark key="." line="114" column="57" />
         <mark key="^" line="114" column="62" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.json" timestamp="1569969755311" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.json" timestamp="1569972281896">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="17" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Development.json" timestamp="1569969644981">
         <mark key="[" line="33" column="28" />
       </file>
@@ -30,6 +35,7 @@
         <mark key="]" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.Testing.json" timestamp="1569972253038" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Staging.json" timestamp="1569969792210" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.TeamCity.json" timestamp="1569969627948">
         <mark key="[" line="10" column="24" />
@@ -158,7 +164,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>trwue</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
@@ -167,31 +173,69 @@
         <text>ITestOutputHelper</text>
       </register>
       <register name="1" type="4">
+        <text>{
+  &quot;Logging&quot;: {
+    &quot;LogLevel&quot;: &quot;Debug&quot;,
+    &quot;EnableSentry&quot;: true,
+    &quot;SentryDsn&quot;: &quot;https://8af8dcdd90b1415e8e7dbb67c803eecc@sentry.io/1493762&quot;,
+    &quot;CloudWatchEnabled&quot;: true,
+    &quot;ConsoleEnabled&quot;: false,
+    &quot;EnvironmentName&quot;: &quot;Production&quot;,
+    &quot;ApplicationName&quot;: &quot;Shops-Api&quot;,
+    &quot;Overrides&quot;: [
+      {
+        &quot;Name&quot;: &quot;Microsoft&quot;,
+        &quot;Level&quot;: &quot;Warning&quot;
+      },
+      {
+        &quot;Name&quot;: &quot;System&quot;,
+        &quot;Level&quot;: &quot;Warning&quot;
+      },
+      {
+        &quot;Name&quot;: &quot;HealthChecks&quot;,
+        &quot;Level&quot;: &quot;Warning&quot;
+      }
+    ]
+  },
+  &quot;SecretsManager&quot;: {
+    &quot;Arn&quot;: &quot;TODO&quot;,
+    &quot;Enabled&quot;: true
+  },
+  &quot;AmazonClientFactory&quot;: {
+    &quot;UseLocalstack&quot;: false,
+    &quot;UseSecretManager&quot;: true
+  },
+  &quot;S3&quot;: {
+    &quot;ImageBucketName&quot;: &quot;selzimg&quot;
+  },
+  &quot;AWS&quot;: {
+    &quot;Region&quot;: &quot;us-east-1&quot;
+  }
+}</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">U2hvcElkID0gVGVzdFBhY3RTaG9wSWQsCiAgICAgICAgICAgICAgICAgICAgQ3JlYXRlZEJ5ID0g</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IE9iamVjdElkKCI1ZDc3OTZkZTJiZDUzODM1MDhlYTUzOTMiKSwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJZCA9IAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIElkID0gIjVkNzc5NmRlMmJkNTM4MzUwOGVhNTM5YyIsCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">bnQgVGVzdFBhY3RCbG9nUG9zdElkID0+ICI1ZDc3OTZkZTJiZDUzODM1MDhlYTUzOWQiOwoKICAgICAgICBwcm90ZWN0ZWQ=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICJQcm9maWxlIjogImRldmVsb3BtZW50IiwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXI8RmlsZURvd25sb2FkU2VydmljZT4gX2xvZ2dlckZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
       </register>
     </registers>
     <search>
