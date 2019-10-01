@@ -3,17 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1569933031142">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.Client/IWebhookClient.cs" timestamp="1569936227940" />
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo.Test/FunctionTests.cs" timestamp="1569797079309">
-        <mark key="[" line="37" column="28" />
-      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/Base/ConsumerPactFixture.cs" timestamp="1569936541827">
         <mark key="'" line="52" column="20" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/BlogPostPactScenario.cs" timestamp="1569936692112" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/BlogPostPactScenario.cs" timestamp="1569937453985">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="72" column="33" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/BlogPosts/BlogPostPactDataFixture.cs" timestamp="1569938661556">
+        <mark key="[" line="114" column="57" />
+        <mark key="]" line="114" column="57" />
+        <mark key="." line="114" column="57" />
+        <mark key="^" line="114" column="62" />
+      </file>
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.Pact/Base/PactTestScenarioBase.cs" timestamp="1569936146085">
         <mark key="'" line="35" column="36" />
         <mark key="[" line="72" column="12" />
@@ -22,16 +27,16 @@
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/StorePactScenarios.cs" timestamp="1569936344154" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.Pact/Selz.Webhooks.Api.Pact.csproj" timestamp="1569936202603" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.Pact/appsettings.Testing.json" timestamp="1569936479071" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/Shops/ShopPactDataFixture.cs" timestamp="1569936605398" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/Shops/ShopsProviderTest.cs" timestamp="1569936785873" />
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.ProductSync/Services/IProductSyncService.cs" timestamp="1569932832144">
-        <mark key="[" line="941" column="0" />
-        <mark key="]" line="941" column="100" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/Shops/ShopPactDataFixture.cs" timestamp="1569939358277" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/BlogPosts/BlogPostsProviderTest.cs" timestamp="1569936991264">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
       </file>
-      <file name="/appsettings.Testing.json" timestamp="1569929305125">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="53" />
-      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/Base/PactTestScenarioBase.cs" timestamp="1569939468550" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/Shops/ShopsProviderTest.cs" timestamp="1569939131520" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB0CA936-4A86-4500-ACB6-4EFFFE4D4340/26/9bf8122f/BlogPost.cs" timestamp="1569937292038" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/Base/DataFixture.cs" timestamp="1569939073982" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/appsettings.Testing.json" timestamp="1569936514970">
         <mark key="[" line="17" column="54" />
         <mark key="]" line="17" column="54" />
@@ -152,7 +157,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;http://localhost:8080/pacts</text>
+        <text>IRepository</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
@@ -160,32 +165,32 @@
       <register name="0" type="4">
         <text>ITestOutputHelper</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJQcm9maWxlIjogImRldmVsb3BtZW50IiwK</text>
+      <register name="1" type="4">
+        <text encoding="base64">U2hvcElkID0gVGVzdFBhY3RTaG9wSWQsCiAgICAgICAgICAgICAgICAgICAgQ3JlYXRlZEJ5ID0g</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXI8RmlsZURvd25sb2FkU2VydmljZT4gX2xvZ2dlckZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE9iamVjdElkKCI1ZDc3OTZkZTJiZDUzODM1MDhlYTUzOTMiKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXI8RmlsZURvd25sb2FkU2VydmljZT4gX2xvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJZCA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvck1lc3NhZ2UgPSAiVGhlIGF0dGFjaG1lbnQgcHJvdmlkZWQgY2Fubm90IGJlIGRlY29kZSI7CiAgICAgICAgICAgICAgICAgICAgX2xvZ2dlci5Mb2dFcnJvcihleCwgZXJyb3JNZXNzYWdlKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmlsZVVwbG9hZFJlc3VsdC5BZGRUb05vdGlmaWNhdGlvbihlcnJvck1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElkID0gIjVkNzc5NmRlMmJkNTM4MzUwOGVhNTM5YyIsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JNZXNzYWdlID0gIlRoZSB1cmwgcHJvdmlkZWQgdGltZWQgb3V0IjsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">bnQgVGVzdFBhY3RCbG9nUG9zdElkID0+ICI1ZDc3OTZkZTJiZDUzODM1MDhlYTUzOWQiOwoKICAgICAgICBwcm90ZWN0ZWQ=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvck1lc3NhZ2UgPSAiRXJyb3Igd2hpbGUgZmV0Y2hpbmcgZmlsZSBmcm9tIHVybCI7CiAgICAgICAgICAgICAgICAgICAgX2xvZ2dlci5Mb2dFcnJvcihleCwgZXJyb3JNZXNzYWdlKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmlsZVVwbG9hZFJlc3VsdC5BZGRUb05vdGlmaWNhdGlvbihlcnJvck1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICJQcm9maWxlIjogImRldmVsb3BtZW50IiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGVycm9yTWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJQcm9maWxlc0xvY2F0aW9uIjogIkM6XFxBV1NcXHByb2ZpbGVzLnR4dCIsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXI8RmlsZURvd25sb2FkU2VydmljZT4gX2xvZ2dlckZhY3Rvcnk7Cg==</text>
       </register>
     </registers>
     <search>
