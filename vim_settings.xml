@@ -7,35 +7,38 @@
         <mark key="[" line="37" column="28" />
       </file>
       <file name="/.env" timestamp="1569907856895" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api.UnitTests/SearchFixture.cs" timestamp="1569911384550" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Shared/Selz.Search.Infrastructure/Tasks/BaseTask.cs" timestamp="1569911417596">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="51" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+      </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.ProductSync/Events/ICategoryEventHandler.cs" timestamp="1569910255985" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/WebhookPactScenarios.cs" timestamp="1569909261878" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.Testing.json" timestamp="1569909530536" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Images/FileDownloadService.cs" timestamp="1569910469665">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="27" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="19" column="27" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Images/FileDownloadService.cs" timestamp="1569911478723">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="74" />
+        <mark key="." line="20" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Search/Service/src/GlobalIndexer/Selz.Search.GlobalIndexer/Tasks/SyncTask.cs" timestamp="1569911405732" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/Selz.Api.Public.PactTests.csproj" timestamp="1569907871800" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.TeamCity.json" timestamp="1569907224016">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Startup.cs" timestamp="1569845380736">
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.TeamCity.json" timestamp="1569912165478">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1569907212207" />
-      <file name="/Dummy.txt" timestamp="1569907529573">
+      <file name="/Dummy.txt" timestamp="1569913000772">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/appsettings.Testing.json" timestamp="1569909312670" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/Base/ConsumerPactFixture.cs" timestamp="1569908116366" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/appsettings.TeamCity.json" timestamp="1569909304311" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/Shops/ShopPactDataFixture.cs" timestamp="1569909559327" />
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.ProductSync/Services/IProductSyncService.cs" timestamp="1569910483920">
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.ProductSync/Services/IProductSyncService.cs" timestamp="1569912605739">
         <mark key="[" line="941" column="0" />
         <mark key="]" line="941" column="100" />
       </file>
@@ -154,58 +157,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LkNyZWF0ZUxvZ2dlcjxGaWxlRG93bmxvYWRTZXJ2aWNlPigpOw==</text>
+        <text encoding="base64">IElMb2dnZXJGYWN0b3J5IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nRXJyb3IoZXgsICJ1bmFibGUgdG8gcmV0cmlldmUgdmltZW8gdGh1bWJuYWlsIGZvciBpbWFnZSB1cmwge3VybH0iLCB1cmwpOwo=</text>
+      <register name="0" type="4">
+        <text>ILoggerFactory loggerFactory</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJQcm9maWxlc0xvY2F0aW9uIjogIkM6XFxBV1NcXHByb2ZpbGVzLnR4dCIsCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJSZWdpb24iOiAidXMtZWFzdC0xIiwK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICJQcm9maWxlIjogImRldmVsb3BtZW50IiwK</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-  &quot;Logging&quot;: {
-    &quot;ApplicationName&quot;: &quot;Shops-Api-Functional-Tests&quot;
-  },
-  &quot;SecretsManager&quot;: {
-    &quot;Arn&quot;: &quot;arn:aws:secretsmanager:us-east-1:009614288943:secret:Selz.Shops.Api/TeamCity-pxH0rn&quot;,
-    &quot;Enabled&quot;: true
-  },
-  &quot;AmazonClientFactory&quot;: {
-    &quot;UseLocalstack&quot;: false,
-    &quot;UseSecretManager&quot;: tarue
-  },
-  &quot;S3&quot;: {
-    &quot;ImageBucketName&quot;: &quot;selzimg-test&quot;
-  },
-  &quot;AWS&quot;: {
-    &quot;Region&quot;: &quot;us-east-1&quot;
-  }
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXI8RmlsZURvd25sb2FkU2VydmljZT4gX2xvZ2dlckZhY3Rvcnk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXI8RmlsZURvd25sb2FkU2VydmljZT4gX2xvZ2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9IlNlbHouU2hvcHMuQXBpLkNsaWVudCIgVmVyc2lvbj0iMS4xLjgwIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvck1lc3NhZ2UgPSAiVGhlIGF0dGFjaG1lbnQgcHJvdmlkZWQgY2Fubm90IGJlIGRlY29kZSI7CiAgICAgICAgICAgICAgICAgICAgX2xvZ2dlci5Mb2dFcnJvcihleCwgZXJyb3JNZXNzYWdlKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmlsZVVwbG9hZFJlc3VsdC5BZGRUb05vdGlmaWNhdGlvbihlcnJvck1lc3NhZ2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9IlNlbHouV2ViaG9va3MuQ2xpZW50IiBWZXJzaW9uPSIxLjEuMTgtYWxwaGEiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JNZXNzYWdlID0gIlRoZSB1cmwgcHJvdmlkZWQgdGltZWQgb3V0IjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RXJyb3JIYW5kbGluZ01pZGRsZXdhcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvck1lc3NhZ2UgPSAiRXJyb3Igd2hpbGUgZmV0Y2hpbmcgZmlsZSBmcm9tIHVybCI7CiAgICAgICAgICAgICAgICAgICAgX2xvZ2dlci5Mb2dFcnJvcihleCwgZXJyb3JNZXNzYWdlKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmlsZVVwbG9hZFJlc3VsdC5BZGRUb05vdGlmaWNhdGlvbihlcnJvck1lc3NhZ2UpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGVycm9yTWVzc2FnZTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHZhciBjb250ZW50ID0gbmV3IEFkZEltYWdlUmVxdWVzdAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFVybCA9ICJodHRwczovL3d3dy5nb29nbGUuY29tLmF1L2ltYWdlcy9icmFuZGluZy9nb29nbGVsb2dvLzF4L2dvb2dsZWxvZ29fY29sb3JfMjcyeDkyZHAucG5nIgogICAgICAgICAgICAgICAgfTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJQcm9maWxlc0xvY2F0aW9uIjogIkM6XFxBV1NcXHByb2ZpbGVzLnR4dCIsCg==</text>
       </register>
     </registers>
     <search>
