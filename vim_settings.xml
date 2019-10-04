@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Development.json" timestamp="1569978423248">
@@ -8,65 +8,64 @@
         <mark key="]" line="34" column="3" />
         <mark key="." line="34" column="3" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/SelzUrlParameterFormatter.cs" timestamp="1570083204050" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/BlogPosts/BlogPostProviderTest.cs" timestamp="1570079234904">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/BlogPosts/BlogPostRequest.cs" timestamp="1570078181374" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/Base/PactTestScenarioBase.cs" timestamp="1570076360111" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" timestamp="1570152113913">
+        <mark key="[" line="353" column="39" />
+        <mark key="]" line="353" column="39" />
+        <mark key="^" line="368" column="132" />
+        <mark key="." line="353" column="39" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/Constants.cs" timestamp="1570151017723">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="90" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Filtering/BlogPostSlicedListOptions.cs" timestamp="1570070330910">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.Testing.json" timestamp="1569982950244">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.Testing.json" timestamp="1570151788483">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/Base/DataFixture.cs" timestamp="1570060357124" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/docker-compose-api-local.yml" timestamp="1570152965798" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/BlogPosts/BlogPostSlicedListRequest.cs" timestamp="1570070311244">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/ErrorHandlingMiddleware.cs" timestamp="1570076476749" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/BlogPostScenarios.cs" timestamp="1570082249230" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1570084969698">
-        <mark key="[" line="107" column="32" />
-        <mark key="]" line="45" column="33" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.TeamCity.json" timestamp="1570151766023" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1570150855802">
+        <mark key="[" line="256" column="27" />
+        <mark key="]" line="256" column="111" />
         <mark key="m" line="443" column="72" />
         <mark key="^" line="45" column="33" />
         <mark key="." line="45" column="33" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/Base/ConsumerPactFixture.cs" timestamp="1570074957914" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/BlogPostPactScenario.cs" timestamp="1570084086460">
         <mark key="[" line="44" column="90" />
         <mark key="]" line="44" column="90" />
         <mark key="^" line="120" column="110" />
         <mark key="." line="44" column="90" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/BlogPostValidator.cs" timestamp="1570083937950" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1570078455353" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/BlogPosts/BlogPostService.cs" timestamp="1570071974881">
         <mark key="[" line="39" column="75" />
         <mark key="]" line="48" column="40" />
         <mark key="." line="48" column="40" />
         <mark key="^" line="48" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7DC91CF7-B006-4499-A2B5-2C26F170E277/e0/b5b2bfc4/SelzBuilderExtensions.cs" timestamp="1570083114168" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/38A5833A-F686-4081-99F6-604C4F997333/09/96bc04fb/StringExtensions.cs" timestamp="1570068650023" />
-      <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.Pact/WebhooksProviderTest.cs" timestamp="1570055760043" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/SelzUrlParameterFormatter.cs" timestamp="1570079918813" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/appsettings.Testing.json" timestamp="1570066339086">
         <mark key="[" line="17" column="42" />
         <mark key="]" line="17" column="42" />
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E10C9758-1D2B-4465-BBAA-101AD7E5B36C/19/ca7b7fc2/IBlogPostClient.cs" timestamp="1570080260928" />
+      <file name="C:/dev/git/selz/Services.Search/Service/src/Api/Selz.Search.Api/Application/Commands/SearchOrderCommand.cs" timestamp="1570152607390" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1570082885583">
         <mark key="[" line="96" column="108" />
         <mark key="]" line="96" column="77" />
@@ -84,14 +83,29 @@
         <mark key="]" line="25" column="133" />
         <mark key="." line="25" column="133" />
       </file>
-      <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api.Pact/Base/PactTestScenarioBase.cs" timestamp="1570055779942" />
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Client/Selz.Orders.Client.csproj" timestamp="1570152323477" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/Selz.Shops.Api.Pact.csproj" timestamp="1569994268972">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="15" column="33" />
         <mark key="." line="15" column="33" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/WebhookPactScenarios.cs" timestamp="1570074466104" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Startup.cs" timestamp="1570082936685" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.Client/ICatalogClient.cs" timestamp="1570151319012">
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="48" column="25" />
+        <mark key="^" line="48" column="98" />
+        <mark key="." line="48" column="25" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/appsettings.TeamCity.json" timestamp="1570151824775">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/appsettings.Local.json" timestamp="1570152244863">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Selz.Api.Public.csproj" timestamp="1570063911540">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -102,14 +116,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostFixture.cs" timestamp="1570082646532" />
-      <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api/Controllers/WebhooksController.cs" timestamp="1570080271481" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/StorePactScenarios.cs" timestamp="1570084099464">
         <mark key="'" line="13" column="17" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="57" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7DC91CF7-B006-4499-A2B5-2C26F170E277/d1/82d5d66b/SelzUrlParameterFormatter.cs" timestamp="1570079667021" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.IZettle.json" timestamp="1569978479075">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -121,20 +132,17 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="35" />
       </file>
-      <file name="C:/dev/git/selz/Services.Core/Client/src/Selz.Core.Client/Extensions/SelzBuilderExtensions.cs" timestamp="1570079726244" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IBlogPostClient.cs" timestamp="1570078984756">
         <mark key="[" line="21" column="163" />
         <mark key="]" line="21" column="197" />
         <mark key="^" line="21" column="197" />
         <mark key="." line="21" column="197" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/ContactPactScenarios.cs" timestamp="1570083582298" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Staging.json" timestamp="1570016503926">
         <mark key="[" line="29" column="36" />
         <mark key="]" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostsControllerTest.cs" timestamp="1570079054521" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/BlogPostsController.cs" timestamp="1570083297653">
         <mark key="[" line="80" column="58" />
         <mark key="]" line="80" column="58" />
@@ -255,43 +263,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>DefaultUserId</text>
+        <text>blog_post_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIERlZmF1bHRTaG9wRXh0ZXJuYWxJZCA9ICIxMjM0NTY4MCI7Cg==</text>
+      <register name="0" type="4">
+        <text>https</text>
       </register>
-      <register name="1" type="4">
-        <text>, new RefitSettings()
-            {
-                UrlParameterFormatter = new SelzUrlParameterFormatter()
-            })</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IGRkZGRkZAo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBUYXNrPEFwaVJlc3BvbnNlPFNsaWNlZExpc3RSZXNwb25zZTxCbG9nUG9zdFJlc3BvbnNlPj4+IEZpbmRBc3luYyhCbG9nUG9zdFNsaWNlZExpc3RSZXF1ZXN0IHJlcXVlc3QsIHN0cmluZyBjb3JyZWxhdGlvbklkKQogICAgICAgIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICJBV1MiOiB7CiAgICAiUHJvZmlsZSI6ICJhc3N1bWVkX3Byb2ZpbGUiLAogICAgIlJlZ2lvbiI6ICJ1cy1lYXN0LTEiCiAgfSw=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5TaG9wSWQgPSBpbnQuUGFyc2UoU2hvcElkKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICJBV1MiOiB7CiAgICAiUmVnaW9uIjogInVzLWVhc3QtMSIKICB9LA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLlN0YXR1cy5TaG91bGQoKS5CZShIdHRwU3RhdHVzQ29kZS5PSyk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVcmwgPSAiIgo=</text>
       </register>
     </registers>
     <search>
