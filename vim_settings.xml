@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1570171337427">
+      <file name="/Dummy.txt" timestamp="1570174336494">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/ProductScenarios.cs" timestamp="1570172183980">
@@ -12,27 +12,12 @@
         <mark key="^" line="20" column="37" />
         <mark key="." line="20" column="37" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" timestamp="1570164280007">
-        <mark key="[" line="374" column="61" />
-        <mark key="]" line="480" column="67" />
-        <mark key="^" line="480" column="67" />
-        <mark key="." line="480" column="67" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" timestamp="1570174287285">
+        <mark key="[" line="23" column="56" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/CategoriesController.cs" timestamp="1570170566456">
-        <mark key="[" line="80" column="66" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/appsettings.Testing.json" timestamp="1570155981493">
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="25" column="1" />
-        <mark key="." line="25" column="1" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Shared/Selz.Catalog.Core/Services/Images/ImageService.cs" timestamp="1570171287574" />
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.Client/ICatalogClient.cs" timestamp="1570170373957">
-        <mark key="[" line="48" column="47" />
-        <mark key="]" line="48" column="25" />
-        <mark key="^" line="48" column="98" />
-        <mark key="." line="48" column="25" />
-      </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/CategoriesController.cs" timestamp="1570174053599" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/AmazonFixture.cs" timestamp="1570174150601" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Shared/Selz.Catalog.Core/Services/Images/ImageService.cs" timestamp="1570174073987" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Startup.cs" timestamp="1570157464993">
         <mark key="[" line="130" column="66" />
         <mark key="]" line="61" column="11" />
@@ -47,12 +32,20 @@
         <mark key="]" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Mapping/CategoryProfile.cs" timestamp="1570173123391">
+        <mark key="[" line="64" column="20" />
+      </file>
+      <file name="/CategoryProfile.cs" timestamp="1570173119104">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="60" column="99" />
+      </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/appsettings.Local.json" timestamp="1570155863664">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/ErrorHandlingMiddleware.cs" timestamp="1570174018619" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/CategoriesController.cs" timestamp="1570163903120">
         <mark key="[" line="46" column="8" />
         <mark key="]" line="46" column="8" />
@@ -61,6 +54,9 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1570164515066">
         <mark key="[" line="24" column="17" />
         <mark key="]" line="24" column="35" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CatalogDataFixture.cs" timestamp="1570172265970">
+        <mark key="[" line="37" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -181,8 +177,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0b3J5XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>BlogPost Collection</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSW1hZ2VzCiAgICAgICAgICAgIENyZWF0ZU1hcDxBZGRJbWFnZVJlcXVlc3QsIEZpbGVEb3dubG9hZD4oTWVtYmVyTGlzdC5Tb3VyY2UpOwoKICAgICAgICAgICAgQ3JlYXRlTWFwPEltYWdlUmVzdWx0LCBBZGRJbWFnZVJlc3BvbnNlPigpCiAgICAgICAgICAgICAgICAuRm9yTWVtYmVyKGRlc3QgPT4gZGVzdC5VcmwsIG9wdCA9PiBvcHQuTWFwRnJvbShzcmMgPT4gQ0ROSGVscGVyLkdldFVybChzcmMuVXJsKSkpOwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">W0h0dHBQb3N0KCJ7aWQ6b2JqZWN0aWR9L2ltYWdlIildCiAgICAgICAgW1NlcnZpY2VGaWx0ZXIodHlwZW9mKENhdGVnb3JpZXNDb250cm9sbGVyV3JpdGVGaWx0ZXIpKV0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxBY3Rpb25SZXN1bHQ8TW9kZWxzLkJsb2dQb3N0cy5BZGRJbWFnZVJlc3BvbnNlPj4gQWRkSW1hZ2VBc3luYyhzdHJpbmcgaWQsIE1vZGVscy5CbG9nUG9zdHMuQWRkSW1hZ2VSZXF1ZXN0IG1vZGVsKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHJlcXVlc3QgPSBNYXBwZXIuTWFwPEFkZEltYWdlUmVxdWVzdD4obW9kZWwpOwogICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBhd2FpdCBfYmxvZ1Bvc3RDbGllbnQuQWRkSW1hZ2VBc3luYyhpZCwgcmVxdWVzdCwgQ29ycmVsYXRpb25JZCwgU2hvcElkLCBVc2VySWQpOwoKICAgICAgICAgICAgcmV0dXJuIE9rPEFkZEltYWdlUmVzcG9uc2UsIE1vZGVscy5CbG9nUG9zdHMuQWRkSW1hZ2VSZXNwb25zZT4ocmVzcG9uc2UpOwogICAgICAgIH0=</text>
