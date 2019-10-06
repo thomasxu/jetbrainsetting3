@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="esources" type="PLAIN_TEXT" />
       <mapping ext="ahk" type="PLAIN_TEXT" />
+      <mapping ext="liquid" type="Twig" />
     </extensionMap>
   </component>
 </application>

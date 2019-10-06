@@ -4,4 +4,9 @@
     <variable name="MODULE_VAR" expression="jsDefineParameter(MODULE_REF)" defaultValue="mod" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="exportfrom" value="export {$ITEM$$END$} from &quot;$MODULE$&quot;;&#10;" description="Export statement - export {b} from 'a'" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="MODULE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
