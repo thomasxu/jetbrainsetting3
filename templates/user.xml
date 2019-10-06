@@ -94,7 +94,7 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="met" value="public void $MethodName$($Param$)&#10;{&#10;    $END$ &#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="met" value="public void $MethodName$($Param$)&#10;{&#10;    $END$ &#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="MethodName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="Param" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -118,7 +118,7 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="mets" value="public static void $MethodName$($Param$)&#10;{&#10;    $END$ &#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="mets" value="public static void $MethodName$($Param$)&#10;{&#10;    $END$ &#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="MethodName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="Param" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -142,7 +142,7 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="meti" value="$ReturnType$ $MethodName$($Param$);&#10;$END$ &#10;" toReformat="true" toShortenFQNames="true">
+  <template name="meti" value="$ReturnType$ $MethodName$($Param$);&#10;$END$ &#10;" description="" toReformat="true" toShortenFQNames="true">
     <variable name="MethodName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="Param" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ReturnType" expression="" defaultValue="" alwaysStopAt="true" />
