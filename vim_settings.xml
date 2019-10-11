@@ -3,31 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/ImageUrlHelper.cs" timestamp="1570767076813" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1570773597230" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Search/ProductSearchable.cs" timestamp="1570760931016" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/ImageUrlHelper.cs" timestamp="1570767446835" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/9b/1fde75c7/Path.cs" timestamp="1570780421345">
+        <mark key="'" line="784" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Helpers/CDNHelper.cs" timestamp="1570767991394" />
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Catalog/Image.cs" timestamp="1570771504443" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Blog/BlogPostViewModel.cs" timestamp="1570749505651" />
-      <file name="C:/dev/git/selz/API/src/Selz.Model/Helpers/CDNHelper.cs" timestamp="1570773713339" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TagsController.cs" timestamp="1570753494040" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" timestamp="1570761468933" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/BlogPosts/BlogPostProfile.cs" timestamp="1570773951638" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1570766188298" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CDNHelper.cs" timestamp="1570768042448">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CDNHelper.cs" timestamp="1570781597678">
         <mark key="]" line="42" column="12" />
         <mark key="." line="42" column="12" />
         <mark key="^" line="42" column="12" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1570749783750" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C7BFDEB-DF77-4613-A5CC-B7E4E96828D1/07/e4659246/ShopImage.cs" timestamp="1570771580756">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/BlogPosts/ShopImageExtension.cs" timestamp="1570775589503" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Constants.cs" timestamp="1570771142918">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/Shops/CustomCodeSnippetExtensions.cs" timestamp="1570781630940" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Constants.cs" timestamp="1570781291992">
         <mark key="[" line="545" column="79" />
         <mark key="]" line="480" column="32" />
         <mark key="^" line="480" column="32" />
@@ -39,12 +28,47 @@
         <mark key="^" line="895" column="49" />
         <mark key="." line="893" column="9" />
       </file>
-      <file name="/CDNImageHelper.cs" timestamp="1570767841049" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Constants.cs" timestamp="1570769983520" />
+      <file name="/ImageUrlHelper.cs" timestamp="1570767076813" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1570773597230" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/ImageDrop.cs" timestamp="1570780283275" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/ImageUrlHelper.cs" timestamp="1570781061503">
+        <mark key="]" line="59" column="42" />
+        <mark key="^" line="59" column="42" />
+        <mark key="." line="59" column="42" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Catalog/Image.cs" timestamp="1570771504443" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/StringExtensions.cs" timestamp="1570777668856" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Blog/BlogPostViewModel.cs" timestamp="1570749505651" />
+      <file name="C:/dev/git/selz/API/src/Selz.Model/Helpers/CDNHelper.cs" timestamp="1570773713339" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/d4/67ba58bd/TimeSpan.cs" timestamp="1570782395265">
+        <mark key="'" line="607" column="180" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Blog/BlogService.cs" timestamp="1570761468933" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/DatetimeExtensions.cs" timestamp="1570782280551" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1570766188298" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1570749783750" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C7BFDEB-DF77-4613-A5CC-B7E4E96828D1/07/e4659246/ShopImage.cs" timestamp="1570771580756">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/BlogPosts/ShopImageExtension.cs" timestamp="1570780963933" />
+      <file name="/CDNImageHelper.cs" timestamp="1570767841049" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ImageViewModel.cs" timestamp="1570771313221" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Images/ImageService.cs" timestamp="1570765713484" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="784" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/9b/1fde75c7/Path.cs" />
+      <jump line="620" column="180" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/d4/67ba58bd/TimeSpan.cs" />
+      <jump line="637" column="180" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/d4/67ba58bd/TimeSpan.cs" />
+      <jump line="655" column="180" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/d4/67ba58bd/TimeSpan.cs" />
+      <jump line="675" column="180" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/d4/67ba58bd/TimeSpan.cs" />
+      <jump line="21" column="36" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/d4/67ba58bd/TimeSpan.cs" />
+      <jump line="283" column="205" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/d4/67ba58bd/TimeSpan.cs" />
+      <jump line="595" column="176" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/d4/67ba58bd/TimeSpan.cs" />
+      <jump line="607" column="180" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/d4/67ba58bd/TimeSpan.cs" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>blogPostId</text>
@@ -59,7 +83,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmYWN0b3J5XD4=</text>
+        <text encoding="base64">XDxaZXJvXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gSW1hZ2VzCiAgICAgICAgICAgIENyZWF0ZU1hcDxBZGRJbWFnZVJlcXVlc3QsIEZpbGVEb3dubG9hZD4oTWVtYmVyTGlzdC5Tb3VyY2UpOwoKICAgICAgICAgICAgQ3JlYXRlTWFwPEltYWdlUmVzdWx0LCBBZGRJbWFnZVJlc3BvbnNlPigpCiAgICAgICAgICAgICAgICAuRm9yTWVtYmVyKGRlc3QgPT4gZGVzdC5VcmwsIG9wdCA9PiBvcHQuTWFwRnJvbShzcmMgPT4gQ0ROSGVscGVyLkdldFVybChzcmMuVXJsKSkpOwo=</text>
@@ -93,9 +117,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmYWN0b3J5XD4=</last-search>
+      <last-search encoding="base64">XDxaZXJvXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYWN0b3J5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxaZXJvXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>f{</last-substitute>
       <last-dir>1</last-dir>
@@ -103,7 +127,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlZGl0YWJsZVJlZ2lvbkFyZ3VtZW50c1w+</entry>
         <entry encoding="base64">XDxFZGl0YWJsZVJlZ2lvbkFyZ3VtZW50c1w+</entry>
         <entry encoding="base64">XDxwYXJ0aWFsQmxvY2tNb2RlbFw+</entry>
         <entry encoding="base64">XDxibG9ja1NldHRpbmdcPg==</entry>
@@ -123,6 +146,7 @@
         <entry>{</entry>
         <entry encoding="base64">XDxQYXR0ZXJuXD4=</entry>
         <entry encoding="base64">XDxmYWN0b3J5XD4=</entry>
+        <entry encoding="base64">XDxaZXJvXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
