@@ -167,12 +167,12 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="ov" value="out var $END$" toReformat="false" toShortenFQNames="true">
+  <template name="ov" value="out var $END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="iar" value="var $Name$ = new $Type$[] {$END$};" toReformat="false" toShortenFQNames="true">
+  <template name="iar" value="var $Name$ = new $Type$[] {$END$};" description="" toReformat="false" toShortenFQNames="true">
     <variable name="Type" expression="camelCase(String)" defaultValue="string" alwaysStopAt="true" />
     <variable name="Name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -196,7 +196,7 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="ili" value="var $Name$ = new List&lt;$Type$&gt; {$END$};" toReformat="false" toShortenFQNames="true">
+  <template name="ili" value="var $Name$ = new List&lt;$Type$&gt; {$END$};" description="" toReformat="false" toShortenFQNames="true">
     <variable name="Type" expression="camelCase(String)" defaultValue="string" alwaysStopAt="true" />
     <variable name="Name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
