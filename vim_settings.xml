@@ -3,56 +3,41 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/DatetimeExtensions.cs" timestamp="1570783023062">
-        <mark key="[" line="125" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1571002120425" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/862B9365-843C-4BF1-BA93-210C124BB523/87/b155264c/UriBuilder.cs" timestamp="1570882706907">
         <mark key="'" line="62" column="11" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Images/ImageSize.cs" timestamp="1571003520135" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/9b/1fde75c7/Path.cs" timestamp="1570785754626">
         <mark key="'" line="784" column="0" />
         <mark key="[" line="792" column="5" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/ImageUrlHelper.cs" timestamp="1571002574994">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="30" column="48" />
-        <mark key="^" line="30" column="48" />
-        <mark key="." line="30" column="48" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/Images/ImageResponse.cs" timestamp="1571005239388">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Catalog/Image.cs" timestamp="1571005207976" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/UriExtensions.cs" timestamp="1570930703429">
         <mark key="[" line="113" column="38" />
         <mark key="]" line="113" column="36" />
         <mark key="^" line="113" column="36" />
         <mark key="." line="113" column="36" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CDNHelper.cs" timestamp="1571002517737">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="88" column="14" />
-        <mark key="]" line="88" column="13" />
-        <mark key="^" line="88" column="13" />
-        <mark key="." line="88" column="13" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/BlogPosts/ShopImageExtension.cs" timestamp="1571002292014" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Constants.cs" timestamp="1570882163633">
-        <mark key="[" line="527" column="66" />
-        <mark key="]" line="480" column="32" />
-        <mark key="^" line="480" column="32" />
-        <mark key="." line="480" column="32" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/StringExtensions.cs" timestamp="1570882260742">
-        <mark key="[" line="764" column="9" />
-        <mark key="]" line="763" column="28" />
-        <mark key="^" line="763" column="28" />
-        <mark key="." line="763" column="28" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/862B9365-843C-4BF1-BA93-210C124BB523/f3/80e9d7cb/Uri.cs" timestamp="1570801531272">
         <mark key="'" line="1352" column="27" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Helpers/ImageUrlHelper.cs" timestamp="1571002435621" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Helpers/ImageUrlHelper.cs" timestamp="1571005271094" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/Helpers/CDNHelper.cs" timestamp="1571003837592" />
+      <file name="/ImageViewModel.cs" timestamp="1571005080918">
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="32" column="91" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/d4/67ba58bd/TimeSpan.cs" timestamp="1570782451499">
         <mark key="'" line="607" column="180" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ImageViewModel.cs" timestamp="1571005123022" />
     </filemarks>
     <jumps>
       <jump line="784" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/06452B71-9576-486B-AAA3-34B141B6537A/9b/1fde75c7/Path.cs" />
@@ -89,34 +74,34 @@
         <text encoding="base64">XDxaZXJvXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;auto&quot;, &quot;compress, format&quot;</text>
+        <text encoding="base64">PT4gSW1hZ2VVcmxIZWxwZXIuR2V0VXJsKE9yaWdpbmFsLCBJbWFnZVNpemVUeXBlLlBpY28sIElzU3F1YXJlKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyICROYW1lJCA9IG5ldyBMaXN0PCRUeXBlJD4geyRFTkQkfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDEsIDIsIDMK</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5TaG9wcy5BcGkuTW9kZWxzLkhlbHBlcnM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWxpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVFlQRVtdIHR5cGUgPSBuZXcgVFlQRVtdIHsgfTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyICA9IG5ldyBMaXN0PD4gewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyICA9IG5ldyBMaXN0PD4gewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH07CiAgICAgICAgfQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgc3RyaW5nIEdldE5leHRJbWFnZVNpemUoc3RyaW5nIHNpemUsIHN0cmluZyBuZXh0U2l6ZSkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShzaXplKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIENETkhlbHBlci5HZXRVcmwobmV4dFNpemUpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gQ0ROSGVscGVyLkdldFVybChzaXplKTsKICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpCg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGdldCA9PiBHZXROZXh0SW1hZ2VTaXplKF9odWdlLCBPcmlnaW5hbCk7CiAgICAgICAgICAgIHNldCA9PiBfaHVnZSA9IHZhbHVlOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWEK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGdldCA9PiBHZXROZXh0SW1hZ2VTaXplKF9tdWNob0dyYW5kZSwgSHVnZSk7CiAgICAgICAgICAgIHNldCA9PiBfbXVjaG9HcmFuZGUgPSB2YWx1ZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWwK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGdldCA9PiBHZXROZXh0SW1hZ2VTaXplKF9ncmFuZGUsIE11Y2hvR3JhbmRlKTsKICAgICAgICAgICAgc2V0ID0+IF9ncmFuZGUgPSB2YWx1ZTsKICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
