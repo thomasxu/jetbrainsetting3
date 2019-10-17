@@ -17,6 +17,10 @@
         <mark key="^" line="128" column="74" />
         <mark key="." line="134" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/FakeBlogPosts.cs" timestamp="1571347464821">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="116" />
+      </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/FakeProducts.cs" timestamp="1571300379290">
         <mark key="[" line="122" column="55" />
         <mark key="]" line="122" column="55" />
@@ -34,16 +38,27 @@
         <mark key="." line="469" column="42" />
         <mark key="^" line="233" column="19" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01E56348-0C84-46DB-B0C3-865E38EB796D/39/56787326/Category.cs" timestamp="1571347413751">
+        <mark key="'" line="77" column="17" />
+      </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Shared/Selz.Catalog.Core/Extensions/ImageExtension.cs" timestamp="1571299320248">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/FakeCategories.cs" timestamp="1571300365112">
-        <mark key="[" line="39" column="41" />
-        <mark key="]" line="39" column="41" />
-        <mark key="." line="39" column="41" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/FakeCategories.cs" timestamp="1571347480702">
+        <mark key="'" line="47" column="16" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" timestamp="1571347666614">
+        <mark key="'" line="698" column="27" />
+        <mark key="[" line="761" column="48" />
+        <mark key="]" line="761" column="68" />
+        <mark key="." line="761" column="68" />
+        <mark key="^" line="761" column="68" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.Models/ImageResponse.cs" timestamp="1571300254066">
         <mark key="[" line="0" column="0" />
@@ -91,9 +106,10 @@
         <mark key="[" line="25" column="46" />
         <mark key="]" line="25" column="102" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1571345236193">
-        <mark key="[" line="36" column="10" />
-        <mark key="]" line="36" column="10" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1571347598477">
+        <mark key="'" line="528" column="39" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="37" column="10" />
         <mark key="." line="36" column="10" />
         <mark key="^" line="35" column="16" />
       </file>
@@ -137,6 +153,13 @@
       <jump line="0" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/BlogPostPactScenario.cs" />
       <jump line="13" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/Base/PactTestScenarioBase.cs" />
       <jump line="33" column="69" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Mapping/CategoryProfile.cs" />
+      <jump line="630" column="23" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" />
+      <jump line="528" column="39" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" />
+      <jump line="749" column="77" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" />
+      <jump line="740" column="26" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" />
+      <jump line="77" column="17" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01E56348-0C84-46DB-B0C3-865E38EB796D/39/56787326/Category.cs" />
+      <jump line="47" column="16" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/FakeCategories.cs" />
+      <jump line="698" column="27" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -149,40 +172,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBuZXcgb2JqZWN0W10g</text>
+        <text>GetByIdAsync</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxaZXJvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIoZGVzdCA9PiBkZXN0LkxhcmdlLCBvcHQgPT4gb3B0Lk1hcEZyb20oc3JjID0+IEltYWdlVXJsSGVscGVyLkdldFVybChzcmMuT3JpZ2luYWwsIEltYWdlU2l6ZVR5cGUuTGFyZ2UpKSkK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIElFbnVtZXJhYmxlPG9iamVjdFtdPiBDZG5NYXBwaW5nVGVzdERhdGEgPT4gbmV3IExpc3Q8b2JqZWN0W10+CiAgICAgICAgewogICAgICAgICAgICBuZXcgb2JqZWN0W10ge1MzSW1hZ2VUZXN0QnVja2V0RmlsZSwgSW1hZ2VzVGVzdH0sCiAgICAgICAgICAgIG5ldyBvYmplY3RbXSB7UzNJbWFnZUJ1Y2tldEZpbGUsIEltYWdlc30KICAgICAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIEZha2VyPE9yZGVyPiBGYWtlck9yZGVyID0+IG5ldyBGYWtlcjxPcmRlcj4oKQogICAgICAgICAgICAuUnVsZUZvcihvcmRlciA9PiBvcmRlci5JZCwgZmFrZXIgPT4gZmFrZXIuRGF0ZS5yKQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9yaWdpbmFsID0gZi5Mb3JlbS5Xb3JkKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBUeXBlIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIEZha2VyPE9yZGVyPiBGYWtlck9yZGVyID0+IG5ldyBGYWtlcjxPcmRlcj4oKQogICAgICAgICAgICAuUnVsZUZvcihvcmRlciA9PiBvcmRlci5JZCwgZmFrZXIgPT4gZmFrZXIuRGF0ZS5yKQogICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVFlQRSBUeXBlIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIElFbnVtZXJhYmxlPG9iamVjdFtdPiBNZW1iZXJUZXN0RGF0YSA9PiBuZXcgTGlzdDxvYmplY3RbXT4oKTsKICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdCBDZG5NYXBwaW5nTWVtYmVyVEVzdERhdGEgPT4gOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIENkbk1hcHBpbmdUZXN0RGF0YSBJRW51bWVyYWJsZTxvYmplY3RbXT4gPT4gOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIElFbnVtZXJhYmxlPG9iamVjdFtdPiBNZW1iZXJUZXN0RGF0YSA9PiBuZXcgTGlzdDxvYmplY3RbXT4oKTsKICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgIHN0YXRpYyBJRW51bWVyYWJsZTxvYmplY3RbXT4gPT4gOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdCBDZG5NYXBwaW5nTWVtYmVyVEVzdERhdGEgPT4gOwo=</text>
       </register>
     </registers>
     <search>
