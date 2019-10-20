@@ -39,11 +39,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="27" column="4" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/CatalogPactScenarios.cs" timestamp="1571612107239">
-        <mark key="[" line="469" column="11" />
-        <mark key="]" line="469" column="10" />
-        <mark key="." line="469" column="42" />
-        <mark key="^" line="233" column="19" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/CatalogPactScenarios.cs" timestamp="1571613220035">
+        <mark key="[" line="192" column="36" />
+        <mark key="]" line="192" column="38" />
+        <mark key="^" line="192" column="38" />
+        <mark key="." line="192" column="38" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/ProductScenarios.cs" timestamp="1571610089957">
         <mark key="'" line="24" column="16" />
@@ -80,6 +80,7 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Catalog/TestCatalogClient.cs" timestamp="1571613731553" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/ImagesExtension.cs" timestamp="1571382534089">
         <mark key="[" line="45" column="38" />
         <mark key="]" line="45" column="45" />
@@ -117,6 +118,7 @@
         <mark key="." line="123" column="62" />
         <mark key="^" line="123" column="62" />
       </file>
+      <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Controllers/ContactsController.cs" timestamp="1571613870368" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/BlogPostScenarios.cs" timestamp="1571388088423">
         <mark key="'" line="29" column="17" />
         <mark key="[" line="33" column="0" />
@@ -247,12 +249,21 @@
         <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkFsbEltYWdlcywgZiA9PiBmLlBpY2tSYW5kb20oRmFrZUltYWdlLkFsbCwgMykuVG9MaXN0KCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB7IlgtU2Vsei1TaG9wSWQiLCAxfQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IlgtU2Vsei1TaG9wSWQiLCAxfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IlgtU2Vsei1TaG9wSWQiLCAxfQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>//        public const string TestFileName = &quot;test.gif&quot;;
 //        public static readonly string TestPathImageBucket = $&quot;{CDNHelper.GetBucketDomain(&quot;selzimg&quot;)}/{TestFileName}&quot;;
 //
@@ -261,20 +272,11 @@
 //
 //        public static readonly string TestPathRelativePathImage = $&quot;RelativePath/{TestFileName}&quot;;</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CgoKCgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CgoKCgpuYW1lc3BhY2UgU2Vsei5TaG9wcy5BcGkuQ29udHJvbGxlcnMKewogICAgW0FwaUNvbnRyb2xsZXJdCiAgICBbQXBpVmVyc2lvbigiMS4wIildCiAgICBbUm91dGUoInNob3BzL1tjb250cm9sbGVyXSIpXQogICAgcHVibGljIGNsYXNzIEJsb2dQb3N0c0NvbnRyb2xsZXIgOiBCYXNlQ29udHJvbGxlcgogICAgewogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSUJsb2dQb3N0U2VydmljZSBfYmxvZ1Bvc3RTZXJ2aWNlOwogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSU1hcHBlciBfbWFwcGVyOwogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSUltYWdlU2VydmljZSBfaW1hZ2VTZXJ2aWNlOwogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSUZpbGVEb3dubG9hZFNlcnZpY2UgX2ZpbGVEb3dubG9hZFNlcnZpY2U7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsKdXNpbmcgQXV0b01hcHBlcjsKdXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuSnNvblBhdGNoOwp1c2luZyBNaWNyb3NvZnQuQXNwTmV0Q29yZS5NdmM7CnVzaW5nIE1vbmdvREIuQnNvbjsKdXNpbmcgU2Vsei5Db3JlLkFwaS5Db250cm9sbGVyczsKdXNpbmcgU2Vsei5Db3JlLkFwaS5NYXBwaW5nOwp1c2luZyBTZWx6LkNvcmUuQXBpLk1vZGVsczsKdXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuU2hvcHMuQmxvZ3M7CnVzaW5nIFNlbHouQ29yZS5Eb21haW5zLlNob3BzLkltYWdlczsKdXNpbmcgU2Vsei5Db3JlLk5vdGlmaWNhdGlvbnM7CnVzaW5nIFNlbHouQ29yZS5SZXBvc2l0b3J5LkVudGl0aWVzOwp1c2luZyBTZWx6LlNob3BzLkFwaS5Nb2RlbHMuQmxvZ1Bvc3RzOwp1c2luZyBTZWx6LlNob3BzLkFwaS5Nb2RlbHMuSW1hZ2VzOwp1c2luZyBTZWx6LlNob3BzLkNvcmUuRXh0ZW5zaW9ucy5CbG9nUG9zdHM7CnVzaW5nIFNlbHouU2hvcHMuQ29yZS5TZXJ2aWNlcy5CbG9nUG9zdHM7CnVzaW5nIFNlbHouU2hvcHMuQ29yZS5TZXJ2aWNlcy5GaWx0ZXJpbmc7CnVzaW5nIFNlbHouU2hvcHMuQ29yZS5TZXJ2aWNlcy5JbWFnZXM7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text />
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsKdXNpbmcgQXV0b01hcHBlcjsKdXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuSnNvblBhdGNoOwp1c2luZyBNaWNyb3NvZnQuQXNwTmV0Q29yZS5NdmM7CnVzaW5nIE1vbmdvREIuQnNvbjsKdXNpbmcgU2Vsei5Db3JlLkFwaS5Db250cm9sbGVyczsKdXNpbmcgU2Vsei5Db3JlLkFwaS5NYXBwaW5nOwp1c2luZyBTZWx6LkNvcmUuQXBpLk1vZGVsczsKdXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuU2hvcHMuQmxvZ3M7CnVzaW5nIFNlbHouQ29yZS5Eb21haW5zLlNob3BzLkltYWdlczsKdXNpbmcgU2Vsei5Db3JlLk5vdGlmaWNhdGlvbnM7CnVzaW5nIFNlbHouQ29yZS5SZXBvc2l0b3J5LkVudGl0aWVzOwp1c2luZyBTZWx6LlNob3BzLkFwaS5Nb2RlbHMuQmxvZ1Bvc3RzOwp1c2luZyBTZWx6LlNob3BzLkFwaS5Nb2RlbHMuSW1hZ2VzOwp1c2luZyBTZWx6LlNob3BzLkNvcmUuRXh0ZW5zaW9ucy5CbG9nUG9zdHM7CnVzaW5nIFNlbHouU2hvcHMuQ29yZS5TZXJ2aWNlcy5CbG9nUG9zdHM7CnVzaW5nIFNlbHouU2hvcHMuQ29yZS5TZXJ2aWNlcy5GaWx0ZXJpbmc7CnVzaW5nIFNlbHouU2hvcHMuQ29yZS5TZXJ2aWNlcy5JbWFnZXM7Cg==</text>
+        <text encoding="base64">CgoKCgpuYW1lc3BhY2UgU2Vsei5TaG9wcy5BcGkuQ29udHJvbGxlcnMKewogICAgW0FwaUNvbnRyb2xsZXJdCiAgICBbQXBpVmVyc2lvbigiMS4wIildCiAgICBbUm91dGUoInNob3BzL1tjb250cm9sbGVyXSIpXQogICAgcHVibGljIGNsYXNzIEJsb2dQb3N0c0NvbnRyb2xsZXIgOiBCYXNlQ29udHJvbGxlcgogICAgewogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSUJsb2dQb3N0U2VydmljZSBfYmxvZ1Bvc3RTZXJ2aWNlOwogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSU1hcHBlciBfbWFwcGVyOwogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSUltYWdlU2VydmljZSBfaW1hZ2VTZXJ2aWNlOwogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSUZpbGVEb3dubG9hZFNlcnZpY2UgX2ZpbGVEb3dubG9hZFNlcnZpY2U7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsKdXNpbmcgQXV0b01hcHBlcjsKdXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuSnNvblBhdGNoOwp1c2luZyBNaWNyb3NvZnQuQXNwTmV0Q29yZS5NdmM7CnVzaW5nIE1vbmdvREIuQnNvbjsKdXNpbmcgU2Vsei5Db3JlLkFwaS5Db250cm9sbGVyczsKdXNpbmcgU2Vsei5Db3JlLkFwaS5NYXBwaW5nOwp1c2luZyBTZWx6LkNvcmUuQXBpLk1vZGVsczsKdXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuU2hvcHMuQmxvZ3M7CnVzaW5nIFNlbHouQ29yZS5Eb21haW5zLlNob3BzLkltYWdlczsKdXNpbmcgU2Vsei5Db3JlLk5vdGlmaWNhdGlvbnM7CnVzaW5nIFNlbHouQ29yZS5SZXBvc2l0b3J5LkVudGl0aWVzOwp1c2luZyBTZWx6LlNob3BzLkFwaS5Nb2RlbHMuQmxvZ1Bvc3RzOwp1c2luZyBTZWx6LlNob3BzLkFwaS5Nb2RlbHMuSW1hZ2VzOwp1c2luZyBTZWx6LlNob3BzLkNvcmUuRXh0ZW5zaW9ucy5CbG9nUG9zdHM7CnVzaW5nIFNlbHouU2hvcHMuQ29yZS5TZXJ2aWNlcy5CbG9nUG9zdHM7CnVzaW5nIFNlbHouU2hvcHMuQ29yZS5TZXJ2aWNlcy5GaWx0ZXJpbmc7CnVzaW5nIFNlbHouU2hvcHMuQ29yZS5TZXJ2aWNlcy5JbWFnZXM7Cg==</text>
