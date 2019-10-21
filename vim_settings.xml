@@ -10,10 +10,16 @@
         <mark key="^" line="126" column="82" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/Customers/FakeCustomers.cs" timestamp="1571632012638">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Base/TestAuthenticationHandler.cs" timestamp="1571617715696">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+      </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/Customers/FakeCustomers.cs" timestamp="1571637185771">
         <mark key="'" line="10" column="17" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="42" column="5" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="75" />
       </file>
       <file name="/Dummy.cs" timestamp="1571368266371">
         <mark key="[" line="0" column="0" />
@@ -29,6 +35,12 @@
         <mark key="]" line="107" column="73" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/CustomerProfile.cs" timestamp="1571627201562" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Base/ApiScenarioBase.cs" timestamp="1571637531830">
+        <mark key="[" line="48" column="77" />
+        <mark key="]" line="48" column="77" />
+        <mark key="^" line="48" column="77" />
+        <mark key="." line="48" column="77" />
+      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/TestCustomersClient.cs" timestamp="1571632553578">
         <mark key="'" line="13" column="52" />
         <mark key="[" line="29" column="11" />
@@ -49,14 +61,14 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7DC91CF7-B006-4499-A2B5-2C26F170E277/e0/b5b2bfc4/SelzBuilderExtensions.cs" timestamp="1571618821224" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/CustomersController.cs" timestamp="1571627180616" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/CustomersController.cs" timestamp="1571637375158" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Program.cs" timestamp="1571626293201" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/FakeContacts.cs" timestamp="1571632132212">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/FakeContacts.cs" timestamp="1571637223112">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="21" column="11" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="39" />
+        <mark key="^" line="35" column="39" />
+        <mark key="." line="35" column="39" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostsControllerFilterTest.cs" timestamp="1571618229979" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/TestBlogPostsClient.cs" timestamp="1571632176291">
@@ -101,12 +113,12 @@
         <mark key="." line="19" column="13" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.Local.json" timestamp="1571619128785" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" timestamp="1571635284360">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" timestamp="1571637293305">
         <mark key="'" line="8" column="11" />
-        <mark key="[" line="34" column="9" />
-        <mark key="]" line="48" column="9" />
-        <mark key="^" line="41" column="11" />
-        <mark key="." line="34" column="9" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -222,40 +234,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>LastName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWtlSW1hZ2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>StatusCodes</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SdWxlRm9yKGMgPT4gYy5MYXN0TmFtZSwgZiA9PiBmLk5hbWUuTGFzdE5hbWUoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcmVzcG9uc2UuU3RhdHVzQ29kZS5TaG91bGQoKS5CZShTdGF0dXNDb2Rlcy5TdGF0dXMyMDBPSyk7Cg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5BcGkuUHVibGljLk1vZGVscy5DdXN0b21lcnM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcmVzcG9uc2UuU3RhdHVzQ29kZS5TaG91bGQoKS5CZShTdGF0dXNDb2Rlcy5TdGF0dXMyMDBPSyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLkNvbnRlbnQuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBqc29uID0gYXdhaXQgcmVzcG9uc2UuQ29udGVudC5SZWFkQXNTdHJpbmdBc3luYygpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKICAgICAgICAgICAgICAgIEpzb25Db252ZXJ0LkRlc2VyaWFsaXplT2JqZWN0PEN1c3RvbWVyUmVzcG9uc2U+KGpzb24sIERlZmF1bHRTbmFrZVNlcmlhbGl6ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBqc29uID0gYXdhaXQgcmVzcG9uc2UuQ29udGVudC5SZWFkQXNTdHJpbmdBc3luYygpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKICAgICAgICAgICAgICAgIEpzb25Db252ZXJ0LkRlc2VyaWFsaXplT2JqZWN0PEN1c3RvbWVyUmVzcG9uc2U+KGpzb24sIERlZmF1bHRTbmFrZVNlcmlhbGl6ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLkNvbnRlbnQuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBqc29uID0gYXdhaXQgcmVzcG9uc2UuQ29udGVudC5SZWFkQXNTdHJpbmdBc3luYygpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKICAgICAgICAgICAgICAgIEpzb25Db252ZXJ0LkRlc2VyaWFsaXplT2JqZWN0PEN1c3RvbWVyUmVzcG9uc2U+KGpzb24sIERlZmF1bHRTbmFrZVNlcmlhbGl6ZXIpOwo=</text>
       </register>
     </registers>
     <search>
