@@ -16,6 +16,7 @@
         <mark key="." line="19" column="18" />
         <mark key="^" line="19" column="18" />
       </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Shops/TestShopClient.cs" timestamp="1571638079276" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/Customers/FakeCustomers.cs" timestamp="1571637185771">
         <mark key="'" line="10" column="17" />
         <mark key="[" line="27" column="0" />
@@ -29,7 +30,7 @@
       <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common.Aws/AmazonClientFactory.cs" timestamp="1571478562428">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/BlogPostScenarios.cs" timestamp="1571634988806">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/BlogPostScenarios.cs" timestamp="1571638043209">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="73" />
@@ -61,8 +62,9 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7DC91CF7-B006-4499-A2B5-2C26F170E277/e0/b5b2bfc4/SelzBuilderExtensions.cs" timestamp="1571618821224" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/CustomersController.cs" timestamp="1571637375158" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/CustomersController.cs" timestamp="1571637911389" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Program.cs" timestamp="1571626293201" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Webhooks/TestWebhooksClient.cs" timestamp="1571638320748" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/FakeContacts.cs" timestamp="1571637223112">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="35" column="32" />
@@ -71,7 +73,7 @@
         <mark key="." line="35" column="39" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/BlogPosts/BlogPostsControllerFilterTest.cs" timestamp="1571618229979" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/TestBlogPostsClient.cs" timestamp="1571632176291">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/TestBlogPostsClient.cs" timestamp="1571638241158">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="73" column="57" />
         <mark key="." line="73" column="53" />
@@ -96,6 +98,7 @@
       <file name="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api/Mapping/ContactMapper.cs" timestamp="1571627416541" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Catalog/TestCatalogClient.cs" timestamp="1571613731553" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/ProductsController.cs" timestamp="1571612223199" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/778505EF-BF6E-4428-BAAB-DF32426DF2EA/50/edaad2b1/IContactClient.cs" timestamp="1571637795120" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Startup.cs" timestamp="1571620012065" />
       <file name="/Dummy.txt" timestamp="1571632016891">
         <mark key="[" line="0" column="0" />
@@ -113,12 +116,12 @@
         <mark key="." line="19" column="13" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.Local.json" timestamp="1571619128785" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" timestamp="1571637293305">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" timestamp="1571638061281">
         <mark key="'" line="8" column="11" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="44" column="87" />
+        <mark key="]" line="44" column="87" />
+        <mark key="^" line="41" column="19" />
+        <mark key="." line="44" column="87" />
       </file>
     </filemarks>
     <jumps>
@@ -234,7 +237,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>LastName</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWtlSW1hZ2VcPg==</text>
