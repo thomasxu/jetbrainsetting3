@@ -22,11 +22,12 @@
         <mark key="." line="19" column="18" />
         <mark key="^" line="19" column="18" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1571642201243">
-        <mark key="[" line="208" column="55" />
-        <mark key="]" line="208" column="59" />
-        <mark key="." line="208" column="59" />
-        <mark key="^" line="208" column="59" />
+      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" timestamp="1571643711282">
+        <mark key="'" line="207" column="29" />
+        <mark key="[" line="207" column="85" />
+        <mark key="]" line="208" column="7" />
+        <mark key="^" line="208" column="7" />
+        <mark key="." line="208" column="7" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Shops/TestShopClient.cs" timestamp="1571638079276" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/Customers/FakeCustomers.cs" timestamp="1571637185771">
@@ -132,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="49" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/FakeCategories.cs" />
       <jump line="62" column="23" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/FakeProducts.cs" />
       <jump line="50" column="39" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/FakeBlogPosts.cs" />
       <jump line="35" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/FakeBlogPosts.cs" />
@@ -232,6 +232,7 @@
       <jump line="21" column="17" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/BlogPostScenarios.cs" />
       <jump line="0" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Catalog/Products/ProductScenarios.cs" />
       <jump line="8" column="11" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
+      <jump line="208" column="29" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -244,7 +245,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aWQsICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWtlSW1hZ2VcPg==</text>
@@ -253,33 +254,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5SdWxlRm9yKGMgPT4gYy5MYXN0TmFtZSwgZiA9PiBmLk5hbWUuTGFzdE5hbWUoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxJQWN0aW9uUmVzdWx0PiBBZGRJbWFnZShzdHJpbmcgaWQsIFtGcm9tQm9keV0gSW1hZ2VQb3MpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBsICAgICAgICAgfQoK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIEJhZFJlcXVlc3QobmV3IEVycm9yKE1vZGVsU3RhdGUpKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>tModel model)
         {
             if (!ModelState</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dXNpbmcgU2Vsei5BcGkuUHVibGljLk1vZGVscy5DdXN0b21lcnM7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcmVzcG9uc2UuU3RhdHVzQ29kZS5TaG91bGQoKS5CZShTdGF0dXNDb2Rlcy5TdGF0dXMyMDBPSyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
