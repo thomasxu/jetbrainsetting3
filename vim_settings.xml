@@ -3,41 +3,50 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Base/TestAuthenticationHandler.cs" timestamp="1571696212988">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="18" />
-        <mark key="." line="19" column="18" />
-        <mark key="^" line="19" column="18" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/TestContactClient.cs" timestamp="1571713038582">
+        <mark key="'" line="36" column="12" />
+        <mark key="[" line="44" column="90" />
+        <mark key="]" line="40" column="69" />
+        <mark key="." line="40" column="69" />
+        <mark key="^" line="40" column="69" />
       </file>
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Product/ProductOrderItem.cs" timestamp="1571714432896" />
-      <file name="/Dummy.cs" timestamp="1571650683687">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Webhooks/WebHookScenarios.cs" timestamp="1571695783562">
+        <mark key="'" line="94" column="69" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" timestamp="1571733072242" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Webhooks/DTOs/OrderDTO.cs" timestamp="1571734385706" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/OrderTaxRate.cs" timestamp="1571734027015" />
       <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common.Aws/AmazonClientFactory.cs" timestamp="1571478562428">
         <mark key="'" line="6" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Base/ApiScenarioBase.cs" timestamp="1571701139724">
-        <mark key="[" line="48" column="77" />
-        <mark key="]" line="48" column="77" />
-        <mark key="^" line="48" column="77" />
-        <mark key="." line="48" column="77" />
-      </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Base/TestClientBase.cs" timestamp="1571649825292">
-        <mark key="[" line="18" column="44" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Validation/CustomerRequestValidator.cs" timestamp="1571696207641" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Catalog/Products/ProductScenarios.cs" timestamp="1571634683884">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Shipping/ShippingSurcharge.cs" timestamp="1571714534153" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/Order/OrderDiscountExtensions.cs" timestamp="1571725272708" />
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Order.cs" timestamp="1571714779646" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/Order/OrderDiscountExtensions.cs" timestamp="1571742660139" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Order.cs" timestamp="1571742380270">
+        <mark key="'" line="367" column="64" />
+      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Webhooks/TestWebhooksClient.cs" timestamp="1571694845304" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/2.txt" timestamp="1571713455703" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/FakeContacts.cs" timestamp="1571693487992">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="39" />
+        <mark key="^" line="35" column="39" />
+        <mark key="." line="20" column="39" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/DiscountHelper.cs" timestamp="1571743516739" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/9c/9d18a6ee/SnakeCaseNamingStrategy.cs" timestamp="1571617080359">
         <mark key="'" line="54" column="11" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/Order/OrderExtensions.cs" timestamp="1571725299912" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/Order/OrderExtensions.cs" timestamp="1571742752017">
+        <mark key="]" line="122" column="29" />
+        <mark key="^" line="122" column="29" />
+        <mark key="." line="122" column="29" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FEA0F8C7-5335-4307-B570-E93E87157609/dd/315c4fca/ObjectId.cs" timestamp="1571725593701">
         <mark key="'" line="91" column="15" />
       </file>
@@ -48,23 +57,29 @@
         <mark key="'" line="50" column="17" />
       </file>
       <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api/Controllers/OrdersController.cs" timestamp="1571713307071" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1571731571921" />
-      <file name="/Dummy.txt" timestamp="1571713637339">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/OrderTaxRate.cs" timestamp="1571718795100" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1571743997819" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/OrderDiscount.cs" timestamp="1571742045848" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/OrderTaxRate.cs" timestamp="1571734018039" />
       <file name="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/Services/OrderService.cs" timestamp="1571713321739" />
       <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/Selz.Orders.Api.UnitTests.csproj" timestamp="1571713085397" />
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/OrderItem.cs" timestamp="1571731213466">
-        <mark key="[" line="34" column="47" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Shipping/OrderShipping.cs" timestamp="1571742227582" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/Data/EmailModelMapper.cs" timestamp="1571734090050" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" timestamp="1571699779635">
+        <mark key="'" line="232" column="0" />
+        <mark key="[" line="242" column="12" />
+        <mark key="]" line="242" column="11" />
+        <mark key="^" line="242" column="11" />
+        <mark key="." line="242" column="11" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/OrderItem.cs" timestamp="1571742564473">
+        <mark key="'" line="37" column="23" />
+        <mark key="[" line="35" column="0" />
         <mark key="]" line="34" column="46" />
         <mark key="." line="34" column="46" />
         <mark key="^" line="34" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
-      <jump line="279" column="4" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
       <jump line="261" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
       <jump line="262" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
       <jump line="274" column="8" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
@@ -163,6 +178,8 @@
       <jump line="232" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
       <jump line="36" column="12" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/TestContactClient.cs" />
       <jump line="91" column="15" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FEA0F8C7-5335-4307-B570-E93E87157609/dd/315c4fca/ObjectId.cs" />
+      <jump line="37" column="23" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/OrderItem.cs" />
+      <jump line="367" column="64" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Order.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
