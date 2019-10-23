@@ -3,11 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Product/OrderProductBase.cs" timestamp="1571871737109">
+        <mark key="'" line="43" column="19" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/Order/OrderExtensions.cs" timestamp="1571870908220">
         <mark key="[" line="124" column="130" />
         <mark key="]" line="123" column="19" />
         <mark key="." line="123" column="19" />
         <mark key="^" line="123" column="19" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Product/ProductOrderItem.cs" timestamp="1571871778445">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="10" />
+        <mark key="." line="34" column="10" />
+        <mark key="^" line="34" column="10" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" timestamp="1571872247730" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Catalog/Product.cs" timestamp="1571871495089">
+        <mark key="'" line="183" column="34" />
       </file>
       <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api/Controllers/OrdersController.cs" timestamp="1571834205293">
         <mark key="[" line="40" column="0" />
@@ -21,20 +35,13 @@
       <file name="/Dummy.txt" timestamp="1571781833563">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Cart/Discount.cs" timestamp="1571794625266">
-        <mark key="[" line="78" column="20" />
-        <mark key="]" line="79" column="84" />
-        <mark key="^" line="79" column="84" />
-        <mark key="." line="79" column="84" />
-      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Product/ProductDiscountEditModel.cs" timestamp="1571871568219" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/DiscountsController.cs" timestamp="1571871661453" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderDomainExtensionsTests.cs" timestamp="1571819817568">
         <mark key="'" line="642" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
-      <jump line="265" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
-      <jump line="264" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
       <jump line="270" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
       <jump line="0" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
       <jump line="29" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
@@ -132,6 +139,9 @@
       <jump line="37" column="29" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Order.cs" />
       <jump line="642" column="57" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderDomainExtensionsTests.cs" />
       <jump line="94" column="50" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/Order/OrderExtensions.cs" />
+      <jump line="183" column="34" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Catalog/Product.cs" />
+      <jump line="43" column="19" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Product/OrderProductBase.cs" />
+      <jump line="34" column="8" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Product/ProductOrderItem.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -144,10 +154,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>DiscountInfoIsFreeShipping</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGYWtlSW1hZ2VcPg==</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuU3RhdHVzQ29kZS5TaG91bGQoKS5CZShleHBlY3RlZFN0YXR1c0NvZGUpOwo=</text>
@@ -181,9 +191,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGYWtlSW1hZ2VcPg==</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGYWtlSW1hZ2VcPg==</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>blogpost/i</last-substitute>
       <last-dir>1</last-dir>
@@ -196,7 +206,6 @@
         <entry encoding="base64">XDxUZXJtXD4=</entry>
         <entry>f{</entry>
         <entry encoding="base64">XDx1c2VTcXVhcmVcPg==</entry>
-        <entry>class</entry>
         <entry encoding="base64">XDxCdWlsZFRlc3RMb2NhbFw+</entry>
         <entry>{</entry>
         <entry encoding="base64">XDxQYXR0ZXJuXD4=</entry>
@@ -211,6 +220,7 @@
         <entry>blogpost</entry>
         <entry>blogpost\c</entry>
         <entry encoding="base64">XDxGYWtlSW1hZ2VcPg==</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
