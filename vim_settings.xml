@@ -26,12 +26,6 @@
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.Pact/Base/PactTestScenarioBase.cs" timestamp="1571781576202" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Product/ProductDiscountEditModel.cs" timestamp="1571794799947" />
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/FakeImage.cs" timestamp="1571781681999">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/DiscountsController.cs" timestamp="1571793732547" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Catalog/Products/ProductScenarios.cs" timestamp="1571634683884">
         <mark key="'" line="0" column="0" />
@@ -46,10 +40,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/9c/9d18a6ee/SnakeCaseNamingStrategy.cs" timestamp="1571617080359">
         <mark key="'" line="54" column="11" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/Order/OrderExtensions.cs" timestamp="1571808174745">
-        <mark key="]" line="122" column="29" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/Order/OrderExtensions.cs" timestamp="1571812703860">
+        <mark key="[" line="64" column="40" />
+        <mark key="]" line="64" column="40" />
         <mark key="^" line="122" column="29" />
-        <mark key="." line="122" column="29" />
+        <mark key="." line="64" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FEA0F8C7-5335-4307-B570-E93E87157609/dd/315c4fca/ObjectId.cs" timestamp="1571725593701">
         <mark key="'" line="91" column="15" />
@@ -61,8 +56,13 @@
         <mark key="'" line="50" column="17" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Helpers/DataHelper.cs" timestamp="1571792993692" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1571786557181" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1571812616201">
+        <mark key="[" line="916" column="0" />
+        <mark key="]" line="916" column="0" />
+        <mark key="." line="916" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/ProductsController.cs" timestamp="1571781509813" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/OrderDiscount.cs" timestamp="1571811480159" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/OrderTaxRate.cs" timestamp="1571796585264" />
       <file name="/Dummy.txt" timestamp="1571781833563">
         <mark key="[" line="0" column="1" />
@@ -195,7 +195,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, MidpointRounding.AwayFromZero</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGYWtlSW1hZ2VcPg==</text>
@@ -203,32 +203,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuU3RhdHVzQ29kZS5TaG91bGQoKS5CZShleHBlY3RlZFN0YXR1c0NvZGUpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CgogICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgW1Rlc3RdCiAgICAgICAgcHVibGljIHZvaWQgR2V0RGVsaXZlcnlQcmljZV9TaG91bGRfQXBwbHlfQXZhaWxhYmxlX1NoaXBwaW5nX0Rpc2NvdW50X0lmX0RlbGl2ZXJ5X0lzX05vdF9QZXJfSXRlbSgpCiAgICAgICAgewogICAgICAgICAgICB2YXIgZnJlZVNoaXBwaW5nRGlzY291bnQgPSBuZXcgT3JkZXJEaXNjb3VudAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBRdWFudGl0eSA9IDMsCiAgICAgICAgICAgICAgICBEaXNjb3VudEluZm8gPSBuZXcgT3JkZXJEaXNjb3VudEluZm8ge0lzRnJlZVNoaXBwaW5nID0gdHJ1ZX0KICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIHZhciBvcmRlckl0ZW0gPSBuZXcgT3JkZXJJdGVtCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIERpc2NvdW50ID0gZnJlZVNoaXBwaW5nRGlzY291bnQsCiAgICAgICAgICAgICAgICBRdWFudGl0eSA9IDMsCiAgICAgICAgICAgICAgICBQcm9kdWN0ID0gbmV3IFByb2R1Y3RPcmRlckl0ZW0ge1Byb2R1Y3RUeXBlID0gT3JkZXJQcm9kdWN0VHlwZS5QaHlzaWNhbH0KICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIHZhciBkZWxpdmVyeSA9IG5ldyBPcmRlclNoaXBwaW5nIHtQcmljZSA9IDEwfTsKCiAgICAgICAgICAgIC8vIEFjdAogICAgICAgICAgICB2YXIgcmVzdWx0ID0gT3JkZXJFeHRlbnNpb25zLkdldFRvdGFsU2hpcHBpbmcobmV3IExpc3Q8T3JkZXJJdGVtPiB7b3JkZXJJdGVtfSwgZGVsaXZlcnksIG51bGwpOwoKICAgICAgICAgICAgLy8gQXNzZXJ0CiAgICAgICAgICAgIEFzc2VydC5BcmVFcXVhbCgwbSwgcmVzdWx0KTsKICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IGludCBEZWZhdWx0TGltaXQgPSAxMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IGludCBEZWZhdWx0TGltaXQgPSAxMDsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgICAgIHZhciBleHBlY3RlZENvbnRhY3QgPSBHZXRSYW5kb21Db250YWN0RnJvbUZha2VyOw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBlbWFpbCA9IGV4cGVjdGVkQ29udGFjdC5FbWFpbDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLk5ldC5NaW1lOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICBlc3BvbnNlVGV4dCkK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLk5ldC5NaW1lOwo=</text>
       </register>
     </registers>
     <search>
