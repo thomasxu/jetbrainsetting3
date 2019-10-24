@@ -7,13 +7,6 @@
         <mark key="'" line="43" column="19" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Orders/OrderModel.cs" timestamp="1571879890727" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/Order/OrderExtensions.cs" timestamp="1571882347890">
-        <mark key="'" line="29" column="122" />
-        <mark key="[" line="124" column="130" />
-        <mark key="]" line="123" column="19" />
-        <mark key="." line="123" column="19" />
-        <mark key="^" line="123" column="19" />
-      </file>
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Product/ProductOrderItem.cs" timestamp="1571871778445">
         <mark key="'" line="34" column="8" />
         <mark key="[" line="34" column="8" />
@@ -28,6 +21,11 @@
       <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api/Controllers/OrdersController.cs" timestamp="1571834205293">
         <mark key="[" line="40" column="0" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1571885124933">
+        <mark key="[" line="913" column="6" />
+        <mark key="]" line="913" column="6" />
+        <mark key="." line="913" column="6" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Checkout/Controllers/HomeController.cs" timestamp="1571871203344" />
       <file name="/Dummy.txt" timestamp="1571781833563">
         <mark key="[" line="0" column="1" />
@@ -36,14 +34,18 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_CustomReceipt/Controllers/CustomReceiptController.cs" timestamp="1571880018922" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Products/DiscountService.cs" timestamp="1571878153713" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Controllers/DiscountsController.cs" timestamp="1571871661453" />
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Shipping/OrderShipping.cs" timestamp="1571879949790" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_AbandonedCart/Services/AbandonedCartService.cs" timestamp="1571884204134" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/DiscountServiceTests.cs" timestamp="1571883778154" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Shipping/OrderShipping.cs" timestamp="1571883741040" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderDomainExtensionsTests.cs" timestamp="1571819817568">
         <mark key="'" line="642" column="57" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/Data/EmailModelMapper.cs" timestamp="1571879995063" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/OrderItem.cs" timestamp="1571886208229">
+        <mark key="'" line="69" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
       <jump line="26" column="8" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
       <jump line="24" column="8" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
       <jump line="38" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
@@ -143,6 +145,7 @@
       <jump line="34" column="8" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Product/ProductOrderItem.cs" />
       <jump line="32" column="30" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/Order/OrderExtensions.cs" />
       <jump line="29" column="122" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/Order/OrderExtensions.cs" />
+      <jump line="69" column="23" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/OrderItem.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
