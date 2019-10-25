@@ -3,8 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" timestamp="1571972881561">
+        <mark key="[" line="77" column="33" />
+        <mark key="]" line="77" column="33" />
+        <mark key="." line="77" column="33" />
+        <mark key="^" line="77" column="32" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Product/ProductOrderItem.cs" timestamp="1571972465075">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="10" />
+        <mark key="." line="34" column="10" />
+        <mark key="^" line="34" column="10" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB0D5C07-D59A-42FC-88B3-BC452DAB25A8/74/b63ad7dc/OrderItem.cs" timestamp="1571965800071" />
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/OrderExtensions/OrderItemExtensions.cs" timestamp="1571967878708" />
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/OrderExtensions/OrderItemExtensions.cs" timestamp="1571972444197">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="73" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/Order.cs" timestamp="1571963586100" />
       <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.FunctionalTests/OrderScenarios.cs" timestamp="1571964791446" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Ui/DiscountTests.cs" timestamp="1571964308776" />
@@ -27,7 +43,7 @@
         <mark key="]" line="92" column="17" />
         <mark key="." line="92" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571968585276">
+      <file name="/Dummy.txt" timestamp="1571970224495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/PaymentGateway/IZettle/IZettleOrderMapper.cs" timestamp="1571965397777">
@@ -47,7 +63,7 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/OrderExtensions/OrderExtensions.cs" timestamp="1571967278944" />
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/OrderItem.cs" timestamp="1571967917571">
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/OrderItem.cs" timestamp="1571971130089">
         <mark key="'" line="69" column="23" />
       </file>
     </filemarks>
@@ -167,16 +183,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Should</text>
+        <text encoding="base64">IGZhbHNl</text>
       </register>
       <register name="/" type="4">
         <text>set multiple-cursors</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuU3RhdHVzQ29kZS5TaG91bGQoKS5CZShleHBlY3RlZFN0YXR1c0NvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGRlY2ltYWwgR2V0RGlzY291bnRBbW91bnQodGhpcyBPcmRlckl0ZW0gb3JkZXJJdGVtKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPFByb2plY3RSZWZlcmVuY2UgSW5jbHVkZT0iLi5cU2Vsei5PcmRlcnMuQXBpXFNlbHouT3JkZXJzLkFwaS5jc3Byb2oiIC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -186,28 +202,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPFByb2plY3RSZWZlcmVuY2UgSW5jbHVkZT0iLi5cc3JjXEFwaVxTZWx6Lk9yZGVycy5BcGlcU2Vsei5PcmRlcnMuQXBpLmNzcHJvaiIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElzRgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQcmljZSA9IDEwCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1cmNoYXNlRGlzY291bnQuUXVhbnRpdHkgPSBHCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>unable to update order to complete status.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFF1YW50aXR5ID0gMiwK</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
