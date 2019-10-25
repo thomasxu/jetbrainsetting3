@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" timestamp="1571977708952">
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" timestamp="1571984355351">
         <mark key="'" line="79" column="24" />
-        <mark key="[" line="77" column="37" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="74" column="0" />
+        <mark key="[" line="78" column="37" />
+        <mark key="]" line="71" column="31" />
+        <mark key="." line="71" column="31" />
+        <mark key="^" line="71" column="31" />
       </file>
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Product/ProductOrderItem.cs" timestamp="1571972465075">
         <mark key="'" line="34" column="8" />
@@ -45,9 +45,10 @@
         <mark key="]" line="92" column="17" />
         <mark key="." line="92" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571982393569">
+      <file name="/Dummy.txt" timestamp="1571984279700">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Products/DiscountService.cs" timestamp="1571983507203" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/PaymentGateway/IZettle/IZettleOrderMapper.cs" timestamp="1571965397777">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="65" />
@@ -185,7 +186,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>123</text>
+        <text>expectedDiscount</text>
       </register>
       <register name="/" type="4">
         <text>set multiple-cursors</text>
@@ -194,7 +195,7 @@
         <text encoding="base64">ICAgICAgICBbVGhlb3J5XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbG9uZyB2ZXJzaW9uQ3V0T2ZmVGltZSA9IDUzMmEzMjM1YTMzYzY1NTY1MWQ4NzVjMTsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -203,31 +204,29 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBlci8gcmVmdW5kIHJlY2VpcHRzKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IFtUaGVvcnldCiAgICAgICAgW0lubGluZURhdGEoMC4xLCAwLCAxMCwgMildIC8vIHBlcmNlbnRhZ2UgZGlzY291bnQKICAgICAgICBbSW5saW5lRGF0YSgwLjMzLCAwLCAxLjU1LCAxLjAyKV0gLy8gcm91bmRpbmcgZm9yIHBlcmNlbnRhZ2UgZGlzY291bnQgcmV0dXJuIDIgZGlnaXQgcm91bmRlZAogICAgICAgIFtJbmxpbmVEYXRhKDAsIDEwLCAxMCwgMTApXSAvLyB2YWx1ZSBvZmYgZm9yIGl0ZW0gb2YgcXVhbnRpdHkgMiB3aWxsIG9ubHkgZ2V0IG9uZSB2YWx1ZSBvZmYgYW1vdW50CiAgICAgICAgW0lubGluZURhdGEoMCwgMTEsIDEwLCAxMCldIC8vIGRpc2NvdW50IGNhbiBub3QgbW9yZSB0aGFuIHVuaXQgcHJpY2U=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC8vIEFsbCBvcmRlcnMgYmVmb3JlIDIwMTgtMDQtMTJUMDc6MDA6MDAuMDAwKzAwMDAgYXJlIHJvdW5kZWQgb24gdGhlIG9yZGVyIGxldmVsIC0gc2VlIE9yZGVyLlRvdGFsUHJpY2UKICAgICAgICAgICAgLy8gVG90YWxQcmljZSBpcyByb3VuZGVkIGZvciBhbGwgb3JkZXJzIGZyb20gMjAxOC0wNC0xMlQwNzowMDowMC4wMDArMDAwMCAtIHRoaXMgaXMgc28gd2UgYXJlIGNvbXBhdGlibGUgd2l0aCBpWmV0dGxlICglIGRpc2NvdW50ICYgb3Jk</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGl0ZW1EaXNjb3VudAo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgwLCA5LCAxMCwgOSldIC8vIGl0ZW0gcXVhbnRpdHkgMiBub3QgbXVsdGlwbGUgdmFsdWUgb2ZmCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxleGlibGVQcmljZUl0ZW0uRGlzY291bnQuRGlzY291bnRJbmZvLklzRnJlZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbG9uZyB2ZXJzaW9uQ3V0T2ZmVGltZSA9IDUzMmEzMjM1YTMzYzY1NTY1MWQ4NzVjMTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZsZXhpYmxlUHJpY2VJdGVtID0gR2V0T3JkZXJJdGVtKDAsIDAsIDEwLCAyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICBlci8gcmVmdW5kIHJlY2VpcHRzKQo=</text>
       </register>
       <register name="8" type="4">
-        <text>[Theory]
-        [InlineData(false, 0, 20)]
-        [InlineData(true, 5, 0)]</text>
+        <text encoding="base64">IC8vIEFsbCBvcmRlcnMgYmVmb3JlIDIwMTgtMDQtMTJUMDc6MDA6MDAuMDAwKzAwMDAgYXJlIHJvdW5kZWQgb24gdGhlIG9yZGVyIGxldmVsIC0gc2VlIE9yZGVyLlRvdGFsUHJpY2UKICAgICAgICAgICAgLy8gVG90YWxQcmljZSBpcyByb3VuZGVkIGZvciBhbGwgb3JkZXJzIGZyb20gMjAxOC0wNC0xMlQwNzowMDowMC4wMDArMDAwMCAtIHRoaXMgaXMgc28gd2UgYXJlIGNvbXBhdGlibGUgd2l0aCBpWmV0dGxlICglIGRpc2NvdW50ICYgb3Jk</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbVGhlb3J5XQogICAgICAgIFtJbmxpbmVEYXRhKDAsIDApXQogICAgICAgIFtJbmxpbmVEYXRhKC0xMCwgMCldCiAgICAgICAgW0lubGluZURhdGEoNSwgMCldCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGl0ZW1EaXNjb3VudAo=</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
