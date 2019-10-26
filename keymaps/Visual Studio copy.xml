@@ -77,6 +77,10 @@
   </action>
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
+  <action id="Console.TableResult.NavigateExportedAction">
+    <keyboard-shortcut first-keystroke="shift f12" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
   <action id="Console.TableResult.SelectRow" />
   <action id="Console.TableResult.SetNull" />
   <action id="Debugger.AddToWatch">
@@ -103,6 +107,7 @@
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl asterisk" />
   </action>
@@ -173,10 +178,14 @@
     <keyboard-shortcut first-keystroke="alt f3" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="FindDependantCodeAction">
+    <keyboard-shortcut first-keystroke="shift f12" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift f12" />
     <keyboard-shortcut first-keystroke="shift alt period" />
-    <mouse-shortcut keystroke="button4" />
+    <mouse-shortcut keystroke="shift alt button1" />
   </action>
   <action id="ForceRunToCursor">
     <keyboard-shortcut first-keystroke="ctrl alt f9" />
@@ -356,6 +365,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
     <keyboard-shortcut first-keystroke="ctrl q" />
     <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="ReSharperGotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="ReSharperMoveStatementLeft" />
   <action id="RecentChangedFiles">

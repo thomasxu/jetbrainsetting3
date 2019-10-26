@@ -32,12 +32,12 @@
         <mark key="]" line="38" column="41" />
         <mark key="." line="38" column="26" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" timestamp="1572124518157">
-        <mark key="'" line="1725" column="135" />
-        <mark key="[" line="1732" column="102" />
-        <mark key="]" line="1733" column="53" />
-        <mark key="^" line="1733" column="53" />
-        <mark key="." line="1733" column="53" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" timestamp="1572129848830">
+        <mark key="'" line="1815" column="32" />
+        <mark key="[" line="1815" column="0" />
+        <mark key="]" line="1831" column="25" />
+        <mark key="^" line="1815" column="20" />
+        <mark key="." line="1815" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1DBE3444-34E6-48CD-BB9C-C6FC78BB1841/0e/315c9cd0/SqsIntegrationEvent.cs" timestamp="1571987638447">
         <mark key="'" line="28" column="22" />
@@ -89,8 +89,8 @@
       <file name="/Dummy.txt" timestamp="1571984279700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/TaxRate.cs" timestamp="1571909530826">
-        <mark key="'" line="56" column="12" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/TaxRate.cs" timestamp="1572128393431">
+        <mark key="'" line="80" column="12" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/CatalogPactScenarios.cs" timestamp="1571979603647">
         <mark key="[" line="63" column="0" />
@@ -112,6 +112,7 @@
         <mark key="^" line="103" column="43" />
         <mark key="." line="103" column="43" />
       </file>
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Catalog/ProductType.cs" timestamp="1572127640580" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/PaymentGateway/IZettle/IZettleOrderMapper.cs" timestamp="1571965397777">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="65" />
@@ -137,21 +138,11 @@
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/OrderItem.cs" timestamp="1571977148046">
         <mark key="'" line="69" column="23" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/TaxZone.cs" timestamp="1571912469085">
-        <mark key="'" line="136" column="39" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/TaxZone.cs" timestamp="1572127434058">
+        <mark key="'" line="87" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Catalog/Products/ProductScenarios.cs" />
-      <jump line="8" column="11" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
-      <jump line="208" column="29" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/BlogPostsController.cs" />
-      <jump line="72" column="83" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
-      <jump line="11" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
-      <jump line="94" column="69" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Webhooks/WebHookScenarios.cs" />
-      <jump line="67" column="8" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
-      <jump line="75" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
-      <jump line="100" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
-      <jump line="78" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
       <jump line="79" column="16" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
       <jump line="92" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
       <jump line="206" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
@@ -242,6 +233,16 @@
       <jump line="716" column="43" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" />
       <jump line="1693" column="11" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
       <jump line="1725" column="135" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
+      <jump line="1733" column="59" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
+      <jump line="68" column="23" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/TaxZone.cs" />
+      <jump line="51" column="30" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/TaxZone.cs" />
+      <jump line="87" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/TaxZone.cs" />
+      <jump line="80" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/TaxRate.cs" />
+      <jump line="1772" column="43" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
+      <jump line="1805" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
+      <jump line="1818" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
+      <jump line="1835" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
+      <jump line="1815" column="32" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -257,16 +258,16 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>var shopAddress =</text>
+        <text>GetRate(TaxRateType.Shipping</text>
       </register>
       <register name="/" type="4">
-        <text>Gen</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbVGhlb3J5XQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIE9yZGVyIENvbXBsZXRlT3JkZXIoT2JqZWN0SWQgb3JkZXJJZCwgc3RyaW5nIHVzZXJJZCkKICAgICAgICB7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHpvbmUgPSBuZXcgVGF4Wm9uZSgpOwo=</text>
+      <register name="1" type="4">
+        <text>GetRate(TaxRateType.Shipping</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -275,40 +276,40 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIE9yZGVyIENvbXBsZXRlT3JkZXIoT2JqZWN0SWQgb3JkZXJJZCwgc3RyaW5nIHVzZXJJZCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBmaWx0ZXJCdWlsZGVyID0gQnVpbGRlcnM8T3JkZXI+LkZpbHRlcjsKICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguSWQsIG9yZGVySWQpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIE9yZGVyIENvbXBsZXRlT3JkZXIoT2JqZWN0SWQgb3JkZXJJZCwgc3RyaW5nIHVzZXJJZCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBmaWx0ZXJCdWlsZGVyID0gQnVpbGRlcnM8T3JkZXI+LkZpbHRlcjsKICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguSWQsIG9yZGVySWQpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHpvbmUgPSBuZXcgVGF4Wm9uZSgpOwo=</text>
+      </register>
+      <register name="5" type="4">
         <text>var categoryEmpty = new Category
             {
                 Id = ObjectId.</text>
       </register>
-      <register name="3" type="4">
-        <text>()</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZCA9PiBkLlRpdGxlLCBvcHQgPT4gb3B0Lk1hcEZyb20ocyA9PiBzLk5hbWUp</text>
-      </register>
-      <register name="5" type="4">
-        <text>()</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">ZCA9PiBkLlRpdGxlLCBvcHQgPT4gb3B0Lk1hcEZyb20ocyA9PiBzLk5hbWUp</text>
+        <text>()</text>
       </register>
       <register name="7" type="4">
-        <text>()</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">ZCA9PiBkLlRpdGxlLCBvcHQgPT4gb3B0Lk1hcEZyb20ocyA9PiBzLk5hbWUp</text>
       </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text>()</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ZCA9PiBkLlRpdGxlLCBvcHQgPT4gb3B0Lk1hcEZyb20ocyA9PiBzLk5hbWUp</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
       </register>
     </registers>
     <search>
-      <last-search>Gen</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>Gen</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>Gen</last-substitute>
       <last-dir>1</last-dir>
@@ -316,7 +317,6 @@
     </search>
     <history>
       <history-search>
-        <entry>productId abc</entry>
         <entry>discounts</entry>
         <entry>Discount</entry>
         <entry>productId</entry>
@@ -336,6 +336,7 @@
         <entry encoding="base64">XDxwcm9kdWN0RGlzY291bnRJZFw+</entry>
         <entry encoding="base64">XDxwcm9kdWN0RGlzY291bnRcPg==</entry>
         <entry>Gen</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
