@@ -1,9 +1,7 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks>
-      <mark key="M" line="578" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" protocol="file" />
-    </globalmarks>
+    <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" timestamp="1571984355351">
         <mark key="'" line="79" column="24" />
@@ -32,12 +30,12 @@
         <mark key="]" line="38" column="41" />
         <mark key="." line="38" column="26" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" timestamp="1572129848830">
-        <mark key="'" line="1815" column="32" />
-        <mark key="[" line="1815" column="0" />
-        <mark key="]" line="1831" column="25" />
-        <mark key="^" line="1815" column="20" />
-        <mark key="." line="1815" column="31" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" timestamp="1572130838387">
+        <mark key="'" line="1850" column="18" />
+        <mark key="[" line="1850" column="18" />
+        <mark key="]" line="1850" column="21" />
+        <mark key="^" line="1850" column="18" />
+        <mark key="." line="1850" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1DBE3444-34E6-48CD-BB9C-C6FC78BB1841/0e/315c9cd0/SqsIntegrationEvent.cs" timestamp="1571987638447">
         <mark key="'" line="28" column="22" />
@@ -68,13 +66,7 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="29" column="16" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1572123695550">
-        <mark key="'" line="716" column="43" />
-        <mark key="[" line="739" column="141" />
-        <mark key="]" line="739" column="157" />
-        <mark key="." line="739" column="157" />
-        <mark key="^" line="739" column="157" />
-      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1572123695550" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Drachma.Tests.csproj" timestamp="1572121003237">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -112,7 +104,6 @@
         <mark key="^" line="103" column="43" />
         <mark key="." line="103" column="43" />
       </file>
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Catalog/ProductType.cs" timestamp="1572127640580" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/PaymentGateway/IZettle/IZettleOrderMapper.cs" timestamp="1571965397777">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="65" />
@@ -143,11 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="16" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
-      <jump line="92" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
-      <jump line="206" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
-      <jump line="213" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
-      <jump line="216" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
       <jump line="222" column="8" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
       <jump line="229" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
       <jump line="232" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
@@ -243,10 +229,15 @@
       <jump line="1818" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
       <jump line="1835" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
       <jump line="1815" column="32" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
+      <jump line="1827" column="34" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
+      <jump line="1858" column="30" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
+      <jump line="1859" column="33" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
+      <jump line="1861" column="20" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
+      <jump line="1850" column="18" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>blogPostId</text>
+        <text>((blogPostId))</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHIuCg==</text>
@@ -255,10 +246,10 @@
         <text>&quot;</text>
       </register>
       <register name="+" type="4">
-        <text>()</text>
+        <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>GetRate(TaxRateType.Shipping</text>
+        <text>der</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -267,7 +258,7 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIE9yZGVyIENvbXBsZXRlT3JkZXIoT2JqZWN0SWQgb3JkZXJJZCwgc3RyaW5nIHVzZXJJZCkKICAgICAgICB7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>GetRate(TaxRateType.Shipping</text>
+        <text>{}</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -276,31 +267,29 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE9yZGVyIENvbXBsZXRlT3JkZXIoT2JqZWN0SWQgb3JkZXJJZCwgc3RyaW5nIHVzZXJJZCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBmaWx0ZXJCdWlsZGVyID0gQnVpbGRlcnM8T3JkZXI+LkZpbHRlcjsKICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguSWQsIG9yZGVySWQpOwo=</text>
+      <register name="2" type="4">
+        <text>rturn</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE9yZGVyIENvbXBsZXRlT3JkZXIoT2JqZWN0SWQgb3JkZXJJZCwgc3RyaW5nIHVzZXJJZCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBmaWx0ZXJCdWlsZGVyID0gQnVpbGRlcnM8T3JkZXI+LkZpbHRlcjsKICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gZmlsdGVyQnVpbGRlci5FcSh4ID0+IHguSWQsIG9yZGVySWQpOwo=</text>
+      <register name="3" type="4">
+        <text>{}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHpvbmUgPSBuZXcgVGF4Wm9uZSgpOwo=</text>
+      <register name="4" type="4">
+        <text>rturn</text>
       </register>
       <register name="5" type="4">
-        <text>var categoryEmpty = new Category
-            {
-                Id = ObjectId.</text>
+        <text encoding="base64">PHQ+PC90Pg==</text>
       </register>
       <register name="6" type="4">
-        <text>()</text>
+        <text>rturn</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ZCA9PiBkLlRpdGxlLCBvcHQgPT4gb3B0Lk1hcEZyb20ocyA9PiBzLk5hbWUp</text>
+        <text encoding="base64">PHQ+PC90Pg==</text>
       </register>
       <register name="8" type="4">
-        <text>()</text>
+        <text>rturn</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZCA9PiBkLlRpdGxlLCBvcHQgPT4gb3B0Lk1hcEZyb20ocyA9PiBzLk5hbWUp</text>
+        <text encoding="base64">PHQ+PC90Pg==</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
