@@ -61,12 +61,12 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="29" column="16" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1572121927233">
-        <mark key="'" line="598" column="12" />
-        <mark key="[" line="607" column="12" />
-        <mark key="]" line="607" column="11" />
-        <mark key="." line="607" column="11" />
-        <mark key="^" line="607" column="11" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1572122938009">
+        <mark key="'" line="619" column="25" />
+        <mark key="[" line="619" column="161" />
+        <mark key="]" line="619" column="23" />
+        <mark key="." line="619" column="24" />
+        <mark key="^" line="632" column="96" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Drachma.Tests.csproj" timestamp="1572121003237">
         <mark key="[" line="0" column="1" />
@@ -135,9 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="54" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/BlogPostScenarios.cs" />
-      <jump line="35" column="48" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Catalog/Products/ProductScenarios.cs" />
-      <jump line="154" column="71" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Cart/DiscountScenarios.cs" />
       <jump line="17" column="52" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
       <jump line="29" column="22" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Customers/CustomerScenarios.cs" />
       <jump line="21" column="17" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/BlogPosts/BlogPostScenarios.cs" />
@@ -235,6 +232,9 @@
       <jump line="611" column="13" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" />
       <jump line="601" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" />
       <jump line="598" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" />
+      <jump line="631" column="20" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" />
+      <jump line="637" column="16" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" />
+      <jump line="619" column="25" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -250,7 +250,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>var categoryEmpty = new C</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>Gen</text>
@@ -303,7 +303,7 @@
       <last-offset />
       <last-pattern>Gen</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>blogpost/i</last-substitute>
+      <last-substitute>Gen</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
