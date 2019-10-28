@@ -95,12 +95,11 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="29" />
       </file>
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/TaxTest.cs" timestamp="1572264255088">
-        <mark key="e" line="30" column="8" />
-        <mark key="[" line="33" column="20" />
-        <mark key="]" line="33" column="20" />
-        <mark key="." line="33" column="20" />
-        <mark key="^" line="32" column="21" />
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/TaxTest.cs" timestamp="1572264865542">
+        <mark key="e" line="29" column="8" />
+        <mark key="[" line="80" column="112" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Cart/Discount.cs" timestamp="1572250228776">
         <mark key="'" line="136" column="23" />
@@ -226,7 +225,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>Tax</text>
+        <text>Percentage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXREaXNjb3VudEZvclByb2R1Y3RcPg==</text>
@@ -235,7 +234,7 @@
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgwLCAwKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyBpLkRpc2NvdW50QW1vdW50Cg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5PcmRlcnMuQ29yZS5PcmRkZGVyRXh0ZW5zaW9uczsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -245,28 +244,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyBpLkRpc2NvdW50QW1vdW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1cnJlbmN5Q29kZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1cnJlbmN5Q29kZSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuT3JkZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbXQo=</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuT3JkZXJzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
