@@ -10,7 +10,12 @@
         <mark key="." line="67" column="8" />
         <mark key="^" line="67" column="12" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Results/JsonDataResult.cs" timestamp="1572257937188" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Product/OrderProductBase.cs" timestamp="1571871737109">
+        <mark key="'" line="43" column="19" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api/Mappings/OrdersProfile.cs" timestamp="1572263338966">
+        <mark key="'" line="22" column="71" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" timestamp="1572256636551">
         <mark key="'" line="91" column="0" />
         <mark key="[" line="169" column="8" />
@@ -18,17 +23,22 @@
         <mark key="^" line="171" column="30" />
         <mark key="." line="169" column="8" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Filters/SelzAntiForgeryTokenAttribute.cs" timestamp="1572253487907" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/ShoppingCart.cs" timestamp="1572252258932" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1572239486068" />
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Shop/PaymentVerificationStatus.cs" timestamp="1572239694087" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/89D14C90-4DB4-4324-94F3-11E9FA3523D5/31/7b44f883/HttpRequest.cs" timestamp="1572240101671" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Product/ProductDiscountViewModel.cs" timestamp="1572257284434" />
+      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Catalog/Product.cs" timestamp="1571871495089">
+        <mark key="'" line="183" column="34" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/Data.cs" timestamp="1572221528369">
+        <mark key="'" line="656" column="8" />
+      </file>
       <file name="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/OrderExtensions/OrderItemExtensions.cs" timestamp="1572259940816">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="73" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/ShopsController.cs" timestamp="1572239428641" />
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DataGenerator.cs" timestamp="1572299632974">
+        <mark key="'" line="46" column="30" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="/Dummy.cs" timestamp="1572258292117">
         <mark key="[" line="0" column="0" />
       </file>
@@ -38,37 +48,6 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/Order.cs" timestamp="1572251343144">
         <mark key="'" line="41" column="21" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/CheckoutController.cs" timestamp="1572240962537" />
-      <file name="/TestCatalogClient.cs" timestamp="1572231972595" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/OrderItem.cs" timestamp="1572251367094">
-        <mark key="'" line="14" column="17" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Shop/Shop.cs" timestamp="1572239658306" />
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.Models/OrderResponse.cs" timestamp="1572261767760" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderDomainExtensionsTests.cs" timestamp="1571819817568">
-        <mark key="'" line="642" column="57" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.Models/OrderItemResponse.cs" timestamp="1572261807915" />
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/Helpers/DiscountHelper.cs" timestamp="1572261382749" />
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/Product/OrderProductBase.cs" timestamp="1571871737109">
-        <mark key="'" line="43" column="19" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api/Mappings/OrdersProfile.cs" timestamp="1572263338966">
-        <mark key="'" line="22" column="71" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Catalog/Product.cs" timestamp="1571871495089">
-        <mark key="'" line="183" column="34" />
-      </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/CategoryProfile.cs" timestamp="1572236131987" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/Data.cs" timestamp="1572221528369">
-        <mark key="'" line="656" column="8" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DataGenerator.cs" timestamp="1572261584819">
-        <mark key="'" line="46" column="30" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1572234135087">
         <mark key="'" line="53" column="23" />
         <mark key="[" line="53" column="12" />
@@ -76,35 +55,36 @@
         <mark key="^" line="53" column="23" />
         <mark key="." line="53" column="23" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Checkout/Controllers/HomeController.cs" timestamp="1572259772037" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Translations/Messages.resx" timestamp="1572258064755" />
       <file name="/Dummy.txt" timestamp="1572232869766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/TaxRate.cs" timestamp="1572128393431">
         <mark key="'" line="80" column="12" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Checkout/CheckoutItemViewModel.cs" timestamp="1572253041622" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/DiscountServiceTests.cs" timestamp="1572085069186">
         <mark key="'" line="373" column="16" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Sdk/Models/CartModel.cs" timestamp="1572251066459" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Checkout/CheckoutViewModel.cs" timestamp="1572257274649" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/OrderItem.cs" timestamp="1572251367094">
+        <mark key="'" line="14" column="17" />
+      </file>
       <file name="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/OrderExtensions/OrderExtensions.cs" timestamp="1572263398466">
         <mark key="]" line="23" column="29" />
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="29" />
       </file>
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/TaxTest.cs" timestamp="1572264865542">
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/TaxTest.cs" timestamp="1572299784540">
         <mark key="e" line="29" column="8" />
-        <mark key="[" line="80" column="112" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="88" column="95" />
+        <mark key="]" line="88" column="95" />
+        <mark key="." line="88" column="95" />
+        <mark key="^" line="88" column="96" />
       </file>
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Cart/Discount.cs" timestamp="1572250228776">
         <mark key="'" line="136" column="23" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Mvc/Helpers/AnalyticsHelper.cs" timestamp="1572249050787" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderDomainExtensionsTests.cs" timestamp="1571819817568">
+        <mark key="'" line="642" column="57" />
+      </file>
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Orders/OrderItem.cs" timestamp="1571977148046">
         <mark key="'" line="69" column="23" />
       </file>
@@ -225,7 +205,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>Percentage</text>
+        <text>item2TaxRate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXREaXNjb3VudEZvclByb2R1Y3RcPg==</text>
@@ -234,7 +214,7 @@
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgwLCAwKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5PcmRlcnMuQ29yZS5PcmRkZGVyRXh0ZW5zaW9uczsK</text>
+        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgwLjEsIDApXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -244,28 +224,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyBpLkRpc2NvdW50QW1vdW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDEwMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5PcmRlcnMuQ29yZS5PcmRkZGVyRXh0ZW5zaW9uczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyBpLkRpc2NvdW50QW1vdW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1cnJlbmN5Q29kZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1cnJlbmN5Q29kZSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuT3JkZXJzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
