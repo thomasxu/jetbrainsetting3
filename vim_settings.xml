@@ -38,7 +38,7 @@
         <mark key="." line="39" column="39" />
         <mark key="^" line="39" column="39" />
       </file>
-      <file name="/Dummy.cs" timestamp="1572309929824">
+      <file name="/Dummy.cs" timestamp="1572311366423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1572308182602">
@@ -52,23 +52,23 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Shop/PaymentDetails.cs" timestamp="1572304345330" />
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/OrderExtensions/OrderExtensions.cs" timestamp="1572310324374">
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/OrderExtensions/OrderExtensions.cs" timestamp="1572311255367">
         <mark key="'" line="22" column="239" />
         <mark key="[" line="24" column="44" />
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
         <mark key="^" line="138" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/TaxTest.cs" timestamp="1572310182896">
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/TaxTest.cs" timestamp="1572312028217">
         <mark key="e" line="61" column="8" />
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="56" column="12" />
-        <mark key="^" line="56" column="12" />
-        <mark key="." line="56" column="12" />
+        <mark key="'" line="93" column="8" />
+        <mark key="[" line="115" column="23" />
+        <mark key="]" line="115" column="23" />
+        <mark key="." line="115" column="23" />
+        <mark key="^" line="84" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="592" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" />
       <jump line="609" column="16" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" />
       <jump line="577" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" />
       <jump line="589" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" />
@@ -168,6 +168,7 @@
       <jump line="22" column="239" filename="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/OrderExtensions/OrderExtensions.cs" />
       <jump line="16" column="23" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
       <jump line="93" column="0" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
+      <jump line="93" column="8" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/TaxTest.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -183,7 +184,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>, response.TotalShipping</text>
+        <text>decimal</text>
       </register>
       <register name="/" type="4">
         <text>TotalPrice</text>
@@ -192,7 +193,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBNYXRoLlJvdW5kKChvcmRlci5JdGVtcyAhPSBudWxsICYmIG9yZGVyLkl0ZW1zLkFueSgpID8gb3JkZXIuSXRlbXMuU3VtKGkgPT4gaS5Ub3RhbFByaWNlKSA6IDApIC0gb3JkZXIuT3JkZXJEaXNjb3VudEl0ZW1zQW1vdW50KCkgKyBvcmRlci5Ub3RhbFNoaXBwaW5nKCkgKyAob3JkZXIuVGF4UmF0ZSAhPSBudWxsICYmICFvcmRlci5UYXhSYXRlLlByaWNlSW5jbHVkZXNUYXggPyBvcmRlci5Ub3RhbFRheCgpIDogMCksIDIsIE1pZHBvaW50Um91bmRpbmcuQXdheUZyb21aZXJvKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2VUb3RhbEFkZHVwKHJlc3BvbnNlKS5TaG91bGQoKS5CZShyZXNwb25zZS5Ub3RhbFByaWNlKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -202,28 +203,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgwLjEsIDApXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuSXRlbXMuU3VtKGkgPT4gaS5Vbml0UHJpY2UgKiBpLlF1YW50aXR5ICogKDEgKyBpLlRheFJhdGUpKS5TaG91bGQoKS5CZShyZXNwb25zZS5Ub3RhbFByaWNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDEwMAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5PcmRlcnMuQ29yZS5PcmRkZGVyRXh0ZW5zaW9uczsK</text>
+        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgwLjEsIDApXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyBpLkRpc2NvdW50QW1vdW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDEwMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5PcmRlcnMuQ29yZS5PcmRkZGVyRXh0ZW5zaW9uczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyBpLkRpc2NvdW50QW1vdW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEN1cnJlbmN5Q29kZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
