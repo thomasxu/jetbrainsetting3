@@ -77,6 +77,11 @@
         <mark key="." line="137" column="23" />
         <mark key="^" line="137" column="23" />
       </file>
+      <file name="C:/dev/git/selz/API.Public/README.md" timestamp="1572342969558">
+        <mark key="'" line="23" column="16" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="48" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1572308182602">
         <mark key="'" line="53" column="23" />
         <mark key="[" line="53" column="12" />
@@ -93,8 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="23" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/TaxZone.cs" />
-      <jump line="67" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/TaxZone.cs" />
       <jump line="39" column="8" filename="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/Events/OrderRepositoryEvent.cs" />
       <jump line="42" column="20" filename="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/Events/OrderRepositoryEvent.cs" />
       <jump line="23" column="39" filename="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/Events/OrderRepositoryEvent.cs" />
@@ -193,6 +196,8 @@
       <jump line="0" column="0" filename="C:/dev/git/selz/local.setup/Selz.Local.Setup/selz-services.json" />
       <jump line="2" column="4" filename="C:/dev/git/selz/local.setup/Selz.Local.Setup/selz-services.json" />
       <jump line="8" column="4" filename="C:/dev/git/selz/local.setup/Selz.Local.Setup/selz-services.json" />
+      <jump line="21" column="6" filename="C:/dev/git/selz/API.Public/README.md" />
+      <jump line="23" column="16" filename="C:/dev/git/selz/API.Public/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -211,10 +216,10 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>]</text>
+        <text>health</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy92YWxpZCByZXNwb25zZQogICAgICAgICAgICBpZiAodmFsdWUuSXNTdWNjZXNzU3RhdHVzQ29kZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gTWFwcGVyLk1hcDxUUmVzcG9uc2U+KHZhbHVlLkNvbnRlbnQpOwo=</text>
+        <text encoding="base64">aHR0cHM6Ly9pbnRlcm5hbC1hcGktbG9jYWwuc2Vsei5jb206NDgwMDAvaGVhbHRoCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">XQo=</text>
@@ -255,9 +260,9 @@
       </register>
     </registers>
     <search>
-      <last-search>]</last-search>
+      <last-search>health</last-search>
       <last-offset />
-      <last-pattern>]</last-pattern>
+      <last-pattern>health</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>value</last-substitute>
       <last-dir>1</last-dir>
@@ -265,7 +270,6 @@
     </search>
     <history>
       <history-search>
-        <entry>httpstatucode</entry>
         <entry>httpstatuscode</entry>
         <entry>http</entry>
         <entry>creat</entry>
@@ -285,6 +289,7 @@
         <entry>}</entry>
         <entry>{</entry>
         <entry>]</entry>
+        <entry>health</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
