@@ -41,10 +41,12 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/Data.cs" timestamp="1572304296207">
         <mark key="'" line="656" column="8" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Customers/CustomerResponse.cs" timestamp="1572345962025">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Customers/CustomerResponse.cs" timestamp="1572346764739">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Customers/CustomerGetRequest.cs" timestamp="1572345340342">
         <mark key="[" line="9" column="0" />
@@ -115,10 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="20" filename="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/Events/OrderRepositoryEvent.cs" />
-      <jump line="23" column="39" filename="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/Events/OrderRepositoryEvent.cs" />
-      <jump line="0" column="0" filename="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/Events/OrderRepositoryEvent.cs" />
-      <jump line="9" column="0" filename="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/Events/OrderRepositoryEvent.cs" />
       <jump line="24" column="0" filename="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/Events/OrderRepositoryEvent.cs" />
       <jump line="1822" column="39" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
       <jump line="68" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
@@ -215,6 +213,10 @@
       <jump line="21" column="6" filename="C:/dev/git/selz/API.Public/README.md" />
       <jump line="23" column="16" filename="C:/dev/git/selz/API.Public/README.md" />
       <jump line="20" column="39" filename="C:/dev/git/selz/Services.Contact/Service/src/Api/Selz.Contacts.Api.Models/ContactResponse.cs" />
+      <jump line="29" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Customers/CustomerResponse.cs" />
+      <jump line="34" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Customers/CustomerResponse.cs" />
+      <jump line="39" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Customers/CustomerResponse.cs" />
+      <jump line="44" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Customers/CustomerResponse.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -249,28 +251,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFVuaXF1ZSBpZGVudGlmaWVyIG9mIHRoZSB1c2VyIHdobyAgbGFzdCB1cGRhdGVkIHRoZSByZWNvcmQKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIHB1YmxpYyBzdHJpbmcgVXBkYXRlZEJ5IHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIE9yZGVycyBwdXJjaGFzZWQgYnkgY3VzdG9tZXIgKElEcykKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIHB1YmxpYyBJTGlzdDxzdHJpbmc+IE9yZGVycyB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFVuaXF1ZSBpZGVudGlmaWVyIG9mIHRoZSB1c2VyIHdobyBjcmVhdGVkIHRoZSByZWNvcmQKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIHB1YmxpYyBzdHJpbmcgQ3JlYXRlZEJ5IHsgZ2V0OyBzZXQ7IH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFByb2R1Y3RzIHB1cmNoYXNlZCBieSBjdXN0b21lciAoSURzKQogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgcHVibGljIElMaXN0PHN0cmluZz4gUHJvZHVjdHMgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBPcmRlcnMgcHVyY2hhc2VkIGJ5IGN1c3RvbWVyIChJRHMpCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICBwdWJsaWMgSUxpc3Q8c3RyaW5nPiBPcmRlcnMgeyBnZXQ7IHNldDsgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBQcm9kdWN0cyBwdXJjaGFzZWQgYnkgY3VzdG9tZXIgKElEcykKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIHB1YmxpYyBJTGlzdDxzdHJpbmc+IFByb2R1Y3RzIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEJ1c2luZXNzIE51bWJlcgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgcHVibGljIHN0cmluZyBCdXNpbmVzc051bWJlciB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBCdXNpbmVzcyBOdW1iZXIKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIHB1YmxpYyBzdHJpbmcgQnVzaW5lc3NOdW1iZXIgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEN1c3RvbWVyIGZ1bGwgbmFtZQogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgcHVibGljIHN0cmluZyBGdWxsTmFtZSB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIE9yZGVycyBwdXJjaGFzZWQgYnkgY3VzdG9tZXIgKElEcykKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIHB1YmxpYyBJTGlzdDxzdHJpbmc+IE9yZGVycyB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
