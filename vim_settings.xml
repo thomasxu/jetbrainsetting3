@@ -13,6 +13,9 @@
         <mark key="." line="18" column="7" />
         <mark key="^" line="18" column="7" />
       </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Customers/CustomerGetModel.cs" timestamp="1572348283748">
+        <mark key="'" line="11" column="22" />
+      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/ApiBaseController.cs" timestamp="1572343979321">
         <mark key="'" line="63" column="19" />
         <mark key="[" line="34" column="0" />
@@ -53,10 +56,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/OrderExtensions/OrderItemExtensions.cs" timestamp="1572259940816">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="73" />
-      </file>
       <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DataGenerator.cs" timestamp="1572313436299">
         <mark key="'" line="62" column="30" />
         <mark key="[" line="59" column="13" />
@@ -73,6 +72,9 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
         <mark key="^" line="138" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/ProductProfile.cs" timestamp="1572348039480">
+        <mark key="'" line="35" column="0" />
       </file>
       <file name="C:/dev/git/selz/local.setup/Selz.Local.Setup/selz-services.json" timestamp="1572341686124">
         <mark key="'" line="8" column="4" />
@@ -117,16 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/Events/OrderRepositoryEvent.cs" />
-      <jump line="1822" column="39" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
-      <jump line="68" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
-      <jump line="69" column="19" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
-      <jump line="159" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
-      <jump line="162" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
-      <jump line="168" column="8" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
-      <jump line="169" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
-      <jump line="173" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
-      <jump line="178" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
       <jump line="0" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
       <jump line="52" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
       <jump line="82" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/OrderService.cs" />
@@ -217,6 +209,16 @@
       <jump line="34" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Customers/CustomerResponse.cs" />
       <jump line="39" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Customers/CustomerResponse.cs" />
       <jump line="44" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Customers/CustomerResponse.cs" />
+      <jump line="23" column="17" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/ProductProfile.cs" />
+      <jump line="70" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/ProductProfile.cs" />
+      <jump line="66" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/ProductProfile.cs" />
+      <jump line="54" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/ProductProfile.cs" />
+      <jump line="45" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/ProductProfile.cs" />
+      <jump line="0" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/ProductProfile.cs" />
+      <jump line="20" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/ProductProfile.cs" />
+      <jump line="35" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/ProductProfile.cs" />
+      <jump line="4" column="17" filename="C:/dev/git/selz/API/src/Selz.Model/Models/Customers/CustomerGetModel.cs" />
+      <jump line="11" column="22" filename="C:/dev/git/selz/API/src/Selz.Model/Models/Customers/CustomerGetModel.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -235,7 +237,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>health</text>
+        <text>customer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aHR0cHM6Ly9pbnRlcm5hbC1hcGktbG9jYWwuc2Vsei5jb206NDgwMDAvaGVhbHRoCg==</text>
@@ -279,9 +281,9 @@
       </register>
     </registers>
     <search>
-      <last-search>health</last-search>
+      <last-search>customer</last-search>
       <last-offset />
-      <last-pattern>health</last-pattern>
+      <last-pattern>customer</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>value</last-substitute>
       <last-dir>1</last-dir>
@@ -289,7 +291,6 @@
     </search>
     <history>
       <history-search>
-        <entry>httpstatuscode</entry>
         <entry>http</entry>
         <entry>creat</entry>
         <entry>tre</entry>
@@ -309,6 +310,7 @@
         <entry>{</entry>
         <entry>]</entry>
         <entry>health</entry>
+        <entry>customer</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
