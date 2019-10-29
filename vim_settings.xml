@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" timestamp="1572309288258">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="67" column="8" />
-        <mark key="]" line="67" column="8" />
-        <mark key="." line="67" column="8" />
-        <mark key="^" line="67" column="12" />
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" timestamp="1572313475973">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="62" column="17" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="18" column="7" />
       </file>
       <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api/Mappings/OrdersProfile.cs" timestamp="1572309171446">
         <mark key="'" line="18" column="17" />
@@ -31,15 +31,18 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="73" />
       </file>
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DataGenerator.cs" timestamp="1572300004758">
-        <mark key="'" line="46" column="30" />
-        <mark key="[" line="39" column="33" />
-        <mark key="]" line="39" column="39" />
-        <mark key="." line="39" column="39" />
-        <mark key="^" line="39" column="39" />
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DataGenerator.cs" timestamp="1572313436299">
+        <mark key="'" line="62" column="30" />
+        <mark key="[" line="59" column="13" />
+        <mark key="]" line="60" column="40" />
+        <mark key="." line="60" column="40" />
+        <mark key="^" line="60" column="40" />
       </file>
       <file name="/Dummy.cs" timestamp="1572311366423">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/OrderItemsTotalTest.cs" timestamp="1572313662669">
+        <mark key="[" line="74" column="59" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1572308182602">
         <mark key="'" line="53" column="23" />
@@ -48,10 +51,11 @@
         <mark key="^" line="53" column="23" />
         <mark key="." line="53" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572300818423">
+      <file name="/Dummy.txt" timestamp="1572313577823">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Shop/PaymentDetails.cs" timestamp="1572304345330" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB0D5C07-D59A-42FC-88B3-BC452DAB25A8/80/c0a2631b/OrderDiscount.cs" timestamp="1572312537763" />
       <file name="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/OrderExtensions/OrderExtensions.cs" timestamp="1572311255367">
         <mark key="'" line="22" column="239" />
         <mark key="[" line="24" column="44" />
@@ -59,13 +63,13 @@
         <mark key="." line="138" column="0" />
         <mark key="^" line="138" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/TaxTest.cs" timestamp="1572312028217">
-        <mark key="e" line="61" column="8" />
-        <mark key="'" line="93" column="8" />
-        <mark key="[" line="115" column="23" />
-        <mark key="]" line="115" column="23" />
-        <mark key="." line="115" column="23" />
-        <mark key="^" line="84" column="46" />
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/TaxTest.cs" timestamp="1572313342222">
+        <mark key="e" line="94" column="8" />
+        <mark key="'" line="126" column="8" />
+        <mark key="[" line="151" column="23" />
+        <mark key="]" line="137" column="23" />
+        <mark key="." line="137" column="23" />
+        <mark key="^" line="137" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -184,7 +188,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>decimal</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>TotalPrice</text>
@@ -193,7 +197,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBNYXRoLlJvdW5kKChvcmRlci5JdGVtcyAhPSBudWxsICYmIG9yZGVyLkl0ZW1zLkFueSgpID8gb3JkZXIuSXRlbXMuU3VtKGkgPT4gaS5Ub3RhbFByaWNlKSA6IDApIC0gb3JkZXIuT3JkZXJEaXNjb3VudEl0ZW1zQW1vdW50KCkgKyBvcmRlci5Ub3RhbFNoaXBwaW5nKCkgKyAob3JkZXIuVGF4UmF0ZSAhPSBudWxsICYmICFvcmRlci5UYXhSYXRlLlByaWNlSW5jbHVkZXNUYXggPyBvcmRlci5Ub3RhbFRheCgpIDogMCksIDIsIE1pZHBvaW50Um91bmRpbmcuQXdheUZyb21aZXJvKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2VUb3RhbEFkZHVwKHJlc3BvbnNlKS5TaG91bGQoKS5CZShyZXNwb25zZS5Ub3RhbFByaWNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -203,28 +207,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuSXRlbXMuU3VtKGkgPT4gaS5Vbml0UHJpY2UgKiBpLlF1YW50aXR5ICogKDEgKyBpLlRheFJhdGUpKS5TaG91bGQoKS5CZShyZXNwb25zZS5Ub3RhbFByaWNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgwLjEsIDApXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDEwMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxleGlibGVQcmljZUl0ZW0uRGlzY291bnQuRGlzY291bnRJbmZvLklzRnJlZSA9IHRydWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU2Vsei5PcmRlcnMuQ29yZS5PcmRkZGVyRXh0ZW5zaW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2VUb3RhbEFkZHVwKHJlc3BvbnNlKS5TaG91bGQoKS5CZShyZXNwb25zZS5Ub3RhbFByaWNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKyBpLkRpc2NvdW50QW1vdW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuSXRlbXMuU3VtKGkgPT4gaS5Vbml0UHJpY2UgKiBpLlF1YW50aXR5ICogKDEgKyBpLlRheFJhdGUpKS5TaG91bGQoKS5CZShyZXNwb25zZS5Ub3RhbFByaWNlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgwLjEsIDApXQo=</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
@@ -235,7 +239,7 @@
       <last-offset />
       <last-pattern>TotalPrice</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>)</last-substitute>
+      <last-substitute>TotalPrice</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
