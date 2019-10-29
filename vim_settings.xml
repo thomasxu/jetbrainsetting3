@@ -41,8 +41,11 @@
       <file name="/Dummy.cs" timestamp="1572311366423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/OrderItemsTotalTest.cs" timestamp="1572313662669">
-        <mark key="[" line="74" column="59" />
+      <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/OrderItemsTotalTest.cs" timestamp="1572315794804">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="^" line="137" column="11" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1572308182602">
         <mark key="'" line="53" column="23" />
@@ -188,16 +191,16 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Product.</text>
       </register>
       <register name="/" type="4">
         <text>TotalPrice</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBNYXRoLlJvdW5kKChvcmRlci5JdGVtcyAhPSBudWxsICYmIG9yZGVyLkl0ZW1zLkFueSgpID8gb3JkZXIuSXRlbXMuU3VtKGkgPT4gaS5Ub3RhbFByaWNlKSA6IDApIC0gb3JkZXIuT3JkZXJEaXNjb3VudEl0ZW1zQW1vdW50KCkgKyBvcmRlci5Ub3RhbFNoaXBwaW5nKCkgKyAob3JkZXIuVGF4UmF0ZSAhPSBudWxsICYmICFvcmRlci5UYXhSYXRlLlByaWNlSW5jbHVkZXNUYXggPyBvcmRlci5Ub3RhbFRheCgpIDogMCksIDIsIE1pZHBvaW50Um91bmRpbmcuQXdheUZyb21aZXJvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJJdGVtLkJ1eWVyc1VuaXRQcmljZSA9IDQwbTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -207,28 +210,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHZhciBpdGVtc1RheFJhdGUgPSBuZXcgRGljdGlvbmFyeTxPYmplY3RJZCwgZGVjaW1hbD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxleGlibGVQcmljZUl0ZW0uRGlzY291bnQuRGlzY291bnRJbmZvLklzRnJlZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJJdGVtLkJ1eWVyc1VuaXRQcmljZSA9IDQwbTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0UmVzcG9uc2VUb3RhbEFkZHVwKHJlc3BvbnNlKS5TaG91bGQoKS5CZShyZXNwb25zZS5Ub3RhbFByaWNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJJdGVtLlByb2R1Y3QuUHJvZHVjdFR5cGUgPSBPcmRlclByb2R1Y3RUeXBlLkRpZ2l0YWw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuSXRlbXMuU3VtKGkgPT4gaS5Vbml0UHJpY2UgKiBpLlF1YW50aXR5ICogKDEgKyBpLlRheFJhdGUpKS5TaG91bGQoKS5CZShyZXNwb25zZS5Ub3RhbFByaWNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJJdGVtLlByb2R1Y3QuUHJvZHVjdFR5cGUgPSBPcmRlclByb2R1Y3RUeXBlLkRpZ2l0YWw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgwLjEsIDApXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
