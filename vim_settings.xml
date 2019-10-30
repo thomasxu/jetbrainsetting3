@@ -39,9 +39,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.cs" timestamp="1572311366423">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/ProductsController.cs" timestamp="1572414850264" />
       <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/OrderItemsTotalTest.cs" timestamp="1572396982509">
         <mark key="[" line="54" column="25" />
@@ -49,11 +46,13 @@
         <mark key="^" line="54" column="25" />
         <mark key="." line="54" column="25" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" timestamp="1572415079412">
-        <mark key="'" line="97" column="97" />
+      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" timestamp="1572423518553">
+        <mark key="'" line="57" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572395519250">
+      <file name="/Dummy.txt" timestamp="1572421725509">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Customers/CustomerGetModel.cs" timestamp="1572348283748">
         <mark key="'" line="11" column="22" />
@@ -174,7 +173,6 @@
       <jump line="5" column="17" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/OrderProfile.cs" />
       <jump line="13" column="62" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/OrderProfile.cs" />
       <jump line="14" column="103" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/OrderProfile.cs" />
-      <jump line="57" column="41" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
       <jump line="62" column="12" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
       <jump line="74" column="95" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
       <jump line="76" column="62" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
@@ -184,6 +182,7 @@
       <jump line="97" column="97" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
       <jump line="66" column="131" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/SearchController.cs" />
       <jump line="64" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/SearchController.cs" />
+      <jump line="57" column="67" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -199,10 +198,10 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Fix validation and expose only the required fields for the api</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>usecache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9rPElMaXN0PFByb2R1Y3RSZXNwb25zZT4sIElMaXN0PE1vZGVscy5Qcm9kdWN0cy5Qcm9kdWN0UmVzcG9uc2U+PihyZXNwb25zZSk7Cg==</text>
@@ -246,9 +245,9 @@
       </register>
     </registers>
     <search>
-      <last-search>}</last-search>
+      <last-search>usecache</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern>usecache</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>value</last-substitute>
       <last-dir>1</last-dir>
@@ -256,7 +255,6 @@
     </search>
     <history>
       <history-search>
-        <entry>creat</entry>
         <entry>tre</entry>
         <entry>rout</entry>
         <entry>content</entry>
@@ -276,6 +274,7 @@
         <entry>customer</entry>
         <entry>slicedlist</entry>
         <entry>}</entry>
+        <entry>usecache</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
