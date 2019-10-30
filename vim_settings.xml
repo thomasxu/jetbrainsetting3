@@ -46,8 +46,8 @@
         <mark key="^" line="54" column="25" />
         <mark key="." line="54" column="25" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" timestamp="1572423518553">
-        <mark key="'" line="57" column="67" />
+      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" timestamp="1572423605196">
+        <mark key="'" line="79" column="103" />
       </file>
       <file name="/Dummy.txt" timestamp="1572421725509">
         <mark key="[" line="0" column="0" />
@@ -83,8 +83,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A9770C4-65F2-4249-907C-4F79E8F6FFD8/34/98ac3d38/RepositoryExtensions.cs" timestamp="1572413214949" />
     </filemarks>
     <jumps>
-      <jump line="385" column="51" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Products/DiscountService.cs" />
-      <jump line="136" column="23" filename="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Cart/Discount.cs" />
       <jump line="41" column="21" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/Order.cs" />
       <jump line="14" column="17" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/OrderItem.cs" />
       <jump line="22" column="71" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api/Mappings/OrdersProfile.cs" />
@@ -183,6 +181,8 @@
       <jump line="66" column="131" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/SearchController.cs" />
       <jump line="64" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/SearchController.cs" />
       <jump line="57" column="67" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
+      <jump line="78" column="35" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
+      <jump line="79" column="103" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -201,7 +201,7 @@
         <text>Fix validation and expose only the required fields for the api</text>
       </register>
       <register name="/" type="4">
-        <text>usecache</text>
+        <text>querystr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9rPElMaXN0PFByb2R1Y3RSZXNwb25zZT4sIElMaXN0PE1vZGVscy5Qcm9kdWN0cy5Qcm9kdWN0UmVzcG9uc2U+PihyZXNwb25zZSk7Cg==</text>
@@ -245,18 +245,16 @@
       </register>
     </registers>
     <search>
-      <last-search>usecache</last-search>
+      <last-search>querystr</last-search>
       <last-offset />
-      <last-pattern>usecache</last-pattern>
+      <last-pattern>querystr</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>value</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tre</entry>
-        <entry>rout</entry>
         <entry>content</entry>
         <entry>logger</entry>
         <entry>tresponse</entry>
@@ -275,6 +273,8 @@
         <entry>slicedlist</entry>
         <entry>}</entry>
         <entry>usecache</entry>
+        <entry>requestpar</entry>
+        <entry>querystr</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
