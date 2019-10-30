@@ -6,9 +6,10 @@
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/OrderProfile.cs" timestamp="1572407087225">
         <mark key="'" line="14" column="103" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.Models/ProductResponse.cs" timestamp="1572442058691">
-        <mark key="[" line="155" column="29" />
-        <mark key="]" line="161" column="32" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.Models/ProductResponse.cs" timestamp="1572473707944">
+        <mark key="'" line="100" column="26" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="32" />
         <mark key="." line="161" column="0" />
         <mark key="^" line="157" column="28" />
       </file>
@@ -71,7 +72,7 @@
         <mark key="]" line="49" column="31" />
         <mark key="." line="49" column="12" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Products/ProductModel.cs" timestamp="1572470702357">
+      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Products/ProductModel.cs" timestamp="1572474409939">
         <mark key="'" line="139" column="35" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="20" />
@@ -90,7 +91,14 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/95/7df962ff/EnumUtils.cs" timestamp="1572440456395">
         <mark key="'" line="69" column="23" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Mapping/ProductProfile.cs" timestamp="1572472558690" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Mapping/ProductProfile.cs" timestamp="1572474124532">
+        <mark key="'" line="73" column="7" />
+        <mark key="[" line="19" column="107" />
+        <mark key="]" line="20" column="68" />
+        <mark key="." line="20" column="68" />
+        <mark key="^" line="20" column="68" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Startup.cs" timestamp="1572474085361" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/ProductProfile.cs" timestamp="1572348039480">
         <mark key="'" line="35" column="0" />
       </file>
@@ -102,13 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="239" filename="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/OrderExtensions/OrderExtensions.cs" />
-      <jump line="16" column="23" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
-      <jump line="93" column="0" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
-      <jump line="93" column="8" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/TaxTest.cs" />
-      <jump line="56" column="17" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api/Mappings/OrdersProfile.cs" />
-      <jump line="185" column="54" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api/Mappings/OrdersProfile.cs" />
-      <jump line="7" column="6" filename="C:/dev/git/selz/docker-compose.yml" />
       <jump line="9" column="6" filename="C:/dev/git/selz/docker-compose.yml" />
       <jump line="10" column="6" filename="C:/dev/git/selz/docker-compose.yml" />
       <jump line="11" column="6" filename="C:/dev/git/selz/docker-compose.yml" />
@@ -202,6 +203,13 @@
       <jump line="38" column="12" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Products/ProductVariantResponse.cs" />
       <jump line="69" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/95/7df962ff/EnumUtils.cs" />
       <jump line="139" column="35" filename="C:/dev/git/selz/API/src/Selz.Model/Models/Products/ProductModel.cs" />
+      <jump line="45" column="12" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Mapping/ProductProfile.cs" />
+      <jump line="40" column="0" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Mapping/ProductProfile.cs" />
+      <jump line="28" column="0" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Mapping/ProductProfile.cs" />
+      <jump line="8" column="0" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Mapping/ProductProfile.cs" />
+      <jump line="74" column="7" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Mapping/ProductProfile.cs" />
+      <jump line="151" column="16" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.Models/ProductResponse.cs" />
+      <jump line="100" column="26" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.Models/ProductResponse.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -217,16 +225,16 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>physical</text>
+        <text>(Models.MediaType)</text>
       </register>
       <register name="/" type="4">
         <text>media</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbRW51bU1lbWJlcihWYWx1ZSA9ICIiKV0K</text>
+      <register name="0" type="4">
+        <text>Selz.Catalog.Api.Models</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVsLk1lZGlhVHlwZSA9IHJvZHVjdC5NZWRpYS5UeXBlIGFzIE1vZGVscy5NZWRpYVR5cGU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -236,28 +244,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBJc1NvbGRPdXQgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50PyBRdWFudGl0eUF2YWlsYWJsZSB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEFmdGVyIG1pZ3JhdGlvbiBvciB1c2VyIGVkaXRpbmcgaXRlbSwgdGhpcyBzaG91bGQgbmV2ZXIgb2NjdXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEVsc2UgYXNzdW1lIHRoZSBmZWF0dXJlZCBpbWFnZSBpcyB0aGUgbWVkaWEgY292ZXIgaW1hZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEVsc2UgYXNzdW1lIHRoZSBmZWF0dXJlZCBpbWFnZSBpcyB0aGUgbWVkaWEgY292ZXIgaW1hZ2UK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBJc1NvbGRPdXQgeyBnZXQ7IHNldDsgfQo=</text>
+      <register name="7" type="4">
+        <text>private void AfterFunction(Product arg1, ProductResponse arg2
+        {
+            throw new NotImplementedException();
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8vLyA8c3VtbWFyeT4KICAgICAgICAvLy8vLyBBIGxpc3Qgb2YgZG93bmxvYWQgZmlsZXMsIGVhY2ggb25lIHJlcHJlc2VudGluZyBhbiBmaWxlIGFzc29jaWF0ZWQgd2l0aCB0aGUgcHJvZHVjdAogICAgICAgIC8vLy8vIDwvc3VtbWFyeT4KICAgICAgICBwdWJsaWMgSUxpc3Q8RG93bmxvYWRGaWxlUmVzcG9uc2U+IERvd25sb2FkRmlsZXMgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vICAgICBJcyBhbiBhZGRyZXNzIHJlcXVpcmVkCiAgICAgICAgLy8vIDwvc3VtbWFyeT4K</text>
+      <register name="9" type="4">
+        <text encoding="base64">IC5Gb3JNZW1iZXIoZGVzdCA9PiBkZXN0LCBvcHQgPT4KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBvcHQuTWFwRnJvbShzcmMgPT4gc3JjKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
