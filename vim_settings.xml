@@ -16,7 +16,7 @@
         <mark key="[" line="80" column="88" />
         <mark key="]" line="80" column="117" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Products/ProductResponse.cs" timestamp="1572442050416">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Products/ProductResponse.cs" timestamp="1572471188824">
         <mark key="[" line="109" column="15" />
         <mark key="]" line="110" column="24" />
         <mark key="^" line="110" column="24" />
@@ -71,7 +71,8 @@
         <mark key="]" line="49" column="31" />
         <mark key="." line="49" column="12" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Products/ProductModel.cs" timestamp="1572441362487">
+      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Products/ProductModel.cs" timestamp="1572470702357">
+        <mark key="'" line="139" column="35" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="20" />
       </file>
@@ -101,7 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="17" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api/Mappings/OrdersProfile.cs" />
       <jump line="22" column="239" filename="C:/dev/git/selz/Services.Order/Service/src/Shared/Selz.Orders.Core/OrderExtensions/OrderExtensions.cs" />
       <jump line="16" column="23" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
       <jump line="93" column="0" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
@@ -201,6 +201,7 @@
       <jump line="8" column="1" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Products/ProductVariantResponse.cs" />
       <jump line="38" column="12" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Products/ProductVariantResponse.cs" />
       <jump line="69" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/95/7df962ff/EnumUtils.cs" />
+      <jump line="139" column="35" filename="C:/dev/git/selz/API/src/Selz.Model/Models/Products/ProductModel.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -219,7 +220,7 @@
         <text>physical</text>
       </register>
       <register name="/" type="4">
-        <text>vari</text>
+        <text>media</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbRW51bU1lbWJlcihWYWx1ZSA9ICIiKV0K</text>
@@ -263,9 +264,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vari</last-search>
+      <last-search>media</last-search>
       <last-offset />
-      <last-pattern>vari</last-pattern>
+      <last-pattern>media</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>value</last-substitute>
       <last-dir>1</last-dir>
@@ -273,7 +274,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
         <entry>tresponse</entry>
         <entry>value)</entry>
         <entry>ue)</entry>
@@ -293,6 +293,7 @@
         <entry>requestpar</entry>
         <entry>querystr</entry>
         <entry>vari</entry>
+        <entry>media</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
