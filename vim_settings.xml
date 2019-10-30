@@ -67,7 +67,9 @@
         <mark key="^" line="53" column="23" />
         <mark key="." line="53" column="23" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" timestamp="1572412539160" />
+      <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" timestamp="1572413338590">
+        <mark key="'" line="97" column="97" />
+      </file>
       <file name="C:/dev/git/selz/docker-compose.yml" timestamp="1572333541472">
         <mark key="'" line="6" column="23" />
         <mark key="[" line="6" column="14" />
@@ -103,14 +105,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A9770C4-65F2-4249-907C-4F79E8F6FFD8/34/98ac3d38/RepositoryExtensions.cs" timestamp="1572413214949" />
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
-      <jump line="83" column="0" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
-      <jump line="23" column="22" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
-      <jump line="67" column="13" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
-      <jump line="51" column="0" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
-      <jump line="63" column="0" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
-      <jump line="64" column="12" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DiscountTest.cs" />
-      <jump line="136" column="12" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api/Mappings/OrdersProfile.cs" />
       <jump line="10" column="7" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/TaxTest.cs" />
       <jump line="41" column="30" filename="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/DataGenerator.cs" />
       <jump line="385" column="51" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Products/DiscountService.cs" />
@@ -203,6 +197,14 @@
       <jump line="5" column="17" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/OrderProfile.cs" />
       <jump line="13" column="62" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/OrderProfile.cs" />
       <jump line="14" column="103" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/OrderProfile.cs" />
+      <jump line="57" column="41" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
+      <jump line="62" column="12" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
+      <jump line="74" column="95" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
+      <jump line="76" column="62" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
+      <jump line="86" column="106" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
+      <jump line="90" column="108" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
+      <jump line="95" column="12" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
+      <jump line="97" column="97" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/SearchController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -221,7 +223,7 @@
         <text>OrderSlicedListRequest</text>
       </register>
       <register name="/" type="4">
-        <text>slicedlist</text>
+        <text>}</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Lk9yZGVyQnlEZXNjZW5kaW5nKG8gPT4gby5JZCk7</text>
@@ -265,9 +267,9 @@
       </register>
     </registers>
     <search>
-      <last-search>slicedlist</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>slicedlist</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>value</last-substitute>
       <last-dir>1</last-dir>
@@ -289,12 +291,12 @@
         <entry>[none</entry>
         <entry>non</entry>
         <entry>value</entry>
-        <entry>}</entry>
         <entry>{</entry>
         <entry>]</entry>
         <entry>health</entry>
         <entry>customer</entry>
         <entry>slicedlist</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
