@@ -8,9 +8,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/OrderProfile.cs" timestamp="1572407087225">
-        <mark key="'" line="14" column="103" />
-      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Products/ProductService.cs" timestamp="1572413041567">
         <mark key="[" line="80" column="88" />
         <mark key="]" line="80" column="117" />
@@ -30,14 +27,24 @@
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Shared/Selz.Catalog.Core/Services/ProductService.cs" timestamp="1572413118394">
         <mark key="[" line="32" column="71" />
       </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Products/ProductResponse.cs" timestamp="1572429144999">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="49" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/CategoryScenarios.cs" timestamp="1572409843830" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/Data.cs" timestamp="1572304296207">
-        <mark key="'" line="656" column="8" />
+      <file name="C:/backup/responsenewapi.json" timestamp="1572428813879">
+        <mark key="[" line="168" column="29" />
+        <mark key="]" line="168" column="134" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Customers/CustomerGetRequest.cs" timestamp="1572345340342">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="C:/backup/responseold.json" timestamp="1572428880584">
+        <mark key="[" line="51" column="19" />
+        <mark key="]" line="51" column="42" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/ProductsController.cs" timestamp="1572414850264" />
       <file name="C:/dev/git/selz/Services.Order/Service/src/Api/Selz.Orders.Api.UnitTests/OrderItemsTotalTest.cs" timestamp="1572396982509">
@@ -54,25 +61,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Customers/CustomerGetModel.cs" timestamp="1572348283748">
-        <mark key="'" line="11" column="22" />
-      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/OrdersController.cs" timestamp="1572408522441">
         <mark key="'" line="47" column="75" />
         <mark key="[" line="49" column="12" />
         <mark key="]" line="49" column="31" />
         <mark key="." line="49" column="12" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Products/ProductModel.cs" timestamp="1572415230687" />
+      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Products/ProductModel.cs" timestamp="1572429091120">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="49" />
+      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/ProductsController.cs" timestamp="1572415583515">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="96" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Validation/CustomerRequestValidator.cs" timestamp="1572389270526" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Helpers/DecimalConverter.cs" timestamp="1572429268837" />
       <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Search/ProductSearchModel.cs" timestamp="1572414984785" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/ProductProfile.cs" timestamp="1572348039480">
-        <mark key="'" line="35" column="0" />
-      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Search/SearchProductsRequest.cs" timestamp="1572411033598" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Search/SearchProductsResponse.cs" timestamp="1572416393428">
         <mark key="[" line="9" column="64" />
@@ -204,7 +209,7 @@
         <text>querystr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9rPElMaXN0PFByb2R1Y3RSZXNwb25zZT4sIElMaXN0PE1vZGVscy5Qcm9kdWN0cy5Qcm9kdWN0UmVzcG9uc2U+PihyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbSnNvbkNvbnZlcnRlcih0eXBlb2YoRGVjaW1hbENvbnZlcnRlcikpXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkFwaS5Nb2RlbHM7Cg==</text>
