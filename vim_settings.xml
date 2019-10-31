@@ -3,57 +3,41 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1572495318111">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/backup/responseNew2.json" timestamp="1572509975974">
-        <mark key="[" line="101" column="10" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Customers/CustomerGetModel.cs" timestamp="1572348283748">
-        <mark key="'" line="11" column="22" />
-      </file>
-      <file name="C:/backup/responseold2.json" timestamp="1572520325529">
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/OrderProfile.cs" timestamp="1572407087225">
-        <mark key="'" line="14" column="103" />
-      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Templates/BuyerAbandonedCart.liquid" timestamp="1572525964857" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/SearchController.cs" timestamp="1572506973780">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Products/VariantAttributeResponse.cs" timestamp="1572438195035">
-        <mark key="'" line="4" column="17" />
-      </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Products/ProductResponse.cs" timestamp="1572495237575">
-        <mark key="^" line="159" column="3" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/95/7df962ff/EnumUtils.cs" timestamp="1572440456395">
-        <mark key="'" line="69" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/ad/3e7d9a22/ForbidResult.cs" timestamp="1572490356337">
-        <mark key="'" line="24" column="11" />
-      </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/CategoryProfile.cs" timestamp="1572482954927">
-        <mark key="'" line="19" column="38" />
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/Data.cs" timestamp="1572304296207">
-        <mark key="'" line="656" column="8" />
-      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Templates/SellerItemSold.liquid" timestamp="1572526362853" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Mapping/CategoryProfile.cs" timestamp="1572479870953">
         <mark key="[" line="69" column="1" />
         <mark key="]" line="69" column="1" />
         <mark key="." line="69" column="1" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1572523872224" />
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Filters/OrdersControllerFilters.cs" timestamp="1572490344512">
-        <mark key="'" line="13" column="17" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/OrderServiceTests.cs" timestamp="1572523936759" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Templates/SellerItemSoldOut.liquid" timestamp="1572526367198" />
+      <file name="/Dummy.txt" timestamp="1572495318111">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Layouts/Anonymous.liquid" timestamp="1572525756043" />
+      <file name="C:/backup/responseNew2.json" timestamp="1572509975974">
+        <mark key="[" line="101" column="10" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_CustomReceipt/Controllers/CustomReceiptController.cs" timestamp="1572523984736" />
+      <file name="C:/backup/responseold2.json" timestamp="1572520325529">
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Snippets/DiscountLink.liquid" timestamp="1572525847661" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/EmailService.cs" timestamp="1572525219417" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Templates/BuyerItemQuestion.liquid" timestamp="1572526050838" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Templates/SellerSubscriptionInvoice.liquid" timestamp="1572526461480" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Snippets/DownloadLink.liquid" timestamp="1572525810187" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Templates/BuyerOrderCancelled.liquid" timestamp="1572526193993" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Templates/ReferFriendSignupSeller.liquid" timestamp="1572526257550" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Templates/BuyerLicenseUpdate.liquid" timestamp="1572526125704" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Templates/BuyerDownloadUpdate.liquid" timestamp="1572525996180" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/EmailTests.cs" timestamp="1572525517060" />
     </filemarks>
     <jumps>
       <jump line="5" column="4" filename="C:/dev/git/selz/docker-compose.yml" />
