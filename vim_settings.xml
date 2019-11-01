@@ -6,6 +6,18 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1572572352667">
         <mark key="'" line="173" column="23" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopScenarios.cs" timestamp="1572574721858">
+        <mark key="[" line="51" column="56" />
+        <mark key="]" line="50" column="44" />
+        <mark key="^" line="50" column="44" />
+        <mark key="." line="50" column="44" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" timestamp="1572574878908">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="27" column="52" />
+        <mark key="." line="27" column="52" />
+        <mark key="^" line="27" column="52" />
+      </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/TestHelper.cs" timestamp="1572562822551" />
       <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/DomainController.cs" timestamp="1572571816178">
         <mark key="'" line="34" column="12" />
@@ -27,12 +39,10 @@
         <mark key="'" line="49" column="12" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/TemplateTests.cs" timestamp="1572563076048" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/DomainController.cs" timestamp="1572572309372">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/DomainController.cs" timestamp="1572574820362">
         <mark key="'" line="11" column="12" />
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="51" />
-        <mark key="^" line="21" column="51" />
-        <mark key="." line="21" column="51" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="26" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Framework/Paginations/SlicedLists/SlicedList.cs" timestamp="1572568719989" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/DomainValidator.cs" timestamp="1572571057016">
@@ -179,13 +189,13 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>BadRequestObjectResult</text>
+        <text>int shopId, RefreshTokenRequest tokenRequest, [CorrelationId] string correlationId</text>
       </register>
       <register name="/" type="4">
         <text>domain</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vZGVsU3RhdGUuQWRkTW9kZWxFcnJvcigic2hvcElkIiwgIkludmFsaWQgU2hvcElkIHByb3ZpZGVkIik7CiAgICAgICAgICAgICAgICByZXR1cm4gQmFkUmVxdWVzdChNb2RlbFN0YXRlKTsK</text>
+      <register name="0" type="4">
+        <text>DomainCheckRequest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
