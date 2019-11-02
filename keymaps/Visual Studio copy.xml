@@ -66,6 +66,7 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="CodeInspection.OnEditor" />
+  <action id="CollapseBlock" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
@@ -77,10 +78,6 @@
   </action>
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
-  <action id="Console.TableResult.NavigateExportedAction">
-    <keyboard-shortcut first-keystroke="shift f12" />
-    <keyboard-shortcut first-keystroke="shift alt period" />
-  </action>
   <action id="Console.TableResult.SelectRow" />
   <action id="Console.TableResult.SetNull" />
   <action id="Debugger.AddToWatch">
@@ -178,13 +175,8 @@
     <keyboard-shortcut first-keystroke="alt f3" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
-  <action id="FindDependantCodeAction">
-    <keyboard-shortcut first-keystroke="shift f12" />
-    <keyboard-shortcut first-keystroke="shift alt period" />
-  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift f12" />
-    <keyboard-shortcut first-keystroke="shift alt period" />
     <mouse-shortcut keystroke="shift alt button1" />
   </action>
   <action id="ForceRunToCursor">
@@ -245,6 +237,10 @@
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="GotoPreviousBookmark" />
+  <action id="GotoRelated">
+    <keyboard-shortcut first-keystroke="ctrl alt f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+  </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="shift alt k" />
@@ -252,6 +248,14 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+  </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="shift ctrl alt x" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+    <mouse-shortcut keystroke="shift control button1" />
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="HideActiveWindow">
@@ -357,6 +361,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt u" />
   </action>
   <action id="Print" />
+  <action id="PublishGroup.UploadTo" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="alt f8" />
@@ -453,6 +458,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
   <action id="ShowUmlDiagram" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="shift alt f12" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
   <action id="SilentCodeCleanup" />
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift f5" />
