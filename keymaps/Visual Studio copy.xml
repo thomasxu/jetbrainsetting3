@@ -80,6 +80,7 @@
   <action id="Console.Open" />
   <action id="Console.TableResult.SelectRow" />
   <action id="Console.TableResult.SetNull" />
+  <action id="Console.Transaction.Commit" />
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
@@ -463,7 +464,9 @@
     <keyboard-shortcut first-keystroke="shift alt f12" />
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
-  <action id="SilentCodeCleanup" />
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
+  </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift f5" />
     <keyboard-shortcut first-keystroke="shift f8" />

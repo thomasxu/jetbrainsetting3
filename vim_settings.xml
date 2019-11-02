@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/RestEmailService.cs" timestamp="1572655128673">
-        <mark key="'" line="44" column="12" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/RestEmailService.cs" timestamp="1572656030261">
+        <mark key="'" line="21" column="19" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="72" />
         <mark key="." line="125" column="0" />
@@ -119,7 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="17" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Filters/OrdersControllerFilters.cs" />
       <jump line="24" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/ad/3e7d9a22/ForbidResult.cs" />
       <jump line="11" column="0" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Products/ProductResponse.cs" />
       <jump line="73" column="29" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
@@ -219,6 +218,7 @@
       <jump line="59" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/RestEmailService.cs" />
       <jump line="87" column="0" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/RestEmailService.cs" />
       <jump line="44" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/RestEmailService.cs" />
+      <jump line="21" column="19" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/RestEmailService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -237,7 +237,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>iemail</text>
+        <text>host</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2UuU2V0UmVwbHlUbyhuZXcgRW1haWxBZGRyZXNzKGVtYWlsRGF0YS5SZXBseVRvKSk7Cg==</text>
@@ -281,9 +281,9 @@
       </register>
     </registers>
     <search>
-      <last-search>iemail</last-search>
+      <last-search>host</last-search>
       <last-offset />
-      <last-pattern>iemail</last-pattern>
+      <last-pattern>host</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
       <last-dir>-1</last-dir>
@@ -291,7 +291,6 @@
     </search>
     <history>
       <history-search>
-        <entry>header</entry>
         <entry>)</entry>
         <entry>sqspay</entry>
         <entry>class</entry>
@@ -311,6 +310,7 @@
         <entry>iema</entry>
         <entry>send</entry>
         <entry>iemail</entry>
+        <entry>host</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
