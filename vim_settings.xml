@@ -12,6 +12,10 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1572572352667">
         <mark key="'" line="173" column="23" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/RenderFacts.cs" timestamp="1572671445200" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" timestamp="1572670634303">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C95012F8-1D82-4BE6-A786-2A3D27AA4591/79/20e41b05/TestLambdaContext.cs" timestamp="1572598441333">
         <mark key="'" line="14" column="15" />
       </file>
@@ -69,6 +73,7 @@
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="39" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" timestamp="1572671460094" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/SmtpEmailService.cs" timestamp="1572652899281">
         <mark key="'" line="29" column="12" />
         <mark key="[" line="50" column="26" />
@@ -114,27 +119,21 @@
         <mark key="]" line="42" column="33" />
         <mark key="." line="42" column="83" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/TemplateFileSystem.cs" timestamp="1572670921827">
+        <mark key="'" line="166" column="86" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/195B0601-950C-42ED-9FE3-213820A7AFB5/5d/a699d8d8/ILambdaLogger.cs" timestamp="1572598419652">
         <mark key="'" line="9" column="19" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/EmailTemplate.cs" timestamp="1572668798984">
-        <mark key="'" line="7" column="18" />
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="3" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/EmailTemplate.cs" timestamp="1572670562853">
+        <mark key="'" line="28" column="7" />
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="29" />
+        <mark key="^" line="28" column="26" />
+        <mark key="." line="20" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="34" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
-      <jump line="52" column="105" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
-      <jump line="42" column="33" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
-      <jump line="54" column="16" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
-      <jump line="44" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
-      <jump line="46" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
-      <jump line="50" column="33" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
-      <jump line="51" column="40" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
-      <jump line="53" column="47" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
       <jump line="47" column="20" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
       <jump line="45" column="16" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
       <jump line="55" column="16" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/EmailsController.cs" />
@@ -223,9 +222,18 @@
       <jump line="44" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/RestEmailService.cs" />
       <jump line="21" column="19" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/RestEmailService.cs" />
       <jump line="101" column="32" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/RestEmailService.cs" />
-      <jump line="28" column="3" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/EmailTemplate.cs" />
       <jump line="4" column="22" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/EmailTemplate.cs" />
       <jump line="7" column="18" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/EmailTemplate.cs" />
+      <jump line="22" column="4" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/TemplateFileSystem.cs" />
+      <jump line="26" column="42" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" />
+      <jump line="24" column="21" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" />
+      <jump line="17" column="27" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" />
+      <jump line="18" column="1" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" />
+      <jump line="1" column="0" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" />
+      <jump line="18" column="25" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/EmailTemplate.cs" />
+      <jump line="28" column="7" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/EmailTemplate.cs" />
+      <jump line="50" column="16" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/TemplateFileSystem.cs" />
+      <jump line="162" column="86" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/TemplateFileSystem.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -244,10 +252,10 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>type</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2UuU2V0UmVwbHlUbyhuZXcgRW1haWxBZGRyZXNzKGVtYWlsRGF0YS5SZXBseVRvKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFR5cGUgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZW1haWxTdWJqZWN0LnMK</text>
@@ -288,19 +296,16 @@
       </register>
     </registers>
     <search>
-      <last-search>type</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>type</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sqspay</entry>
-        <entry>{</entry>
-        <entry>template</entry>
         <entry>T</entry>
         <entry>em</entry>
         <entry>get</entry>
@@ -316,8 +321,11 @@
         <entry>send</entry>
         <entry>iemail</entry>
         <entry>host</entry>
-        <entry>class</entry>
         <entry>type</entry>
+        <entry>item</entry>
+        <entry>base</entry>
+        <entry>bazp</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
