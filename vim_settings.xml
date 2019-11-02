@@ -106,8 +106,8 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/HostingEnvironmentExtensions.cs" timestamp="1572728504791">
         <mark key="'" line="33" column="29" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" timestamp="1572729156045">
-        <mark key="'" line="60" column="20" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" timestamp="1572736963666">
+        <mark key="'" line="129" column="12" />
         <mark key="[" line="92" column="12" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/Sendgrid/Smtpapi/Header.cs" timestamp="1572595578199">
@@ -140,7 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" />
       <jump line="1968" column="34" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/99/ca4000dd/ControllerBase.cs" />
       <jump line="121" column="46" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
       <jump line="173" column="23" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
@@ -184,7 +183,6 @@
       <jump line="82" column="0" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="77" column="0" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="67" column="51" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Domains/LiquidParserModelMapper.cs" />
-      <jump line="126" column="16" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="114" column="23" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="32" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/542B3FFE-41D4-48D2-BB7F-D8ABCF87E962/a0/f879d785/HostingEnvironmentExtensions.cs" />
       <jump line="17" column="27" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/HostingEnvironmentExtensions.cs" />
@@ -240,6 +238,8 @@
       <jump line="27" column="32" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Domains/LiquidParserModelMapper.cs" />
       <jump line="25" column="30" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/DictionaryExtensions.cs" />
       <jump line="11" column="28" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/ColorExtensions.cs" />
+      <jump line="126" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
+      <jump line="129" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -258,7 +258,7 @@
         <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>toob</text>
+        <text>parse</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFR5cGUgeyBnZXQ7IHNldDsgfQo=</text>
@@ -302,18 +302,16 @@
       </register>
     </registers>
     <search>
-      <last-search>toob</last-search>
+      <last-search>parse</last-search>
       <last-offset />
-      <last-pattern>toob</last-pattern>
+      <last-pattern>parse</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>}n</entry>
-        <entry>whitel</entry>
         <entry>iema</entry>
         <entry>send</entry>
         <entry>iemail</entry>
@@ -332,6 +330,8 @@
         <entry>map</entry>
         <entry>model</entry>
         <entry>toob</entry>
+        <entry>sqs</entry>
+        <entry>parse</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
