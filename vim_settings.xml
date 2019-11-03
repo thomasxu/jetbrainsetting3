@@ -12,6 +12,9 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/DictionaryExtensions.cs" timestamp="1572730552817">
         <mark key="'" line="25" column="30" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/LambdaLoggerWrapper.cs" timestamp="1572823469629">
+        <mark key="'" line="16" column="15" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C95012F8-1D82-4BE6-A786-2A3D27AA4591/79/20e41b05/TestLambdaContext.cs" timestamp="1572598441333">
         <mark key="'" line="14" column="15" />
       </file>
@@ -78,8 +81,8 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/EmailHelper.cs" timestamp="1572651319350">
         <mark key="'" line="45" column="16" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" timestamp="1572822191290">
-        <mark key="'" line="20" column="8" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" timestamp="1572823431063">
+        <mark key="'" line="38" column="31" />
         <mark key="[" line="76" column="32" />
         <mark key="]" line="76" column="50" />
       </file>
@@ -91,10 +94,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="29" filename="C:/dev/git/selz/API/src/Selz.Api/Controllers/DomainController.cs" />
-      <jump line="71" column="37" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopScenarios.cs" />
-      <jump line="66" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopScenarios.cs" />
-      <jump line="73" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopScenarios.cs" />
       <jump line="76" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopScenarios.cs" />
       <jump line="79" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopScenarios.cs" />
       <jump line="96" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopScenarios.cs" />
@@ -191,6 +190,10 @@
       <jump line="140" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="45" column="22" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="20" column="8" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" />
+      <jump line="63" column="16" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" />
+      <jump line="32" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" />
+      <jump line="38" column="31" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" />
+      <jump line="16" column="15" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/LambdaLoggerWrapper.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -209,7 +212,7 @@
         <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>local</text>
+        <text>ilam</text>
       </register>
       <register name="0" type="4">
         <text>Selz.Services.Email</text>
@@ -253,19 +256,16 @@
       </register>
     </registers>
     <search>
-      <last-search>local</last-search>
+      <last-search>ilam</last-search>
       <last-offset />
-      <last-pattern>local</last-pattern>
+      <last-pattern>ilam</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>base</entry>
-        <entry>bazp</entry>
-        <entry>class</entry>
         <entry encoding="base64">XDxSZWFkVGVtcGxhdGVGaWxlXD4=</entry>
         <entry>g</entry>
         <entry>loca</entry>
@@ -283,6 +283,9 @@
         <entry>_</entry>
         <entry>configure</entry>
         <entry>local</entry>
+        <entry>sm</entry>
+        <entry>lambda</entry>
+        <entry>ilam</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
