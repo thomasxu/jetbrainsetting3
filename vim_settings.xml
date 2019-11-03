@@ -62,8 +62,8 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/HostingEnvironmentExtensions.cs" timestamp="1572728504791">
         <mark key="'" line="33" column="29" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" timestamp="1572740282749">
-        <mark key="'" line="34" column="15" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" timestamp="1572819128140">
+        <mark key="'" line="161" column="16" />
         <mark key="[" line="92" column="12" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/Sendgrid/Smtpapi/Header.cs" timestamp="1572595578199">
@@ -90,7 +90,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="15" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/DomainController.cs" />
       <jump line="5" column="35" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/DomainController.cs" />
       <jump line="9" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/DomainController.cs" />
       <jump line="9" column="21" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" />
@@ -190,6 +189,7 @@
       <jump line="57" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/SqsPayloadTests.cs" />
       <jump line="34" column="15" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="602" column="16" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0048F6B5-0BB5-4638-861A-02E5B87E7994/b0/3d535feb/SmtpClient.cs" />
+      <jump line="161" column="16" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -208,7 +208,7 @@
         <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>G</text>
+        <text>isu</text>
       </register>
       <register name="0" type="4">
         <text>Selz.Services.Email</text>
@@ -252,9 +252,9 @@
       </register>
     </registers>
     <search>
-      <last-search>G</last-search>
+      <last-search>isu</last-search>
       <last-offset />
-      <last-pattern>G</last-pattern>
+      <last-pattern>isu</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
       <last-dir>-1</last-dir>
@@ -262,7 +262,6 @@
     </search>
     <history>
       <history-search>
-        <entry>send</entry>
         <entry>iemail</entry>
         <entry>host</entry>
         <entry>item</entry>
@@ -282,6 +281,7 @@
         <entry>sqs</entry>
         <entry>parse</entry>
         <entry>G</entry>
+        <entry>isu</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
