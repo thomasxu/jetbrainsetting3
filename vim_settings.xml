@@ -37,6 +37,9 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/SqsPayloadTests.cs" timestamp="1572737625325">
+        <mark key="'" line="57" column="12" />
+      </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/IEmailService.cs" timestamp="1572652848020">
         <mark key="'" line="4" column="21" />
       </file>
@@ -84,6 +87,7 @@
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="39" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" timestamp="1572738593170" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/SmtpEmailService.cs" timestamp="1572728535533">
         <mark key="'" line="52" column="20" />
       </file>
@@ -119,6 +123,10 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/EmailHelper.cs" timestamp="1572651319350">
         <mark key="'" line="45" column="16" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" timestamp="1572738646322">
+        <mark key="[" line="76" column="32" />
+        <mark key="]" line="76" column="50" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Apps/AppService.cs" timestamp="1572560221549">
         <mark key="'" line="65" column="19" />
       </file>
@@ -140,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1968" column="34" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/99/ca4000dd/ControllerBase.cs" />
       <jump line="121" column="46" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
       <jump line="173" column="23" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" />
       <jump line="27" column="15" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/DomainController.cs" />
@@ -240,6 +247,7 @@
       <jump line="11" column="28" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/ColorExtensions.cs" />
       <jump line="126" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="129" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
+      <jump line="57" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/SqsPayloadTests.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -258,10 +266,10 @@
         <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>parse</text>
+        <text>G</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFR5cGUgeyBnZXQ7IHNldDsgfQo=</text>
+      <register name="0" type="4">
+        <text>Selz.Services.Email</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZW1haWxTdWJqZWN0LnMK</text>
@@ -302,9 +310,9 @@
       </register>
     </registers>
     <search>
-      <last-search>parse</last-search>
+      <last-search>G</last-search>
       <last-offset />
-      <last-pattern>parse</last-pattern>
+      <last-pattern>G</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
       <last-dir>-1</last-dir>
@@ -312,7 +320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>iema</entry>
         <entry>send</entry>
         <entry>iemail</entry>
         <entry>host</entry>
@@ -332,6 +339,7 @@
         <entry>toob</entry>
         <entry>sqs</entry>
         <entry>parse</entry>
+        <entry>G</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
