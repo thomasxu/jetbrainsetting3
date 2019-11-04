@@ -21,12 +21,19 @@
         <mark key="." line="38" column="50" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerOrderCompleted.liquid" timestamp="1572849499900" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Fluid/MockFileProvider.cs" timestamp="1572856392086" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/Order.cs" timestamp="1572844511402" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopDataFixture.cs" timestamp="1572854933120" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/SmtpEmailService.cs" timestamp="1572827250232">
         <mark key="'" line="145" column="16" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/TemplateFileSystem.cs" timestamp="1572853044650">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1572855807223">
+        <mark key="[" line="2678" column="44" />
+        <mark key="]" line="2678" column="44" />
+        <mark key="." line="2678" column="44" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Fluid/FluidRendering.cs" timestamp="1572855673484" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/TemplateFileSystem.cs" timestamp="1572856295219">
         <mark key="'" line="48" column="12" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Snippets/Receipt.liquid" timestamp="1572834723453" />
@@ -43,6 +50,7 @@
         <mark key="]" line="161" column="31" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/Events/OrderEventsHandler.cs" timestamp="1572845240212" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Fluid/MockFileInfo.cs" timestamp="1572855613699" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/NuGet.config" timestamp="1572855180777" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shipping/ShippingService.cs" timestamp="1572844301584" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/85/85b125b5/Exception.cs" timestamp="1572839439023">
@@ -189,7 +197,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogSUZpbGVTeXN0ZW0=</text>
+        <text>new ThemeFileProvider(installedTheme.Theme)</text>
       </register>
       <register name="/" type="4">
         <text>themes</text>
