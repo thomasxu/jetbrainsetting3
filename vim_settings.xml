@@ -13,8 +13,9 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/BlogPostsController.cs" timestamp="1572572352667">
         <mark key="'" line="173" column="23" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" timestamp="1572742981167">
-        <mark key="'" line="1" column="0" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Snippets/Receipt.liquid" timestamp="1572834723453" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" timestamp="1572835389077">
+        <mark key="'" line="22" column="29" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/DictionaryExtensions.cs" timestamp="1572730552817">
         <mark key="'" line="25" column="30" />
@@ -46,6 +47,7 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/ColorExtensions.cs" timestamp="1572733354526">
         <mark key="'" line="11" column="28" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerOrderCompleted.liquid" timestamp="1572834700120" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Domains/EmailTemplate.cs" timestamp="1572830599369">
         <mark key="'" line="4" column="1" />
         <mark key="[" line="5" column="4" />
@@ -53,19 +55,13 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Domains/SqsPayloadModel.cs" timestamp="1572821647058">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="38" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="19" column="38" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/542B3FFE-41D4-48D2-BB7F-D8ABCF87E962/a0/f879d785/HostingEnvironmentExtensions.cs" timestamp="1572730177490">
         <mark key="'" line="20" column="25" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/S3Service.cs" timestamp="1572824202231">
         <mark key="'" line="21" column="38" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" timestamp="1572832358496">
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" timestamp="1572835340221">
         <mark key="'" line="73" column="12" />
         <mark key="[" line="28" column="20" />
         <mark key="]" line="28" column="20" />
@@ -117,7 +113,7 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/S3Helper.cs" timestamp="1572823964432">
         <mark key="'" line="6" column="29" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/TemplateFileSystem.cs" timestamp="1572832264787">
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/TemplateFileSystem.cs" timestamp="1572835124512">
         <mark key="'" line="46" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/195B0601-950C-42ED-9FE3-213820A7AFB5/5d/a699d8d8/ILambdaLogger.cs" timestamp="1572598419652">
@@ -125,7 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/EmailHelper.cs" />
       <jump line="41" column="15" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/EmailHelper.cs" />
       <jump line="43" column="39" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/EmailHelper.cs" />
       <jump line="45" column="16" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/EmailHelper.cs" />
@@ -225,6 +220,7 @@
       <jump line="122" column="31" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" />
       <jump line="112" column="16" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" />
       <jump line="121" column="31" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" />
+      <jump line="22" column="29" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -243,7 +239,7 @@
         <text>M</text>
       </register>
       <register name="/" type="4">
-        <text>sell</text>
+        <text>ize</text>
       </register>
       <register name="0" type="4">
         <text>Selz.Services.Email</text>
@@ -287,9 +283,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sell</last-search>
+      <last-search>ize</last-search>
       <last-offset />
-      <last-pattern>sell</last-pattern>
+      <last-pattern>ize</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
       <last-dir>1</last-dir>
@@ -297,7 +293,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>s3</entry>
         <entry>get</entry>
         <entry>s3ser</entry>
@@ -317,6 +312,7 @@
         <entry>liqui</entry>
         <entry>order</entry>
         <entry>sell</entry>
+        <entry>ize</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
