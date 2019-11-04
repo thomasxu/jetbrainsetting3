@@ -22,8 +22,8 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/LambdaLoggerWrapper.cs" timestamp="1572823763769">
         <mark key="'" line="35" column="18" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" timestamp="1572832767221">
-        <mark key="'" line="122" column="31" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" timestamp="1572833416676">
+        <mark key="'" line="121" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FAB1902A-E93A-45B7-B474-EF03BA2ED04E/e0/96ed0891/ISendGridClient.cs" timestamp="1572826671546">
         <mark key="'" line="66" column="19" />
@@ -125,8 +125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/EmailHelper.cs" />
-      <jump line="33" column="0" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/EmailHelper.cs" />
       <jump line="35" column="0" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/EmailHelper.cs" />
       <jump line="41" column="15" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/EmailHelper.cs" />
       <jump line="43" column="39" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/EmailHelper.cs" />
@@ -225,6 +223,8 @@
       <jump line="73" column="12" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" />
       <jump line="123" column="24" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" />
       <jump line="122" column="31" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" />
+      <jump line="112" column="16" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" />
+      <jump line="121" column="31" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -243,7 +243,7 @@
         <text>M</text>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text>sell</text>
       </register>
       <register name="0" type="4">
         <text>Selz.Services.Email</text>
@@ -287,17 +287,16 @@
       </register>
     </registers>
     <search>
-      <last-search>order</last-search>
+      <last-search>sell</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
+      <last-pattern>sell</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lambdalo</entry>
         <entry>log</entry>
         <entry>s3</entry>
         <entry>get</entry>
@@ -317,6 +316,7 @@
         <entry>Template</entry>
         <entry>liqui</entry>
         <entry>order</entry>
+        <entry>sell</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
