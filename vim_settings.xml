@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Apps/OrderInvoiceAppSettings.cs" timestamp="1572844655342" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" timestamp="1572835389077">
         <mark key="'" line="22" column="29" />
       </file>
@@ -15,6 +16,7 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/ColorExtensions.cs" timestamp="1572733354526">
         <mark key="'" line="11" column="28" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_OrderInvoice/Models/OrderInvoiceAppSettingsModel.cs" timestamp="1572844599161" />
       <file name="/Dummy.cs" timestamp="1572838003443">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,6 +31,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/542B3FFE-41D4-48D2-BB7F-D8ABCF87E962/a0/f879d785/HostingEnvironmentExtensions.cs" timestamp="1572730177490">
         <mark key="'" line="20" column="25" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/Order.cs" timestamp="1572844511402" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/SmtpEmailService.cs" timestamp="1572827250232">
         <mark key="'" line="145" column="16" />
       </file>
@@ -37,9 +40,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0048F6B5-0BB5-4638-861A-02E5B87E7994/25/68f8c607/MailMessage.cs" timestamp="1572651060006">
         <mark key="'" line="265" column="30" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/TestBase.cs" timestamp="1572829337882">
-        <mark key="[" line="24" column="48" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD244751-0325-4121-9FE0-724DAFC7E191/99/ca4000dd/ControllerBase.cs" timestamp="1572572039335">
         <mark key="'" line="1968" column="34" />
@@ -50,7 +50,7 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/S3Helper.cs" timestamp="1572823964432">
         <mark key="'" line="6" column="29" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/TemplateFileSystem.cs" timestamp="1572838128914">
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/TemplateFileSystem.cs" timestamp="1572846434568">
         <mark key="'" line="48" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/ff/170ecc15/ResourceManager.cs" timestamp="1572835689703">
@@ -72,11 +72,12 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/LambdaLoggerWrapper.cs" timestamp="1572823763769">
         <mark key="'" line="35" column="18" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" timestamp="1572842635933">
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" timestamp="1572845360796">
         <mark key="'" line="121" column="31" />
         <mark key="[" line="161" column="19" />
         <mark key="]" line="161" column="31" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Transactions/Events/OrderEventsHandler.cs" timestamp="1572845240212" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FAB1902A-E93A-45B7-B474-EF03BA2ED04E/e0/96ed0891/ISendGridClient.cs" timestamp="1572826671546">
         <mark key="'" line="66" column="19" />
       </file>
@@ -89,19 +90,20 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/IEmailService.cs" timestamp="1572652848020">
         <mark key="'" line="4" column="21" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shipping/ShippingService.cs" timestamp="1572844301584" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/S3Service.cs" timestamp="1572824202231">
         <mark key="'" line="21" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/85/85b125b5/Exception.cs" timestamp="1572839439023">
         <mark key="'" line="96" column="26" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" timestamp="1572839468808">
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" timestamp="1572845836404">
         <mark key="'" line="73" column="12" />
         <mark key="[" line="28" column="20" />
         <mark key="]" line="28" column="20" />
         <mark key="." line="28" column="20" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_CustomReceipt/Controllers/CustomReceiptController.cs" timestamp="1572563158996">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_CustomReceipt/Controllers/CustomReceiptController.cs" timestamp="1572844125085">
         <mark key="'" line="49" column="12" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/HostingEnvironmentExtensions.cs" timestamp="1572830277951">
@@ -118,6 +120,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0048F6B5-0BB5-4638-861A-02E5B87E7994/b0/3d535feb/SmtpClient.cs" timestamp="1572742752153">
         <mark key="'" line="602" column="16" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/Checkout/CheckoutViewModel.cs" timestamp="1572844900463" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/EmailHelper.cs" timestamp="1572827361516">
         <mark key="'" line="45" column="16" />
       </file>
