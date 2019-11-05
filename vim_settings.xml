@@ -18,15 +18,19 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/SelzFluidTemplate.cs" timestamp="1572994450598">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/SelzFluidTemplate.cs" timestamp="1572995897982">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/DomainValidator.cs" timestamp="1572916354028">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Tags/LayoutTag.cs" timestamp="1572995956438">
+        <mark key="'" line="21" column="12" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" timestamp="1572920188957">
         <mark key="[" line="26" column="14" />
@@ -43,22 +47,32 @@
         <mark key="]" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Tags/IdentifierTag.cs" timestamp="1572996640343" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/Shops/ShopsProfile.cs" timestamp="1572913028734">
         <mark key="[" line="21" column="72" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="20" column="35" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/FluidRendering.cs" timestamp="1572994337384">
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/FluidRendering.cs" timestamp="1572997548059">
         <mark key="'" line="84" column="40" />
         <mark key="[" line="34" column="99" />
         <mark key="]" line="34" column="98" />
         <mark key="^" line="34" column="98" />
         <mark key="." line="34" column="98" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Tags/RenderBodyTag.cs" timestamp="1572996178735">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="37" column="4" />
+      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/DomainController.cs" timestamp="1572918039061">
         <mark key="[" line="9" column="12" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerOrderCompleted.liquid" timestamp="1572996264465" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Layouts/Forward.liquid" timestamp="1572996475879" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Fluid/MockFileProvider.cs" timestamp="1572990518130">
         <mark key="'" line="46" column="37" />
         <mark key="[" line="21" column="9" />
@@ -90,11 +104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="42" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" />
-      <jump line="24" column="21" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" />
-      <jump line="17" column="27" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" />
-      <jump line="18" column="1" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" />
-      <jump line="1" column="0" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" />
       <jump line="18" column="25" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/EmailTemplate.cs" />
       <jump line="28" column="7" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/EmailTemplate.cs" />
       <jump line="50" column="16" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/TemplateFileSystem.cs" />
@@ -190,6 +199,11 @@
       <jump line="46" column="37" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Fluid/MockFileProvider.cs" />
       <jump line="84" column="40" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/FluidRendering.cs" />
       <jump line="46" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C90FEC4A-CD42-4419-9461-13A9C4E02BE5/d7/89568e07/IFileInfo.cs" />
+      <jump line="14" column="4" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/SelzFluidTemplate.cs" />
+      <jump line="19" column="3" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Tags/RenderBodyTag.cs" />
+      <jump line="20" column="17" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Tags/RenderBodyTag.cs" />
+      <jump line="10" column="17" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Tags/LayoutTag.cs" />
+      <jump line="21" column="12" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Tags/LayoutTag.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -208,13 +222,13 @@
         <text encoding="base64">SUVudW1lcmFibGU8c3RyaW5nPiI=</text>
       </register>
       <register name="/" type="4">
-        <text>crea</text>
+        <text>}</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Gb3JNZW1iZXIoeCA9PiB4LlNob3BQYXNzd29yZERpc2FibGVkLCBvID0+IG8uSWdub3JlKCkpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHVibGljIGNsYXNzIFNlbHpGbHVpZFRlbXBsYXRlIDogQmFzZUZsdWlkVGVtcGxhdGU8U2VsekZsdWlkVGVtcGxhdGU+CiAgICB7CiAgICAgICAgc3RhdGljIFNlbHpGbHVpZFRlbXBsYXRlKCkKICAgICAgICB7CiAgICAgICAgICAgIEZhY3RvcnkuUmVnaXN0ZXJUYWc8TGF5b3V0VGFnPigiZXh0ZW5kcyIpOwogICAgICAgICAgICBGYWN0b3J5LlJlZ2lzdGVyQmxvY2s8UmVuZGVyQm9keUJsb2NrPigiYmxvY2siKTsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -223,38 +237,38 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgRmx1aWRWYWx1ZSBHZXRSZXBsYXlBcnJheTxUPihUIGRyb3BzKSB3aGVyZSBUIDogSUVudW1lcmFibGUKICAgICAgICB7CiAgICAgICAgICAgIHZhciB2YWx1ZXMgPSBuZXcgTGlzdDxGbHVpZFZhbHVlPigpOwoKICAgICAgICAgICAgLy8gUmVTaGFycGVyIGRpc2FibGUgb25jZSBMb29wQ2FuQmVDb252ZXJ0ZWRUb1F1ZXJ5CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBpdGVtIGluIGRyb3BzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YWx1ZXMuQWRkKEZsdWlkVmFsdWUuQ3JlYXRlKGl0ZW0pKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXBsYXlBcnJheVZhbHVlKHZhbHVlcywgZHJvcHMpOw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEZsdWlkVmFsdWUgR2V0UmVwbGF5QXJyYXk8VD4oVCBkcm9wcykgd2hlcmUgVCA6IElFbnVtZXJhYmxlCiAgICAgICAgewogICAgICAgICAgICB2YXIgdmFsdWVzID0gbmV3IExpc3Q8Rmx1aWRWYWx1ZT4oKTsKCiAgICAgICAgICAgIC8vIFJlU2hhcnBlciBkaXNhYmxlIG9uY2UgTG9vcENhbkJlQ29udmVydGVkVG9RdWVyeQogICAgICAgICAgICBmb3JlYWNoICh2YXIgaXRlbSBpbiBkcm9wcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsdWVzLkFkZChGbHVpZFZhbHVlLkNyZWF0ZShpdGVtKSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBuZXcgUmVwbGF5QXJyYXlWYWx1ZSh2YWx1ZXMsIGRyb3BzKTsKICAgICAgICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIEZsdWlkVmFsdWUuVHlwZU1hcHBpbmdzLkFkZCh0eXBlb2YoQ2F0ZWdvcmllc0Ryb3ApLCBkcm9wcyA9PiBHZXRSZXBsYXlBcnJheSgoQ2F0ZWdvcmllc0Ryb3ApIGRyb3BzKSk7CiAgICAgICAgICAgIEZsdWlkVmFsdWUuVHlwZU1hcHBpbmdzLkFkZCh0eXBlb2YoUGFnZWRMaXN0PFByb2R1Y3REcm9wPiksIGRyb3BzID0+IEdldFJlcGxheUFycmF5KChQYWdlZExpc3Q8UHJvZHVjdERyb3A+KSBkcm9wcykpOwogICAgICAgICAgICBGbHVpZFZhbHVlLlR5cGVNYXBwaW5ncy5BZGQodHlwZW9mKFBhZ2VkTGlzdDxCbG9nUG9zdERyb3A+KSwgZHJvcHMgPT4gR2V0UmVwbGF5QXJyYXkoKFBhZ2VkTGlzdDxCbG9nUG9zdERyb3A+KSBkcm9wcykpOwogICAgICAgICAgICBGbHVpZFZhbHVlLlR5cGVNYXBwaW5ncy5BZGQodHlwZW9mKEJsb2dQb3N0c0Ryb3ApLCBkcm9wcyA9PiBHZXRSZXBsYXlBcnJheSgoQmxvZ1Bvc3RzRHJvcCkgZHJvcHMpKTsKCiAgICAgICAgICAgIFRlbXBsYXRlQ29udGV4dC5HbG9iYWxGaWx0ZXJzLlJlZ2lzdGVyKCk7</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmFjdG9yeS5SZWdpc3RlckJsb2NrPFNob3J0Y3V0QmxvY2s+KCJzaG9ydGN1dCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
       </register>
     </registers>
     <search>
-      <last-search>crea</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>crea</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
       <last-dir>1</last-dir>
@@ -262,12 +276,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isi</entry>
-        <entry>map</entry>
-        <entry>_r</entry>
-        <entry>templa</entry>
-        <entry>Template</entry>
-        <entry>liqui</entry>
         <entry>order</entry>
         <entry>sell</entry>
         <entry>ize</entry>
@@ -282,6 +290,12 @@
         <entry>snippet</entry>
         <entry>check</entry>
         <entry>crea</entry>
+        <entry>}n</entry>
+        <entry>render</entry>
+        <entry>ren</entry>
+        <entry>lay</entry>
+        <entry>}gn</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
