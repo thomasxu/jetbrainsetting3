@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/RenderFacts.cs" timestamp="1573007981184">
-        <mark key="[" line="20" column="57" />
-        <mark key="]" line="20" column="57" />
-        <mark key="^" line="16" column="56" />
-        <mark key="." line="20" column="57" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/RenderFacts.cs" timestamp="1573077350859">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="48" />
+        <mark key="^" line="22" column="48" />
+        <mark key="." line="22" column="48" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Templates/BuyerAbandonedCart.liquid" timestamp="1573073347282" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/FluidHash.cs" timestamp="1573076455662">
@@ -22,18 +23,9 @@
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1573016323591">
-        <mark key="[" line="213" column="42" />
-        <mark key="]" line="213" column="114" />
-        <mark key="^" line="875" column="48" />
-        <mark key="." line="875" column="48" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/FluidTemplateParser.cs" timestamp="1573009066787">
-        <mark key="'" line="23" column="17" />
-        <mark key="[" line="101" column="56" />
-        <mark key="]" line="101" column="56" />
-        <mark key="." line="101" column="56" />
-        <mark key="^" line="101" column="65" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerOrderCompleted.liquid" timestamp="1573077999858" />
+      <file name="/Dummy.txt" timestamp="1573078521876">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" timestamp="1573074330602">
         <mark key="'" line="70" column="19" />
@@ -42,40 +34,26 @@
         <mark key="^" line="29" column="51" />
         <mark key="." line="29" column="51" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/FluidRenderFacts.cs" timestamp="1573019971751">
-        <mark key="[" line="38" column="48" />
-        <mark key="]" line="38" column="52" />
-        <mark key="^" line="38" column="28" />
-        <mark key="." line="38" column="28" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/FluidRenderFacts.cs" timestamp="1573077323677">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="49" />
+        <mark key="^" line="22" column="49" />
+        <mark key="." line="22" column="49" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" timestamp="1573008953585">
-        <mark key="'" line="35" column="15" />
-        <mark key="[" line="167" column="9" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzFluidFilterHelper.cs" timestamp="1573009921311">
-        <mark key="'" line="11" column="24" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" timestamp="1573076289228">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Disputes/DisputeHelper.cs" timestamp="1573078271143" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" timestamp="1573078642885">
         <mark key="'" line="46" column="19" />
-        <mark key="[" line="40" column="129" />
-        <mark key="]" line="18" column="55" />
-        <mark key="." line="41" column="20" />
-        <mark key="^" line="18" column="55" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/FluidRendering.cs" timestamp="1573008326837">
-        <mark key="'" line="84" column="40" />
-        <mark key="[" line="71" column="44" />
-        <mark key="]" line="71" column="44" />
-        <mark key="^" line="71" column="44" />
-        <mark key="." line="71" column="44" />
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="15" column="32" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Templates/BuyerOrderCancelled.liquid" timestamp="1573073833434" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Layouts/Forward.liquid" timestamp="1573078394531" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerOrderInvoice.liquid" timestamp="1573075994809">
         <mark key="'" line="228" column="30" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Layouts/Forward.liquid" timestamp="1573077918005" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/SelzFluidFilterHelper.cs" timestamp="1573075309771">
         <mark key="'" line="24" column="34" />
         <mark key="[" line="27" column="51" />
@@ -83,21 +61,8 @@
         <mark key="^" line="27" column="64" />
         <mark key="." line="27" column="51" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/EmailTemplate.cs" timestamp="1573013837058">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="602" column="16" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0048F6B5-0BB5-4638-861A-02E5B87E7994/b0/3d535feb/SmtpClient.cs" />
-      <jump line="161" column="16" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
-      <jump line="140" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
-      <jump line="45" column="22" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
-      <jump line="20" column="8" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" />
-      <jump line="63" column="16" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" />
-      <jump line="14" column="16" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/LambdaLoggerWrapper.cs" />
       <jump line="9" column="40" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/LambdaLoggerWrapper.cs" />
       <jump line="16" column="43" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/LambdaLoggerWrapper.cs" />
       <jump line="18" column="26" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/LambdaLoggerWrapper.cs" />
@@ -191,6 +156,13 @@
       <jump line="66" column="78" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" />
       <jump line="70" column="19" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" />
       <jump line="228" column="30" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerOrderInvoice.liquid" />
+      <jump line="13" column="20" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/RenderFacts.cs" />
+      <jump line="5" column="0" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/RenderFacts.cs" />
+      <jump line="22" column="0" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/FluidRenderFacts.cs" />
+      <jump line="38" column="12" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/FluidRenderFacts.cs" />
+      <jump line="37" column="55" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/FluidRenderFacts.cs" />
+      <jump line="34" column="16" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/FluidRenderFacts.cs" />
+      <jump line="21" column="55" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/FluidRenderFacts.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -206,13 +178,13 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>g(t</text>
+        <text>Invoice</text>
       </register>
       <register name="/" type="4">
-        <text>invoice-footer</text>
+        <text>emailT</text>
       </register>
-      <register name="0" type="4">
-        <text>FluidValue inputValue, FilterArguments arguments, TemplateContext context</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZS5Xcml0ZUFsbFRleHQoIkJ1eWVyT3JkZXJJbnZvaWNlRmx1aWQuaHRtbCIsIGh0bWwpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -253,19 +225,16 @@
       </register>
     </registers>
     <search>
-      <last-search>invoice-footer</last-search>
+      <last-search>emailT</last-search>
       <last-offset />
-      <last-pattern>invoice-footer</last-pattern>
+      <last-pattern>emailT</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>crea</entry>
-        <entry>}n</entry>
-        <entry>render</entry>
         <entry>ren</entry>
         <entry>lay</entry>
         <entry>}gn</entry>
@@ -283,6 +252,9 @@
         <entry>string</entry>
         <entry>date</entry>
         <entry>invoice-footer</entry>
+        <entry>file.</entry>
+        <entry>emiltem</entry>
+        <entry>emailT</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
