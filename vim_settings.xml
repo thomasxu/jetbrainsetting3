@@ -31,12 +31,12 @@
         <mark key="." line="101" column="56" />
         <mark key="^" line="101" column="65" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" timestamp="1573012487695">
-        <mark key="'" line="31" column="11" />
-        <mark key="[" line="29" column="37" />
-        <mark key="]" line="29" column="37" />
-        <mark key="^" line="29" column="36" />
-        <mark key="." line="29" column="37" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" timestamp="1573012615146">
+        <mark key="'" line="7" column="11" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/SelzFluidTemplate.cs" timestamp="1573002760523">
         <mark key="'" line="7" column="4" />
@@ -60,6 +60,13 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzFluidFilterHelper.cs" timestamp="1573009921311">
         <mark key="'" line="11" column="24" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" timestamp="1573013152731">
+        <mark key="'" line="141" column="8" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="142" column="113" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/FluidRendering.cs" timestamp="1573008326837">
         <mark key="'" line="84" column="40" />
@@ -89,7 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="20" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/SmtpEmailService.cs" />
       <jump line="58" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="59" column="27" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="60" column="20" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
@@ -189,6 +195,7 @@
       <jump line="23" column="17" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/FluidTemplateParser.cs" />
       <jump line="11" column="24" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzFluidFilterHelper.cs" />
       <jump line="29" column="11" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" />
+      <jump line="141" column="8" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -204,16 +211,16 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>this Context context, string name</text>
+        <text>Registers</text>
       </register>
       <register name="/" type="4">
-        <text>(</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5NZW1iZXJBY2Nlc3NTdHJhdGVneS5SZWdpc3RlcjxGbHVpZEhhc2gsIG9iamVjdD4oKGhhc2hWYWx1ZSwgbmFtZSkgPT4gaGFzaFZhbHVlLkdldFZhbHVlKG5hbWUpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5GaWxlUHJvdmlkZXIgPSBuZXcgTW9ja0ZpbGVQcm92aWRlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -222,46 +229,45 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkZhbHNlKGVycm9ycy5BbnkoKSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">LkNvbnRhaW5zKGtleSkgJiYgY29udGV4dC5SZWdpc3RlcnNba2V5XSAhPSBudWxsCiAgICAgICAgICAgICAgICA/IGNvbnRleHQuUmVnaXN0ZXJzW2tleV0KICAgICAgICAgICAgICAgIDogZGVmYXVsdFZhbHVlOwogICAgICAgIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkZhbHNlKGVycm9ycy5BbnkoKSk7Cg==</text>
+      <register name="3" type="4">
+        <text>private static object GetContext</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5GaWxlUHJvdmlkZXIgPSBuZXcgTW9ja0ZpbGVQcm92aWRlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkZhbHNlKGVycm9ycy5BbnkoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JzID0gR2V0VGVtcGxhdGVFcnJvcnMoY29udGV4dCwgZW1haWxUZW1wbGF0ZS5UeXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkZhbHNlKGVycm9ycy5BbnkoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQ2hlY2sgVGVtcGxhdGUgRXJyb3JzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IGNvbnRleHQuUmVuZGVyKGhhc2gpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5TZXRWYWx1ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JzID0gR2V0VGVtcGxhdGVFcnJvcnMoY29udGV4dCwgZW1haWxUZW1wbGF0ZS5UeXBlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
       </register>
     </registers>
     <search>
-      <last-search>(</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern>(</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry>settem</entry>
         <entry>gets</entry>
         <entry>themes</entry>
@@ -275,12 +281,13 @@
         <entry>ren</entry>
         <entry>lay</entry>
         <entry>}gn</entry>
-        <entry>}</entry>
         <entry>term</entry>
         <entry>app</entry>
         <entry>FluidHash</entry>
         <entry>selz</entry>
         <entry>(</entry>
+        <entry>Regi</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
