@@ -180,6 +180,7 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift f12" />
     <mouse-shortcut keystroke="shift alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
   <action id="FindUsagesInFile" />
   <action id="ForceRunToCursor">
@@ -504,7 +505,6 @@
   </action>
   <action id="Vcs.Show.Log">
     <keyboard-shortcut first-keystroke="alt 9" />
-    <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
   <action id="Vcs.ShowHistoryForBlock">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
