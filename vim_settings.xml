@@ -31,12 +31,12 @@
         <mark key="." line="101" column="56" />
         <mark key="^" line="101" column="65" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" timestamp="1573012615146">
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" timestamp="1573014235464">
         <mark key="'" line="7" column="11" />
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="7" column="32" />
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="47" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="13" column="47" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/FluidRenderFacts.cs" timestamp="1573008877250">
         <mark key="[" line="30" column="26" />
@@ -55,11 +55,11 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzFluidFilterHelper.cs" timestamp="1573009921311">
         <mark key="'" line="11" column="24" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" timestamp="1573013953083">
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" timestamp="1573014328033">
         <mark key="'" line="141" column="8" />
-        <mark key="[" line="125" column="57" />
-        <mark key="]" line="35" column="62" />
-        <mark key="." line="35" column="62" />
+        <mark key="[" line="125" column="82" />
+        <mark key="]" line="125" column="82" />
+        <mark key="." line="125" column="82" />
         <mark key="^" line="35" column="62" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/FluidRendering.cs" timestamp="1573008326837">
@@ -76,7 +76,7 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/FluidHash.cs" timestamp="1573006542535" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerOrderInvoice.liquid" timestamp="1573009833975" />
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/SelzFluidFilterHelper.cs" timestamp="1573004729817">
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/SelzFluidFilterHelper.cs" timestamp="1573014335028">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="44" />
         <mark key="^" line="14" column="72" />
@@ -205,7 +205,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlxdWlkIGNvbnRleHQg</text>
+        <text>TemplateContext</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
