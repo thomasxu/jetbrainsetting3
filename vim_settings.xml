@@ -16,12 +16,8 @@
         <mark key="^" line="29" column="46" />
         <mark key="." line="29" column="46" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/TemplateFileSystem.cs" timestamp="1572855464645">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1573006345341" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1573012519909" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" timestamp="1573004567056" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" timestamp="1573004822330">
         <mark key="'" line="26" column="29" />
@@ -35,14 +31,12 @@
         <mark key="." line="101" column="56" />
         <mark key="^" line="101" column="65" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1572855807223">
-        <mark key="[" line="2678" column="44" />
-        <mark key="]" line="2678" column="44" />
-        <mark key="." line="2678" column="44" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" timestamp="1573010044173">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="42" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" timestamp="1573012487695">
+        <mark key="'" line="31" column="11" />
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="37" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="29" column="37" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/SelzFluidTemplate.cs" timestamp="1573002760523">
         <mark key="'" line="7" column="4" />
@@ -50,17 +44,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Validators/DomainValidator.cs" timestamp="1572916354028">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/FluidRenderFacts.cs" timestamp="1573008877250">
         <mark key="[" line="30" column="26" />
         <mark key="]" line="21" column="26" />
         <mark key="^" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
+      <file name="/SelzLiquidFilter.cs" timestamp="1573012301325" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" timestamp="1573008953585">
         <mark key="'" line="35" column="15" />
         <mark key="[" line="167" column="9" />
@@ -97,19 +87,8 @@
         <mark key="^" line="14" column="72" />
         <mark key="." line="14" column="72" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Models/Shops/DomainCheckRequest.cs" timestamp="1572908009389">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/ThemeFileProvider.cs" timestamp="1573000361121">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="29" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/HostingEnvironmentExtensions.cs" />
       <jump line="52" column="20" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/SmtpEmailService.cs" />
       <jump line="58" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="59" column="27" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
@@ -209,6 +188,7 @@
       <jump line="531" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" />
       <jump line="23" column="17" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/FluidTemplateParser.cs" />
       <jump line="11" column="24" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzFluidFilterHelper.cs" />
+      <jump line="29" column="11" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -224,10 +204,10 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>ITemplateFileSystem</text>
+        <text>this Context context, string name</text>
       </register>
       <register name="/" type="4">
-        <text>selz</text>
+        <text>(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5NZW1iZXJBY2Nlc3NTdHJhdGVneS5SZWdpc3RlcjxGbHVpZEhhc2gsIG9iamVjdD4oKGhhc2hWYWx1ZSwgbmFtZSkgPT4gaGFzaFZhbHVlLkdldFZhbHVlKG5hbWUpKTsK</text>
@@ -271,17 +251,16 @@
       </register>
     </registers>
     <search>
-      <last-search>selz</last-search>
+      <last-search>(</last-search>
       <last-offset />
-      <last-pattern>selz</last-pattern>
+      <last-pattern>(</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>temp</entry>
         <entry>get</entry>
         <entry>settem</entry>
         <entry>gets</entry>
@@ -301,6 +280,7 @@
         <entry>app</entry>
         <entry>FluidHash</entry>
         <entry>selz</entry>
+        <entry>(</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
