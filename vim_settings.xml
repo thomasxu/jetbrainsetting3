@@ -6,12 +6,17 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/bin/Debug/netcoreapp2.1/Liquid/BuyerAbandonedCart.html" timestamp="1573102721772">
         <mark key="[" line="127" column="11" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/Tests/Templates/LicenseTests.cs" timestamp="1573109968971" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" timestamp="1573097672397" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/ReferFriendPlanPurchaseSupport.liquid" timestamp="1573097916553" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/BuyerDownloadUpdate.cs" timestamp="1573098581339" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E78B18C5-BA36-4593-BAE1-9C9BEB121946/d0/c01cc2d0/RegexOptions.cs" timestamp="1573103995069" />
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Tags/IdentifierTag.cs" timestamp="1573096761090">
-        <mark key="'" line="11" column="37" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/BuyerLicenseUpdate.liquid" timestamp="1573110934360">
+        <mark key="'" line="2" column="42" />
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="55" />
       </file>
       <file name="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" timestamp="1573106624139">
         <mark key="[" line="72" column="50" />
@@ -21,7 +26,7 @@
       </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/SellerLicenseFailure.liquid" timestamp="1573098095693" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/SellerAppSubscriptionFailure.liquid" timestamp="1573097938446" />
-      <file name="/Dummy.txt" timestamp="1573100666161">
+      <file name="/Dummy.txt" timestamp="1573109700253">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/SmtpEmailService.cs" timestamp="1573100989673" />
@@ -34,6 +39,11 @@
         <mark key="." line="106" column="159" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerDownloadUpdate.liquid" timestamp="1573097871676" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/TestData.cs" timestamp="1573110587122">
+        <mark key="[" line="121" column="13" />
+        <mark key="]" line="121" column="13" />
+        <mark key="." line="121" column="13" />
+      </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" timestamp="1573102953776">
         <mark key="'" line="134" column="20" />
         <mark key="[" line="130" column="44" />
@@ -51,13 +61,17 @@
         <mark key="^" line="38" column="74" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/SellerItemSold.liquid" timestamp="1573098037402" />
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerLicenseUpdate.liquid" timestamp="1573108578955">
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerLicenseUpdate.liquid" timestamp="1573109764019">
         <mark key="'" line="15" column="16" />
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="0" column="0" />
       </file>
+      <file name="C:/dev/git/selz/fluid/Fluid/FluidTemplateExtensions.cs" timestamp="1573110839495" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerAbandonedCart.liquid" timestamp="1573098202270" />
     </filemarks>
     <jumps>
-      <jump line="39" column="31" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" />
       <jump line="13" column="17" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/S3Service.cs" />
       <jump line="21" column="38" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/S3Service.cs" />
       <jump line="52" column="12" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" />
@@ -157,6 +171,7 @@
       <jump line="135" column="48" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="134" column="20" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" />
       <jump line="15" column="16" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerLicenseUpdate.liquid" />
+      <jump line="2" column="42" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/BuyerLicenseUpdate.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -172,7 +187,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>lText</text>
+        <text encoding="base64">fCB0b19zdHJpbmcg</text>
       </register>
       <register name="/" type="4">
         <text>code</text>
@@ -181,7 +196,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxFcnJvclJhbmdlID0gbFRleHQuU3Vic3RyaW5nKGkgLSAxLCAxMDApOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Zm9yZWFjaCAodmFyIGMgaW4gbFRleHQpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgclRleHRbXQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAg</text>
+        <text>,
+            new OrderItemData
+            {
+                ProductTitle = &quot;Product 2&quot;,
+                Quantity = 2,
+                QuantityUnit = &quot;kg&quot;,
+                UnitPrice = 19.99m,
+                TotalPrice = 19.99m,
+                CurrencyCode = &quot;USD&quot;
+            }</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -191,28 +215,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgUmVnZXguUmVwbGFjZShYTUwsIEAiXHMrIiwgIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBSZWdleCBfZW1wdHlTdHJpbmdSZWdleDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlZ2V4LnZhcgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">PHRyPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgb3JkZXJJdGVtLlByb2R1Y3RUaXRsZSB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuUmVhZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVuZGZvciAlfSAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZsdWlkVGVtcGxhdGVQYXJzZXIoKS5QYXJzZUFzeW5jKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyUgaWYgb3JkZXJJdGVtLkxpY2Vuc2VzIGFuZCBvcmRlckl0ZW0uTGljZW5zZXMuS2V5cyAlfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VsekF1dGhvcml6ZShDb25zdGFudHMuUm9sZXMuU3RhZmYsIENvbnN0YW50cy5Sb2xlcy4sIENvbnN0YW50cy5Sb2xlcy5TdXBlckFkbWluKV0K</text>
+        <text encoding="base64">ICAgIDwvdGFibGU+CnslIGVuZGlmICV9Cgo8cCBzdHlsZT0ie3sgc3R5bGVzLmJhc2VfdHlwZSB9fSB7eyBzdHlsZXMucGFyYWdyYXBoIH19Ij57eyAiVGV4dF9UaGFua3NfU2lnbm9mZiIgfCBnZXRfdGV4dF9mb3JtYXQ6IFNob3BEaXNwbGF5TmFtZSB9fTwvcD4KCnslIGVuZGJsb2NrICV9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
