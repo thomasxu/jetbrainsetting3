@@ -10,10 +10,13 @@
         <mark key="'" line="11" column="37" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Extensions/ObjectExtensions.cs" timestamp="1573084361168" />
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/EmailResourcesService.cs" timestamp="1573094539475" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/EmailResourcesService.cs" timestamp="1573095859869" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/SettingsAreaRegistration.cs" timestamp="1573087805826" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerOrderCompleted.liquid" timestamp="1573077999858" />
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/Templates/LiquidTemplateParser.cs" timestamp="1573094731991" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/Templates/LiquidTemplateParser.cs" timestamp="1573095736337">
+        <mark key="'" line="228" column="56" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/appsettings-ids.json" timestamp="1573096063932" />
       <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/Controllers/EmailsController.cs" timestamp="1573093776985" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" timestamp="1573074330602">
         <mark key="'" line="70" column="19" />
@@ -38,6 +41,7 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Layouts/Forward.liquid" timestamp="1573078394531" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Layouts/Forward.liquid" timestamp="1573077918005" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Apps/AppService.cs" timestamp="1573088961968" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Services/ShopRoles/ShopRoleService.cs" timestamp="1573095384812" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/RenderFacts.cs" timestamp="1573077350859">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="22" column="41" />
@@ -52,7 +56,7 @@
       <file name="C:/dev/git/selz/fluid/Fluid/Filters/MiscFilters.cs" timestamp="1573074207007" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95A049BF-56B0-493F-AB6E-A7433DC8E59B/0e/7e1bd39d/ExtensionMethods.cs" timestamp="1573084478568" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/75E3379D-63AB-410D-AB7B-A53F993E8902/93/99bea4ac/FluidGrammar.cs" timestamp="1573085067247" />
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1573095124705" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1573095786617" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/SystemController.cs" timestamp="1573091403162">
         <mark key="'" line="353" column="12" />
         <mark key="[" line="184" column="0" />
@@ -97,7 +101,6 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/Data/EmailModelMapper.cs" timestamp="1573088016192" />
     </filemarks>
     <jumps>
-      <jump line="35" column="18" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/LambdaLoggerWrapper.cs" />
       <jump line="38" column="55" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" />
       <jump line="17" column="40" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/S3Service.cs" />
       <jump line="6" column="29" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/S3Helper.cs" />
@@ -197,6 +200,7 @@
       <jump line="50" column="20" filename="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Emails/EmailJob.cs" />
       <jump line="52" column="49" filename="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Emails/EmailJob.cs" />
       <jump line="54" column="16" filename="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Emails/EmailJob.cs" />
+      <jump line="228" column="56" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/Templates/LiquidTemplateParser.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -215,7 +219,7 @@
         <text>Owner</text>
       </register>
       <register name="/" type="4">
-        <text>Email</text>
+        <text>gets</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSW5jbHVkZS5SdWxlID0gKFRvVGVybSgiaW5jbHVkZSIpICsgVGVybSkgfCAoVG9UZXJtKCJpbmNsdWRlIikgKyBUZXJtICsgVG9UZXJtKCJ3aXRoIikgKyBUZXJtKSB8IChUb1Rlcm0oImluY2x1ZGUiKSArIFRlcm0gKyBDb21tYSArIEluY2x1ZGVBc3NpZ25tZW50cyk7Cg==</text>
@@ -262,9 +266,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Email</last-search>
+      <last-search>gets</last-search>
       <last-offset />
-      <last-pattern>Email</last-pattern>
+      <last-pattern>gets</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
       <last-dir>1</last-dir>
@@ -272,7 +276,6 @@
     </search>
     <history>
       <history-search>
-        <entry>}gn</entry>
         <entry>term</entry>
         <entry>app</entry>
         <entry>FluidHash</entry>
@@ -292,6 +295,7 @@
         <entry>emailT</entry>
         <entry>emaildata</entry>
         <entry>Email</entry>
+        <entry>gets</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
