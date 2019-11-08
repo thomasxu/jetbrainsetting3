@@ -22,6 +22,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/a0/0364ea23/NumberFormatInfo.cs" timestamp="1573191777804">
         <mark key="'" line="144" column="18" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Emails/Snippets/Action.liquid" timestamp="1573211666771" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/SellerForgotPassword.liquid" timestamp="1573211741755">
+        <mark key="'" line="13" column="125" />
+      </file>
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Catalog/Product.cs" timestamp="1573201577293" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Tests/Unit/ProductTests.cs" timestamp="1573201473937" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/dc/e302c584/MidpointRounding.cs" timestamp="1573177141109" />
@@ -43,10 +47,12 @@
         <mark key="." line="29" column="33" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Products/ProductService.cs" timestamp="1573200852303" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/SellerItemQuestion.liquid" timestamp="1573211373758" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A31AF13-6A00-43DD-B9BC-04224644EC66/7d/8f21022f/Currency.cs" timestamp="1573191075631">
         <mark key="'" line="229" column="18" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" timestamp="1573209832736">
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Snippets/PayPal.liquid" timestamp="1573212029345" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" timestamp="1573211124737">
         <mark key="'" line="185" column="37" />
         <mark key="[" line="193" column="13" />
         <mark key="]" line="191" column="0" />
@@ -57,7 +63,6 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Settings/styles.selz.json" timestamp="1573188350103" />
     </filemarks>
     <jumps>
-      <jump line="119" column="33" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/EmailSubjects.resx" />
       <jump line="76" column="29" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/HostingEnvironmentExtensions.cs" />
       <jump line="18" column="32" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" />
       <jump line="145" column="23" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" />
@@ -157,6 +162,7 @@
       <jump line="37" column="33" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CurrencyHelper.cs" />
       <jump line="185" column="37" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" />
       <jump line="144" column="18" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/a0/0364ea23/NumberFormatInfo.cs" />
+      <jump line="13" column="125" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/SellerForgotPassword.liquid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -175,7 +181,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>member</text>
+        <text encoding="base64">XDxjb250YWN0TGlua1w+</text>
       </register>
       <register name="0" type="4">
         <text>https://trello.com/c/UdTrFsNa</text>
@@ -219,9 +225,9 @@
       </register>
     </registers>
     <search>
-      <last-search>member</last-search>
+      <last-search encoding="base64">XDxjb250YWN0TGlua1w+</last-search>
       <last-offset />
-      <last-pattern>member</last-pattern>
+      <last-pattern encoding="base64">XDxjb250YWN0TGlua1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
       <last-dir>1</last-dir>
@@ -229,7 +235,6 @@
     </search>
     <history>
       <history-search>
-        <entry>emailT</entry>
         <entry>emaildata</entry>
         <entry>Email</entry>
         <entry>gets</entry>
@@ -249,6 +254,7 @@
         <entry>http</entry>
         <entry>Z</entry>
         <entry>member</entry>
+        <entry encoding="base64">XDxjb250YWN0TGlua1w+</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
