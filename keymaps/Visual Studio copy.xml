@@ -79,6 +79,10 @@
   </action>
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
+  <action id="Console.TableResult.NavigateExportedAction">
+    <keyboard-shortcut first-keystroke="shift f12" />
+    <mouse-shortcut keystroke="shift alt button1" />
+  </action>
   <action id="Console.TableResult.SelectRow" />
   <action id="Console.TableResult.SetNull" />
   <action id="Console.Transaction.Commit" />
@@ -179,7 +183,7 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift f12" />
     <mouse-shortcut keystroke="shift alt button1" />
-    <keyboard-shortcut first-keystroke="ctrl alt period" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
   <action id="FindUsagesInFile" />
   <action id="ForceRunToCursor">
@@ -471,7 +475,7 @@
   <action id="ShowUmlDiagram" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="shift alt f12" />
-    <keyboard-shortcut first-keystroke="shift alt period" />
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
   <action id="SilentCodeCleanup">
     <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
