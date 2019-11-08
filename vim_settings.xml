@@ -14,10 +14,14 @@
         <mark key="^" line="247" column="70" />
         <mark key="." line="247" column="70" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/LiquidEmailFilter.cs" timestamp="1573195396678" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/ShippingHelper.cs" timestamp="1573163579807" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/OrderDiscountExtensions.cs" timestamp="1573176854324" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Shipping/OrderShipping.cs" timestamp="1573180072443" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/DiscountHelper.cs" timestamp="1573178120491" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/a0/0364ea23/NumberFormatInfo.cs" timestamp="1573191777804">
+        <mark key="'" line="144" column="18" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/dc/e302c584/MidpointRounding.cs" timestamp="1573177141109" />
       <file name="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" timestamp="1573165887653">
         <mark key="[" line="57" column="59" />
@@ -40,26 +44,17 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" timestamp="1573191004740">
-        <mark key="'" line="232" column="67" />
-        <mark key="[" line="178" column="39" />
-        <mark key="]" line="183" column="15" />
-        <mark key="^" line="183" column="15" />
-        <mark key="." line="183" column="15" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" timestamp="1573122869315">
-        <mark key="'" line="132" column="20" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" timestamp="1573195447186">
+        <mark key="'" line="185" column="37" />
+        <mark key="[" line="193" column="13" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Layouts/Default.liquid" timestamp="1573188671936" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/30/0adaff69/Decimal.cs" timestamp="1573177452321" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Settings/styles.selz.json" timestamp="1573188350103" />
     </filemarks>
     <jumps>
-      <jump line="145" column="16" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/SmtpEmailService.cs" />
-      <jump line="32" column="15" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Services/Sendgrid/Smtpapi/Header.cs" />
       <jump line="119" column="33" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/EmailSubjects.resx" />
       <jump line="76" column="29" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/HostingEnvironmentExtensions.cs" />
       <jump line="18" column="32" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" />
@@ -158,6 +153,8 @@
       <jump line="232" column="67" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" />
       <jump line="229" column="18" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A31AF13-6A00-43DD-B9BC-04224644EC66/7d/8f21022f/Currency.cs" />
       <jump line="37" column="33" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CurrencyHelper.cs" />
+      <jump line="185" column="37" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Filters/FluidEmailFilter.cs" />
+      <jump line="144" column="18" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/a0/0364ea23/NumberFormatInfo.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -176,13 +173,13 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text>member</text>
       </register>
       <register name="0" type="4">
         <text>https://trello.com/c/UdTrFsNa</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjdXJyZW50Q3VsdHVyZU51bWJlckZvcm1hdCA9IEN1bHR1cmVJbmZvLkN1cnJlbnRDdWx0dXJlLk51bWJlckZvcm1hdDsKICAgICAgICAgICAgICAgIHZhciBjbG9uZSA9IChOdW1iZXJGb3JtYXRJbmZvKWN1cnJlbnRDdWx0dXJlTnVtYmVyRm9ybWF0LkNsb25lKCk7CiAgICAgICAgICAgICAgICBjbG9uZS5DdXJyZW5jeURlY2ltYWxEaWdpdHMgPSAyOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -192,46 +189,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNoaXBwaW5nID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiAwbTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0IHsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNoaXBwaW5nID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiAwbTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0IHsgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBQYXltZW50V2l0aExhYmVsID0gIkNhcmQgUGF5bWVudCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDQyNTIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBQYXltZW50V2l0aExhYmVsID0gIkNhcmQgUGF5bWVudCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDQyNTIK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93OwogICAgICAgICAgICB9CiAgICAgICAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search>member</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern>member</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>file.</entry>
-        <entry>emiltem</entry>
         <entry>emailT</entry>
         <entry>emaildata</entry>
         <entry>Email</entry>
@@ -250,6 +245,8 @@
         <entry>=</entry>
         <entry>M</entry>
         <entry>http</entry>
+        <entry>Z</entry>
+        <entry>member</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
