@@ -10,10 +10,11 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="55" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/Order.cs" timestamp="1573178671633">
-        <mark key="[" line="377" column="0" />
-        <mark key="]" line="377" column="0" />
-        <mark key="." line="377" column="0" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/Order.cs" timestamp="1573180801572">
+        <mark key="[" line="275" column="92" />
+        <mark key="]" line="275" column="92" />
+        <mark key="^" line="262" column="65" />
+        <mark key="." line="275" column="92" />
       </file>
       <file name="C:/dev/git/selz/fluid/Fluid/Accessors/AsyncDelegateAccessor.cs" timestamp="1573117551754">
         <mark key="[" line="8" column="9" />
@@ -23,6 +24,7 @@
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/ShippingHelper.cs" timestamp="1573163579807" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/OrderDiscountExtensions.cs" timestamp="1573176854324" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Shipping/OrderShipping.cs" timestamp="1573180072443" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/DiscountHelper.cs" timestamp="1573178120491" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/DictionaryExtensions.cs" timestamp="1573122563364">
         <mark key="[" line="41" column="36" />
@@ -50,6 +52,7 @@
       <file name="/Dummy.txt" timestamp="1573176498265">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Tax/OrderTaxRate.cs" timestamp="1573180811047" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/TestData.cs" timestamp="1573176607518">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -200,7 +203,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFBheW1lbnRNZXRob2QgPSAiU2VseiIs</text>
+        <text encoding="base64">IDogMQ==</text>
       </register>
       <register name="/" type="4">
         <text>Cart</text>
@@ -209,7 +212,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxFcnJvclJhbmdlID0gbFRleHQuU3Vic3RyaW5nKGkgLSAxLCAxMDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0IHsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -219,37 +222,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBQYXltZW50V2l0aExhYmVsID0gIkNhcmQgUGF5bWVudCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNoaXBwaW5nID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiAwbTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDQyNTIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0IHsgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93OwogICAgICAgICAgICB9CiAgICAgICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBQYXltZW50V2l0aExhYmVsID0gIkNhcmQgUGF5bWVudCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDQyNTIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsK</text>
       </register>
       <register name="9" type="4">
-        <text>,
-            new OrderItemData
-            {
-                ProductTitle = &quot;Product 2&quot;,
-                Quantity = 2,
-                QuantityUnit = &quot;kg&quot;,
-                UnitPrice = 19.99m,
-                TotalPrice = 19.99m,
-                CurrencyCode = &quot;USD&quot;
-            }</text>
+        <text encoding="base64">fQogICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93OwogICAgICAgICAgICB9CiAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
