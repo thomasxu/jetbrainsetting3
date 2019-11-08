@@ -3,18 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/DictionaryExtensions.cs" timestamp="1573122563364">
-        <mark key="[" line="41" column="36" />
-        <mark key="]" line="41" column="36" />
-        <mark key="." line="41" column="36" />
-        <mark key="^" line="41" column="46" />
-      </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/BuyerLicenseUpdate.liquid" timestamp="1573110934360">
         <mark key="'" line="2" column="42" />
         <mark key="[" line="2" column="42" />
         <mark key="]" line="2" column="42" />
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="55" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/Order.cs" timestamp="1573178671633">
+        <mark key="[" line="377" column="0" />
+        <mark key="]" line="377" column="0" />
+        <mark key="." line="377" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/fluid/Fluid/Accessors/AsyncDelegateAccessor.cs" timestamp="1573117551754">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/ShippingHelper.cs" timestamp="1573163579807" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/OrderDiscountExtensions.cs" timestamp="1573176854324" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/DiscountHelper.cs" timestamp="1573178120491" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Extensions/DictionaryExtensions.cs" timestamp="1573122563364">
+        <mark key="[" line="41" column="36" />
+        <mark key="]" line="41" column="36" />
+        <mark key="." line="41" column="36" />
+        <mark key="^" line="41" column="46" />
       </file>
       <file name="C:/dev/git/selz/fluid/Fluid/FluidGrammar.cs" timestamp="1573122196657">
         <mark key="'" line="189" column="16" />
@@ -31,23 +45,11 @@
         <mark key="^" line="57" column="58" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/DTOs/OrderItemData.cs" timestamp="1573161672416" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/Order.cs" timestamp="1573177101111" />
-      <file name="C:/dev/git/selz/fluid/Fluid/Accessors/AsyncDelegateAccessor.cs" timestamp="1573117551754">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shipping/ShippingService.cs" timestamp="1573163765229" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/47/fba72d26/Math.cs" timestamp="1573177479067" />
       <file name="/Dummy.txt" timestamp="1573176498265">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/bin/Debug/netcoreapp2.1/Fluid/BuyerAbandonedCart.html" timestamp="1573115552081">
-        <mark key="[" line="106" column="159" />
-        <mark key="]" line="106" column="159" />
-        <mark key="." line="106" column="159" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/ShippingHelper.cs" timestamp="1573163579807" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/TestData.cs" timestamp="1573176607518">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -66,7 +68,7 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/OrderDiscountExtensions.cs" timestamp="1573176854324" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/30/0adaff69/Decimal.cs" timestamp="1573177452321" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" timestamp="1573101383321">
         <mark key="'" line="17" column="24" />
         <mark key="[" line="38" column="30" />
@@ -207,7 +209,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxFcnJvclJhbmdlID0gbFRleHQuU3Vic3RyaW5nKGkgLSAxLCAxMDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0IHsgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -217,24 +219,27 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBQYXltZW50V2l0aExhYmVsID0gIkNhcmQgUGF5bWVudCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDQyNTIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBQYXltZW50V2l0aExhYmVsID0gIkNhcmQgUGF5bWVudCIsCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDQyNTIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">fQogICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93OwogICAgICAgICAgICB9CiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfWRkCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>,
             new OrderItemData
             {
@@ -245,9 +250,6 @@
                 TotalPrice = 19.99m,
                 CurrencyCode = &quot;USD&quot;
             }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
