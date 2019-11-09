@@ -54,11 +54,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" timestamp="1573335234886">
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="46" column="37" />
-        <mark key="." line="46" column="37" />
-        <mark key="^" line="46" column="37" />
+      <file name="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" timestamp="1573337414068">
+        <mark key="'" line="64" column="15" />
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="56" column="15" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Transactions/Order.cs" timestamp="1573191224752">
         <mark key="[" line="248" column="92" />
@@ -74,9 +75,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="16" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/RenderFacts.cs" />
-      <jump line="48" column="12" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Liquid/TemplateFileSystem.cs" />
-      <jump line="96" column="26" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/85/85b125b5/Exception.cs" />
       <jump line="70" column="32" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" />
       <jump line="40" column="27" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" />
       <jump line="81" column="28" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" />
@@ -174,6 +172,9 @@
       <jump line="1" column="0" filename="C:/dev/git/experiment_project/FolderCompare/FolderCompare/.gitignore" />
       <jump line="28" column="29" filename="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" />
       <jump line="24" column="19" filename="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" />
+      <jump line="25" column="15" filename="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" />
+      <jump line="47" column="12" filename="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" />
+      <jump line="62" column="15" filename="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -189,7 +190,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbmV3IFJlZ2V4KCk7</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -198,7 +199,7 @@
         <text>https://trello.com/c/UdTrFsNa</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIxIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGZhcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -208,28 +209,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhvbWFzUmUKICAgICAgICAgICAgICAgIFMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3JlZ2V4VGhvbWFzMi4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFiYyIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhvbWFzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhvbWFzMTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhvbWFzMS4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhvbWFzLgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIxIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGhvbWFzUmUKICAgICAgICAgICAgICAgIFMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImFiYyIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhvbWFzCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3JlZ2V4ID0gbmV3IFJlZ2V4KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhvbWFzMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3JlZ2V4IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhvbWFzMS4K</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
@@ -246,7 +247,6 @@
     </search>
     <history>
       <history-search>
-        <entry>find</entry>
         <entry>conver</entry>
         <entry>format</entry>
         <entry>if</entry>
@@ -265,6 +265,7 @@
         <entry>en</entry>
         <entry>ex</entry>
         <entry>x</entry>
+        <entry>rege</entry>
         <entry>class</entry>
       </history-search>
       <history-cmd>
