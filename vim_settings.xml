@@ -22,8 +22,9 @@
         <mark key="^" line="247" column="70" />
         <mark key="." line="247" column="70" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/SystemController.cs" timestamp="1573258665236">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/SystemController.cs" timestamp="1573260764454">
         <mark key="'" line="206" column="12" />
+        <mark key="[" line="202" column="8" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/Tests/Templates/SubscriptionTests.cs" timestamp="1573209624543">
         <mark key="[" line="36" column="48" />
@@ -35,8 +36,8 @@
         <mark key="'" line="229" column="18" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Snippets/Licenses.liquid" timestamp="1573249315944" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/EmailModelBase.cs" timestamp="1573257771320">
-        <mark key="'" line="61" column="33" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/EmailModelBase.cs" timestamp="1573260882645">
+        <mark key="'" line="55" column="12" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Subscriptions/SubscriptionInvoice.cs" timestamp="1573258310242">
         <mark key="'" line="64" column="22" />
@@ -59,7 +60,6 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/BuyerOrderInvoice.cs" timestamp="1573257630490" />
     </filemarks>
     <jumps>
-      <jump line="122" column="31" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" />
       <jump line="112" column="16" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" />
       <jump line="121" column="31" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/TestData.cs" />
       <jump line="22" column="29" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Models/UserAccountType.cs" />
@@ -159,6 +159,7 @@
       <jump line="61" column="15" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Subscriptions/SubscriptionInvoice.cs" />
       <jump line="64" column="22" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Subscriptions/SubscriptionInvoice.cs" />
       <jump line="206" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/SystemController.cs" />
+      <jump line="55" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/EmailModelBase.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -177,7 +178,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>strip</text>
+        <text>en</text>
       </register>
       <register name="0" type="4">
         <text>https://trello.com/c/UdTrFsNa</text>
@@ -221,17 +222,16 @@
       </register>
     </registers>
     <search>
-      <last-search>strip</last-search>
+      <last-search>en</last-search>
       <last-offset />
-      <last-pattern>strip</last-pattern>
+      <last-pattern>en</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGaWxlSWRlbnRpZmllclw+</entry>
         <entry encoding="base64">XDxJbmNsdWRlXD4=</entry>
         <entry>Cart</entry>
         <entry>culture</entry>
@@ -251,6 +251,7 @@
         <entry>getim</entry>
         <entry>stripin</entry>
         <entry>strip</entry>
+        <entry>en</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
