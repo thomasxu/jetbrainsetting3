@@ -94,9 +94,8 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="met" value="public void $MethodName$($Param$)&#10;{&#10;    $END$ &#10;}" description="" toReformat="true" toShortenFQNames="true">
+  <template name="met" value="public void $MethodName$()&#10;{&#10;    $END$ &#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="MethodName" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="Param" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
@@ -118,9 +117,8 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="mets" value="public static void $MethodName$($Param$)&#10;{&#10;    $END$ &#10;}" description="" toReformat="true" toShortenFQNames="true">
+  <template name="mets" value="public static void $MethodName$()&#10;{&#10;    $END$ &#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="MethodName" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="Param" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
