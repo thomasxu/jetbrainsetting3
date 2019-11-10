@@ -54,7 +54,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" timestamp="1573346058727">
+      <file name="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" timestamp="1573372177165">
         <mark key="'" line="64" column="15" />
         <mark key="[" line="56" column="12" />
         <mark key="]" line="55" column="31" />
@@ -73,11 +73,15 @@
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CultureHelper.cs" timestamp="1573257807254">
         <mark key="'" line="142" column="17" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/BuyerOrderInvoice.cs" timestamp="1573372341123">
+        <mark key="'" line="11" column="21" />
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="32" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" />
-      <jump line="40" column="27" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" />
-      <jump line="81" column="28" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" />
       <jump line="87" column="50" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" />
       <jump line="27" column="49" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" />
       <jump line="34" column="0" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" />
@@ -175,6 +179,9 @@
       <jump line="25" column="15" filename="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" />
       <jump line="47" column="12" filename="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" />
       <jump line="62" column="15" filename="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" />
+      <jump line="5" column="16" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/BuyerOrderInvoice.cs" />
+      <jump line="7" column="28" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/BuyerOrderInvoice.cs" />
+      <jump line="11" column="21" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/BuyerOrderInvoice.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -190,10 +197,10 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>B</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>Settings</text>
       </register>
       <register name="0" type="4">
         <text>https://trello.com/c/UdTrFsNa</text>
@@ -237,18 +244,16 @@
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>Settings</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>Settings</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>conver</entry>
-        <entry>format</entry>
         <entry>if</entry>
         <entry>=</entry>
         <entry>M</entry>
@@ -267,6 +272,8 @@
         <entry>x</entry>
         <entry>rege</entry>
         <entry>class</entry>
+        <entry>sale</entry>
+        <entry>Settings</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
