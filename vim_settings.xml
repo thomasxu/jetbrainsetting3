@@ -14,6 +14,9 @@
         <mark key="]" line="68" column="57" />
         <mark key="." line="68" column="23" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Translations/EmailSubjects.Designer.cs" timestamp="1573379389385">
+        <mark key="'" line="24" column="17" />
+      </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/SellerForgotPassword.liquid" timestamp="1573211741755">
         <mark key="'" line="13" column="125" />
       </file>
@@ -43,8 +46,16 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A31AF13-6A00-43DD-B9BC-04224644EC66/7d/8f21022f/Currency.cs" timestamp="1573191075631">
         <mark key="'" line="229" column="18" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/EmailModelBase.cs" timestamp="1573263508021">
-        <mark key="'" line="55" column="12" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/GenericEmail.cs" timestamp="1573379684692">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="5" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/EmailModelBase.cs" timestamp="1573379973951">
+        <mark key="'" line="37" column="22" />
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Subscriptions/SubscriptionInvoice.cs" timestamp="1573258310242">
         <mark key="'" line="64" column="22" />
@@ -90,8 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="50" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Services/ITemplateParser.cs" />
-      <jump line="27" column="49" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" />
       <jump line="34" column="0" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" />
       <jump line="103" column="82" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" />
       <jump line="105" column="21" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" />
@@ -190,6 +199,8 @@
       <jump line="5" column="16" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/BuyerOrderInvoice.cs" />
       <jump line="7" column="28" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/BuyerOrderInvoice.cs" />
       <jump line="11" column="21" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/BuyerOrderInvoice.cs" />
+      <jump line="31" column="22" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/EmailModelBase.cs" />
+      <jump line="24" column="17" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Translations/EmailSubjects.Designer.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -208,10 +219,10 @@
         <text>B</text>
       </register>
       <register name="/" type="4">
-        <text>Settings</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8SXRlbUdyb3VwPgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBHZW5lcmljRW1haWwgOiBFbWFpbE1vZGVsQmFzZQogICAgewogICAgICAgIHB1YmxpYyBzdHJpbmcgTWVzc2FnZSB7IGdldDsgc2V0OyB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRGZhcwo=</text>
@@ -252,12 +263,12 @@
       </register>
     </registers>
     <search>
-      <last-search>Settings</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>Settings</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -279,9 +290,9 @@
         <entry>ex</entry>
         <entry>x</entry>
         <entry>rege</entry>
-        <entry>class</entry>
         <entry>sale</entry>
         <entry>Settings</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
