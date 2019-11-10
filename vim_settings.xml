@@ -7,11 +7,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/a0/0364ea23/NumberFormatInfo.cs" timestamp="1573191777804">
         <mark key="'" line="144" column="18" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Affiliates/SelzAffiliateService.cs" timestamp="1573373521840">
-        <mark key="[" line="68" column="23" />
-        <mark key="]" line="68" column="57" />
-        <mark key="." line="68" column="23" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Translations/EmailSubjects.Designer.cs" timestamp="1573379389385">
         <mark key="'" line="24" column="17" />
       </file>
@@ -32,11 +27,6 @@
         <mark key="." line="55" column="31" />
         <mark key="^" line="55" column="31" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Tests/Drachma.Tests.csproj" timestamp="1573372628729">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/SystemController.cs" timestamp="1573262254753">
         <mark key="'" line="206" column="12" />
         <mark key="[" line="202" column="8" />
@@ -56,18 +46,17 @@
         <mark key="'" line="31" column="22" />
         <mark key="[" line="9" column="1" />
       </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/AbandonedCartJob.cs" timestamp="1573417595216">
+        <mark key="'" line="71" column="12" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Domains/Subscriptions/SubscriptionInvoice.cs" timestamp="1573258310242">
         <mark key="'" line="64" column="22" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_AbandonedCart/Services/AbandonedCartService.cs" timestamp="1573416404137" />
+      <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Emails/EmailSendModel.cs" timestamp="1573417962652" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/GenericEmail.cs" timestamp="1573416021068" />
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Shop/Shop.cs" timestamp="1573257750255">
         <mark key="'" line="26" column="31" />
-      </file>
-      <file name="C:/dev/git/experiment_project/FolderCompare/FolderCompare/.jshintignore" timestamp="1573327929047">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/65A472FD-73BA-4B78-81C2-5D20F5F585D1/ae/51521509/Header.cs" timestamp="1573262437673">
         <mark key="'" line="158" column="16" />
@@ -82,17 +71,11 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Dtos/TemplateData.cs" timestamp="1573373478569">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="55" />
-        <mark key="." line="15" column="21" />
-      </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/ITemplateModel.cs" timestamp="1573416147127">
         <mark key="'" line="7" column="17" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="60" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" />
       <jump line="9" column="21" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" />
       <jump line="26" column="22" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" />
       <jump line="102" column="8" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopScenarios.cs" />
@@ -192,6 +175,7 @@
       <jump line="33" column="34" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/EmailResourcesService.cs" />
       <jump line="54" column="31" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/EmailResourcesService.cs" />
       <jump line="7" column="17" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/ITemplateModel.cs" />
+      <jump line="71" column="12" filename="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/AbandonedCartJob.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -210,7 +194,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>template</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBHZW5lcmljRW1haWwgOiBFbWFpbE1vZGVsQmFzZQogICAgewogICAgICAgIHB1YmxpYyBzdHJpbmcgTWVzc2FnZSB7IGdldDsgc2V0OyB9CiAgICB9Cg==</text>
@@ -254,12 +238,12 @@
       </register>
     </registers>
     <search>
-      <last-search>template</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>template</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -279,11 +263,11 @@
         <entry>rege</entry>
         <entry>sale</entry>
         <entry>Settings</entry>
-        <entry>class</entry>
         <entry encoding="base64">XDxHZXRUZW1wbGF0ZXNQYXRoXD4=</entry>
         <entry encoding="base64">XDxHZXRSZXNvdXJjZU1hbmFnZXJcPg==</entry>
         <entry>tmep</entry>
         <entry>template</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
