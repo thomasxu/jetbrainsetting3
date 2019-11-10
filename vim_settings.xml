@@ -20,6 +20,14 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/SellerForgotPassword.liquid" timestamp="1573211741755">
         <mark key="'" line="13" column="125" />
       </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/EmailResourcesService.cs" timestamp="1573381727313">
+        <mark key="'" line="54" column="31" />
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="2" />
+        <mark key="." line="16" column="2" />
+        <mark key="^" line="16" column="2" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/Templates/S3StreamResourceManager.cs" timestamp="1573381275041" />
       <file name="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" timestamp="1573372177165">
         <mark key="'" line="64" column="15" />
         <mark key="[" line="56" column="12" />
@@ -46,11 +54,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A31AF13-6A00-43DD-B9BC-04224644EC66/7d/8f21022f/Currency.cs" timestamp="1573191075631">
         <mark key="'" line="229" column="18" />
       </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/Options/EmailOptions.cs" timestamp="1573380984432" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/GenericEmail.cs" timestamp="1573379684692">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="5" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/EmailModelBase.cs" timestamp="1573379973951">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/EmailModelBase.cs" timestamp="1573381763696">
         <mark key="'" line="37" column="22" />
         <mark key="[" line="9" column="1" />
         <mark key="]" line="12" column="3" />
@@ -66,7 +75,7 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Sqs/SqsDataExportJob.cs" timestamp="1573374743538" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Sqs/SqsDataExportJob.cs" timestamp="1573380607010" />
       <file name="C:/dev/git/experiment_project/FolderCompare/FolderCompare/.gitignore" timestamp="1573327934553">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="352" column="0" />
@@ -101,8 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" />
-      <jump line="103" column="82" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" />
       <jump line="105" column="21" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" />
       <jump line="141" column="60" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/MockFileProvider.cs" />
       <jump line="9" column="21" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" />
@@ -201,6 +208,8 @@
       <jump line="11" column="21" filename="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/BuyerOrderInvoice.cs" />
       <jump line="31" column="22" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/EmailModelBase.cs" />
       <jump line="24" column="17" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Resources/Translations/EmailSubjects.Designer.cs" />
+      <jump line="33" column="34" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/EmailResourcesService.cs" />
+      <jump line="54" column="31" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/EmailResourcesService.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -216,16 +225,16 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text encoding="base64">XDxHZXRSZXNvdXJjZU1hbmFnZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBHZW5lcmljRW1haWwgOiBFbWFpbE1vZGVsQmFzZQogICAgewogICAgICAgIHB1YmxpYyBzdHJpbmcgTWVzc2FnZSB7IGdldDsgc2V0OyB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGZhcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -235,46 +244,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3JlZ2V4VGhvbWFzMi4K</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhvbWFzLgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgIHByaXZhdGUgcmVhZG9ubHkgRW1haWxPcHRpb25zIF9lbWFpbE9wdGlvbnM7CiAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJSG9zdGluZ0Vudmlyb25tZW50IF9ob3N0aW5nRW52aXJvbm1lbnQ7CiAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJUzNTZXJ2aWNlIF9zM1NlcnZpY2U7CgogICAgICAgIHByaXZhdGUgc3RhdGljIHN0cmluZyBfZW1haWxUZW1wbGF0ZXNSb290OwoKICAgICAgICBwdWJsaWMgRW1haWxSZXNvdXJjZXNTZXJ2aWNlKAogICAgICAgICAgICBJSG9zdGluZ0Vudmlyb25tZW50IGhvc3RpbmdFbnZpcm9ubWVudCwKICAgICAgICAgICAgSU9wdGlvbnM8RW1haWxPcHRpb25zPiBlbWFpbE9wdGlvbnMsIAogICAgICAgICAgICBJUzNTZXJ2aWNlIHMzU2VydmljZSkKICAgICAgICB7CiAgICAgICAgICAgIF9lbWFpbE9wdGlvbnMgPSBlbWFpbE9wdGlvbnMuVmFsdWU7CiAgICAgICAgICAgIF9ob3N0aW5nRW52aXJvbm1lbnQgPSBob3N0aW5nRW52aXJvbm1lbnQ7CiAgICAgICAgICAgIF9zM1NlcnZpY2UgPSBzM1NlcnZpY2U7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIxIgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHByaXZhdGUgcmVhZG9ubHkgRW1haWxPcHRpb25zIF9lbWFpbE9wdGlvbnM7CiAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJSG9zdGluZ0Vudmlyb25tZW50IF9ob3N0aW5nRW52aXJvbm1lbnQ7CiAgICAgICAgcHJpdmF0ZSByZWFkb25seSBJUzNTZXJ2aWNlIF9zM1NlcnZpY2U7CgogICAgICAgIHByaXZhdGUgc3RhdGljIHN0cmluZyBfZW1haWxUZW1wbGF0ZXNSb290OwoKICAgICAgICBwdWJsaWMgRW1haWxSZXNvdXJjZXNTZXJ2aWNlKAogICAgICAgICAgICBJSG9zdGluZ0Vudmlyb25tZW50IGhvc3RpbmdFbnZpcm9ubWVudCwKICAgICAgICAgICAgSU9wdGlvbnM8RW1haWxPcHRpb25zPiBlbWFpbE9wdGlvbnMsIAogICAgICAgICAgICBJUzNTZXJ2aWNlIHMzU2VydmljZSkKICAgICAgICB7CiAgICAgICAgICAgIF9lbWFpbE9wdGlvbnMgPSBlbWFpbE9wdGlvbnMuVmFsdWU7CiAgICAgICAgICAgIF9ob3N0aW5nRW52aXJvbm1lbnQgPSBob3N0aW5nRW52aXJvbm1lbnQ7CiAgICAgICAgICAgIF9zM1NlcnZpY2UgPSBzM1NlcnZpY2U7CiAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhvbWFzUmUKICAgICAgICAgICAgICAgIFMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGZhcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFiYyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3JlZ2V4VGhvbWFzMi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhvbWFzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhvbWFzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhvbWFzMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIxIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhvbWFzMS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGhvbWFzUmUKICAgICAgICAgICAgICAgIFMK</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search encoding="base64">XDxHZXRSZXNvdXJjZU1hbmFnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRSZXNvdXJjZU1hbmFnZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>if</entry>
-        <entry>=</entry>
         <entry>M</entry>
         <entry>http</entry>
         <entry>Z</entry>
@@ -293,6 +300,8 @@
         <entry>sale</entry>
         <entry>Settings</entry>
         <entry>class</entry>
+        <entry encoding="base64">XDxHZXRUZW1wbGF0ZXNQYXRoXD4=</entry>
+        <entry encoding="base64">XDxHZXRSZXNvdXJjZU1hbmFnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
