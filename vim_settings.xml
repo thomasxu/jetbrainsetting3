@@ -10,6 +10,7 @@
         <mark key="." line="15" column="27" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/SellerItemSold.liquid" timestamp="1573424211629" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/SellerOrderPreCancellation.liquid" timestamp="1573426326861" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/ShopInvite.liquid" timestamp="1573424476556" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Snippets/Action.liquid" timestamp="1573422708128" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/bin/Debug/netcoreapp2.1/Liquid/SellerItemSold.html" timestamp="1573424054349">
@@ -20,8 +21,10 @@
       <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/Controllers/EmailsController.cs" timestamp="1573419456131" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/SellerItemSoldOut.liquid" timestamp="1573422762058" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/BuyerAbandonedCart.cs" timestamp="1573416232288" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/SellerOrderCancelled.liquid" timestamp="1573425692288" />
       <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Emails/EmailSendModel.cs" timestamp="1573418646740" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/DTOs/AbandonedCartData.cs" timestamp="1573422290209" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/SellerOrderCancelled.cs" timestamp="1573425726374" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/EmailSubjects.resx" timestamp="1573415999447" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/bin/Debug/netcoreapp2.1/Fluid/SellerItemSold.html" timestamp="1573423888062">
         <mark key="[" line="70" column="0" />
@@ -29,18 +32,12 @@
         <mark key="." line="70" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/RenderFacts.cs" timestamp="1573424602085" />
-      <file name="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Sqs/SqsJobBase.cs" timestamp="1573420995568">
-        <mark key="'" line="62" column="31" />
-      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/EmailService.cs" timestamp="1573419247833" />
       <file name="C:/dev/git/selz/API/src/Selz.Core.Hangfire/IJobStarter.cs" timestamp="1573419837555" />
       <file name="/Dummy.txt" timestamp="1573424340215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Sqs/SqsEmailJob.cs" timestamp="1573421420102" />
-      <file name="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/AbandonedCartJob.cs" timestamp="1573419698778">
-        <mark key="'" line="71" column="12" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/App_AbandonedCart/Services/AbandonedCartService.cs" timestamp="1573416404137" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/TestData.cs" timestamp="1573424224718">
         <mark key="[" line="55" column="30" />
@@ -49,6 +46,7 @@
         <mark key="." line="55" column="30" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/GenericEmail.cs" timestamp="1573416021068" />
+      <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/ShopInvite.liquid" timestamp="1573426377892" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/FluidRendering.cs" timestamp="1573423586904" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" timestamp="1573424710286">
         <mark key="[" line="139" column="37" />
