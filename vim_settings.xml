@@ -7,6 +7,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/a0/0364ea23/NumberFormatInfo.cs" timestamp="1573191777804">
         <mark key="'" line="144" column="18" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/Tests/Templates/ItemSoldTests.cs" timestamp="1573422469045">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Sqs/SqsJobBase.cs" timestamp="1573420995568">
         <mark key="'" line="62" column="31" />
       </file>
@@ -16,29 +21,8 @@
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/SellerForgotPassword.liquid" timestamp="1573211741755">
         <mark key="'" line="13" column="125" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/EmailResourcesService.cs" timestamp="1573381727313">
-        <mark key="'" line="54" column="31" />
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="2" />
-        <mark key="^" line="16" column="2" />
-      </file>
-      <file name="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" timestamp="1573372177165">
-        <mark key="'" line="64" column="15" />
-        <mark key="[" line="56" column="12" />
-        <mark key="]" line="55" column="31" />
-        <mark key="." line="55" column="31" />
-        <mark key="^" line="55" column="31" />
-      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/EmailService.cs" timestamp="1573419247833" />
       <file name="C:/dev/git/selz/API/src/Selz.Core.Hangfire/IJobStarter.cs" timestamp="1573419837555" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/SystemController.cs" timestamp="1573262254753">
-        <mark key="'" line="206" column="12" />
-        <mark key="[" line="202" column="8" />
-        <mark key="]" line="262" column="128" />
-        <mark key="^" line="262" column="128" />
-        <mark key="." line="262" column="128" />
-      </file>
       <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/Controllers/EmailsController.cs" timestamp="1573419456131" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A31AF13-6A00-43DD-B9BC-04224644EC66/7d/8f21022f/Currency.cs" timestamp="1573191075631">
         <mark key="'" line="229" column="18" />
@@ -61,20 +45,13 @@
       <file name="C:/dev/git/selz/drachma/core/Selz.Core.Domains.Shops/Shop/Shop.cs" timestamp="1573257750255">
         <mark key="'" line="26" column="31" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/DTOs/AbandonedCartData.cs" timestamp="1573421526603" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/DTOs/AbandonedCartData.cs" timestamp="1573422290209" />
       <file name="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Emails/EmailJob.cs" timestamp="1573421239619" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/65A472FD-73BA-4B78-81C2-5D20F5F585D1/ae/51521509/Header.cs" timestamp="1573262437673">
         <mark key="'" line="158" column="16" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Helpers/CultureHelper.cs" timestamp="1573257807254">
         <mark key="'" line="142" column="17" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/BuyerOrderInvoice.cs" timestamp="1573372341123">
-        <mark key="'" line="11" column="21" />
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="16" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/ITemplateModel.cs" timestamp="1573416147127">
         <mark key="'" line="7" column="17" />
@@ -196,7 +173,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>(Skip = &quot;TODO&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>pro</text>
