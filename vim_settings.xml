@@ -8,7 +8,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/README.md" timestamp="1573445138216">
+      <file name="C:/dev/git/selz/Services.Shop/README.md" timestamp="1573446754341">
         <mark key="'" line="14" column="21" />
         <mark key="[" line="47" column="112" />
         <mark key="]" line="47" column="112" />
@@ -72,13 +72,16 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1573444883723">
+      <file name="/Dummy.txt" timestamp="1573446609296">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Selz.Email.csproj" timestamp="1573428015100">
         <mark key="[" line="252" column="0" />
         <mark key="]" line="252" column="0" />
         <mark key="." line="252" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Catalog/README.md" timestamp="1573446884964">
+        <mark key="'" line="6" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/TestData.cs" timestamp="1573432700826">
         <mark key="[" line="55" column="30" />
@@ -104,7 +107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/SelzFluidTemplate.cs" />
       <jump line="19" column="3" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Tags/RenderBodyTag.cs" />
       <jump line="20" column="17" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Tags/RenderBodyTag.cs" />
       <jump line="10" column="17" filename="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/Tags/LayoutTag.cs" />
@@ -204,6 +206,7 @@
       <jump line="60" column="55" filename="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Sqs/SqsJobBase.cs" />
       <jump line="62" column="31" filename="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Sqs/SqsJobBase.cs" />
       <jump line="13" column="21" filename="C:/dev/git/selz/Services.Shop/README.md" />
+      <jump line="6" column="0" filename="C:/dev/git/selz/Services.Catalog/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -219,7 +222,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>ITemplateParser</text>
+        <text>?branchName=master</text>
       </register>
       <register name="/" type="4">
         <text>Api Do</text>
@@ -238,28 +241,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbGUuV3JpdGVBbGxUZXh0KFBhdGguQ29tYmluZSgiRmx1aWQiLCAkIntlbWFpbFRlbXBsYXRlLlR5cGV9Lmh0bWwiKSwgZmx1aWRFbWFpbEJvZHkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgRG90TGlxdWlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbGUuV3JpdGVBbGxUZXh0KFBhdGguQ29tYmluZSgiRmx1aWQiLCAkIntlbWFpbFRlbXBsYXRlLlR5cGV9Lmh0bWwiKSwgZmx1aWRFbWFpbEJvZHkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">dXNpbmcgRG90TGlxdWlkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIC8vIExvZyBhbnkgcGFyc2luZyBlcnJvcnMKICAgICAgICAgICAgaWYgKGVycm9ycy5BbnkoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
