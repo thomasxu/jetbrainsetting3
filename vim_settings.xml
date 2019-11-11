@@ -29,7 +29,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="130" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/SqsMessages/BuyerOrderCompleted.json" timestamp="1573432598709" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/SqsMessages/BuyerOrderCompleted.json" timestamp="1573434060444" />
       <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/Controllers/EmailsController.cs" timestamp="1573419456131" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/SellerItemSoldOut.liquid" timestamp="1573422762058" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Messaging/Models/BuyerAbandonedCart.cs" timestamp="1573416232288" />
@@ -38,6 +38,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/TestBase.cs" timestamp="1573433295196" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/SellerOrderCancelled.liquid" timestamp="1573425692288" />
       <file name="C:/dev/git/selz/API/src/Selz.Model/Models/Emails/EmailSendModel.cs" timestamp="1573418646740" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/BuyerOrderCompleted.cs" timestamp="1573431646044" />
@@ -46,6 +47,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/SqsMessages/SellerForgotPassword.json" timestamp="1573434110743" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/DTOs/AbandonedCartData.cs" timestamp="1573422290209" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/bin/Debug/netcoreapp2.1/Fluid/BuyerOrderCompleted.html" timestamp="1573431843154" />
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Shared/Selz.Email.Models/Templates/SellerOrderCancelled.cs" timestamp="1573425726374" />
@@ -73,7 +75,7 @@
         <mark key="]" line="68" column="57" />
         <mark key="." line="68" column="23" />
       </file>
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/Tests/Sqs/SqsPayloadTests.cs" timestamp="1573433148417" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/test/Selz.Email.Tests/Tests/Sqs/SqsPayloadTests.cs" timestamp="1573433340690" />
       <file name="C:/dev/git/experiment_project/FolderCompare/FolderCompare/Program.cs" timestamp="1573428556470">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -91,7 +93,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1573432400093">
+      <file name="/Dummy.txt" timestamp="1573434548654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Resources/Emails/Templates/BuyerOrderCompleted.liquid" timestamp="1573431906880" />
@@ -113,11 +115,11 @@
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/ShopInvite.liquid" timestamp="1573426417252" />
       <file name="/DictionaryExtensions.cs" timestamp="1573427793363" />
       <file name="C:/dev/git/selz/Services.Email/LiquidParser/src/LiquidParser/Fluid/FluidRendering.cs" timestamp="1573423586904" />
-      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" timestamp="1573430790379">
-        <mark key="[" line="135" column="91" />
-        <mark key="]" line="135" column="88" />
-        <mark key="^" line="135" column="88" />
-        <mark key="." line="135" column="88" />
+      <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Function.cs" timestamp="1573434535649">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="56" column="25" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Email/Selz.Email/src/Selz.Email/Startup.cs" timestamp="1573430606249">
         <mark key="[" line="37" column="30" />
@@ -256,7 +258,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBHZW5lcmljRW1haWwgOiBFbWFpbE1vZGVsQmFzZQogICAgewogICAgICAgIHB1YmxpYyBzdHJpbmcgTWVzc2FnZSB7IGdldDsgc2V0OyB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgRG90TGlxdWlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbGUuV3JpdGVBbGxUZXh0KFBhdGguQ29tYmluZSgiRmx1aWQiLCAkIntlbWFpbFRlbXBsYXRlLlR5cGV9Lmh0bWwiKSwgZmx1aWRFbWFpbEJvZHkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -266,28 +268,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">dXNpbmcgRG90TGlxdWlkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIExvZyBhbnkgcGFyc2luZyBlcnJvcnMKICAgICAgICAgICAgaWYgKGVycm9ycy5BbnkoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIExvZyBhbnkgcGFyc2luZyBlcnJvcnMKICAgICAgICAgICAgaWYgKGVycm9ycy5BbnkoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVtYWlsQm9keSA9IF90ZW1wbGF0ZVBhcnNlci5QYXJzZShlbWFpbFRlbXBsYXRlLCBvdXQgdmFyIGVycm9ycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
