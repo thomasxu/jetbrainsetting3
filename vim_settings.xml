@@ -3,8 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Services/Captcha/CaptchaService.cs" timestamp="1573556022795">
+        <mark key="'" line="49" column="19" />
+      </file>
       <file name="/Dummy.txt" timestamp="1573523911940">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TagsController.cs" timestamp="1573596738377">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1573523521801">
+        <mark key="'" line="547" column="50" />
+        <mark key="[" line="569" column="0" />
+        <mark key="]" line="569" column="0" />
+        <mark key="." line="569" column="0" />
+        <mark key="^" line="549" column="11" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/140125AF-6CC4-470B-B814-7A6C4240E775/db/2d54aa44/AnalysisDescriptor.cs" timestamp="1573555927029">
+        <mark key="'" line="58" column="30" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/README.md" timestamp="1573545090235">
         <mark key="'" line="6" column="0" />
@@ -24,25 +42,6 @@
         <mark key="]" line="47" column="112" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="47" column="112" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Services/Captcha/CaptchaService.cs" timestamp="1573556022795">
-        <mark key="'" line="49" column="19" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TagsController.cs" timestamp="1573591687846">
-        <mark key="[" line="25" column="79" />
-        <mark key="]" line="25" column="3" />
-        <mark key="." line="25" column="3" />
-        <mark key="^" line="25" column="3" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1573523521801">
-        <mark key="'" line="547" column="50" />
-        <mark key="[" line="569" column="0" />
-        <mark key="]" line="569" column="0" />
-        <mark key="." line="569" column="0" />
-        <mark key="^" line="549" column="11" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/140125AF-6CC4-470B-B814-7A6C4240E775/db/2d54aa44/AnalysisDescriptor.cs" timestamp="1573555927029">
-        <mark key="'" line="58" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/68F17E96-20E5-41DF-A3FF-CAC75A62323E/29/fb14b516/IdentityServiceCollectionExtensions.cs" timestamp="1573556674329">
         <mark key="'" line="100" column="37" />
@@ -175,8 +174,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBHZW5lcmljRW1haWwgOiBFbWFpbE1vZGVsQmFzZQogICAgewogICAgICAgIHB1YmxpYyBzdHJpbmcgTWVzc2FnZSB7IGdldDsgc2V0OyB9CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBhbmQgKAogICAgYW5kKHN1Y2NlZWRlZCgpLCBuZSh2YXJpYWJsZXNbJ0J1aWxkLlNvdXJjZUJyYW5jaCddLCAncmVmcy9oZWFkcy9tYXN0ZXInKSksIGFuZChzdWNjZWVkZWQoKSwgbmUodmFyaWFibGVzWydCdWlsZC5Tb3VyY2VCcmFuY2gnXSwgJ3JlZnMvaGVhZHMvZGV2ZWxvcCcpKSkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGFuZCAoCiAgICBhbmQoc3VjY2VlZGVkKCksIG5lKHZhcmlhYmxlc1snQnVpbGQuU291cmNlQnJhbmNoJ10sICdyZWZzL2hlYWRzL21hc3RlcicpKSwgCiAgICBhbmQoc3VjY2VlZGVkKCksIG5lKHZhcmlhYmxlc1snQnVpbGQuU291cmNlQnJhbmNoJ10sICdyZWZzL2hlYWRzL2RldmVsb3AnKSkKICAgICk=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -186,28 +185,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBhbmQgKAogICAgYW5kKHN1Y2NlZWRlZCgpLCBuZSh2YXJpYWJsZXNbJ0J1aWxkLlNvdXJjZUJyYW5jaCddLCAncmVmcy9oZWFkcy9tYXN0ZXInKSksIGFuZChzdWNjZWVkZWQoKSwgbmUodmFyaWFibGVzWydCdWlsZC5Tb3VyY2VCcmFuY2gnXSwgJ3JlZnMvaGVhZHMvZGV2ZWxvcCcpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgRG90TGlxdWlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5NZW1iZXJBY2Nlc3NTdHJhdGVneS5SZWdpc3Rlcih0eXBlb2YoUHJvZHVjdFZhcmlhbnREcm9wKSk7Cg==</text>
+        <text encoding="base64">dXNpbmcgRG90TGlxdWlkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5NZW1iZXJBY2Nlc3NTdHJhdGVneS5SZWdpc3Rlcih0eXBlb2YoUHJvZHVjdFZhcmlhbnQpLCAodmFyaWFudCwgbmFtZSkgPT4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmEKICAgICAgICAgICAgfSk7ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5NZW1iZXJBY2Nlc3NTdHJhdGVneS5SZWdpc3Rlcih0eXBlb2YoUHJvZHVjdFZhcmlhbnREcm9wKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5NZW1iZXJBY2Nlc3NTdHJhdGVneS5SZWdpc3Rlcih0eXBlb2YoUHJvZHVjdFZhcmlhbnQpLCAodmFyaWFudCwgbmFtZSkgPT4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmEKICAgICAgICAgICAgfSk7ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbGUuV3JpdGVBbGxUZXh0KFBhdGguQ29tYmluZSgiRmx1aWQiLCAkIntlbWFpbFRlbXBsYXRlLlR5cGV9Lmh0bWwiKSwgZmx1aWRFbWFpbEJvZHkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgRG90TGlxdWlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbGUuV3JpdGVBbGxUZXh0KFBhdGguQ29tYmluZSgiRmx1aWQiLCAkIntlbWFpbFRlbXBsYXRlLlR5cGV9Lmh0bWwiKSwgZmx1aWRFbWFpbEJvZHkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
