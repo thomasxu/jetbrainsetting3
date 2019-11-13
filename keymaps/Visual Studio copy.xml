@@ -80,10 +80,6 @@
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
   <action id="Console.TableResult.MaximizeEditingCell" />
-  <action id="Console.TableResult.NavigateExportedAction">
-    <keyboard-shortcut first-keystroke="shift f12" />
-    <mouse-shortcut keystroke="shift alt button1" />
-  </action>
   <action id="Console.TableResult.SelectRow" />
   <action id="Console.TableResult.SetNull" />
   <action id="Console.Transaction.Commit" />
@@ -120,6 +116,9 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="EditorCut">
     <keyboard-shortcut first-keystroke="ctrl x" />
     <keyboard-shortcut first-keystroke="shift delete" />
@@ -181,10 +180,14 @@
     <keyboard-shortcut first-keystroke="alt f3" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="FindDependantCodeAction">
+    <keyboard-shortcut first-keystroke="shift f12" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift f12" />
-    <mouse-shortcut keystroke="shift alt button1" />
     <keyboard-shortcut first-keystroke="shift alt period" />
+    <mouse-shortcut keystroke="shift alt button1" />
   </action>
   <action id="FindUsagesInFile" />
   <action id="ForceRunToCursor">
@@ -230,6 +233,8 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="alt period" />
+    <mouse-shortcut keystroke="alt button5" />
+    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
