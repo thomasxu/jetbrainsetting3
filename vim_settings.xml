@@ -10,18 +10,19 @@
       </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1573600191306" />
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo.Test/TaskTestFixture.cs" timestamp="1573605539034" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BA72EFE7-DBF2-49AD-BD79-C391E9EA1A4B/24/a83f9e0f/JwtSecurityToken.cs" timestamp="1573628984879" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A58AF967-B538-447B-B666-B2B4540B3F61/58/be41a0ac/HostingEnvironmentExtensions.cs" timestamp="1573604921389" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TagsController.cs" timestamp="1573596738377">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TokensController.cs" timestamp="1573626994334" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TokensController.cs" timestamp="1573628881678" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7903ADC8-9C02-47EC-9EA8-EF5CB4D4661F/fb/dd59c71a/SQSEvent.cs" timestamp="1573600687931">
         <mark key="'" line="15" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A9F45899-67B6-4E56-8D89-3BC5894C4FEF/64/9dbe9a0a/EnvironmentVariablesExtensions.cs" timestamp="1573604795714" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Tokens/IZettleTokenManager.cs" timestamp="1573627184188" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Tokens/IZettleTokenManager.cs" timestamp="1573629444310" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/68F17E96-20E5-41DF-A3FF-CAC75A62323E/29/fb14b516/IdentityServiceCollectionExtensions.cs" timestamp="1573556674329">
         <mark key="'" line="100" column="37" />
       </file>
@@ -37,10 +38,14 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" timestamp="1573628909422" />
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo/Logging/LoggingContext.cs" timestamp="1573605745951" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api/Controllers/WebhooksController.cs" timestamp="1573617685573" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Tokens/TokenScenarios.cs" timestamp="1573627057923">
         <mark key="'" line="77" column="16" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECEE9B82-57FC-4EB4-9DA6-662D050BBFF9/76/1b4f3575/IOAuthApi.cs" timestamp="1573628252883">
+        <mark key="'" line="13" column="34" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Services/Captcha/CaptchaService.cs" timestamp="1573556022795">
         <mark key="'" line="49" column="19" />
@@ -55,7 +60,6 @@
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo/AppSettings.cs" timestamp="1573604334192" />
     </filemarks>
     <jumps>
-      <jump line="228" column="30" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/Resources/Emails/Templates/BuyerOrderInvoice.liquid" />
       <jump line="13" column="20" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/RenderFacts.cs" />
       <jump line="5" column="0" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/RenderFacts.cs" />
       <jump line="22" column="0" filename="C:/dev/git/selz/Services.Email/LiquidParser/tests/LiquidParser.Tests/FluidRenderFacts.cs" />
@@ -155,6 +159,7 @@
       <jump line="31" column="16" filename="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo.Test/FunctionTests.cs" />
       <jump line="73" column="60" filename="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo/Startup.cs" />
       <jump line="77" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Tokens/TokenScenarios.cs" />
+      <jump line="13" column="34" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECEE9B82-57FC-4EB4-9DA6-662D050BBFF9/76/1b4f3575/IOAuthApi.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -173,7 +178,7 @@
         <text>Drop</text>
       </register>
       <register name="/" type="4">
-        <text>demomes</text>
+        <text>refresh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBGdW5jdGlvbkhhbmRsZXIoKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICB2YXIgZGVtb01lc3NhZ2UgPSBuZXcgRGVtb01lc3NhZ2Uge05hbWUgPSAiZm9vYmFyIn07CiAgICAgICAgICAgIHZhciBtZXNzYWdlID0gSnNvbkNvbnZlcnQuU2VyaWFsaXplT2JqZWN0KGRlbW9NZXNzYWdlKTsKICAgICAgICAgICAgdmFyIHNxc0V2ZW50ID0gQ3JlYXRlU3FzRXZlbnQobWVzc2FnZSk7CgogICAgICAgICAgICAvLyBBY3QKICAgICAgICAgICAgYXdhaXQgX2Z1bmN0aW9uLkZ1bmN0aW9uSGFuZGxlcihzcXNFdmVudCwgX2NvbnRleHQpOwoK</text>
@@ -217,9 +222,9 @@
       </register>
     </registers>
     <search>
-      <last-search>demomes</last-search>
+      <last-search>refresh</last-search>
       <last-offset />
-      <last-pattern>demomes</last-pattern>
+      <last-pattern>refresh</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>badrequest</last-substitute>
       <last-dir>1</last-dir>
@@ -227,8 +232,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ex</entry>
-        <entry>x</entry>
         <entry>rege</entry>
         <entry>sale</entry>
         <entry>Settings</entry>
@@ -247,6 +250,8 @@
         <entry>sqs</entry>
         <entry>hand</entry>
         <entry>demomes</entry>
+        <entry>refere</entry>
+        <entry>refresh</entry>
       </history-search>
       <history-cmd>
         <entry>r thomas</entry>
