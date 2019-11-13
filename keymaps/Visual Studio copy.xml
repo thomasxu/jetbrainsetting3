@@ -340,6 +340,7 @@
     <keyboard-shortcut first-keystroke="shift alt l" />
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="alt down" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
@@ -368,6 +369,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
     <keyboard-shortcut first-keystroke="alt k" />
     <keyboard-shortcut first-keystroke="alt up" />
+    <mouse-shortcut keystroke="shift button4" />
   </action>
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
@@ -383,11 +385,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
     <keyboard-shortcut first-keystroke="ctrl q" />
     <keyboard-shortcut first-keystroke="alt q" />
-  </action>
-  <action id="ReSharperGotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
-    <mouse-shortcut keystroke="control alt button1" />
-    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="ReSharperMoveStatementLeft" />
   <action id="RecentChangedFiles">
