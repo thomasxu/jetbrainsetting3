@@ -3,13 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo.Test/FunctionTests.cs" timestamp="1573605672450">
-        <mark key="'" line="31" column="16" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="37" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Api/Selz.Sample.Api/Controllers/ItemsController.cs" timestamp="1573600191306" />
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo.Test/TaskTestFixture.cs" timestamp="1573605539034" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/BlogPosts/AmazonFixture.cs" timestamp="1573644047331" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7208242E-8171-474E-A12D-B9D506D0C43F/6/Attributes.cs" timestamp="1573638007671">
         <mark key="'" line="248" column="17" />
       </file>
@@ -18,6 +14,7 @@
       <file name="/Dummy.cs" timestamp="1573642756983">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.Testing.json" timestamp="1573644588492" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/TokensController.cs" timestamp="1573636748630">
         <mark key="'" line="37" column="85" />
       </file>
@@ -39,6 +36,7 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" timestamp="1573636775793">
         <mark key="'" line="99" column="99" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.TeamCity.json" timestamp="1573644338313" />
       <file name="/Dummy.txt" timestamp="1573523911940">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,7 +51,7 @@
       </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo/Logging/LoggingContext.cs" timestamp="1573605745951" />
       <file name="C:/dev/git/selz/Services.Developer/Webhooks/src/Api/Selz.Webhooks.Api/Controllers/WebhooksController.cs" timestamp="1573617685573" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Tokens/TokenScenarios.cs" timestamp="1573642688350">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Tokens/TokenScenarios.cs" timestamp="1573644742883">
         <mark key="'" line="52" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECEE9B82-57FC-4EB4-9DA6-662D050BBFF9/76/1b4f3575/IOAuthApi.cs" timestamp="1573628252883">
@@ -68,6 +66,7 @@
         <mark key="'" line="73" column="60" />
       </file>
       <file name="C:/dev/git/selz/Services.Sample/Service/src/Tasks/Selz.Sample.Tasks.Demo/Function.cs" timestamp="1573606161986" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/142CC3D0-F751-4937-95D5-0094528DA26E/ce/8c0038de/AmazonClientFactory.cs" timestamp="1573644135443" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/140125AF-6CC4-470B-B814-7A6C4240E775/db/2d54aa44/AnalysisDescriptor.cs" timestamp="1573555927029">
         <mark key="'" line="58" column="30" />
       </file>
@@ -197,8 +196,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBGdW5jdGlvbkhhbmRsZXIoKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICB2YXIgZGVtb01lc3NhZ2UgPSBuZXcgRGVtb01lc3NhZ2Uge05hbWUgPSAiZm9vYmFyIn07CiAgICAgICAgICAgIHZhciBtZXNzYWdlID0gSnNvbkNvbnZlcnQuU2VyaWFsaXplT2JqZWN0KGRlbW9NZXNzYWdlKTsKICAgICAgICAgICAgdmFyIHNxc0V2ZW50ID0gQ3JlYXRlU3FzRXZlbnQobWVzc2FnZSk7CgogICAgICAgICAgICAvLyBBY3QKICAgICAgICAgICAgYXdhaXQgX2Z1bmN0aW9uLkZ1bmN0aW9uSGFuZGxlcihzcXNFdmVudCwgX2NvbnRleHQpOwoK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICJSZXBvc2l0b3J5IjogewogICAgIkNvbm5lY3Rpb25TdHJpbmciOiAibW9uZ29kYjovL2RiLmxvY2FsLnNlbHouY29tL3Rlc3Rfc2VydmljZXNfc2hvcHMiCiAgfSwKICAiSVpldHRsZUFwaSI6IHsKICAgICJDbGllbnRJZCI6ICIxMzA0YWUyOC0yZjJiLTRlNjYtOWYxNS1mYzI1Njg0MmEwYzYiLAogICAgIkNsaWVudFNlY3JldCI6ICJJWlNFQzY0N2YxZmEwLTllZmMtNDg3ZS04Y2FlLTRiYTU4NzUxMWVhMCIKICB9LA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -208,28 +207,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleC5HZXRUeXBlKCkuTmFtZSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKElzTG9nZ2VkKGV4KSkKICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleC5HZXRUeXBlKCkuTmFtZSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGV4LklzRmF0YWwoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGhyb3cgZXg7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKElzTG9nZ2VkKGV4KSkKICAgICAgICAgICAgewo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGV4LklzRmF0YWwoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGhyb3cgZXg7CiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGV4LklzRmF0YWwoKSkKICAgICAgICAgICAgewo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGFuZCAoCiAgICBhbmQoc3VjY2VlZGVkKCksIG5lKHZhcmlhYmxlc1snQnVpbGQuU291cmNlQnJhbmNoJ10sICdyZWZzL2hlYWRzL21hc3RlcicpKSwgCiAgICBhbmQoc3VjY2VlZGVkKCksIG5lKHZhcmlhYmxlc1snQnVpbGQuU291cmNlQnJhbmNoJ10sICdyZWZzL2hlYWRzL2RldmVsb3AnKSkKICAgICk=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBhbmQgKAogICAgYW5kKHN1Y2NlZWRlZCgpLCBuZSh2YXJpYWJsZXNbJ0J1aWxkLlNvdXJjZUJyYW5jaCddLCAncmVmcy9oZWFkcy9tYXN0ZXInKSksIGFuZChzdWNjZWVkZWQoKSwgbmUodmFyaWFibGVzWydCdWlsZC5Tb3VyY2VCcmFuY2gnXSwgJ3JlZnMvaGVhZHMvZGV2ZWxvcCcpKSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgRG90TGlxdWlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set multiple-cursors</text>
