@@ -10,10 +10,12 @@
         <mark key="[" line="236" column="0" />
         <mark key="]" line="242" column="69" />
       </file>
+      <file name="/OwnerResponse.cs" timestamp="1573775563424" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Infrastructure/Security/IdentityExtensions.cs" timestamp="1573776986768" />
       <file name="/Dummy.cs" timestamp="1573642756983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1573717877562">
+      <file name="/Dummy.txt" timestamp="1573775403864">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/BlogPosts/BlogPostGetRequest.cs" timestamp="1573716987612">
@@ -27,12 +29,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Store/OwnerResponse.cs" timestamp="1573772247267">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="35" column="26" />
-        <mark key="." line="35" column="26" />
-        <mark key="^" line="35" column="26" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Store/OwnerResponse.cs" timestamp="1573776285232">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="20" />
+        <mark key="^" line="32" column="20" />
       </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Mapping/StoreProfile.cs" timestamp="1573776896399" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/BlogPosts/AddImageResponse.cs" timestamp="1573716613160">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="36" />
@@ -50,12 +53,14 @@
         <mark key="." line="13" column="49" />
         <mark key="^" line="13" column="51" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Api/DTOs/ApplicationUser.cs" timestamp="1573776694227" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.Models/Store/StoreResponse.cs" timestamp="1573717282412">
         <mark key="[" line="48" column="1" />
         <mark key="]" line="48" column="1" />
         <mark key="^" line="35" column="30" />
         <mark key="." line="48" column="1" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/42/59fe5906/TimeZoneInfo.cs" timestamp="1573777059876" />
       <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/StoreController.cs" timestamp="1573716227442">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="53" column="108" />
@@ -180,7 +185,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>owner</text>
+        <text>, including their first and surname</text>
       </register>
       <register name="/" type="4">
         <text>blogpostr</text>
