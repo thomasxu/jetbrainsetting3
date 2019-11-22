@@ -77,9 +77,6 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
-  <action id="Compare.Selected">
-    <keyboard-shortcut first-keystroke="ctrl alt c" />
-  </action>
   <action id="CompareTwoFiles">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -89,6 +86,10 @@
   <action id="Console.TableResult.SelectRow" />
   <action id="Console.TableResult.SetNull" />
   <action id="Console.Transaction.Commit" />
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
