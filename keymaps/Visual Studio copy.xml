@@ -391,7 +391,6 @@
   <action id="PublishGroup.UploadTo" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="shift f9" />
-    <keyboard-shortcut first-keystroke="alt f8" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
@@ -421,6 +420,10 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="Replace" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift ctrl f5" />
+    <keyboard-shortcut first-keystroke="alt f8" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="f8" />
