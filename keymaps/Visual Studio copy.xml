@@ -52,9 +52,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
   <action id="CallHierarchy" />
-  <action id="ChangeSignature">
-    <keyboard-shortcut first-keystroke="alt m" />
-  </action>
+  <action id="ChangeSignature" />
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="ChangesView.Move" />
@@ -330,8 +328,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt k" />
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
   </action>
+  <action id="ModifyObject" />
   <action id="Move">
     <keyboard-shortcut first-keystroke="f6" />
+    <keyboard-shortcut first-keystroke="alt m" />
+    <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
   <action id="MoveElementLeft" />
   <action id="NewElement">
