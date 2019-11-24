@@ -3038,7 +3038,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="fa5-creative-commons-pd" value="&lt;i class=&quot;$1$ fa-creative-commons-pd $2$ $3$$4$&quot;&gt;&lt;/i&gt;$END$" description="Creative Commons Public Domain" toReformat="true" toShortenFQNames="false">
+  <template name="fa5-creative-commons-pd" value="&lt;i class=&quot;$1$ fa-creative-commons-pd $2$ $3$$4$&quot;&gt;&lt;/i&gt;$END$" description="Creative Commons Public Domain" toReformat="true" toShortenFQNames="false" deactivated="true">
     <variable name="1" expression="enum(&quot;fas&quot;,&quot;fab&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="enum(&quot;&quot;,&quot;fa-xs&quot;,&quot;fa-sm&quot;,&quot;fa-lg&quot;,&quot;fa-2x&quot;,&quot;fa-3x&quot;,&quot;fa-4x&quot;,&quot;fa-5x&quot;,&quot;fa-6x&quot;,&quot;fa-7x&quot;,&quot;fa-8x&quot;,&quot;fa-9x&quot;,&quot;fa-10x&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="enum(&quot;&quot;,&quot;fa-fw&quot;)" defaultValue="" alwaysStopAt="true" />
