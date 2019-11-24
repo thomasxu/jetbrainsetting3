@@ -81,6 +81,13 @@
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
   <action id="Console.TableResult.MaximizeEditingCell" />
+  <action id="Console.TableResult.NavigateForeignAction">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="alt period" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="Console.TableResult.SelectRow" />
   <action id="Console.TableResult.SetNull" />
   <action id="Console.Transaction.Commit" />
@@ -239,7 +246,6 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="alt period" />
-    <mouse-shortcut keystroke="alt button5" />
     <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="GotoFile">
@@ -355,6 +361,7 @@
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="alt down" />
     <mouse-shortcut keystroke="button4" />
+    <mouse-shortcut keystroke="alt button4" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
@@ -384,6 +391,7 @@
     <keyboard-shortcut first-keystroke="alt k" />
     <keyboard-shortcut first-keystroke="alt up" />
     <mouse-shortcut keystroke="shift button4" />
+    <mouse-shortcut keystroke="alt button5" />
   </action>
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
