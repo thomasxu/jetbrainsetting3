@@ -112,6 +112,7 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl asterisk" />
   </action>
@@ -320,6 +321,13 @@
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
   <action id="LocateInSolutionView" />
+  <action id="Macro.3">
+    <keyboard-shortcut first-keystroke="shift ctrl alt end" />
+  </action>
+  <action id="Macro.4">
+    <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
+    <mouse-shortcut keystroke="shift control alt button1" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
@@ -341,14 +349,13 @@
   <action id="NewScratchBuffer">
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
   </action>
+  <action id="NewScratchFile" />
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="NextEditorTab">
-    <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
-  </action>
+  <action id="NextEditorTab" />
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
     <keyboard-shortcut first-keystroke="shift alt l" />
@@ -514,6 +521,7 @@
   <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="ToggleBookmark" />
   <action id="ToggleBreakpointEnabled" />
+  <action id="ToggleFullScreen" />
   <action id="TypeHierarchy" />
   <action id="UML.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
