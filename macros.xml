@@ -1,38 +1,5 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="test1">
-      <shortuct text="ENTER" />
-      <shortuct text="RIGHT" />
-      <typing text-keycode="44:0">,</typing>
-      <shortuct text="WINDOWS" />
-      <shortuct text="WINDOWS" />
-      <shortuct text="WINDOWS" />
-      <action id="GotoAction" />
-      <shortuct text="control WINDOWS" />
-      <shortuct text="ENTER" />
-      <shortuct text="ESCAPE" />
-    </macro>
-    <macro name="AddEndCommaNewLine">
-      <shortuct text="ENTER" />
-      <shortuct text="ESCAPE" />
-      <typing text-keycode="70:0;222:1;65:0;44:0">f&quot;a,</typing>
-    </macro>
-    <macro name="EndCommaNewline1">
-      <shortuct text="ENTER" />
-      <shortuct text="ESCAPE" />
-      <typing text-keycode="70:0;222:1;65:0;44:0">f&quot;a,</typing>
-    </macro>
-    <macro name="2">
-      <shortuct text="ENTER" />
-      <shortuct text="ESCAPE" />
-      <typing text-keycode="70:0;222:1;65:0;44:0;59:0">f&quot;a,;</typing>
-    </macro>
-    <macro name="3">
-      <shortuct text="ENTER" />
-      <typing text-keycode="69:0;65:1;44:0">eA,</typing>
-      <shortuct text="ESCAPE" />
-      <typing text-keycode="79:0">o</typing>
-    </macro>
     <macro name="4">
       <shortuct text="ESCAPE" />
       <typing text-keycode="65:1;44:0">A,</typing>
