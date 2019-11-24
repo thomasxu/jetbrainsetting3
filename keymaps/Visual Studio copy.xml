@@ -321,10 +321,6 @@
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
   <action id="LocateInSolutionView" />
-  <action id="Macro.4">
-    <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
-    <mouse-shortcut keystroke="shift control alt button1" />
-  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
@@ -376,9 +372,6 @@
   <action id="PerforceDirect.Edit" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
-  <action id="PlaybackLastMacro">
-    <keyboard-shortcut first-keystroke="shift ctrl alt page_down" />
   </action>
   <action id="PopupHector" />
   <action id="PreviousDiff">
