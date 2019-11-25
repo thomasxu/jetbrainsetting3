@@ -12,5 +12,36 @@
       <action id="EditorRight" />
       <typing text-keycode="44:0">,</typing>
     </macro>
+    <macro name="5">
+      <shortuct text="ENTER" />
+      <shortuct text="RIGHT" />
+      <typing text-keycode="44:0">,</typing>
+    </macro>
+    <macro name="6">
+      <shortuct text="ENTER" />
+      <typing text-keycode="76:0;76:0;76:0;44:0">lll,</typing>
+    </macro>
+    <macro name="7">
+      <shortuct text="ENTER" />
+      <shortuct text="RIGHT" />
+      <typing text-keycode="44:0;59:0">,;</typing>
+    </macro>
+    <macro name="&lt;noname&gt;">
+      <shortuct text="ENTER" />
+      <shortuct text="RIGHT" />
+      <typing text-keycode="44:0">,</typing>
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="8">
+      <shortuct text="RIGHT" />
+      <typing text-keycode="44:0">,</typing>
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="9">
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="65:1;44:0">A,</typing>
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="79:0">o</typing>
+    </macro>
   </component>
 </application>
