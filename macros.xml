@@ -2,13 +2,14 @@
   <component name="ActionMacroManager">
     <macro name="4">
       <shortuct text="ESCAPE" />
-      <typing text-keycode="65:1;44:0">A,</typing>
-      <shortuct text="ESCAPE" />
-      <typing text-keycode="79:0">o</typing>
     </macro>
     <macro name="2">
-      <shortuct text="ENTER" />
       <shortuct text="END" />
+      <typing text-keycode="44:0">,</typing>
+    </macro>
+    <macro name="3">
+      <shortuct text="ENTER" />
+      <action id="EditorRight" />
       <typing text-keycode="44:0">,</typing>
     </macro>
   </component>

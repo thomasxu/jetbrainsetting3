@@ -83,6 +83,9 @@
   </action>
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
+  <action id="Console.TableResult.ColumnsList">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="Console.TableResult.MaximizeEditingCell" />
   <action id="Console.TableResult.NavigateForeignAction">
     <keyboard-shortcut first-keystroke="f12" />
@@ -188,9 +191,9 @@
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="alt back_slash" />
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
+  <action id="FileStructurePopupNew" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="alt f3" />
@@ -331,9 +334,10 @@
   <action id="LocateInSolutionView" />
   <action id="Macro.2">
     <keyboard-shortcut first-keystroke="alt f2" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="Macro.4">
-    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
@@ -448,6 +452,7 @@
     <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="Rider.Plugins.FSharp.SendToFsi" />
   <action id="RiderBackendAction-EncapsulateField">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
@@ -539,7 +544,6 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
   <action id="UML.ShowStructure">
-    <keyboard-shortcut first-keystroke="alt back_slash" />
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
   <action id="Unscramble" />
@@ -579,6 +583,7 @@
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
+  <action id="com.jetbrains.rider.interactive.csi.SendToCSharpInteractive" />
   <action id="context.load" />
   <action id="hg4idea.QPushAction" />
   <action id="ngxQuickSwitch.QuickSwitch">
