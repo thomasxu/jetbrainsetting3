@@ -329,6 +329,12 @@
     <keyboard-shortcut first-keystroke="shift alt f10" />
   </action>
   <action id="LocateInSolutionView" />
+  <action id="Macro.2">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
+  <action id="Macro.4">
+    <keyboard-shortcut first-keystroke="alt f1" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
@@ -401,6 +407,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt u" />
   </action>
   <action id="Print" />
+  <action id="ProjectViewChangeView" />
   <action id="PublishGroup.UploadTo" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="shift f9" />
@@ -482,6 +489,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt quote" />
   </action>
   <action id="SelectAllOccurrences" />
+  <action id="SelectIn" />
   <action id="SelectNextOccurrence" />
   <action id="SetNextStatement" />
   <action id="ShelvedChanges.Rename">
@@ -557,6 +565,9 @@
   <action id="VcsShowPrevChangeMarker" />
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
+  </action>
+  <action id="WebOpenInAction">
+    <keyboard-shortcut first-keystroke="ctrl alt f2" />
   </action>
   <action id="XDebugger.AttachToProcess">
     <keyboard-shortcut first-keystroke="ctrl alt f5" />
