@@ -414,9 +414,7 @@
   <action id="Print" />
   <action id="ProjectViewChangeView" />
   <action id="PublishGroup.UploadTo" />
-  <action id="QuickEvaluateExpression">
-    <keyboard-shortcut first-keystroke="shift f9" />
-  </action>
+  <action id="QuickEvaluateExpression" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
     <keyboard-shortcut first-keystroke="ctrl q" />
@@ -579,7 +577,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="XDebugger.MuteBreakpoints">
-    <keyboard-shortcut first-keystroke="ctrl f8" />
+    <keyboard-shortcut first-keystroke="shift f9" />
   </action>
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
