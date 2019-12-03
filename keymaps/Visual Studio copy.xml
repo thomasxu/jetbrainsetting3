@@ -266,6 +266,7 @@
     <keyboard-shortcut first-keystroke="alt end" />
     <mouse-shortcut keystroke="control alt button1" />
     <keyboard-shortcut first-keystroke="shift alt j" />
+    <mouse-shortcut keystroke="shift alt button142" />
   </action>
   <action id="GotoNextBookmark" />
   <action id="GotoNextError">
@@ -276,6 +277,7 @@
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="shift alt k" />
+    <mouse-shortcut keystroke="shift alt button143" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
@@ -366,6 +368,7 @@
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="alt l" />
+    <mouse-shortcut keystroke="alt button5" />
   </action>
   <action id="NextEditorTab" />
   <action id="NextOccurence">
@@ -374,6 +377,7 @@
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="alt down" />
     <mouse-shortcut keystroke="alt button4" />
+    <mouse-shortcut keystroke="alt button142" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
@@ -394,6 +398,7 @@
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="alt h" />
+    <mouse-shortcut keystroke="alt button4" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousOccurence">
@@ -402,6 +407,7 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <mouse-shortcut keystroke="shift button4" />
     <mouse-shortcut keystroke="alt button5" />
+    <mouse-shortcut keystroke="alt button143" />
   </action>
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
@@ -458,6 +464,7 @@
   <action id="RiderRemoveAllLineBreakpoints" />
   <action id="RiderShowValueOrigin">
     <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+    <mouse-shortcut keystroke="shift control alt button1" />
   </action>
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestCoverSolutionAction" />
