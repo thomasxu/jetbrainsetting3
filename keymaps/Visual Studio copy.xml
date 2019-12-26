@@ -122,12 +122,12 @@
     <mouse-shortcut keystroke="shift alt button5" />
   </action>
   <action id="Diff.NextChange">
-    <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+    <keyboard-shortcut first-keystroke="ctrl alt f9" />
   </action>
   <action id="Diff.PrevChange">
-    <keyboard-shortcut first-keystroke="alt k" />
     <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="alt d" />
