@@ -123,9 +123,11 @@
   </action>
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
   </action>
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="alt k" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
   </action>
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="alt d" />
@@ -222,6 +224,14 @@
   </action>
   <action id="FindDependantCodeAction">
     <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift alt period" />
