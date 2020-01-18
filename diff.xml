@@ -78,7 +78,12 @@
       </entry>
       <entry key="Default">
         <PlaceSettings>
-          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
+          <option name="HIGHLIGHT_POLICY" value="BY_CHAR" />
+        </PlaceSettings>
+      </entry>
+      <entry key="External">
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_CHAR" />
         </PlaceSettings>
       </entry>
     </option>
