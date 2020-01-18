@@ -401,11 +401,11 @@
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
     <keyboard-shortcut first-keystroke="shift alt o" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
   <action id="Pause" />
   <action id="PerforceDirect.Edit" />
