@@ -23,6 +23,9 @@
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt f12" />
+  </action>
   <action id="ActivateInspectionResultsToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt 4" />
   </action>
@@ -34,7 +37,6 @@
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
-    <keyboard-shortcut first-keystroke="alt 3" />
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="ActivateUnitTestsToolWindow">
@@ -85,6 +87,7 @@
   </action>
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
+  <action id="Console.TableResult.CloneColumn" />
   <action id="Console.TableResult.ColumnsList">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
@@ -519,6 +522,10 @@
   <action id="SelectAllOccurrences" />
   <action id="SelectIn" />
   <action id="SelectNextOccurrence" />
+  <action id="ServiceView.ActivateDockerServiceViewContributor">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="SetNextStatement" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
@@ -566,6 +573,7 @@
   <action id="UML.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
+  <action id="UML.ShowChanges" />
   <action id="UML.ShowStructure">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
