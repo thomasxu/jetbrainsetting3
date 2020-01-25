@@ -168,6 +168,7 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
+  <action id="EditorJoinLines" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -256,7 +257,6 @@
   </action>
   <action id="Git.Commit.And.Push.Executor">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="Git.Fetch">
@@ -403,6 +403,7 @@
     <keyboard-shortcut first-keystroke="alt down" />
     <mouse-shortcut keystroke="alt button4" />
     <mouse-shortcut keystroke="alt button142" />
+    <keyboard-shortcut first-keystroke="shift ctrl j" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
@@ -432,6 +433,7 @@
     <mouse-shortcut keystroke="shift button4" />
     <mouse-shortcut keystroke="alt button5" />
     <mouse-shortcut keystroke="alt button143" />
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
@@ -500,6 +502,9 @@
   </action>
   <action id="RiderUnitTestDotMemoryUnitAction" />
   <action id="RiderUnitTestNewSessionAction" />
+  <action id="RiderUnitTestNextOccurenceAction">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="RiderUnitTestQuickListPopupAction" />
   <action id="RiderUnitTestRepeatPreviousRunAction" />
   <action id="RiderUnitTestRunContextAction" />
