@@ -64,7 +64,7 @@
   <action id="ChangesView.ShelveSilently" />
   <action id="CheckinProject" />
   <action id="ChooseDebugConfiguration" />
-  <action id="CloseAllUnpinnedEditors">
+  <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="CloseContent">
@@ -521,9 +521,6 @@
   <action id="RunDashboard.Run" />
   <action id="RunInspection" />
   <action id="RunToCursor" />
-  <action id="Runner.CloseAllUnpinnedViews">
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
-  </action>
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="alt delete" />
     <keyboard-shortcut first-keystroke="shift ctrl alt quote" />
