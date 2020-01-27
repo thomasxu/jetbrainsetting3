@@ -372,10 +372,12 @@
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+    <mouse-shortcut keystroke="shift control alt button142" />
   </action>
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="shift ctrl alt k" />
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+    <mouse-shortcut keystroke="shift control alt button143" />
   </action>
   <action id="ModifyObject" />
   <action id="Move">
