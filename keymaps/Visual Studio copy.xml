@@ -415,6 +415,10 @@
     <keyboard-shortcut first-keystroke="shift alt o" />
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+    <mouse-shortcut keystroke="shift control button2" />
+  </action>
   <action id="Pause" />
   <action id="PerforceDirect.Edit" />
   <action id="PinActiveTab">
