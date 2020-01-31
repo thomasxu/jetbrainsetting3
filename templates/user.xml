@@ -21,7 +21,7 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="propgo" value="public $type$ $property$ { get; }&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="propg" value="public $type$ $property$ { get; }&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
     <context>
@@ -70,7 +70,7 @@
       <option name="powershell.context.file" value="false" />
     </context>
   </template>
-  <template name="propgoi" value="$type$ $property$ { get; }&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="propgi" value="$type$ $property$ { get; }&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
     <context>
@@ -277,6 +277,78 @@
       <option name="OTHER" value="true" />
       <option name="REQUEST" value="false" />
       <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+      <option name="powershell.context.file" value="false" />
+    </context>
+  </template>
+  <template name="propi" value="$type$ $property$ { get; set;}&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
+    <context>
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+      <option name="powershell.context.file" value="false" />
+    </context>
+  </template>
+  <template name="props" value="public static $type$ $property$ { get; set; }&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
+    <context>
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+      <option name="powershell.context.file" value="false" />
+    </context>
+  </template>
+  <template name="propgs" value="public static $type$ $property$ { get; }&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
+    <context>
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
       <option name="TypeScript" value="false" />
       <option name="Vue" value="false" />
       <option name="XML" value="false" />
