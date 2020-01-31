@@ -4,7 +4,7 @@
     <property name="created">2018-11-29T20:08:39</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2018-12-01T00:14:38</property>
+    <property name="modified">2020-01-31T19:25:24</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -32,6 +32,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="a9dc76" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="ab9df2" />
     <option name="FILESTATUS_MODIFIED" value="78dce8" />
@@ -1108,7 +1110,15 @@
         <option name="FOREGROUND" value="ff6188" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
