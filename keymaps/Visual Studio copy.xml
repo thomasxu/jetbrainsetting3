@@ -182,6 +182,7 @@
     <keyboard-shortcut first-keystroke="ctrl l" />
     <keyboard-shortcut first-keystroke="shift alt f11" />
   </action>
+  <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <keyboard-shortcut first-keystroke="alt o" />
@@ -544,6 +545,7 @@
   <action id="ScrollPane-scrollRight">
     <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
+  <action id="ScrollTreeToCenter" />
   <action id="SelectAllOccurrences" />
   <action id="SelectIn" />
   <action id="SelectNextOccurrence" />
@@ -593,6 +595,9 @@
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
+  <action id="TW.ViewModeGroup">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="ToggleBookmark" />
   <action id="ToggleBreakpointEnabled" />
@@ -624,6 +629,7 @@
   <action id="Vcs.ShowHistoryForBlock">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
   </action>
+  <action id="Vcs.ShowMessageHistory" />
   <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
