@@ -572,6 +572,7 @@
   </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl context_menu" />
   </action>
   <action id="ShowReformatFileDialog" />
   <action id="ShowSearchHistory" />
