@@ -87,6 +87,7 @@
   <action id="CompareTwoFiles">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="CompileDirty" />
   <action id="Console.History.Browse" />
   <action id="Console.Open" />
   <action id="Console.TableResult.CloneColumn" />
@@ -308,6 +309,7 @@
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="GotoPreviousBookmark" />
+  <action id="GotoRelated" />
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="shift alt k" />
@@ -396,7 +398,6 @@
   </action>
   <action id="NewScratchFile" />
   <action id="NextDiff">
-    <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="alt button5" />
   </action>
@@ -415,6 +416,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="OpenWinFormsCodeAction" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <mouse-shortcut keystroke="shift control button2" />
@@ -449,6 +451,7 @@
   <action id="QuickEvaluateExpression">
     <mouse-shortcut keystroke="shift control alt button4" />
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
+    <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
