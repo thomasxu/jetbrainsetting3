@@ -49,6 +49,7 @@
   <action id="ActivateWebToolWindow" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="AutoIndentLines" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -216,6 +217,7 @@
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -252,6 +254,10 @@
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="button3" />
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
@@ -395,6 +401,7 @@
   <action id="MoveElementLeft" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="NewScratchFile" />
   <action id="NextDiff">
