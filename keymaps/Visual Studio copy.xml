@@ -31,6 +31,7 @@
   </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow">
@@ -136,6 +137,8 @@
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditBreakpoint" />
   <action id="EditorAddOrRemoveCaret" />
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
@@ -214,7 +217,9 @@
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
+  <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl alt i" />
@@ -287,6 +292,8 @@
     <keyboard-shortcut first-keystroke="ctrl alt q" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
   <action id="GotoBookmark3" />
   <action id="GotoBookmark4" />
   <action id="GotoClass">
@@ -559,6 +566,7 @@
   <action id="ServiceView.ActivateDockerServiceViewContributor">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
     <keyboard-shortcut first-keystroke="alt 2" />
+    <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="SetNextStatement" />
   <action id="ShelvedChanges.Rename">
