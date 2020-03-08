@@ -12,18 +12,19 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="allowTypingDuringDebug" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
-          <option name="enableExternalSourceDebug" value="false" />
           <option name="showFullyQualifiedTypeNames" value="true" />
-          <option name="remappedSourceLocationsMap">
-            <map />
-          </option>
+          <option name="showRunToPanel" value="false" />
         </configuration>
       </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="oracle">
+        <configuration>
+          <option name="steppingPauseAtBegin" value="true" />
         </configuration>
       </debugger>
     </debuggers>
