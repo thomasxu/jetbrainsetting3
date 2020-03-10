@@ -29,9 +29,6 @@
   <action id="ActivateInspectionResultsToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt 4" />
   </action>
-  <action id="ActivateNuGetToolWindow">
-    <keyboard-shortcut first-keystroke="shift alt 7" />
-  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
@@ -574,7 +571,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
     <keyboard-shortcut first-keystroke="alt 2" />
     <keyboard-shortcut first-keystroke="ctrl 2" />
-    <keyboard-shortcut first-keystroke="alt 7" />
   </action>
   <action id="SetNextStatement" />
   <action id="ShelvedChanges.Rename">
