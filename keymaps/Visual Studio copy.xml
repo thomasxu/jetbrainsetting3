@@ -190,7 +190,6 @@
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
-    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine" />
@@ -199,7 +198,6 @@
   <action id="EditorToggleUseSoftWraps" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
-    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
@@ -559,9 +557,11 @@
   </action>
   <action id="ScrollPane-scrollLeft">
     <keyboard-shortcut first-keystroke="shift alt u" />
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="ScrollPane-scrollRight">
     <keyboard-shortcut first-keystroke="shift alt o" />
+    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="ScrollTreeToCenter" />
   <action id="SelectAllOccurrences" />
