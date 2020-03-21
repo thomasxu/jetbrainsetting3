@@ -591,10 +591,12 @@
   <action id="ScrollPane-scrollLeft">
     <keyboard-shortcut first-keystroke="shift alt u" />
     <keyboard-shortcut first-keystroke="alt u" />
+    <mouse-shortcut keystroke="shift alt button143" />
   </action>
   <action id="ScrollPane-scrollRight">
     <keyboard-shortcut first-keystroke="shift alt o" />
     <keyboard-shortcut first-keystroke="alt o" />
+    <mouse-shortcut keystroke="shift alt button142" />
   </action>
   <action id="ScrollTreeToCenter" />
   <action id="SelectAllOccurrences" />
