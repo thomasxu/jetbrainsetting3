@@ -263,7 +263,6 @@
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
   <action id="FindPrevious">
@@ -342,7 +341,6 @@
   </action>
   <action id="GotoNextBookmark" />
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="alt page_down" />
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="GotoPreviousBookmark" />
@@ -453,6 +451,10 @@
     <keyboard-shortcut first-keystroke="alt down" />
     <mouse-shortcut keystroke="alt button4" />
     <mouse-shortcut keystroke="alt button142" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
