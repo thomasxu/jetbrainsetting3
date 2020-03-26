@@ -1,7 +1,21 @@
 <application>
   <component name="CodeLensSettings">
+    <anchor>
+      <map>
+        <entry key="Derived symbols" value="Right" />
+        <entry key="Exposing API" value="Right" />
+        <entry key="Extension methods" value="Right" />
+        <entry key="F# Inferred types" value="Right" />
+        <entry key="Unity implicit usage" value="Right" />
+        <entry key="Unity serialized field" value="Right" />
+        <entry key="Usages" value="Right" />
+        <entry key="VcsAuthorCodeLensProvider" value="Right" />
+      </map>
+    </anchor>
     <enabled>
-      <map />
+      <map>
+        <entry key="Usages" value="true" />
+      </map>
     </enabled>
     <showUnavailable>false</showUnavailable>
   </component>
