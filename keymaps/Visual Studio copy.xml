@@ -161,6 +161,7 @@
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="EditorContextInfo" />
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
@@ -455,7 +456,6 @@
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt page_down" />
-    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
