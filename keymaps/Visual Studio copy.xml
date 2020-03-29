@@ -70,6 +70,7 @@
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="ChangesView.SetDefault" />
   <action id="ChangesView.ShelveSilently" />
   <action id="CheckinProject" />
   <action id="ChooseDebugConfiguration" />
@@ -81,9 +82,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCleanup" />
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl space" />
-  </action>
+  <action id="CodeCompletion" />
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
@@ -168,8 +167,6 @@
   </action>
   <action id="EditorCodeBlockStart" />
   <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
-    <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="EditorContextInfo" />
@@ -475,6 +472,7 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <mouse-shortcut keystroke="shift control button2" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="Pause" />
   <action id="PerforceDirect.Edit" />
