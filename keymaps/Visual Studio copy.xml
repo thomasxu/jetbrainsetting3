@@ -82,7 +82,9 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCleanup" />
-  <action id="CodeCompletion" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
+  </action>
   <action id="CodeInspection.OnEditor" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
@@ -648,6 +650,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
   </action>
   <action id="SmartStepInto" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift f5" />
     <keyboard-shortcut first-keystroke="shift f8" />
