@@ -26,4 +26,12 @@
     <variable name="ELEMENT_TYPE" expression="iterableComponentType(SELECTION)" defaultValue="&quot;java.lang.Object&quot;" alwaysStopAt="false" />
     <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
   </template>
+  <template name="afs" value="($END$)=&gt;{$SELECTION$}" shortcut="NONE" description="Surround with {}" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
