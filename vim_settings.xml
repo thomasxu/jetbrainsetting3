@@ -9,8 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxQb3NpdGlvblw+</entry>
-        <entry>re</entry>
         <entry>)</entry>
         <entry>new</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
@@ -29,6 +27,8 @@
         <entry>{</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFd3d1w+</entry>
+        <entry>Cus</entry>
+        <entry encoding="base64">XDxfY3VzdG9tRG9tYWluU2V0dGluZ3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -150,16 +150,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586766489060">
+      <file name="/Dummy.txt" timestamp="1586768954995">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core.Tests/CustomHostnameTest.cs" timestamp="1586766789135">
-        <mark key="[" line="54" column="82" />
-        <mark key="]" line="54" column="87" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core.Tests/CustomHostnameTest.cs" timestamp="1586768380428">
+        <mark key="[" line="54" column="70" />
+        <mark key="]" line="54" column="71" />
         <mark key="^" line="54" column="87" />
-        <mark key="." line="54" column="86" />
+        <mark key="." line="54" column="71" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Selz.Catalog.Api.FunctionalTests.csproj" timestamp="1586752466667">
         <mark key="[" line="3" column="33" />
@@ -187,25 +187,33 @@
       <file name="C:/dev/git/selz/drachma/packages/MSBuild.Microsoft.VisualStudio.Web.targets.14.0.0.3/tools/VSToolsPath/Web/Microsoft.Web.Publishing.targets" timestamp="1586744681663">
         <mark key="." line="3664" column="84" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" timestamp="1586768563095">
+        <mark key="'" line="25" column="57" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/DomainExtension.cs" timestamp="1586763648440">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="11" column="105" />
         <mark key="^" line="11" column="105" />
         <mark key="." line="11" column="105" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C5AF90E0-B279-40A2-88E6-DEA0FAB79598/AD/GrantTypes.cs" timestamp="1586726853896">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="41" column="5" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1586769110928">
+        <mark key="[" line="1249" column="35" />
+        <mark key="]" line="1247" column="46" />
+        <mark key="^" line="1247" column="46" />
+        <mark key="." line="1247" column="45" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" timestamp="1586768917151">
+        <mark key="'" line="357" column="29" />
+        <mark key="[" line="436" column="88" />
+        <mark key="]" line="436" column="106" />
+        <mark key="^" line="436" column="106" />
+        <mark key="." line="436" column="105" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Pact/Services/FakeShopService.cs" timestamp="1586764940649">
         <mark key="[" line="65" column="87" />
         <mark key="]" line="65" column="105" />
         <mark key="^" line="65" column="105" />
         <mark key="." line="65" column="104" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FD1C2CA9-9B78-41DA-A08F-588774EF679E/0/OidcConstants.cs" timestamp="1586726775141">
-        <mark key="'" line="229" column="28" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core.Tests/Selz.Shops.Core.Tests.csproj" timestamp="1586753905280">
         <mark key="[" line="3" column="37" />
@@ -225,10 +233,6 @@
         <mark key="^" line="150" column="101" />
         <mark key="." line="150" column="100" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2B7C60C0-2BD3-4031-84F6-45B19212FCEB/0/GrantType.cs" timestamp="1586726876270">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="15" column="5" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/IShopService.cs" timestamp="1586763594607">
         <mark key="[" line="12" column="80" />
         <mark key="]" line="12" column="92" />
@@ -237,11 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="52" filename="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Services/ClientService.cs" />
-      <jump line="60" column="57" filename="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Services/ClientService.cs" />
-      <jump line="63" column="52" filename="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Services/ClientService.cs" />
-      <jump line="65" column="60" filename="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Services/ClientService.cs" />
-      <jump line="71" column="50" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Client/IIdentityApi.cs" />
       <jump line="74" column="92" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Client/IIdentityApi.cs" />
       <jump line="78" column="72" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Client/IIdentityApi.cs" />
       <jump line="82" column="101" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Client/IIdentityApi.cs" />
@@ -337,6 +336,11 @@
       <jump line="137" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" />
       <jump line="139" column="8" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" />
       <jump line="138" column="92" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" />
+      <jump line="24" column="21" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" />
+      <jump line="25" column="57" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" />
+      <jump line="45" column="47" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" />
+      <jump line="77" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" />
+      <jump line="357" column="29" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -354,13 +358,13 @@
         <text>jjkkkj</text>
       </register>
       <register name="+" type="4">
-        <text>true</text>
+        <text>req</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>req</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWRpcmVjdFd3d1w+</text>
+        <text encoding="base64">XDxfY3VzdG9tRG9tYWluU2V0dGluZ3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgibXJwb3RhdG8uY29tIiwgdHJ1ZSwgbmV3W10geyIxIiwgIjIifSwgMiwgMiwgMywgMiwgZmFsc2UpXQo=</text>
@@ -405,9 +409,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWRpcmVjdFd3d1w+</last-search>
+      <last-search encoding="base64">XDxfY3VzdG9tRG9tYWluU2V0dGluZ3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWRpcmVjdFd3d1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfY3VzdG9tRG9tYWluU2V0dGluZ3NcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>re</last-substitute>
       <last-dir>1</last-dir>
