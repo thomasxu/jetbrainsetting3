@@ -9,8 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>)</entry>
-        <entry>new</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry>or</entry>
         <entry>map</entry>
@@ -29,6 +27,8 @@
         <entry encoding="base64">XDxyZWRpcmVjdFd3d1w+</entry>
         <entry>Cus</entry>
         <entry encoding="base64">XDxfY3VzdG9tRG9tYWluU2V0dGluZ3NcPg==</entry>
+        <entry>parseURL</entry>
+        <entry encoding="base64">XDxwYXJzZVVSTFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -208,9 +208,6 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="C:/dev/git/selz/drachma/packages/MSBuild.Microsoft.VisualStudio.Web.targets.14.0.0.3/tools/VSToolsPath/Web/Microsoft.Web.Publishing.targets" timestamp="1586744681663">
-        <mark key="." line="3664" column="84" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Extensions/DomainExtension.cs" timestamp="1586763648440">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="11" column="105" />
@@ -230,6 +227,9 @@
         <mark key="^" line="65" column="105" />
         <mark key="." line="65" column="104" />
       </file>
+      <file name="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" timestamp="1586845442250">
+        <mark key="'" line="129" column="13" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/IShopService.cs" timestamp="1586763594607">
         <mark key="[" line="12" column="80" />
         <mark key="]" line="12" column="92" />
@@ -238,8 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="92" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Client/IIdentityApi.cs" />
-      <jump line="78" column="72" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Client/IIdentityApi.cs" />
       <jump line="82" column="101" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Client/IIdentityApi.cs" />
       <jump line="86" column="53" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Client/IIdentityApi.cs" />
       <jump line="12" column="73" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Client/IIdentityApi.cs" />
@@ -338,6 +336,8 @@
       <jump line="45" column="47" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" />
       <jump line="77" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" />
       <jump line="357" column="29" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" />
+      <jump line="55" column="19" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
+      <jump line="129" column="13" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -361,7 +361,7 @@
         <text>req</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY3VzdG9tRG9tYWluU2V0dGluZ3NcPg==</text>
+        <text encoding="base64">XDxwYXJzZVVSTFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHVyaSA9IG5ldyBVcmkoImh0dHBzOi8vYWJjLmNvLnVrIik7Cg==</text>
@@ -406,9 +406,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfY3VzdG9tRG9tYWluU2V0dGluZ3NcPg==</last-search>
+      <last-search encoding="base64">XDxwYXJzZVVSTFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY3VzdG9tRG9tYWluU2V0dGluZ3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJzZVVSTFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>re</last-substitute>
       <last-dir>1</last-dir>
