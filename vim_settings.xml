@@ -9,11 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>'h</entry>
-        <entry>cre</entry>
-        <entry>Update</entry>
-        <entry>Map</entry>
-        <entry>AllowedGr</entry>
         <entry>client</entry>
         <entry>clien</entry>
         <entry>AccessTokenType</entry>
@@ -29,6 +24,11 @@
         <entry>{</entry>
         <entry encoding="base64">XDxFeHRlcm5hbFZhbGlkYXRpb25cPg==</entry>
         <entry encoding="base64">XDxfZG5zU2VydmljZVw+</entry>
+        <entry>In</entry>
+        <entry encoding="base64">XDxfYXV0aEV4dGVuc2lvblw+</entry>
+        <entry encoding="base64">XDxfcmVhZG9ubHlzdGF0aWNmaWVsZFw+</entry>
+        <entry encoding="base64">XDxfc2VyaWFsaXphYmxlQXR0cmlidXRlXD4=</entry>
+        <entry>abc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -156,7 +156,7 @@
         <mark key="^" line="27" column="8" />
         <mark key="." line="27" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586911172071">
+      <file name="/Dummy.txt" timestamp="1586955418372">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -167,6 +167,13 @@
         <mark key="]" line="17" column="42" />
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="42" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1586957487980">
+        <mark key="'" line="51" column="39" />
+        <mark key="[" line="59" column="8" />
+        <mark key="]" line="59" column="28" />
+        <mark key="." line="59" column="27" />
+        <mark key="^" line="59" column="28" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" timestamp="1586910744250">
         <mark key="'" line="25" column="57" />
@@ -179,13 +186,19 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/559D1F9D-2E45-46D9-8A2E-DCB8C69E6AC7/0/IHostingEnvironment.cs" timestamp="1586954616059">
+        <mark key="[" line="19" column="56" />
+        <mark key="]" line="19" column="56" />
+        <mark key="^" line="19" column="56" />
+        <mark key="." line="19" column="55" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1586876459045">
         <mark key="[" line="1250" column="0" />
         <mark key="]" line="1250" column="0" />
         <mark key="^" line="1245" column="41" />
         <mark key="." line="1250" column="0" />
       </file>
-      <file name="/" timestamp="1586954092034">
+      <file name="/" timestamp="1586957429574">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" timestamp="1586929833646">
@@ -211,17 +224,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Extensions/UriExtensions.cs" timestamp="1586956770111">
+        <mark key="'" line="6" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="31" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="188" column="30" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="194" column="25" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="132" column="26" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="92" column="29" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="93" column="55" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="158" column="59" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="160" column="17" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="164" column="47" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
       <jump line="165" column="49" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
       <jump line="166" column="52" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
       <jump line="167" column="50" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
@@ -313,6 +320,15 @@
       <jump line="66" column="44" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/ShopsController.cs" />
       <jump line="132" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/ShopsController.cs" />
       <jump line="425" column="40" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/ShopsController.cs" />
+      <jump line="255" column="8" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="34" column="17" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="59" column="39" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="89" column="12" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="6" column="24" filename="C:/dev/git/selz/API/src/Selz.Core/Extensions/UriExtensions.cs" />
+      <jump line="50" column="37" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="248" column="1" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="0" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="51" column="39" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,46 +346,46 @@
         <text>jjkkkj</text>
       </register>
       <register name="+" type="4">
-        <text>!</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZG5zU2VydmljZVw+</text>
+        <text>abc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRydWUpCg==</text>
+      <register name="0" type="4">
+        <text>abc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFzZGYiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVGFzazxBcGlSZXNwb25zZTxFbWFpbFNldHRpbmdSZXNwb25zZT4+IEdldEVtYWlsU2V0dGluZ0J5SWRBc3luYyhpbnQgaWQsIHN0cmluZyBjb3JyZWxhdGlvbklkKQogICAgICAgIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwogICAgICAgIH0K</text>
+        <text encoding="base64">YWJjLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWJjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQXNzZXJ0RW1haWxTZXR0aW5nKEVtYWlsU2V0dGluZ1Jlc3BvbnNlIHNldHRpbmcsIFNob3Agc2hvcCkKICAgICAgICB7CiAgICAgICAgICAgIHNldHRpbmcuQWNjb3VudFR5cGUgPSAoU2hvcEFjY291bnRUeXBlKSBzaG9wLkFjY291bnRUeXBlOwogICAgICAgICAgICBzZXR0aW5nLkN1bHR1cmVOYW1lID0gc2hvcC5DdWx0dXJlTmFtZTsKICAgICAgICAgICAgc2V0dGluZy5UaW1lWm9uZSA9IHNob3AuVGltZVpvbmU7CiAgICAgICAgICAgIHNldHRpbmcuU2hvcEJ1dHRvbkJnQ29sb3IgPSBzaG9wLlRoZW1lPy5TaG9wQnV0dG9uQmdDb2xvcjsKICAgICAgICAgICAgc2V0dGluZy5TaG9wQnV0dG9uVGV4dENvbG9yID0gc2hvcC5UaGVtZT8uU2hvcEJ1dHRvblRleHRDb2xvcjsKICAgICAgICAgICAgc2V0dGluZy5TaG9wTGlua0NvbG9yID0gc2hvcC5UaGVtZT8uU2hvcExpbmtDb2xvcjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3NlcmlhbGl6YWJsZUF0dHJpYnV0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBHZXRFbWFpbFNldHRpbmdCeUlkX05vdEZvdW5kKCkKICAgICAgICB7CiAgICAgICAgICAgIHVzaW5nICh2YXIgc2VydmVyID0gQ3JlYXRlU2VydmVyKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHVzaW5nIChzZXJ2ZXIuQ3JlYXRlU2NvcGUoKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YXIgY29yID0gR3VpZC5OZXdHdWlkKCkuVG9TdHJpbmcoKTsKICAgICAgICAgICAgICAgICAgICB2YXIgY2xpZW50ID0gc2VydmVyLkdldFNob3BDbGllbnQoKTsKCiAgICAgICAgICAgICAgICAgICAgdmFyIGludmFsaWRTaG9wSWQgPSBpbnQuTWF4VmFsdWU7CgogICAgICAgICAgICAgICAgICAgIHZhciByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5HZXRFbWFpbFNldHRpbmdCeUlkQXN5bmMoaW52YWxpZFNob3BJZCwgY29yKTsKICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5TdGF0dXNDb2RlLlNob3VsZCgpLkJlKEh0dHBTdGF0dXNDb2RlLk5vdEZvdW5kKTsKICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5IZWFkZXJzLkNvbnRhaW5zKCJYLUNvcnJlbGF0aW9uLUlkIikuU2hvdWxkKCkuQmVUcnVlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIFtGYWN0XQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrIEdldEVtYWlsU2V0dGluZ0J5SWRfT2soKQogICAgICAgIHsKICAgICAgICAgICAgdXNpbmcgKHZhciBzZXJ2ZXIgPSBDcmVhdGVTZXJ2ZXIoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdXNpbmcgKHNlcnZlci5DcmVhdGVTY29wZSgpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciBjb3IgPSBHdWlkLk5ld0d1aWQoKS5Ub1N0cmluZygpOwogICAgICAgICAgICAgICAgICAgIHZhciBjbGllbnQgPSBzZXJ2ZXIuR2V0U2hvcENsaWVudCgpOwoKICAgICAgICAgICAgICAgICAgICB2YXIgcmFuZG9tU2hvcCA9IGF3YWl0IEZpeHR1cmUuU2hvcHMuR2V0UmFuZG9tQXN5bmMoKTsKCiAgICAgICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gYXdhaXQgY2xpZW50LkdldEVtYWlsU2V0dGluZ0J5SWRBc3luYyhyYW5kb21TaG9wLklkLCBjb3IpOwogICAgICAgICAgICAgICAgICAgIHZhciBlbWFpbFNldHRpbmcgPSByZXNwb25zZS5Db250ZW50OwogICAgICAgICAgICAgICAgICAgIGVtYWlsU2V0dGluZy5TaG91bGQoKS5Ob3RCZU51bGwoKTsKICAgICAgICAgICAgICAgICAgICBBc3NlcnRFbWFpbFNldHRpbmcoZW1haWxTZXR0aW5nLCByYW5kb21TaG9wKTsKICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5IZWFkZXJzLkNvbnRhaW5zKCJYLUNvcnJlbGF0aW9uLUlkIikuU2hvdWxkKCkuQmVUcnVlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSWRlbnRpdHlVc2VyUm9sZTwuPgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gYXdhaXQgY2xpZW50LkdldEVtYWlsU2V0dGluZ0J5SWRBc3luYyhpbnZhbGlkU2hvcElkLCBjb3IpOwogICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLlN0YXR1c0NvZGUuU2hvdWxkKCkuQmUoSHR0cFN0YXR1c0NvZGUuTm90Rm91bmQpOwogICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLkhlYWRlcnMuQ29udGFpbnMoIlgtQ29ycmVsYXRpb24tSWQiKS5TaG91bGQoKS5CZVRydWUoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2sgR2V0RW1haWxTZXR0aW5nQnlJZF9PaygpCiAgICAgICAgewogICAgICAgICAgICB1c2luZyAodmFyIHNlcnZlciA9IENyZWF0ZVNlcnZlcigpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB1c2luZyAoc2VydmVyLkNyZWF0ZVNjb3BlKCkpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIGNvciA9IEd1aWQuTmV3R3VpZCgpLlRvU3RyaW5nKCk7CiAgICAgICAgICAgICAgICAgICAgdmFyIGNsaWVudCA9IHNlcnZlci5HZXRTaG9wQ2xpZW50KCk7CgogICAgICAgICAgICAgICAgICAgIHZhciByYW5kb21TaG9wID0gYXdhaXQgRml4dHVyZS5TaG9wcy5HZXRSYW5kb21Bc3luYygpOwoKICAgICAgICAgICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBhd2FpdCBjbGllbnQuR2V0RW1haWxTZXR0aW5nQnlJZEFzeW5jKHJhbmRvbVNob3AuSWQsIGNvcik7CiAgICAgICAgICAgICAgICAgICAgdmFyIGVtYWlsU2V0dGluZyA9IHJlc3BvbnNlLkNvbnRlbnQ7CiAgICAgICAgICAgICAgICAgICAgZW1haWxTZXR0aW5nLlNob3VsZCgpLk5vdEJlTnVsbCgpOwogICAgICAgICAgICAgICAgICAgIEFzc2VydEVtYWlsU2V0dGluZyhlbWFpbFNldHRpbmcsIHJhbmRvbVNob3ApOwogICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLkhlYWRlcnMuQ29udGFpbnMoIlgtQ29ycmVsYXRpb24tSWQiKS5TaG91bGQoKS5CZVRydWUoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuQ29kZS5DbG9uZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgW0dldCgiL3Nob3BzL3tpZH0vc2V0dGluZ3MvZW1haWwiKV0KICAgICAgICBUYXNrPEFwaVJlc3BvbnNlPEVtYWlsU2V0dGluZ1Jlc3BvbnNlPj4gR2V0RW1haWxTZXR0aW5nQnlJZEFzeW5jKGludCBpZCwgW0NvcnJlbGF0aW9uSWRdIHN0cmluZyBjb3JyZWxhdGlvbklkKTs=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9hdXRob3JpemF0aW9uQ29kZVN0b3JlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nU2VjdXJpdHkoU2VjdXJpdHlMb2dFbnRpdHkuRnJvbUh0dHBDb250ZXh0KEh0dHBDb250ZXh0LCBTZWN1cml0eUxvZ0VudGl0eVR5cGVzLkltcGVyc29uYXRpb24sCiAgICAgICAgICAgICAgICAgICAgJCJ7bmFtZW9mKFVzZXJzQ29udHJvbGxlcil9LntuYW1lb2YoSW1wZXJzb25hdGUpfSIsIFNlY3VyaXR5TG9nRW50aXR5UmVhc29ucy5JbnZhbGlkKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>{</text>
@@ -381,9 +397,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfZG5zU2VydmljZVw+</last-search>
+      <last-search>abc</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZG5zU2VydmljZVw+</last-pattern>
+      <last-pattern>abc</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>re</last-substitute>
       <last-dir>1</last-dir>
