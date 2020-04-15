@@ -168,13 +168,7 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1586957487980">
-        <mark key="'" line="51" column="39" />
-        <mark key="[" line="59" column="8" />
-        <mark key="]" line="59" column="28" />
-        <mark key="." line="59" column="27" />
-        <mark key="^" line="59" column="28" />
-      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1586991819363" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" timestamp="1586910744250">
         <mark key="'" line="25" column="57" />
         <mark key="[" line="29" column="0" />
@@ -198,7 +192,7 @@
         <mark key="^" line="1245" column="41" />
         <mark key="." line="1250" column="0" />
       </file>
-      <file name="/" timestamp="1586957429574">
+      <file name="/" timestamp="1586989234597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" timestamp="1586929833646">
@@ -229,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="49" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
       <jump line="166" column="52" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
       <jump line="167" column="50" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
       <jump line="168" column="56" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
@@ -329,6 +322,7 @@
       <jump line="248" column="1" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="0" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="51" column="39" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="139" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,10 +340,10 @@
         <text>jjkkkj</text>
       </register>
       <register name="+" type="4">
-        <text>private</text>
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text>abc</text>
@@ -358,34 +352,34 @@
         <text>abc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFzZGYiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNhZmRzYWYiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWJjLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJNYW5hZ2VyLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWJjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3NlcmlhbGl6YWJsZUF0dHJpYnV0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNhZmRhc2YgPSAic2FmZGFzZiI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSWRlbnRpdHlVc2VyUm9sZTwuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGF1dGhLZXkgPSBhd2FpdCBfdXNlck1hbmFnZXIuR2V0QXV0aGVudGljYXRvcktleUFzeW5jKG5ldyBBcHBsaWNhdGlvblVzZXIoKSk7CiAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShhdXRoS2V5KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFwcGxpY2F0aW9uVXNlciA9IG5ldyBBcHBsaWNhdGlvblVzZXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuQ29kZS5DbG9uZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNkYWZzYWRmID0gInNkYWZzYWRmIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9hdXRob3JpemF0aW9uQ29kZVN0b3JlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFzZiA9ICJzYWZkYXNmIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nU2VjdXJpdHkoU2VjdXJpdHlMb2dFbnRpdHkuRnJvbUh0dHBDb250ZXh0KEh0dHBDb250ZXh0LCBTZWN1cml0eUxvZ0VudGl0eVR5cGVzLkltcGVyc29uYXRpb24sCiAgICAgICAgICAgICAgICAgICAgJCJ7bmFtZW9mKFVzZXJzQ29udHJvbGxlcil9LntuYW1lb2YoSW1wZXJzb25hdGUpfSIsIFNlY3VyaXR5TG9nRW50aXR5UmVhc29ucy5JbnZhbGlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFzZGYiCg==</text>
       </register>
       <register name="y" type="4">
         <text>{</text>
