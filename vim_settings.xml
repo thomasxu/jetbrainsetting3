@@ -9,8 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>class</entry>
-        <entry encoding="base64">XDxyZWRpcmVjdFd3d1w+</entry>
         <entry>Cus</entry>
         <entry encoding="base64">XDxfY3VzdG9tRG9tYWluU2V0dGluZ3NcPg==</entry>
         <entry>parseURL</entry>
@@ -29,6 +27,8 @@
         <entry>const</entry>
         <entry>co</entry>
         <entry>con</entry>
+        <entry>user;</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -174,16 +174,16 @@
         <mark key="^" line="25" column="117" />
         <mark key="." line="25" column="221" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587017225603">
+      <file name="/Dummy.txt" timestamp="1587027862005">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587022055669">
-        <mark key="[" line="294" column="112" />
-        <mark key="]" line="298" column="16" />
-        <mark key="^" line="298" column="16" />
-        <mark key="." line="298" column="15" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587028800114">
+        <mark key="[" line="333" column="54" />
+        <mark key="]" line="334" column="45" />
+        <mark key="^" line="334" column="45" />
+        <mark key="." line="334" column="44" />
       </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ShopRoleScenarios.cs" timestamp="1587016747412">
         <mark key="[" line="167" column="93" />
@@ -215,67 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="29" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="269" column="46" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="286" column="63" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="319" column="29" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="320" column="45" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="322" column="46" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="328" column="63" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="15" column="31" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="71" column="29" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="72" column="38" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="74" column="72" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="94" column="73" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="229" column="28" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FD1C2CA9-9B78-41DA-A08F-588774EF679E/0/OidcConstants.cs" />
-      <jump line="11" column="4" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C5AF90E0-B279-40A2-88E6-DEA0FAB79598/AD/GrantTypes.cs" />
-      <jump line="137" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" />
-      <jump line="139" column="8" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" />
-      <jump line="138" column="92" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" />
-      <jump line="24" column="21" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" />
-      <jump line="25" column="57" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" />
-      <jump line="45" column="47" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" />
-      <jump line="77" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" />
-      <jump line="357" column="29" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" />
-      <jump line="55" column="19" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="140" column="28" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="129" column="13" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="137" column="29" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="138" column="22" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="144" column="48" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="151" column="14" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="152" column="19" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="155" column="12" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="158" column="12" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="159" column="21" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="160" column="23" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="167" column="29" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="175" column="25" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="180" column="29" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="181" column="32" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="182" column="30" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="184" column="17" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="185" column="17" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="191" column="23" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="192" column="49" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="199" column="32" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="201" column="14" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="202" column="63" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="203" column="38" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="205" column="18" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="206" column="17" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="207" column="59" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="208" column="73" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="210" column="27" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="211" column="36" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="219" column="29" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="220" column="19" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="226" column="15" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="229" column="28" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="231" column="49" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="232" column="33" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="241" column="18" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="257" column="13" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
       <jump line="260" column="18" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
       <jump line="261" column="18" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
       <jump line="295" column="18" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
@@ -299,8 +238,6 @@
       <jump line="425" column="40" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/ShopsController.cs" />
       <jump line="255" column="8" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="34" column="17" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="59" column="39" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="89" column="12" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="6" column="24" filename="C:/dev/git/selz/API/src/Selz.Core/Extensions/UriExtensions.cs" />
       <jump line="50" column="37" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="248" column="1" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -315,6 +252,69 @@
       <jump line="12" column="44" filename="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Extensions/ClientExtension.cs" />
       <jump line="0" column="0" filename="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Extensions/ClientExtension.cs" />
       <jump line="2206" column="50" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E8D487F6-B0F0-44E7-BE59-97B90CDF8FD8/1D/UserManager.cs" />
+      <jump line="282" column="12" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="116" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="126" column="12" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="134" column="16" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="136" column="83" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="140" column="29" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="141" column="73" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="145" column="60" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="149" column="19" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="150" column="56" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="151" column="16" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="158" column="60" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="195" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="196" column="16" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="206" column="80" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="216" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="223" column="98" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="232" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="233" column="16" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="239" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="247" column="102" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="262" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="263" column="30" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="264" column="16" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="274" column="45" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="275" column="59" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="290" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="291" column="30" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="292" column="16" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="297" column="58" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="298" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="300" column="79" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="304" column="79" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="315" column="31" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="316" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="317" column="99" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="321" column="26" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="328" column="81" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="330" column="79" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="334" column="26" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="338" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="28" column="35" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="33" column="52" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="40" column="55" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="41" column="33" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="46" column="31" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="58" column="41" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="59" column="20" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="64" column="18" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="69" column="27" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="85" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="88" column="52" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="89" column="57" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="91" column="54" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="100" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="102" column="70" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="104" column="56" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="107" column="62" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="108" column="70" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="111" column="52" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="124" column="86" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="127" column="64" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="133" column="47" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,46 +332,46 @@
         <text>jjkkkj</text>
       </register>
       <register name="+" type="4">
-        <text>.re</text>
+        <text>jh</text>
       </register>
       <register name="-" type="4">
-        <text>.re</text>
+        <text>jh</text>
       </register>
       <register name="/" type="4">
-        <text>con</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUnVsZUZvcih4ID0+IHguQWxsb3dlZEdyYW50VHlwZXMpLk5vdEVtcHR5KCkKICAgICAgICAgICAgICAgIC5NdXN0KFZhbGlkR3JhbnRUeXBlcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbW9kZWwxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IF91c2VyTWFuYWdlci5HZXRBdXRoZW50aWNhdGlvblRva2VuQXN5bmModXNlcikK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IF91c2VyTWFuYWdlci5HZW5lcmF0ZU5ld0F1dGhlbnRpY2F0b3JLZXkodXNlcikK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cENvbnRleHQuVXNlci5HZXRTdWJqZWN0SWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJNYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbW9kZWwxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgKCkKICAgICAgICB7CiAgICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IF91c2VyTWFuYWdlci5HZXRBdXRoZW50aWNhdGlvblRva2VuQXN5bmModXNlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nU2VjdXJpdHkoU2VjdXJpdHlMb2dFbnRpdHkuRnJvbUh0dHBDb250ZXh0KEh0dHBDb250ZXh0LCBTZWN1cml0eUxvZ0VudGl0eVR5cGVzLkltcGVyc29uYXRpb24sCiAgICAgICAgICAgICAgICAgICAgJCJ7bmFtZW9mKFVzZXJzQ29udHJvbGxlcil9LntuYW1lb2YoSW1wZXJzb25hdGUpfSIsIFNlY3VyaXR5TG9nRW50aXR5UmVhc29ucy5JbnZhbGlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IF91c2VyTWFuYWdlci5HZW5lcmF0ZU5ld0F1dGhlbnRpY2F0b3JLZXkodXNlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nU2VjdXJpdHkoU2VjdXJpdHlMb2dFbnRpdHkuRnJvbUh0dHBDb250ZXh0KEh0dHBDb250ZXh0LCBTZWN1cml0eUxvZ0VudGl0eVR5cGVzLkltcGVyc29uYXRpb24sCiAgICAgICAgICAgICAgICAgICAgJCJ7bmFtZW9mKFVzZXJzQ29udHJvbGxlcil9LntuYW1lb2YoSW1wZXJzb25hdGUpfSIsIFNlY3VyaXR5TG9nRW50aXR5UmVhc29ucy5EZW5pZWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cENvbnRleHQuVXNlci5HZXRTdWJqZWN0SWQoKQo=</text>
       </register>
       <register name="y" type="4">
         <text>{</text>
@@ -383,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>con</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>con</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>con</last-substitute>
       <last-dir>1</last-dir>
