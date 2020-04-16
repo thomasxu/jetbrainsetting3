@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Cus</entry>
         <entry encoding="base64">XDxfY3VzdG9tRG9tYWluU2V0dGluZ3NcPg==</entry>
         <entry>parseURL</entry>
         <entry encoding="base64">XDxwYXJzZVVSTFw+</entry>
@@ -29,6 +28,7 @@
         <entry>con</entry>
         <entry>user;</entry>
         <entry>user</entry>
+        <entry encoding="base64">XDxBdXRoZW50aWNhdG9yVXJpRm9ybWF0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -161,6 +161,10 @@
         <mark key="^" line="23" column="84" />
         <mark key="." line="23" column="83" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/77D1AF87-8F36-4D40-92FE-40FE59256B81/23/ForbidResult.cs" timestamp="1587045177752">
+        <mark key="[" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+      </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" timestamp="1587015338390">
         <mark key="[" line="328" column="92" />
         <mark key="]" line="328" column="124" />
@@ -179,11 +183,12 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587028800114">
-        <mark key="[" line="333" column="54" />
-        <mark key="]" line="334" column="45" />
-        <mark key="^" line="334" column="45" />
-        <mark key="." line="334" column="44" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587045114825">
+        <mark key="'" line="51" column="29" />
+        <mark key="[" line="307" column="32" />
+        <mark key="]" line="307" column="32" />
+        <mark key="^" line="307" column="32" />
+        <mark key="." line="307" column="31" />
       </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ShopRoleScenarios.cs" timestamp="1587016747412">
         <mark key="[" line="167" column="93" />
@@ -201,9 +206,6 @@
         <mark key="^" line="19" column="73" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Domain/ApplicationUser.cs" timestamp="1587022146904" />
-      <file name="/" timestamp="1586989234597">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeUsers.cs" timestamp="1587003183130">
         <mark key="'" line="26" column="57" />
       </file>
@@ -242,7 +244,6 @@
       <jump line="50" column="37" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="248" column="1" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="0" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="51" column="39" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="139" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="61" column="41" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeUsers.cs" />
       <jump line="26" column="57" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeUsers.cs" />
@@ -315,6 +316,7 @@
       <jump line="124" column="86" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="127" column="64" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="133" column="47" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="51" column="29" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,7 +340,7 @@
         <text>jh</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text encoding="base64">XDxBdXRoZW50aWNhdG9yVXJpRm9ybWF0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUnVsZUZvcih4ID0+IHguQWxsb3dlZEdyYW50VHlwZXMpLk5vdEVtcHR5KCkKICAgICAgICAgICAgICAgIC5NdXN0KFZhbGlkR3JhbnRUeXBlcygpKTsK</text>
@@ -383,9 +385,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>user</last-search>
+      <last-search encoding="base64">XDxBdXRoZW50aWNhdG9yVXJpRm9ybWF0XD4=</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern encoding="base64">XDxBdXRoZW50aWNhdG9yVXJpRm9ybWF0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>con</last-substitute>
       <last-dir>1</last-dir>
