@@ -161,9 +161,6 @@
         <mark key="^" line="23" column="84" />
         <mark key="." line="23" column="83" />
       </file>
-      <file name="/Dummy.cs" timestamp="1586930126862">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Extensions/UriExtensions.cs" timestamp="1586956770111">
         <mark key="'" line="6" column="24" />
       </file>
@@ -185,12 +182,7 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587020274145">
-        <mark key="[" line="113" column="62" />
-        <mark key="]" line="113" column="68" />
-        <mark key="^" line="113" column="68" />
-        <mark key="." line="113" column="67" />
-      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587021508917" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ShopRoleScenarios.cs" timestamp="1587016747412">
         <mark key="[" line="167" column="93" />
         <mark key="]" line="167" column="93" />
@@ -220,9 +212,11 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FD1C2CA9-9B78-41DA-A08F-588774EF679E/0/OidcConstants.cs" timestamp="1587002966612" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Domains/ApiClient.cs" timestamp="1587011361239" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E8D487F6-B0F0-44E7-BE59-97B90CDF8FD8/1D/UserManager.cs" timestamp="1587020454604">
+        <mark key="'" line="2206" column="50" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="108" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
       <jump line="268" column="29" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
       <jump line="269" column="46" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
       <jump line="286" column="63" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
@@ -322,6 +316,7 @@
       <jump line="14" column="26" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Validation/ClientValidator.cs" />
       <jump line="12" column="44" filename="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Extensions/ClientExtension.cs" />
       <jump line="0" column="0" filename="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Extensions/ClientExtension.cs" />
+      <jump line="2206" column="50" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E8D487F6-B0F0-44E7-BE59-97B90CDF8FD8/1D/UserManager.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,10 +334,10 @@
         <text>jjkkkj</text>
       </register>
       <register name="+" type="4">
-        <text>GetAuthenticationTokenAsync</text>
+        <text>.re</text>
       </register>
       <register name="-" type="4">
-        <text>GetAuthenticationTokenAsync</text>
+        <text>.re</text>
       </register>
       <register name="/" type="4">
         <text>con</text>
@@ -351,34 +346,34 @@
         <text encoding="base64">ICAgICAgICAgICAgUnVsZUZvcih4ID0+IHguQWxsb3dlZEdyYW50VHlwZXMpLk5vdEVtcHR5KCkKICAgICAgICAgICAgICAgIC5NdXN0KFZhbGlkR3JhbnRUeXBlcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cENvbnRleHQuVXNlci5HZXRTdWJqZWN0SWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJNYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbW9kZWwxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgKCkKICAgICAgICB7CiAgICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IF91c2VyTWFuYWdlci5HZXRBdXRoZW50aWNhdGlvblRva2VuQXN5bmModXNlcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nU2VjdXJpdHkoU2VjdXJpdHlMb2dFbnRpdHkuRnJvbUh0dHBDb250ZXh0KEh0dHBDb250ZXh0LCBTZWN1cml0eUxvZ0VudGl0eVR5cGVzLkltcGVyc29uYXRpb24sCiAgICAgICAgICAgICAgICAgICAgJCJ7bmFtZW9mKFVzZXJzQ29udHJvbGxlcil9LntuYW1lb2YoSW1wZXJzb25hdGUpfSIsIFNlY3VyaXR5TG9nRW50aXR5UmVhc29ucy5JbnZhbGlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IF91c2VyTWFuYWdlci5HZW5lcmF0ZU5ld0F1dGhlbnRpY2F0b3JLZXkodXNlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nU2VjdXJpdHkoU2VjdXJpdHlMb2dFbnRpdHkuRnJvbUh0dHBDb250ZXh0KEh0dHBDb250ZXh0LCBTZWN1cml0eUxvZ0VudGl0eVR5cGVzLkltcGVyc29uYXRpb24sCiAgICAgICAgICAgICAgICAgICAgJCJ7bmFtZW9mKFVzZXJzQ29udHJvbGxlcil9LntuYW1lb2YoSW1wZXJzb25hdGUpfSIsIFNlY3VyaXR5TG9nRW50aXR5UmVhc29ucy5EZW5pZWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cENvbnRleHQuVXNlci5HZXRTdWJqZWN0SWQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nU2VjdXJpdHkoU2VjdXJpdHlMb2dFbnRpdHkuRnJvbUh0dHBDb250ZXh0KEh0dHBDb250ZXh0LCBTZWN1cml0eUxvZ0VudGl0eVR5cGVzLkltcGVyc29uYXRpb24sCiAgICAgICAgICAgICAgICAgICAgJCJ7bmFtZW9mKFVzZXJzQ29udHJvbGxlcil9LntuYW1lb2YoSW1wZXJzb25hdGUpfSIsIFNlY3VyaXR5TG9nRW50aXR5UmVhc29ucy5JbnZhbGlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJNYW5hZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nU2VjdXJpdHkoU2VjdXJpdHlMb2dFbnRpdHkuRnJvbUh0dHBDb250ZXh0KEh0dHBDb250ZXh0LCBTZWN1cml0eUxvZ0VudGl0eVR5cGVzLkltcGVyc29uYXRpb24sCiAgICAgICAgICAgICAgICAgICAgJCJ7bmFtZW9mKFVzZXJzQ29udHJvbGxlcil9LntuYW1lb2YoSW1wZXJzb25hdGUpfSIsIFNlY3VyaXR5TG9nRW50aXR5UmVhc29ucy5JbnZhbGlkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgKCkKICAgICAgICB7CiAgICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nU2VjdXJpdHkoU2VjdXJpdHlMb2dFbnRpdHkuRnJvbUh0dHBDb250ZXh0KEh0dHBDb250ZXh0LCBTZWN1cml0eUxvZ0VudGl0eVR5cGVzLkltcGVyc29uYXRpb24sCiAgICAgICAgICAgICAgICAgICAgJCJ7bmFtZW9mKFVzZXJzQ29udHJvbGxlcil9LntuYW1lb2YoSW1wZXJzb25hdGUpfSIsIFNlY3VyaXR5TG9nRW50aXR5UmVhc29ucy5JbnZhbGlkKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2dTZWN1cml0eShTZWN1cml0eUxvZ0VudGl0eS5Gcm9tSHR0cENvbnRleHQoSHR0cENvbnRleHQsIFNlY3VyaXR5TG9nRW50aXR5VHlwZXMuSW1wZXJzb25hdGlvbiwKICAgICAgICAgICAgICAgICQie25hbWVvZihVc2Vyc0NvbnRyb2xsZXIpfS57bmFtZW9mKEZvcmNlTG9nb3V0KX0iLCBTZWN1cml0eUxvZ0VudGl0eVJlYXNvbnMuU3VjY2VlZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nU2VjdXJpdHkoU2VjdXJpdHlMb2dFbnRpdHkuRnJvbUh0dHBDb250ZXh0KEh0dHBDb250ZXh0LCBTZWN1cml0eUxvZ0VudGl0eVR5cGVzLkltcGVyc29uYXRpb24sCiAgICAgICAgICAgICAgICAgICAgJCJ7bmFtZW9mKFVzZXJzQ29udHJvbGxlcil9LntuYW1lb2YoSW1wZXJzb25hdGUpfSIsIFNlY3VyaXR5TG9nRW50aXR5UmVhc29ucy5EZW5pZWQpKTsK</text>
       </register>
       <register name="y" type="4">
         <text>{</text>
