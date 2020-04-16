@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>client</entry>
         <entry>clien</entry>
         <entry>AccessTokenType</entry>
         <entry>User</entry>
@@ -29,6 +28,7 @@
         <entry encoding="base64">XDxfcmVhZG9ubHlzdGF0aWNmaWVsZFw+</entry>
         <entry encoding="base64">XDxfc2VyaWFsaXphYmxlQXR0cmlidXRlXD4=</entry>
         <entry>abc</entry>
+        <entry encoding="base64">XDxMb2dpbkZha2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -150,12 +150,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core.Tests/CustomHostnameTest.cs" timestamp="1586875982151">
-        <mark key="[" line="27" column="77" />
-        <mark key="]" line="27" column="77" />
-        <mark key="^" line="27" column="8" />
-        <mark key="." line="27" column="77" />
-      </file>
       <file name="/Dummy.txt" timestamp="1587001294569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -174,7 +168,7 @@
         <mark key="^" line="218" column="15" />
         <mark key="." line="218" column="14" />
       </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Constants.cs" timestamp="1587002744306" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Constants.cs" timestamp="1587003001334" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/IShopClient.cs" timestamp="1586910744250">
         <mark key="'" line="25" column="57" />
       </file>
@@ -206,6 +200,9 @@
       <file name="/Dummy.cs" timestamp="1586930126862">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeUsers.cs" timestamp="1587003183130">
+        <mark key="'" line="26" column="57" />
+      </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Clients/TestShopClient.cs" timestamp="1586912449083">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -214,17 +211,10 @@
       <file name="C:/dev/git/selz/API/src/Selz.Core/Extensions/UriExtensions.cs" timestamp="1586956770111">
         <mark key="'" line="6" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FD1C2CA9-9B78-41DA-A08F-588774EF679E/0/OidcConstants.cs" timestamp="1587002700865" />
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeClients.cs" timestamp="1587002830276">
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="40" />
-        <mark key="." line="24" column="40" />
-        <mark key="^" line="24" column="28" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FD1C2CA9-9B78-41DA-A08F-588774EF679E/0/OidcConstants.cs" timestamp="1587002966612" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeClients.cs" timestamp="1587003568854" />
     </filemarks>
     <jumps>
-      <jump line="166" column="52" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
-      <jump line="167" column="50" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
       <jump line="168" column="56" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
       <jump line="169" column="56" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
       <jump line="228" column="107" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" />
@@ -323,6 +313,8 @@
       <jump line="0" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="51" column="39" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="139" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="61" column="41" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeUsers.cs" />
+      <jump line="26" column="57" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeUsers.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,47 +331,47 @@
       <register name="j" type="4">
         <text>jjkkkj</text>
       </register>
-      <register name="+" type="4">
-        <text>f.System.Random.Word()</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBGYWtlcjxDbGllbnRDbGFpbT4gRmFrZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>f.System.Random.Word()</text>
+        <text>Faker</text>
       </register>
       <register name="/" type="4">
-        <text>abc</text>
+        <text encoding="base64">XDxMb2dpbkZha2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkRlc2NyaXB0aW9uLCBmPT5mLlJhbmRvbS5Xb3JkKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmLlBpY2tSYW5kb20obmV3IFtde30pOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBGYWtlcjxDbGllbnRDbGFpbT4gRmFrZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdHJpbmdzID0gbmV3IHN0cmluZ1tdIHsiIn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkNsaWVudFVyaSwgZiA9PiBmLkludGVybmV0LlVybCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkNsaWVudElkLCBmID0+IGYuU3lzdGVtLlJhbmRvbS5Xb3JkKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkN1bHR1cmVOYW1lLCBmID0+IGYuUGlja1JhbmRvbSgiZW4iLCAiZXMiKSkKICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLlRpbWVab25lLCBmID0+IGYuUGlja1JhbmRvbSgiQVVTIEVhc3Rlcm4gU3RhbmRhcmQgVGltZSIsICJQYWNpZmljIFN0YW5kYXJkIFRpbWUiKSkKICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkNsaWVudFNlY3JldHMsIGYgPT4gIG5ldyBMaXN0PENsaWVudFNlY3JldD4oKXtuZXcgQ2xpZW50U2VjcmV0KCl7VmFsdWUgPSBmLlN5c3RlbS5SYW5kb20uSGFzaCgpfX0pCiAgICAgICAgICAgIC5SdWxlRm9yKGMgPT4gYy5Jc0FjdGl2ZSwgZiA9PiBmLlBpY2tSYW5kb20odHJ1ZSwgZmFsc2UpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLlVwZGF0ZWRUaW1lLCBmID0+IGYuRGF0ZS5SZWNlbnQoMzApKQogICAgICAgICAgICAuUnVsZUZvcihjID0+IGMuRGVsZXRlZFRpbWUsIGYgPT4gZi5EYXRlLlJlY2VudCgzMCkpCiAgICAgICAgICAgIC5SdWxlRm9yKGMgPT4gYy5DcmVhdGVkQnksIGYgPT4gQWN0b3IuU3lzdGVtVXNlcklkKQogICAgICAgICAgICAuUnVsZUZvcihjID0+IGMuVXBkYXRlZEJ5LCBmID0+IEFjdG9yLlN5c3RlbVVzZXJJZCkKICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkRlbGV0ZWRCeSwgZiA9PiBBY3Rvci5TeXN0ZW1Vc2VySWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgTHRpbWUK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC5SdWxlRm9yKGMgPT4gYy5DcmVhdGVkVGltZSwgZiA9PiBmLkRhdGUuUmVjZW50KDMwKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbHRpbQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgRmFrZUNsaWVudHMoKQogICAgICAgIHsKICAgICAgICAgICAgRmFrZXIgPSBuZXcgRmFrZXI8Q2xpZW50Q2xhaW0+KCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbGl0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLlJ1bGVGb3IoYyA9PiBjLkNsYWltcywgZiA9PiBGYWtlcikK</text>
       </register>
       <register name="y" type="4">
         <text>{</text>
@@ -391,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>abc</last-search>
+      <last-search encoding="base64">XDxMb2dpbkZha2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>abc</last-pattern>
+      <last-pattern encoding="base64">XDxMb2dpbkZha2VyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>re</last-substitute>
       <last-dir>1</last-dir>
