@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxFeHRlcm5hbFZhbGlkYXRpb25cPg==</entry>
         <entry encoding="base64">XDxfZG5zU2VydmljZVw+</entry>
         <entry>In</entry>
         <entry encoding="base64">XDxfYXV0aEV4dGVuc2lvblw+</entry>
@@ -29,6 +28,7 @@
         <entry>)</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxBdXRoZW50aWNhdG9yXD4=</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -155,11 +155,12 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587123907554">
-        <mark key="[" line="315" column="29" />
-        <mark key="]" line="315" column="34" />
-        <mark key="." line="315" column="33" />
-        <mark key="^" line="315" column="34" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587124256775">
+        <mark key="'" line="310" column="16" />
+        <mark key="[" line="319" column="106" />
+        <mark key="]" line="319" column="106" />
+        <mark key="." line="319" column="106" />
+        <mark key="^" line="319" column="106" />
       </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ShopRoleScenarios.cs" timestamp="1587094882280">
         <mark key="[" line="167" column="93" />
@@ -255,7 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="48" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopScenarios.cs" />
       <jump line="210" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopScenarios.cs" />
       <jump line="220" column="8" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopScenarios.cs" />
       <jump line="17" column="20" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/DomainName/DomainNameService.cs" />
@@ -355,6 +355,7 @@
       <jump line="443" column="38" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/922D6808-1213-4148-970A-0DE66FE3C806/e4/1939d887/UserStore`1.cs" />
       <jump line="450" column="45" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/922D6808-1213-4148-970A-0DE66FE3C806/e4/1939d887/UserStore`1.cs" />
       <jump line="459" column="38" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/922D6808-1213-4148-970A-0DE66FE3C806/e4/1939d887/UserStore`1.cs" />
+      <jump line="310" column="16" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -371,14 +372,14 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">amoK</text>
+      <register name="+" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>rando</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBdXRoZW50aWNhdG9yXD4=</text>
+        <text encoding="base64">XDxrZXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUnVsZUZvcih4ID0+IHguQWxsb3dlZEdyYW50VHlwZXMpLk5vdEVtcHR5KCkKICAgICAgICAgICAgICAgIC5NdXN0KFZhbGlkR3JhbnRUeXBlcygpKTsK</text>
@@ -423,9 +424,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxBdXRoZW50aWNhdG9yXD4=</last-search>
+      <last-search encoding="base64">XDxrZXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBdXRoZW50aWNhdG9yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxrZXlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>con</last-substitute>
       <last-dir>1</last-dir>
