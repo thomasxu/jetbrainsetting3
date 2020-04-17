@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJzZVVSTFw+</entry>
         <entry>domain</entry>
         <entry encoding="base64">XDxFeHRlcm5hbFZhbGlkYXRpb25cPg==</entry>
         <entry encoding="base64">XDxfZG5zU2VydmljZVw+</entry>
@@ -29,6 +28,7 @@
         <entry>{</entry>
         <entry encoding="base64">XDxHZXRVc2VyQXN5bmNcPg==</entry>
         <entry>)</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -156,11 +156,9 @@
         <mark key="." line="0" column="14" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587109745509">
-        <mark key="'" line="154" column="64" />
-        <mark key="[" line="327" column="13" />
-        <mark key="]" line="329" column="12" />
-        <mark key="^" line="329" column="12" />
-        <mark key="." line="329" column="11" />
+        <mark key="]" line="17" column="12" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="17" column="11" />
       </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ShopRoleScenarios.cs" timestamp="1587094882280">
         <mark key="[" line="167" column="93" />
@@ -229,10 +227,10 @@
         <mark key="." line="25" column="221" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Security/SecurityService.cs" timestamp="1587107484384">
-        <mark key="[" line="37" column="30" />
-        <mark key="]" line="37" column="30" />
-        <mark key="^" line="37" column="31" />
-        <mark key="." line="37" column="30" />
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="30" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/ProductsController.cs" timestamp="1587107612031">
         <mark key="[" line="66" column="22" />
@@ -246,17 +244,15 @@
         <mark key="." line="473" column="5" />
         <mark key="^" line="473" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E8D487F6-B0F0-44E7-BE59-97B90CDF8FD8/1D/UserManager.cs" timestamp="1587103749247">
-        <mark key="'" line="1164" column="0" />
-        <mark key="[" line="1169" column="21" />
-        <mark key="]" line="1169" column="9" />
-        <mark key="^" line="1169" column="9" />
-        <mark key="." line="1169" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E8D487F6-B0F0-44E7-BE59-97B90CDF8FD8/1D/UserManager.cs" timestamp="1587114209014">
+        <mark key="'" line="1159" column="0" />
+        <mark key="[" line="1148" column="50" />
+        <mark key="]" line="1148" column="53" />
+        <mark key="." line="1148" column="52" />
+        <mark key="^" line="1148" column="53" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="13" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
-      <jump line="1" column="3" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
       <jump line="2" column="21" filename="C:/dev/git/selz/drachma/test.local/assets/dist/js/editor-domains.js" />
       <jump line="68" column="62" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" />
       <jump line="66" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" />
@@ -355,6 +351,8 @@
       <jump line="232" column="81" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="155" column="16" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="154" column="64" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="2303" column="15" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E8D487F6-B0F0-44E7-BE59-97B90CDF8FD8/1D/UserManager.cs" />
+      <jump line="1159" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E8D487F6-B0F0-44E7-BE59-97B90CDF8FD8/1D/UserManager.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -369,49 +367,49 @@
         <text>&quot;</text>
       </register>
       <register name="j" type="4">
-        <text>jjkkkj</text>
+        <text />
       </register>
       <register name="+" type="4">
-        <text>await</text>
+        <text>RemoveClaimsAsync</text>
       </register>
       <register name="-" type="4">
-        <text>await</text>
+        <text>RemoveClaimsAsync</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUnVsZUZvcih4ID0+IHguQWxsb3dlZEdyYW50VHlwZXMpLk5vdEVtcHR5KCkKICAgICAgICAgICAgICAgIC5NdXN0KFZhbGlkR3JhbnRUeXBlcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJNYW5hZ2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElDbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudE51bGxFeGNlcHRpb24obmFtZW9mKHVzZXIpYik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9hcHBsaWNhdGlvblVzZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudE51bGxFeGNlcHRpb24obmFtZW9mKHVzZXIpYik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9jb21wYXJhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zZXJpYWxpemFibGVBdHRyaWJ1dGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudE51bGxFeGNlcHRpb24obmFtZW9mKHVzZXIpYik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0QXV0aGVudGljYXRpb25LZXkoKS5uZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcmd1bWVudE51bGxFeGNlcHRpb24obmFtZW9mKHVzZXIpYik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3JlZGlzQ2FjaGVDbGllbnQxID0gbmV3IFJlZGlzQ2FjaGVDbGllbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJNYW5hZ2VyLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlZGlzQ2FjaGVDbGllbnQgPSBuZXcgSVJlZGlzQ2FjaGVDbGllbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElDbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IElSZWRpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9hcHBsaWNhdGlvblVzZXIK</text>
       </register>
       <register name="y" type="4">
         <text>{</text>
@@ -423,12 +421,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>)</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>con</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
