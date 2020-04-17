@@ -150,17 +150,51 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1587094834475">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587047241720">
+        <mark key="'" line="52" column="29" />
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="56" column="15" />
+        <mark key="." line="56" column="14" />
+        <mark key="^" line="56" column="15" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ShopRoleScenarios.cs" timestamp="1587094882280">
+        <mark key="[" line="167" column="93" />
+        <mark key="]" line="167" column="93" />
+        <mark key="^" line="167" column="93" />
+        <mark key="." line="167" column="92" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Extensions/ShopRoleExtension.cs" timestamp="1587095881728">
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6B144447-7C1D-41C6-92EF-6C02A8383085/c1/ec10efff/ClaimTypes.cs" timestamp="1587004727431">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/922D6808-1213-4148-970A-0DE66FE3C806/ed/dc460ec8/IdentityUser.cs" timestamp="1587047343441" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Extensions/ClientExtension.cs" timestamp="1587015024844">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="83" />
+        <mark key="]" line="19" column="73" />
+        <mark key="." line="19" column="72" />
+        <mark key="^" line="19" column="73" />
+      </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Validation/ClientValidator.cs" timestamp="1587015250472">
         <mark key="'" line="16" column="26" />
         <mark key="[" line="23" column="84" />
         <mark key="]" line="23" column="84" />
         <mark key="^" line="23" column="84" />
         <mark key="." line="23" column="83" />
+      </file>
+      <file name="/" timestamp="1587095632962">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeUsers.cs" timestamp="1587003183130">
+        <mark key="'" line="26" column="57" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/77D1AF87-8F36-4D40-92FE-40FE59256B81/23/ForbidResult.cs" timestamp="1587045177752">
         <mark key="[" line="42" column="16" />
@@ -179,40 +213,6 @@
         <mark key="^" line="25" column="117" />
         <mark key="." line="25" column="221" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587027862005">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587047241720">
-        <mark key="'" line="52" column="29" />
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="56" column="15" />
-        <mark key="." line="56" column="14" />
-        <mark key="^" line="56" column="15" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ShopRoleScenarios.cs" timestamp="1587016747412">
-        <mark key="[" line="167" column="93" />
-        <mark key="]" line="167" column="93" />
-        <mark key="^" line="167" column="93" />
-        <mark key="." line="167" column="92" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Extensions/ShopRoleExtension.cs" timestamp="1587009154467" />
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Constants.cs" timestamp="1587003001334" />
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Extensions/ClientExtension.cs" timestamp="1587015024844">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="83" />
-        <mark key="]" line="19" column="73" />
-        <mark key="." line="19" column="72" />
-        <mark key="^" line="19" column="73" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Domain/ApplicationUser.cs" timestamp="1587022146904" />
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeUsers.cs" timestamp="1587003183130">
-        <mark key="'" line="26" column="57" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FD1C2CA9-9B78-41DA-A08F-588774EF679E/0/OidcConstants.cs" timestamp="1587002966612" />
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Domains/ApiClient.cs" timestamp="1587011361239" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/922D6808-1213-4148-970A-0DE66FE3C806/6c/a2efc28d/IdentityUserLogin.cs" timestamp="1587022202898" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/922D6808-1213-4148-970A-0DE66FE3C806/e4/1939d887/UserStore`1.cs" timestamp="1587047813424">
         <mark key="[" line="455" column="0" />
         <mark key="]" line="455" column="0" />
@@ -340,7 +340,7 @@
         <text>jjkkkj</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgSUVudW1lcmFibGU8c3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTaG9wUm9sZUV4dGVuc2lvbgogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PiA=</text>
@@ -352,34 +352,34 @@
         <text encoding="base64">ICAgICAgICAgICAgUnVsZUZvcih4ID0+IHguQWxsb3dlZEdyYW50VHlwZXMpLk5vdEVtcHR5KCkKICAgICAgICAgICAgICAgIC5NdXN0KFZhbGlkR3JhbnRUeXBlcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgSUVudW1lcmFibGU8c3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTaG9wUm9sZUV4dGVuc2lvbgogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FzZnNmLgo=</text>
+        <text encoding="base64">ICAgICAgSUVudW1lcmFibGU8c3RyaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FzZnNmLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCAoKQo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbW9kZWwxCg==</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IF91c2VyTWFuYWdlci5HZXRBdXRoZW50aWNhdGlvblRva2VuQXN5bmModXNlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbW9kZWwxCg==</text>
       </register>
       <register name="y" type="4">
         <text>{</text>
