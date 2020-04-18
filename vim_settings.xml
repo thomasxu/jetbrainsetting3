@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>const</entry>
         <entry>co</entry>
         <entry>con</entry>
         <entry>user;</entry>
@@ -27,8 +26,9 @@
         <entry encoding="base64">XDxfc291cmNlQ29udGV4dFByb3BlcnR5TmFtZTFcPg==</entry>
         <entry encoding="base64">XDxfaG9zdGluZ0Vudmlyb25tZW50aXJlYWRvbmx5XD4=</entry>
         <entry>error</entry>
-        <entry>I</entry>
         <entry>)</entry>
+        <entry encoding="base64">XDxDYXRhbG9nTW9kZWwxXD4=</entry>
+        <entry>I</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -215,12 +215,12 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587193521632">
-        <mark key="'" line="84" column="102" />
-        <mark key="[" line="85" column="50" />
-        <mark key="]" line="85" column="65" />
-        <mark key="^" line="85" column="65" />
-        <mark key="." line="85" column="64" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587195104328">
+        <mark key="'" line="201" column="38" />
+        <mark key="[" line="240" column="17" />
+        <mark key="]" line="241" column="16" />
+        <mark key="^" line="241" column="16" />
+        <mark key="." line="241" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/77D1AF87-8F36-4D40-92FE-40FE59256B81/18/ControllerBase.cs" timestamp="1587108664932">
         <mark key="'" line="194" column="31" />
@@ -254,10 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="300" column="79" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="304" column="79" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="315" column="31" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="316" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="317" column="99" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="321" column="26" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -305,7 +301,6 @@
       <jump line="361" column="22" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="378" column="25" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="58" column="36" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="377" column="12" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="481" column="12" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/922D6808-1213-4148-970A-0DE66FE3C806/e4/1939d887/UserStore`1.cs" />
       <jump line="494" column="10" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/922D6808-1213-4148-970A-0DE66FE3C806/e4/1939d887/UserStore`1.cs" />
       <jump line="490" column="106" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/922D6808-1213-4148-970A-0DE66FE3C806/e4/1939d887/UserStore`1.cs" />
@@ -340,7 +335,6 @@
       <jump line="228" column="32" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="186" column="32" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="50" column="36" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="85" column="32" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="88" column="76" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="157" column="60" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="118" column="12" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -354,6 +348,12 @@
       <jump line="91" column="73" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="92" column="34" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="84" column="102" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="85" column="87" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="87" column="66" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="204" column="29" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="377" column="34" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="205" column="39" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="201" column="38" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -373,50 +373,50 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>indbyidasync</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2EgPSAic2FiYmIiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>indbyidasync</text>
+        <text>Product</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>I</text>
       </register>
       <register name="0" type="4">
         <text>Serilog.Core.Constants.SourceContextPropertyName</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ID0gbmV3IFVzZXJNYW5hZ2VyPEFwcGxpY2F0aW9uVXNlcj4oKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2EgPSAic2FiYmIiOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXNlck1hbmFnZXI8QXBwbGljYXRpb25Vc2VyPi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZW9mKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXIgPSBhd2FpdCBfdXNlck1hbmFnZXIuRmluZEJ5SWRBc3luYyhIdHRwQ29udGV4dC5Vc2VyLkdldFN1YmplY3RJZCgpKS5Db25maWd1cmVBd2FpdChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGVzdFByb3BlcnR5Lkxlbmd0aAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IFVybEVuY29kZXIgX3VybEVuY29kZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3AK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IFVzZXJNYW5hZ2VyPEFwcGxpY2F0aW9uVXNlcj4gX3VzZXJNYW5hZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9yZXBvc2l0b3J5Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ID0gbmV3IElSZXBvc2l0b3J5PENhdGVnb3J5Pigp</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJSG9zdGluZ0Vudmlyb25tZW50Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ID0gbmV3IElSZXBvc2l0b3J5PFByb2R1Y3Q+KCk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">X3Rob21hc1JlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdGVzdFNlcnZpY2UuR2UK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ID0gbmV3IElSZXBvc2l0b3J5PENhdGVnb3J5Pigp</text>
+        <text encoding="base64">ID0gbmV3IElUZXN0U2VydmljZTxDYXRlZ29yeT4oKQ==</text>
       </register>
       <register name="y" type="4">
-        <text encoding="base64">ID0gbmV3IFVzZXJNYW5hZ2VyPEFwcGxpY2F0aW9uVXNlcj4oKQ==</text>
+        <text encoding="base64">ID0gbmV3IElUZXN0U2VydmljZTxDYXRlZ29yeT4oKQ==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">bm5vcmVtYXAgemRxIHsvezxFTlRFUj5kaXtkZE8=</text>
@@ -425,12 +425,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>)</last-search>
+      <last-search>I</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>I</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>I</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
