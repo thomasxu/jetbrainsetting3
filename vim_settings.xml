@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>abc</entry>
         <entry encoding="base64">XDxMb2dpbkZha2VyXD4=</entry>
         <entry>issu</entry>
         <entry>const</entry>
@@ -29,6 +28,7 @@
         <entry>is</entry>
         <entry>I</entry>
         <entry>)</entry>
+        <entry encoding="base64">XDxfc291cmNlQ29udGV4dFByb3BlcnR5TmFtZTFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -155,12 +155,12 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587183839398">
-        <mark key="'" line="379" column="0" />
-        <mark key="[" line="296" column="0" />
-        <mark key="]" line="296" column="0" />
-        <mark key="." line="296" column="0" />
-        <mark key="^" line="296" column="0" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587184074378">
+        <mark key="'" line="50" column="23" />
+        <mark key="[" line="273" column="56" />
+        <mark key="]" line="273" column="56" />
+        <mark key="." line="273" column="56" />
+        <mark key="^" line="50" column="33" />
       </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ShopRoleScenarios.cs" timestamp="1587094882280">
         <mark key="[" line="167" column="93" />
@@ -252,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="83" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="140" column="29" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="141" column="73" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="145" column="60" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -352,6 +351,7 @@
       <jump line="130" column="27" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="293" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="379" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="50" column="23" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -371,17 +371,17 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">X3NvdXJjZUNvbnRleHRQcm9wZXJ0eU5hbWUK</text>
+      <register name="+" type="4">
+        <text>_userId</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>_userId</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text encoding="base64">XDxfc291cmNlQ29udGV4dFByb3BlcnR5TmFtZTFcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>_shopRoleService.FindById(ObjectId.GenerateNewId());</text>
+        <text>Serilog.Core.Constants.SourceContextPropertyName</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">X3NvdXJjZUNvbnRleHRQcm9wZXJ0eU5hbWUK</text>
@@ -423,9 +423,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>)</last-search>
+      <last-search encoding="base64">XDxfc291cmNlQ29udGV4dFByb3BlcnR5TmFtZTFcPg==</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern encoding="base64">XDxfc291cmNlQ29udGV4dFByb3BlcnR5TmFtZTFcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>I</last-substitute>
       <last-dir>1</last-dir>
