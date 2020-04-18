@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>In</entry>
         <entry encoding="base64">XDxfYXV0aEV4dGVuc2lvblw+</entry>
         <entry encoding="base64">XDxfcmVhZG9ubHlzdGF0aWNmaWVsZFw+</entry>
         <entry encoding="base64">XDxfc2VyaWFsaXphYmxlQXR0cmlidXRlXD4=</entry>
@@ -24,11 +23,12 @@
         <entry encoding="base64">XDxBdXRoZW50aWNhdG9yVXJpRm9ybWF0XD4=</entry>
         <entry>{</entry>
         <entry encoding="base64">XDxHZXRVc2VyQXN5bmNcPg==</entry>
-        <entry>)</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxBdXRoZW50aWNhdG9yXD4=</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxfaXRlckNvdW50XD4=</entry>
+        <entry>&quot;</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -155,12 +155,11 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587171433706">
-        <mark key="'" line="364" column="13" />
-        <mark key="[" line="364" column="29" />
-        <mark key="]" line="364" column="30" />
-        <mark key="^" line="364" column="30" />
-        <mark key="." line="364" column="29" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587173860455">
+        <mark key="[" line="369" column="45" />
+        <mark key="]" line="369" column="46" />
+        <mark key="." line="369" column="45" />
+        <mark key="^" line="369" column="46" />
       </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ShopRoleScenarios.cs" timestamp="1587094882280">
         <mark key="[" line="167" column="93" />
@@ -255,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="12" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/ShopsController.cs" />
       <jump line="425" column="40" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Admin/Controllers/ShopsController.cs" />
       <jump line="255" column="8" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="34" column="17" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -355,6 +353,7 @@
       <jump line="382" column="21" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="80" column="36" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="364" column="13" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="361" column="22" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -372,46 +371,46 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>s1</text>
+        <text>IHostingEnvironment</text>
       </register>
       <register name="-" type="4">
-        <text>s1</text>
+        <text>IHostingEnvironment</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text>PBKDF2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2Nsb25lYWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2hvc3RpbmdFbnZpcm9ubWVudDEuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NvbXBhcmFibGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXJDb2RlVXJsLnJldHVybjAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IElDb21wYXJhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNsb25lYWJsZSA9IG5ldyBJQ2xvbmVhYmxlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVtYWlsMSA9ICIwIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUxvb2t1cDxzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzc3VlciA9ICIiOwogICAgICAgICAgICB2YXIgcyA9ICIwIjsKICAgICAgICAgICAgdmFyIGFzZmQgPSAiMCI7CiAgICAgICAgICAgIHZhciB1bmZvcm1hdHRlZEtleSA9ICIwIjsKICAgICAgICAgICAgJCJ7aXNzdWVyfTp7YXNmZH17dW5mb3JtYXR0ZWRLZXl9Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlcmlhbGl6YWJsZUF0dHJpYnV0ZSA9IG5ldyBTZXJpYWxpemFibGVBdHRyaWJ1dGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2Nsb25lYWJsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFzZGZzZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NvbXBhcmFibGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCJ7fSIgICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IElDb21wYXJhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInswfSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSQo=</text>
       </register>
       <register name="y" type="4">
         <text>{</text>
@@ -423,9 +422,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfaXRlckNvdW50XD4=</last-substitute>
       <last-dir>1</last-dir>
