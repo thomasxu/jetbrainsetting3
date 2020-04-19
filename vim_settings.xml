@@ -182,6 +182,10 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FC774452-F0FF-4C30-9142-7370C005C69B/1/KeyDerivation.cs" timestamp="1587254561735">
+        <mark key="[" line="52" column="45" />
+        <mark key="]" line="52" column="53" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E8D487F6-B0F0-44E7-BE59-97B90CDF8FD8/4/AuthenticatorTokenProvider.cs" timestamp="1587250661965">
         <mark key="'" line="46" column="61" />
         <mark key="[" line="50" column="0" />
@@ -221,9 +225,6 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="/" timestamp="1587109483919">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Security/SecurityService.cs" timestamp="1587200587662">
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
@@ -235,12 +236,11 @@
         <mark key="]" line="244" column="0" />
         <mark key="." line="244" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E8D487F6-B0F0-44E7-BE59-97B90CDF8FD8/1D/UserManager.cs" timestamp="1587251651817">
-        <mark key="'" line="2422" column="20" />
-        <mark key="[" line="2408" column="74" />
-        <mark key="]" line="2408" column="74" />
-        <mark key="." line="2408" column="73" />
-        <mark key="^" line="2408" column="74" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E8D487F6-B0F0-44E7-BE59-97B90CDF8FD8/1D/UserManager.cs" timestamp="1587254374323">
+        <mark key="'" line="2425" column="20" />
+        <mark key="[" line="2403" column="0" />
+        <mark key="]" line="2403" column="0" />
+        <mark key="." line="2403" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -363,20 +363,20 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVsyMF0K</text>
+      <register name="+" type="4">
+        <text>DeriveKey</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlciwg</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>I</text>
       </register>
       <register name="0" type="4">
-        <text>Serilog.Core.Constants.SourceContextPropertyName</text>
+        <text>DeriveKey</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVsyMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFBhc3N3b3JkSGFzaGVyMSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -385,25 +385,25 @@
         <text encoding="base64">ICAgICAgICAgICAgYnl0ZVsyMF0K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVsyMF0K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpbnQuVHJ5UGFyc2UodG9rZW4sIG91dCBjb2RlKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ID0gbmV3IEFwcGxpY2F0aW9uVXNlcigp</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IFQK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZiaWRlbgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIEl6ZXR0bGVhZG1pbmggPSAiaXpldHRsZUFkbWluaCI7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3JlZGlzQ2FjaGVDbGllbnQuUmVtb3ZlQXN5bmMoc3RyaW5nLkZvcm1hdChBdXRoZW50aWNhdGlvbktleSwgYXBwbGljYXRpb25Vc2VySWQpKTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ID0gbmV3IElSZWRpc0NhY2hlQ2xpZW50KCk=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ID0gbmV3IEFwcGxpY2F0aW9uVXNlcigp</text>
