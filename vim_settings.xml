@@ -9,8 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>class</entry>
-        <entry encoding="base64">XDxBdXRoZW50aWNhdG9yXD4=</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxfaXRlckNvdW50XD4=</entry>
         <entry>&quot;</entry>
@@ -29,6 +27,8 @@
         <entry>)</entry>
         <entry encoding="base64">XDxTZXRUd29GYWN0b3JTZXR0aW5nc1w+</entry>
         <entry encoding="base64">XDxhY2Nlc3NUb2tlblw+</entry>
+        <entry>{</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -158,9 +158,7 @@
         <mark key="^" line="98" column="28" />
         <mark key="." line="98" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68F17E96-20E5-41DF-A3FF-CAC75A62323E/1/IdentityServiceCollectionExtensions.cs" timestamp="1587201634458">
-        <mark key="'" line="108" column="41" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F8C31CF8-9D63-4537-93AA-C41656C69DAF/3/HostingEnvironmentExtensions.cs" timestamp="1587287327934" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FC774452-F0FF-4C30-9142-7370C005C69B/1/KeyDerivation.cs" timestamp="1587256732858">
         <mark key="[" line="52" column="45" />
         <mark key="]" line="52" column="53" />
@@ -171,12 +169,12 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587267458276">
+      <file name="/Dummy.txt" timestamp="1587287332773">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587285694075">
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1587287019522">
         <mark key="a" line="90" column="56" />
         <mark key="b" line="74" column="16" />
         <mark key="d" line="91" column="37" />
@@ -191,12 +189,23 @@
         <mark key="^" line="274" column="80" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Views/Security/_EnableAuthenticatorModal.cshtml" timestamp="1587286236199" />
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Cache/IRedisCacheClient.cs" timestamp="1587279364256" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Cache/IRedisCacheClient.cs" timestamp="1587287665966">
+        <mark key="'" line="181" column="8" />
+        <mark key="[" line="181" column="9" />
+        <mark key="]" line="181" column="8" />
+        <mark key="." line="181" column="7" />
+        <mark key="^" line="181" column="8" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Views/Security/Index.cshtml" timestamp="1587283459097">
         <mark key="[" line="27" column="99" />
         <mark key="]" line="28" column="32" />
         <mark key="^" line="28" column="32" />
         <mark key="." line="28" column="31" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Domain/ApplicationUser.cs" timestamp="1587286489986">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="114" />
+        <mark key="." line="13" column="8" />
       </file>
       <file name="/" timestamp="1587260593883">
         <mark key="[" line="0" column="0" />
@@ -222,6 +231,7 @@
         <mark key="." line="34" column="43" />
         <mark key="^" line="34" column="44" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/922D6808-1213-4148-970A-0DE66FE3C806/6c/a2efc28d/IdentityUserLogin.cs" timestamp="1587287053772" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E8D487F6-B0F0-44E7-BE59-97B90CDF8FD8/1D/UserManager.cs" timestamp="1587258503511">
         <mark key="[" line="2404" column="0" />
         <mark key="]" line="2404" column="0" />
@@ -229,9 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="12" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Controllers/ProductsController.cs" />
-      <jump line="382" column="21" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="80" column="36" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="361" column="22" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="378" column="25" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="58" column="36" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -329,6 +336,9 @@
       <jump line="274" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="75" column="45" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Api/AuthService.cs" />
       <jump line="45" column="106" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Api/AuthService.cs" />
+      <jump line="180" column="20" filename="C:/dev/git/selz/API/src/Selz.Core/Cache/IRedisCacheClient.cs" />
+      <jump line="179" column="0" filename="C:/dev/git/selz/API/src/Selz.Core/Cache/IRedisCacheClient.cs" />
+      <jump line="181" column="8" filename="C:/dev/git/selz/API/src/Selz.Core/Cache/IRedisCacheClient.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,47 +358,47 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>.RemoveAsync(string.Format(AuthenticationKey, applicationUserId));</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.RemoveAsync(string.Format(AuthenticationKey, applicationUserId));</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2Nlc3NUb2tlblw+</text>
+        <text>class</text>
       </register>
-      <register name="0" type="4">
-        <text>ResetTwoFactor</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBJc0laZXR0bGUgPT4gTG9naW5zICE9IG51bGwgJiYgTG9naW5zLkV4aXN0cyhsID0+IGwuTG9naW5Qcm92aWRlciA9PSBDb25zdGFudHMuT0F1dGguSVpldHRsZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzQXV0aGVudGljYXRlZCA9IGF3YWl0IF9yZWRpc0NhY2hlQ2xpZW50LkdldEFzeW5jPGJvb2w/PihzdHJpbmcuRm9ybWF0KEF1dGhlbnRpY2F0aW9uS2V5LCBhcHBsaWNhdGlvblVzZXJJZCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3JlZGlzQ2FjaGVDbGllbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGV4cGlyZXNBdC5LaW5kICE9IERhdGVUaW1lS2luZC5VdGMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGV4cGlyZXNBdCA9IGV4cGlyZXNBdC5Ub1VuaXZlcnNhbFRpbWUoKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgX3JlZGlzQ2xpZW50LlJlcGxhY2Uoa2V5LCB2YWx1ZSwgZXhwaXJlc0F0KTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3JlZGlzQ2FjaGVDbGllbnQuU2V0QXN5bmMoc3RyaW5nLkZvcm1hdChBdXRoZW50aWNhdGlvbktleSwgYXBwbGljYXRpb25Vc2VySWQpLCB0cnVlLCBEYXRlVGltZS5VdGNOb3cuQWRkRGF5cygyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzQXV0aGVudGljYXRlZCA9IGF3YWl0IF9yZWRpc0NhY2hlQ2xpZW50LkdldEFzeW5jPGJvb2w/PihzdHJpbmcuRm9ybWF0KEF1dGhlbnRpY2F0aW9uS2V5LCBhcHBsaWNhdGlvblVzZXJJZCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElSZWRpc0NhY2hlQ2xpZW50IF9yZWRpc0NhY2hlQ2xpZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3JlZGlzQ2FjaGVDbGllbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3JlZGlzQ2FjaGVDbGllbnQuUmVtb3ZlQXN5bmMoc3RyaW5nLkZvcm1hdChBdXRoZW50aWNhdGlvbktleSwgYXBwbGljYXRpb25Vc2VySWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3JlZGlzQ2FjaGVDbGllbnQuU2V0QXN5bmMoc3RyaW5nLkZvcm1hdChBdXRoZW50aWNhdGlvbktleSwgYXBwbGljYXRpb25Vc2VySWQpLCB0cnVlLCBEYXRlVGltZS5VdGNOb3cuQWRkRGF5cygyKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3JlZGlzQ2FjaGVDbGllbnQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3JlZGlzQ2FjaGVDbGllbnQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIElSZWRpc0NhY2hlQ2xpZW50IF9yZWRpc0NhY2hlQ2xpZW50Owo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3JlZGlzQ2FjaGVDbGllbnQuUmVtb3ZlQXN5bmMoc3RyaW5nLkZvcm1hdChBdXRoZW50aWNhdGlvbktleSwgYXBwbGljYXRpb25Vc2VySWQpKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX3JlZGlzQ2FjaGVDbGllbnQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3JlZGlzQ2FjaGVDbGllbnQgPSByZWRpc0NhY2hlQ2xpZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3JlZGlzQ2FjaGVDbGllbnQK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -400,12 +410,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhY2Nlc3NUb2tlblw+</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2Nlc3NUb2tlblw+</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>I</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
