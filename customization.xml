@@ -1,10 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="UML.Group" is_group="true" action_type="-1" position="27">
-      <path value="root" />
-      <path value="Navigation Bar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -26,11 +21,6 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="$Cut" is_action="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Navigation Bar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ActiveDeviceGroup" is_group="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -43,13 +33,6 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="UnityToolbarActions" is_group="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="ActiveRuntimeGroup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="BuildSolutionAction" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="Toolbar Run Actions" />
