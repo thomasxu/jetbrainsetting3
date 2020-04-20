@@ -4,6 +4,7 @@
       <option name="showLibraryStackFrames" value="false" />
       <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="150" />
+      <show-values-inline>false</show-values-inline>
     </data-views>
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
@@ -17,14 +18,14 @@
           <option name="showRunToPanel" value="false" />
         </configuration>
       </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
       <debugger id="oracle">
         <configuration>
           <option name="steppingPauseAtBegin" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
