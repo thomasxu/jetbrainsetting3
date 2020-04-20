@@ -21,7 +21,6 @@
         <entry encoding="base64">XDxTZXRUd29GYWN0b3JTZXR0aW5nc1w+</entry>
         <entry encoding="base64">XDxhY2Nlc3NUb2tlblw+</entry>
         <entry>{</entry>
-        <entry>class</entry>
         <entry>new</entry>
         <entry>)</entry>
         <entry>Pro</entry>
@@ -29,6 +28,7 @@
         <entry>User</entry>
         <entry>absolu</entry>
         <entry encoding="base64">XDxmb3JtVHlwZVw+</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -150,83 +150,43 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/AddressDrop.cs" timestamp="1587348006208">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587348883195">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/CategoriesDrop.cs" timestamp="1587349724027" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/Footer.cs" timestamp="1587348147007">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/FormDrop.cs" timestamp="1587349939446">
         <mark key="[" line="52" column="52" />
         <mark key="]" line="52" column="58" />
         <mark key="^" line="52" column="58" />
         <mark key="." line="52" column="57" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/HomeController.cs" timestamp="1587348025921">
-        <mark key="'" line="238" column="62" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/MediaSettingsDrop.cs" timestamp="1587347921181">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="46" />
-        <mark key="." line="0" column="45" />
-        <mark key="^" line="0" column="46" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/Shortcut.cs" timestamp="1587347723208">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Tags/FormBlock.cs" timestamp="1587349502862" />
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1587350313871">
-        <mark key="[" line="547" column="0" />
-        <mark key="]" line="547" column="0" />
-        <mark key="." line="547" column="0" />
-        <mark key="^" line="545" column="64" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/BlockBase.cs" timestamp="1587352073370">
+        <mark key="[" line="153" column="72" />
+        <mark key="]" line="153" column="81" />
+        <mark key="." line="153" column="80" />
+        <mark key="^" line="153" column="81" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Tags/FormTag.cs" timestamp="1587349020474">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="27" />
-        <mark key="^" line="51" column="26" />
-        <mark key="." line="20" column="27" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/Filters/SelzLiquidFilter.cs" timestamp="1587352216270">
+        <mark key="[" line="638" column="78" />
+        <mark key="]" line="638" column="87" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/CategoryDrop.cs" timestamp="1587347798423">
-        <mark key="[" line="190" column="37" />
-        <mark key="]" line="190" column="46" />
-        <mark key="." line="190" column="45" />
-        <mark key="^" line="190" column="46" />
+      <file name="/Dummy.txt" timestamp="1587353208548">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" timestamp="1587348511327">
-        <mark key="[" line="42" column="109" />
-        <mark key="]" line="42" column="109" />
-        <mark key="^" line="43" column="16" />
-        <mark key="." line="42" column="109" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/21520621-5D58-4DD7-BA95-8B2615677B15/de/093ec6b0/StrFTime.cs" timestamp="1587352437265">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="122" column="3" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/FormErrorsDrop.cs" timestamp="1587347990214">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="42" />
-        <mark key="." line="3" column="41" />
-        <mark key="^" line="3" column="42" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/PageContentDrop.cs" timestamp="1587347998894">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Models/ThemeDrop/CategoriesDrop.cs" timestamp="1587349724027" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/FluidDateUtility.cs" timestamp="1587353584783">
+        <mark key="[" line="119" column="24" />
+        <mark key="]" line="119" column="30" />
+        <mark key="^" line="119" column="30" />
+        <mark key="." line="119" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="32" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="282" column="32" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="257" column="51" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="258" column="32" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="253" column="32" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="261" column="76" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -324,6 +284,9 @@
       <jump line="6" column="17" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.Models/Users/ClientRequest.cs" />
       <jump line="34" column="19" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.Models/Users/ClientRequest.cs" />
       <jump line="240" column="62" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/HomeController.cs" />
+      <jump line="110" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/21520621-5D58-4DD7-BA95-8B2615677B15/de/093ec6b0/StrFTime.cs" />
+      <jump line="70" column="8" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/21520621-5D58-4DD7-BA95-8B2615677B15/de/093ec6b0/StrFTime.cs" />
+      <jump line="13" column="2" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/21520621-5D58-4DD7-BA95-8B2615677B15/de/093ec6b0/StrFTime.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,46 +307,46 @@
         <text />
       </register>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBGbHVpZERhdGVVdGlsaXR5CiAgICB7CgogICAgfQoKCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>FormDrop</text>
+        <text>Drop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JtVHlwZVw+</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5NZW1iZXJBY2Nlc3NTdHJhdGVneS5SZWdpc3RlcjxDYXRlZ29yaWVzRHJvcCwgQ2F0ZWdvcnlEcm9wPigoY2F0ZWdvcmllcywgcGF0aCkgPT4KICAgICAgICAgICAgICAgIGNhdGVnb3JpZXMuRHluYW1pY1Byb3BlcnR5KHBhdGgpKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGNsYXNzIFN0ckZUaW1lCiAgewogICAgcHJpdmF0ZSBzdGF0aWMgcmVhZG9ubHkgRGljdGlvbmFyeTxzdHJpbmcsIFN0ckZUaW1lLkRhdGVUaW1lRGVsZWdhdGU+IEZvcm1hdHMgPSBuZXcgRGljdGlvbmFyeTxzdHJpbmcsIFN0ckZUaW1lLkRhdGVUaW1lRGVsZWdhdGU+KCkKICAgIHsKICAgICAgewogICAgICAgICJhIiwKICAgICAgICAoU3RyRlRpbWUuRGF0ZVRpbWVEZWxlZ2F0ZSkgKGRhdGVUaW1lID0+IGRhdGVUaW1lLlRvU3RyaW5nKCJkZGQiLCAoSUZvcm1hdFByb3ZpZGVyKSBDdWx0dXJlSW5mby5DdXJyZW50Q3VsdHVyZSkpCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiQSIsCiAgICAgICAgKFN0ckZUaW1lLkRhdGVUaW1lRGVsZWdhdGUpIChkYXRlVGltZSA9PiBkYXRlVGltZS5Ub1N0cmluZygiZGRkZCIsIChJRm9ybWF0UHJvdmlkZXIpIEN1bHR1cmVJbmZvLkN1cnJlbnRDdWx0dXJlKSkKICAgICAgfSwKICAgICAgewogICAgICAgICJiIiwKICAgICAgICAoU3RyRlRpbWUuRGF0ZVRpbWVEZWxlZ2F0ZSkgKGRhdGVUaW1lID0+IGRhdGVUaW1lLlRvU3RyaW5nKCJNTU0iLCAoSUZvcm1hdFByb3ZpZGVyKSBDdWx0dXJlSW5mby5DdXJyZW50Q3VsdHVyZSkpCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiQiIsCiAgICAgICAgKFN0ckZUaW1lLkRhdGVUaW1lRGVsZWdhdGUpIChkYXRlVGltZSA9PiBkYXRlVGltZS5Ub1N0cmluZygiTU1NTSIsIChJRm9ybWF0UHJvdmlkZXIpIEN1bHR1cmVJbmZvLkN1cnJlbnRDdWx0dXJlKSkKICAgICAgfSwKICAgICAgewogICAgICAgICJjIiwKICAgICAgICAoU3RyRlRpbWUuRGF0ZVRpbWVEZWxlZ2F0ZSkgKGRhdGVUaW1lID0+IGRhdGVUaW1lLlRvU3RyaW5nKCJkZGQgTU1NIGRkIEhIOm1tOnNzIHl5eXkiLCAoSUZvcm1hdFByb3ZpZGVyKSBDdWx0dXJlSW5mby5DdXJyZW50Q3VsdHVyZSkpCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiZCIsCiAgICAgICAgKFN0ckZUaW1lLkRhdGVUaW1lRGVsZWdhdGUpIChkYXRlVGltZSA9PiBkYXRlVGltZS5Ub1N0cmluZygiZGQiLCAoSUZvcm1hdFByb3ZpZGVyKSBDdWx0dXJlSW5mby5DdXJyZW50Q3VsdHVyZSkpCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiZSIsCiAgICAgICAgKFN0ckZUaW1lLkRhdGVUaW1lRGVsZWdhdGUpIChkYXRlVGltZSA9PiBkYXRlVGltZS5Ub1N0cmluZygiJWQiLCAoSUZvcm1hdFByb3ZpZGVyKSBDdWx0dXJlSW5mby5DdXJyZW50Q3VsdHVyZSkuUGFkTGVmdCgyLCAnICcpKQogICAgICB9LAogICAgICB7CiAgICAgICAgIkgiLAogICAgICAgIChTdHJGVGltZS5EYXRlVGltZURlbGVnYXRlKSAoZGF0ZVRpbWUgPT4gZGF0ZVRpbWUuVG9TdHJpbmcoIkhIIiwgKElGb3JtYXRQcm92aWRlcikgQ3VsdHVyZUluZm8uQ3VycmVudEN1bHR1cmUpKQogICAgICB9LAogICAgICB7CiAgICAgICAgIkkiLAogICAgICAgIChTdHJGVGltZS5EYXRlVGltZURlbGVnYXRlKSAoZGF0ZVRpbWUgPT4gZGF0ZVRpbWUuVG9TdHJpbmcoImhoIiwgKElGb3JtYXRQcm92aWRlcikgQ3VsdHVyZUluZm8uQ3VycmVudEN1bHR1cmUpKQogICAgICB9LAogICAgICB7CiAgICAgICAgImoiLAogICAgICAgIChTdHJGVGltZS5EYXRlVGltZURlbGVnYXRlKSAoZGF0ZVRpbWUgPT4gZGF0ZVRpbWUuRGF5T2ZZZWFyLlRvU3RyaW5nKCkuUGFkTGVmdCgzLCAnMCcpKQogICAgICB9LAogICAgICB7CiAgICAgICAgIm0iLAogICAgICAgIChTdHJGVGltZS5EYXRlVGltZURlbGVnYXRlKSAoZGF0ZVRpbWUgPT4gZGF0ZVRpbWUuVG9TdHJpbmcoIk1NIiwgKElGb3JtYXRQcm92aWRlcikgQ3VsdHVyZUluZm8uQ3VycmVudEN1bHR1cmUpKQogICAgICB9LAogICAgICB7CiAgICAgICAgIk0iLAogICAgICAgIChTdHJGVGltZS5EYXRlVGltZURlbGVnYXRlKSAoZGF0ZVRpbWUgPT4gZGF0ZVRpbWUuTWludXRlLlRvU3RyaW5nKCkuUGFkTGVmdCgyLCAnMCcpKQogICAgICB9LAogICAgICB7CiAgICAgICAgInAiLAogICAgICAgIChTdHJGVGltZS5EYXRlVGltZURlbGVnYXRlKSAoZGF0ZVRpbWUgPT4gZGF0ZVRpbWUuVG9TdHJpbmcoInR0IiwgKElGb3JtYXRQcm92aWRlcikgQ3VsdHVyZUluZm8uQ3VycmVudEN1bHR1cmUpKQogICAgICB9LAogICAgICB7CiAgICAgICAgIlMiLAogICAgICAgIChTdHJGVGltZS5EYXRlVGltZURlbGVnYXRlKSAoZGF0ZVRpbWUgPT4gZGF0ZVRpbWUuVG9TdHJpbmcoInNzIiwgKElGb3JtYXRQcm92aWRlcikgQ3VsdHVyZUluZm8uQ3VycmVudEN1bHR1cmUpKQogICAgICB9LAogICAgICB7CiAgICAgICAgIlUiLAogICAgICAgIChTdHJGVGltZS5EYXRlVGltZURlbGVnYXRlKSAoZGF0ZVRpbWUgPT4gQ3VsdHVyZUluZm8uQ3VycmVudEN1bHR1cmUuQ2FsZW5kYXIuR2V0V2Vla09mWWVhcihkYXRlVGltZSwgQ3VsdHVyZUluZm8uQ3VycmVudEN1bHR1cmUuRGF0ZVRpbWVGb3JtYXQuQ2FsZW5kYXJXZWVrUnVsZSwgRGF5T2ZXZWVrLlN1bmRheSkuVG9TdHJpbmcoKS5QYWRMZWZ0KDIsICcwJykpCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiVyIsCiAgICAgICAgKFN0ckZUaW1lLkRhdGVUaW1lRGVsZWdhdGUpIChkYXRlVGltZSA9PiBDdWx0dXJlSW5mby5DdXJyZW50Q3VsdHVyZS5DYWxlbmRhci5HZXRXZWVrT2ZZZWFyKGRhdGVUaW1lLCBDdWx0dXJlSW5mby5DdXJyZW50Q3VsdHVyZS5EYXRlVGltZUZvcm1hdC5DYWxlbmRhcldlZWtSdWxlLCBEYXlPZldlZWsuTW9uZGF5KS5Ub1N0cmluZygpLlBhZExlZnQoMiwgJzAnKSkKICAgICAgfSwKICAgICAgewogICAgICAgICJ3IiwKICAgICAgICAoU3RyRlRpbWUuRGF0ZVRpbWVEZWxlZ2F0ZSkgKGRhdGVUaW1lID0+ICgoaW50KSBkYXRlVGltZS5EYXlPZldlZWspLlRvU3RyaW5nKCkpCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAieCIsCiAgICAgICAgKFN0ckZUaW1lLkRhdGVUaW1lRGVsZWdhdGUpIChkYXRlVGltZSA9PiBkYXRlVGltZS5Ub1N0cmluZygiZCIsIChJRm9ybWF0UHJvdmlkZXIpIEN1bHR1cmVJbmZvLkN1cnJlbnRDdWx0dXJlKSkKICAgICAgfSwKICAgICAgewogICAgICAgICJYIiwKICAgICAgICAoU3RyRlRpbWUuRGF0ZVRpbWVEZWxlZ2F0ZSkgKGRhdGVUaW1lID0+IGRhdGVUaW1lLlRvU3RyaW5nKCJUIiwgKElGb3JtYXRQcm92aWRlcikgQ3VsdHVyZUluZm8uQ3VycmVudEN1bHR1cmUpKQogICAgICB9LAogICAgICB7CiAgICAgICAgInkiLAogICAgICAgIChTdHJGVGltZS5EYXRlVGltZURlbGVnYXRlKSAoZGF0ZVRpbWUgPT4gZGF0ZVRpbWUuVG9TdHJpbmcoInl5IiwgKElGb3JtYXRQcm92aWRlcikgQ3VsdHVyZUluZm8uQ3VycmVudEN1bHR1cmUpKQogICAgICB9LAogICAgICB7CiAgICAgICAgIlkiLAogICAgICAgIChTdHJGVGltZS5EYXRlVGltZURlbGVnYXRlKSAoZGF0ZVRpbWUgPT4gZGF0ZVRpbWUuVG9TdHJpbmcoInl5eXkiLCAoSUZvcm1hdFByb3ZpZGVyKSBDdWx0dXJlSW5mby5DdXJyZW50Q3VsdHVyZSkpCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiWiIsCiAgICAgICAgKFN0ckZUaW1lLkRhdGVUaW1lRGVsZWdhdGUpIChkYXRlVGltZSA9PiBkYXRlVGltZS5Ub1N0cmluZygienp6IiwgKElGb3JtYXRQcm92aWRlcikgQ3VsdHVyZUluZm8uQ3VycmVudEN1bHR1cmUpKQogICAgICB9LAogICAgICB7CiAgICAgICAgIiUiLAogICAgICAgIChTdHJGVGltZS5EYXRlVGltZURlbGVnYXRlKSAoZGF0ZVRpbWUgPT4gIiUiKQogICAgICB9CiAgICB9OwoKICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIFRvU3RyRlRpbWUodGhpcyBEYXRlVGltZSBkYXRlVGltZSwgc3RyaW5nIHBhdHRlcm4pCiAgICB7CiAgICAgIHN0cmluZyBzdHIxID0gIiI7CiAgICAgIGZvciAoaW50IHN0YXJ0SW5kZXggPSAwOyBzdGFydEluZGV4IDwgcGF0dGVybi5MZW5ndGg7ICsrc3RhcnRJbmRleCkKICAgICAgewogICAgICAgIHN0cmluZyBzdHIyID0gcGF0dGVybi5TdWJzdHJpbmcoc3RhcnRJbmRleCwgMSk7CiAgICAgICAgc3RyMSA9IHN0YXJ0SW5kZXggKyAxIDwgcGF0dGVybi5MZW5ndGggPyBzdHIxICsgKHN0cjIgPT0gIiUiID8gKFN0ckZUaW1lLkZvcm1hdHMuQ29udGFpbnNLZXkocGF0dGVybi5TdWJzdHJpbmcoKytzdGFydEluZGV4LCAxKSkgPyBTdHJGVGltZS5Gb3JtYXRzW3BhdHRlcm4uU3Vic3RyaW5nKHN0YXJ0SW5kZXgsIDEpXShkYXRlVGltZSkgOiAiJSIgKyBwYXR0ZXJuLlN1YnN0cmluZyhzdGFydEluZGV4LCAxKSkgOiBzdHIyKSA6IHN0cjEgKyBzdHIyOwogICAgICB9CiAgICAgIHJldHVybiBzdHIxOwogICAgfQoKICAgIHB1YmxpYyBkZWxlZ2F0ZSBzdHJpbmcgRGF0ZVRpbWVEZWxlZ2F0ZShEYXRlVGltZSBkYXRlVGltZSk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBGbHVpZERhdGVVdGlsaXR5CiAgICB7CgogICAgfQoKCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBwdWJsaWMgb3ZlcnJpZGUgb2JqZWN0IEJlZm9yZU1ldGhvZChzdHJpbmcgbWV0aG9kKQogICAgICAgIHsKICAgICAgICAgICAgLy8gdHJ5IGJ5IGlkIG9yIGZpZWxkIG5hbWUKICAgICAgICAgICAgdmFyIGZpZWxkRHJvcCA9IF9hbGxGb3JtRmllbGRzLkZpcnN0T3JEZWZhdWx0KGMgPT4gYy5JZCA9PSBtZXRob2QpID8/CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfYWxsRm9ybUZpZWxkcy5GaXJzdE9yRGVmYXVsdChjID0+IGMuTmFtZSA9PSBCbG9ja0Zvcm1Nb2RlbC5Gb3JtRmllbGROYW1lKF9mb3JtSWQsIG1ldGhvZCkpOwoKICAgICAgICAgICAgcmV0dXJuIGZpZWxkRHJvcCA/PyBiYXNlLkJlZm9yZU1ldGhvZChtZXRob2QpOwogICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIERvdExpcXVpZC5VdGlsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHNlZSBjcmVmPSJodHRwOi8vZG9jcy5nb29nbGUuY29tL3NwcmVhZHNoZWV0cy9kLzF1aHBjTEhKbGExTGZGenlGQ2pfU2dJRG9SWmwzTTRLOHRmMm56eVExMUZRL2VkaXQjZ2lkPTAiLz4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPC9zdW1tYXJ5Pgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBwdWJsaWMgb3ZlcnJpZGUgb2JqZWN0IEJlZm9yZU1ldGhvZChzdHJpbmcgbWV0aG9kKQogICAgICAgIHsKICAgICAgICAgICAgLy8gdHJ5IGJ5IGlkIG9yIGZpZWxkIG5hbWUKICAgICAgICAgICAgdmFyIGZpZWxkRHJvcCA9IF9hbGxGb3JtRmllbGRzLkZpcnN0T3JEZWZhdWx0KGMgPT4gYy5JZCA9PSBtZXRob2QpID8/CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBfYWxsRm9ybUZpZWxkcy5GaXJzdE9yRGVmYXVsdChjID0+IGMuTmFtZSA9PSBCbG9ja0Zvcm1Nb2RlbC5Gb3JtRmllbGROYW1lKF9mb3JtSWQsIG1ldGhvZCkpOwoKICAgICAgICAgICAgcmV0dXJuIGZpZWxkRHJvcCA/PyBiYXNlLkJlZm9yZU1ldGhvZChtZXRob2QpOwogICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gR2V0IGNhdGVnb3J5IGRyb3AgLSBiYXNlZCBvbiBtb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IC8vLyA8c3VtbWFyeT4K</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHNlZSBjcmVmPSJodHRwOi8vZG9jcy5nb29nbGUuY29tL3NwcmVhZHNoZWV0cy9kLzF1aHBjTEhKbGExTGZGenlGQ2pfU2dJRG9SWmwzTTRLOHRmMm56eVExMUZRL2VkaXQjZ2lkPTAiLz4K</text>
       </register>
       <register name="9" type="2">
-        <text>ClientMapping</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPC9zdW1tYXJ5Pgo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -395,12 +358,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmb3JtVHlwZVw+</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JtVHlwZVw+</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>I</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
