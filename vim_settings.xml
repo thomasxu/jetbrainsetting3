@@ -150,12 +150,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/DomainController.cs" timestamp="1587440749368">
-        <mark key="j" line="52" column="81" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="75" />
-        <mark key="^" line="41" column="27" />
-        <mark key="." line="41" column="0" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/DomainController.cs" timestamp="1587442108960">
+        <mark key="j" line="51" column="81" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="40" column="27" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Shops/TestShopClient.cs" timestamp="1587440457560">
         <mark key="[" line="43" column="83" />
@@ -196,12 +196,12 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="76" />
       </file>
-      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Shops/DomainScenarios.cs" timestamp="1587441408552">
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Shops/DomainScenarios.cs" timestamp="1587442215327">
         <mark key="j" line="37" column="95" />
-        <mark key="[" line="67" column="54" />
-        <mark key="]" line="67" column="72" />
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="49" />
         <mark key="^" line="67" column="72" />
-        <mark key="." line="67" column="71" />
+        <mark key="." line="22" column="49" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.FunctionalTests/Tests/Shops/FakeShops.cs" timestamp="1587441163348">
         <mark key="[" line="15" column="64" />
@@ -344,8 +344,8 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>domain={existingDomain}</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIFtBdXRob3JpemVdCg==</text>
       </register>
       <register name="-" type="4">
         <text>domain={existingDomain}</text>
@@ -357,34 +357,34 @@
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBTdG9yZV9Ub2tlbk5vdEV4aXN0X1Jlc3BvbnNlX05vdEZvdW5kKCkKICAgICAgICB7CiAgICAgICAgICAgIHVzaW5nICh2YXIgc2VydmVyID0gQ3JlYXRlU2VydmVyKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vQWN0CiAgICAgICAgICAgICAgICB2YXIgZXhpc3RpbmdEb21haW4gPSBGYWtlU2hvcHMuQWxsLkZpcnN0KCkuU2hvcERvbWFpbjsKICAgICAgICAgICAgICAgIHZhciByZXNwb25zZSA9IGF3YWl0IHNlcnZlci5DcmVhdGVDbGllbnQoKQogICAgICAgICAgICAgICAgICAgIC5HZXRBc3luYygkIntEb21haW5CYXNlVXJsfS9jaGVjaz9kb21haW49e2V4aXN0aW5nRG9tYWlufSIpOwoKICAgICAgICAgICAgICAgIHJlc3BvbnNlLklzU3VjY2Vzc1N0YXR1c0NvZGUuU2hvdWxkKCkuQmVGYWxzZSgpOwogICAgICAgICAgICAgICAgcmVzcG9uc2UuU3RhdHVzQ29kZS5TaG91bGQoKS5CZShIdHRwU3RhdHVzQ29kZS5Ob3RGb3VuZCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIFtBdXRob3JpemVdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBzZXJ2ZXIgPSBDcmVhdGVTZXJ2ZXIoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgLy9BY3QKICAgICAgICAgICAgICAgIHZhciByZXNwb25zZSA9IGF3YWl0IHNlcnZlci5DcmVhdGVDbGllbnQoKS5HZXRBc3luYygkIntTdG9yZUJhc2VVcmx9L3tPYmplY3RJZC5HZW5lcmF0ZU5ld0lkKCl9Iik7CiAgICAgICAgICAgICAgICByZXNwb25zZS5Jc1N1Y2Nlc3NTdGF0dXNDb2RlLlNob3VsZCgpLkJlRmFsc2UoKTsKICAgICAgICAgICAgICAgIHJlc3BvbnNlLlN0YXR1c0NvZGUuU2hvdWxkKCkuQmUoSHR0cFN0YXR1c0NvZGUuTm90Rm91bmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmFrZVNob3BzLkFsbC5GaXJzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKHZhciBzZXJ2ZXIgPSBDcmVhdGVTZXJ2ZXIoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgLy9BY3QKICAgICAgICAgICAgICAgIHZhciByZXNwb25zZSA9IGF3YWl0IHNlcnZlci5DcmVhdGVDbGllbnQoKS5HZXRBc3luYygkIntTdG9yZUJhc2VVcmx9L3tPYmplY3RJZC5HZW5lcmF0ZU5ld0lkKCl9Iik7CiAgICAgICAgICAgICAgICByZXNwb25zZS5Jc1N1Y2Nlc3NTdGF0dXNDb2RlLlNob3VsZCgpLkJlRmFsc2UoKTsKICAgICAgICAgICAgICAgIHJlc3BvbnNlLlN0YXR1c0NvZGUuU2hvdWxkKCkuQmUoSHR0cFN0YXR1c0NvZGUuTm90Rm91bmQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZXNwb25zZSA9IGF3YWl0IHNlcnZlci5DcmVhdGVDbGllbnQoKS5HZXRBc3luYygkIntTdG9yZUJhc2VVcmx9P3NlYz17fSZkb21haW49e30iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmFrZVNob3BzLkFsbC5GaXJzdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZXNwb25zZSA9IGF3YWl0IHNlcnZlci5DcmVhdGVDbGllbnQoKS5HZXRBc3luYygkIntTdG9yZUJhc2VVcmx9P3NlYz17fSZkb21haW49e30iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVtb3ZlIHJlZHVuZGFudCBhcGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VydmljZUZpbHRlcih0eXBlb2YoU3RvcmVDb250cm9sbGVyUmVhZEZpbHRlcikpXQo=</text>
+        <text encoding="base64">cmVtb3ZlIHJlZHVuZGFudCBhcGkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHJlbWFya3M+CiAgICAgICAgLy8vIEdldCBkZXRhaWxzIG9mIHRoZSBzdG9yZQogICAgICAgIC8vLyA8L3JlbWFya3M+ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBbU2VydmljZUZpbHRlcih0eXBlb2YoU3RvcmVDb250cm9sbGVyUmVhZEZpbHRlcikpXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHJlbWFya3M+CiAgICAgICAgLy8vIEdldCBkZXRhaWxzIG9mIHRoZSBzdG9yZQogICAgICAgIC8vLyA8L3JlbWFya3M+ICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
