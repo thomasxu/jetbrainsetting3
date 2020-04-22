@@ -9,8 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwdXJwb3NlXD4=</entry>
-        <entry encoding="base64">XDxTZXRUd29GYWN0b3JTZXR0aW5nc1w+</entry>
         <entry encoding="base64">XDxhY2Nlc3NUb2tlblw+</entry>
         <entry>{</entry>
         <entry>new</entry>
@@ -29,6 +27,8 @@
         <entry encoding="base64">XDxob3N0aW5nRW52aXJvbm1lbnRcPg==</entry>
         <entry>Env</entry>
         <entry>)</entry>
+        <entry>defau</entry>
+        <entry>defa</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -228,13 +228,19 @@
         <mark key="." line="475" column="66" />
         <mark key="^" line="475" column="67" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" timestamp="1587562931329">
-        <mark key="'" line="164" column="39" />
-        <mark key="j" line="196" column="49" />
-        <mark key="[" line="172" column="89" />
-        <mark key="]" line="172" column="98" />
-        <mark key="^" line="172" column="98" />
-        <mark key="." line="172" column="97" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" timestamp="1587580369565">
+        <mark key="'" line="37" column="51" />
+        <mark key="j" line="39" column="43" />
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="43" column="54" />
+        <mark key="." line="43" column="53" />
+        <mark key="^" line="43" column="54" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Function.cs" timestamp="1587579481114">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587562888684">
         <mark key="'" line="182" column="42" />
@@ -256,8 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="30" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Security/SecurityService.cs" />
-      <jump line="33" column="30" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Security/SecurityService.cs" />
       <jump line="34" column="108" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Security/SecurityService.cs" />
       <jump line="297" column="41" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="298" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -346,7 +350,6 @@
       <jump line="25" column="70" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Program.cs" />
       <jump line="27" column="73" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Program.cs" />
       <jump line="29" column="28" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
-      <jump line="37" column="12" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
       <jump line="142" column="39" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
       <jump line="151" column="4" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="162" column="16" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
@@ -356,6 +359,9 @@
       <jump line="159" column="158" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="166" column="50" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="182" column="42" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
+      <jump line="103" column="12" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
+      <jump line="39" column="96" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
+      <jump line="37" column="51" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -376,46 +382,46 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>;</text>
+        <text>add</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>defa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRW52VmFsdWVzLkFkZChFbnZpcm9ubWVudE5hbWUuUHJvZHVjdGlvbiwgYXBwU2V0dGluZ3NMb2NhbCk7CiAgICAgICAgICAgIHZhciBhcHBTZXR0aW5nc0RldiA9IG5ldyBBcHBTZXR0aW5ncygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGxvZ0xldmVsID0gaXNUZXN0T3JMb2NhbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSUhvc3RpbmdFbnZpcm9ubWVudC5hcmdjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHcKICAgICAgICAgICAgc2VydmljZXMuQWRkU2VsekV2ZW50aW5nKGNvbmZpZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RhcnR1cC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHcKICAgICAgICAgICAgSUNvbmZpZ3VyYXRpb24gY29uZmlnID0gY2ZnQnVpbGRlci5CdWlsZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGRqIAogICAgICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBGdW5jdGlvbjEKICAgIHsKICAgICAgICBwdWJsaWMgRnVuY3Rpb24xKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBzZXJ2aWNlUHJvdmlkZXIgPSBTdGFydHVwLkNyZWF0ZUNvbnRhaW5lcigpOwogICAgICAgIH0KICAgIH0KICAgIAogICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IGNvbmZpCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRnVuY3Rpb24xKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBzZXJ2aWNlUHJvdmlkZXIgPSBTdGFydHVwLkNyZWF0ZUNvbnRhaW5lcigpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS0sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHcKICAgICAgICAgICAgc2VydmljZXMuQWRkU2VsekV2ZW50aW5nKGNvbmZpZykK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -427,9 +433,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>)</last-search>
+      <last-search>defa</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>defa</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>I</last-substitute>
       <last-dir>1</last-dir>
