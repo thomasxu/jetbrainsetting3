@@ -150,17 +150,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Domain/IndexerTaskData.cs" timestamp="1587529761301">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="48" />
-        <mark key="^" line="10" column="48" />
-        <mark key="." line="10" column="47" />
-      </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Models/SyncDetails.cs" timestamp="1587530029794">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="18" column="30" />
-        <mark key="^" line="18" column="30" />
-        <mark key="." line="18" column="29" />
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="4" column="29" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/DomainController.cs" timestamp="1587451737212">
         <mark key="j" line="51" column="81" />
@@ -215,12 +208,7 @@
         <mark key="." line="2683" column="66" />
         <mark key="^" line="2683" column="67" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/AppSettings.cs" timestamp="1587531922396">
-        <mark key="[" line="65" column="38" />
-        <mark key="]" line="65" column="40" />
-        <mark key="^" line="65" column="40" />
-        <mark key="." line="65" column="39" />
-      </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/AppSettings.cs" timestamp="1587532341484" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/StoreController.cs" timestamp="1587446253403">
         <mark key="[" line="14" column="9" />
         <mark key="]" line="14" column="9" />
@@ -233,18 +221,16 @@
         <mark key="." line="475" column="66" />
         <mark key="^" line="475" column="67" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587531864992">
-        <mark key="'" line="114" column="54" />
-        <mark key="j" line="57" column="54" />
-        <mark key="[" line="105" column="76" />
-        <mark key="]" line="105" column="76" />
-        <mark key="." line="105" column="76" />
-        <mark key="^" line="105" column="77" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587532596410">
+        <mark key="'" line="114" column="17" />
+        <mark key="[" line="25" column="85" />
+        <mark key="]" line="26" column="12" />
+        <mark key="^" line="26" column="12" />
+        <mark key="." line="26" column="11" />
       </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" timestamp="1587525342844" />
     </filemarks>
     <jumps>
-      <jump line="186" column="32" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="50" column="36" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="157" column="60" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="118" column="12" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -344,6 +330,7 @@
       <jump line="66" column="23" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="69" column="38" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="113" column="54" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
+      <jump line="110" column="17" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -364,10 +351,10 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>.{Local</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>.{Local</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
