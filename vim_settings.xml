@@ -162,6 +162,10 @@
         <mark key="^" line="67" column="72" />
         <mark key="." line="22" column="49" />
       </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Models1/ConstSettings.cs" timestamp="1587537804468">
+        <mark key="a" line="5" column="29" />
+        <mark key="'" line="3" column="4" />
+      </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Models/SyncDetails.cs" timestamp="1587530029794">
         <mark key="]" line="4" column="30" />
         <mark key="^" line="4" column="30" />
@@ -192,6 +196,9 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="17" />
       </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/AppSettings.cs" timestamp="1587537791285">
+        <mark key="a" line="7" column="17" />
+      </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Controllers/HomeController.cs" timestamp="1587509654503">
         <mark key="[" line="317" column="90" />
         <mark key="]" line="317" column="92" />
@@ -216,12 +223,14 @@
         <mark key="." line="475" column="66" />
         <mark key="^" line="475" column="67" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587533989273">
-        <mark key="'" line="112" column="17" />
-        <mark key="[" line="156" column="42" />
-        <mark key="]" line="156" column="43" />
-        <mark key="." line="156" column="42" />
-        <mark key="^" line="156" column="43" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587537854744">
+        <mark key="a" line="160" column="40" />
+        <mark key="b" line="161" column="16" />
+        <mark key="'" line="113" column="17" />
+        <mark key="[" line="161" column="59" />
+        <mark key="]" line="162" column="29" />
+        <mark key="^" line="162" column="29" />
+        <mark key="." line="162" column="28" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Fluid/MockFileInfo.cs" timestamp="1587510681616">
         <mark key="[" line="31" column="0" />
@@ -235,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="36" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="157" column="60" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="118" column="12" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="123" column="38" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -335,6 +343,7 @@
       <jump line="69" column="38" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="113" column="54" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="110" column="17" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
+      <jump line="3" column="4" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Models1/ConstSettings.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -355,10 +364,10 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>Selz.Catalog.Core.Options</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
