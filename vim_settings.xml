@@ -172,6 +172,12 @@
         <mark key="^" line="16" column="67" />
         <mark key="." line="16" column="66" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1587518016970">
+        <mark key="[" line="2683" column="48" />
+        <mark key="]" line="2683" column="67" />
+        <mark key="." line="2683" column="66" />
+        <mark key="^" line="2683" column="67" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/DomainController.cs" timestamp="1587440076773">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="104" />
@@ -205,11 +211,18 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="18" column="2" />
       </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Fluid/ThemeFileProvider.cs" timestamp="1587517935524" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/StoreController.cs" timestamp="1587446253403">
         <mark key="[" line="14" column="9" />
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="8" />
         <mark key="^" line="14" column="9" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1587517953846">
+        <mark key="[" line="475" column="48" />
+        <mark key="]" line="475" column="67" />
+        <mark key="." line="475" column="66" />
+        <mark key="^" line="475" column="67" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Api/Controllers/DomainController.cs" timestamp="1587440083459">
         <mark key="[" line="50" column="0" />
@@ -352,11 +365,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="+" type="4">
+        <text>ThemeFileProvider(installedTheme.Theme)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ThemeFileProvider(installedTheme.Theme)</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
