@@ -183,12 +183,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/2/LoggerConfiguration.cs" timestamp="1587581451737">
         <mark key="'" line="140" column="22" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Fluid/MockFileProvider.cs" timestamp="1587529347152">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F945CBB9-E1B7-4D56-AEC5-518EE30D7858/6d/e099e15d/LocalStackService.cs" timestamp="1587624231841">
+        <mark key="'" line="61" column="29" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84C2400F-D1A7-49CD-BC3A-5DB2417E5A78/f3/d41db868/SnsIntegrationEvent.cs" timestamp="1587604612863" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84C2400F-D1A7-49CD-BC3A-5DB2417E5A78/f3/d41db868/SnsIntegrationEvent.cs" timestamp="1587623960275" />
       <file name="/Dummy.txt" timestamp="1587559291242">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -198,18 +198,13 @@
         <mark key="a" line="5" column="29" />
         <mark key="'" line="3" column="4" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemingService.cs" timestamp="1587526407061">
-        <mark key="[" line="2683" column="48" />
-        <mark key="]" line="2683" column="67" />
-        <mark key="." line="2683" column="66" />
-        <mark key="^" line="2683" column="67" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/AppSettings.cs" timestamp="1587623408364">
-        <mark key="j" line="66" column="35" />
-        <mark key="[" line="21" column="92" />
-        <mark key="]" line="24" column="20" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="20" />
+      <file name="C:/dev/git/selz/Services.Core/Common/src/Selz.Core.Common.Aws/LocalStackService.cs" timestamp="1587624554329" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/AppSettings.cs" timestamp="1587624051436">
+        <mark key="j" line="67" column="35" />
+        <mark key="[" line="11" column="112" />
+        <mark key="]" line="12" column="63" />
+        <mark key="." line="12" column="62" />
+        <mark key="^" line="12" column="63" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Core/Services/Theming/ThemeRenderer.cs" timestamp="1587545239057">
         <mark key="[" line="475" column="48" />
@@ -220,7 +215,7 @@
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Function.cs" timestamp="1587610588752">
         <mark key="[" line="28" column="40" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" timestamp="1587623592369">
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" timestamp="1587623805031">
         <mark key="j" line="58" column="41" />
         <mark key="[" line="92" column="113" />
         <mark key="]" line="92" column="171" />
@@ -229,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="35" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" />
       <jump line="45" column="131" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" />
       <jump line="46" column="52" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" />
       <jump line="49" column="50" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" />
@@ -329,6 +323,7 @@
       <jump line="97" column="58" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
       <jump line="30" column="37" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
       <jump line="44" column="41" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
+      <jump line="61" column="29" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F945CBB9-E1B7-4D56-AEC5-518EE30D7858/6d/e099e15d/LocalStackService.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -349,16 +344,16 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>?? &quot;us-east-1bbb&quot;</text>
+        <text>LocalStackService</text>
       </register>
       <register name="-" type="4">
-        <text>?? &quot;us-east-1bbb&quot;</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
       </register>
       <register name="0" type="4">
-        <text>S</text>
+        <text>LocalStackService</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRW52aXJvbm1lbnROYW1lCg==</text>
