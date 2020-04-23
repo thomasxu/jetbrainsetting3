@@ -226,12 +226,13 @@
         <mark key="." line="475" column="66" />
         <mark key="^" line="475" column="67" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587598144359">
-        <mark key="'" line="46" column="31" />
-        <mark key="[" line="46" column="60" />
-        <mark key="]" line="46" column="61" />
-        <mark key="^" line="46" column="61" />
-        <mark key="." line="46" column="60" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587600147271">
+        <mark key="'" line="153" column="64" />
+        <mark key="j" line="62" column="67" />
+        <mark key="[" line="122" column="77" />
+        <mark key="]" line="122" column="113" />
+        <mark key="^" line="122" column="113" />
+        <mark key="." line="122" column="112" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Fluid/MockFileInfo.cs" timestamp="1587510681616">
         <mark key="[" line="31" column="0" />
@@ -245,11 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="85" column="33" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="91" column="11" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="89" column="11" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="87" column="20" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="88" column="11" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="38" column="17" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="189" column="12" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -345,6 +341,11 @@
       <jump line="50" column="31" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="45" column="27" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="46" column="31" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
+      <jump line="107" column="116" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
+      <jump line="76" column="42" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
+      <jump line="139" column="27" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
+      <jump line="144" column="65" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
+      <jump line="147" column="64" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -365,10 +366,10 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>pprc</text>
+        <text>SyncDetails.IndexTaskName</text>
       </register>
       <register name="-" type="4">
-        <text>pprc</text>
+        <text>SyncDetails.IndexTaskName</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -377,34 +378,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2luZGV4ZXJUYXNrRGF0YVJlcG9zaXRvcnkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IiJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYnVpbGRlci5mCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld2d1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYnVpbGRlciAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2FsSGVscGVyMW8uc2MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyT3B0aW9ucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNUQVRocmVhZEF0dHJpYnV0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3JlU3luY0RldGFpbHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2lzSW5pdCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxTdGFja1NlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxTdGFja1NlcnZpY2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IiJ9Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
