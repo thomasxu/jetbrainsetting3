@@ -158,7 +158,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/1/Log.cs" timestamp="1587585053929">
         <mark key="'" line="61" column="27" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Domain/IndexerTaskData.cs" timestamp="1587601512639">
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Domain/IndexerTaskData.cs" timestamp="1587608718929">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="6" column="20" />
         <mark key="^" line="6" column="20" />
@@ -216,13 +216,13 @@
         <mark key="^" line="114" column="36" />
         <mark key="." line="114" column="35" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587608103294">
-        <mark key="'" line="104" column="62" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587608655449">
+        <mark key="'" line="147" column="57" />
         <mark key="j" line="145" column="57" />
-        <mark key="[" line="145" column="22" />
-        <mark key="]" line="145" column="15" />
-        <mark key="^" line="145" column="15" />
-        <mark key="." line="145" column="14" />
+        <mark key="[" line="149" column="19" />
+        <mark key="]" line="149" column="34" />
+        <mark key="." line="149" column="33" />
+        <mark key="^" line="149" column="34" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Shop/Fluid/MockFileInfo.cs" timestamp="1587510681616">
         <mark key="[" line="31" column="0" />
@@ -237,7 +237,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/84C2400F-D1A7-49CD-BC3A-5DB2417E5A78/f3/d41db868/SnsIntegrationEvent.cs" timestamp="1587604612863" />
     </filemarks>
     <jumps>
-      <jump line="45" column="21" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeClients.cs" />
       <jump line="46" column="20" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeClients.cs" />
       <jump line="21" column="72" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/Base/FakeClients.cs" />
       <jump line="16" column="27" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" />
@@ -307,7 +306,6 @@
       <jump line="107" column="116" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="76" column="42" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="139" column="27" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
-      <jump line="147" column="27" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="155" column="64" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="100" column="108" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="119" column="27" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
@@ -337,6 +335,8 @@
       <jump line="129" column="108" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="150" column="96" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="104" column="62" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
+      <jump line="146" column="77" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
+      <jump line="147" column="57" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -357,10 +357,10 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text encoding="base64">RmlsdGVyRGVmaW5pdGlvbjxJbmRleGVyVGFza0RhdGE+</text>
+        <text>taskData</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RmlsdGVyRGVmaW5pdGlvbjxJbmRleGVyVGFza0RhdGE+</text>
+        <text>taskData</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -369,34 +369,34 @@
         <text>S</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFByZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICBfcHJvZHVjdFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiB0YXNrRGF0YTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIEJ1aWxkZXJzPD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIAoKCiAgICAgICAgICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXhlclRhc2tEYXRhLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJZCA9IHByb2R1Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U3oK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICBfcHJvZHVjdFJlcG9zaXRvcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIEJ1aWxkZXJzPD4K</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
