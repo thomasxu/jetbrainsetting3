@@ -183,10 +183,12 @@
         <mark key="^" line="61" column="32" />
         <mark key="." line="61" column="31" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/AppSettings.cs" timestamp="1587804971707">
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/AppSettings.cs" timestamp="1587854521066">
         <mark key="'" line="0" column="0" />
-        <mark key="j" line="63" column="35" />
-        <mark key="[" line="11" column="112" />
+        <mark key="j" line="64" column="35" />
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="27" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C04F0717-3146-45A9-BBC9-2CA34D975BC6/a5/7459ca74/LogHelper.cs" timestamp="1587805445207" />
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Program.cs" timestamp="1587584848021">
@@ -215,12 +217,12 @@
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" timestamp="1587850989522">
         <mark key="'" line="85" column="36" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587853862929">
-        <mark key="'" line="96" column="26" />
-        <mark key="[" line="112" column="20" />
-        <mark key="]" line="112" column="33" />
-        <mark key="^" line="112" column="33" />
-        <mark key="." line="112" column="32" />
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587854661996">
+        <mark key="'" line="98" column="26" />
+        <mark key="[" line="83" column="27" />
+        <mark key="]" line="84" column="76" />
+        <mark key="." line="84" column="75" />
+        <mark key="^" line="84" column="76" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F945CBB9-E1B7-4D56-AEC5-518EE30D7858/6d/e099e15d/LocalStackService.cs" timestamp="1587762199424">
         <mark key="'" line="44" column="54" />
@@ -368,11 +370,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>id</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTbnNUb3BpY0FybiA9ICJhcm46YXdzOnNuczp1cy1lYXN0LTE6MDMyMjQxNTg5NDQ3OlByb2R1Y3QiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>readonly</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -381,34 +383,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHskIkxvZ2dpbmc6e25hbWVvZihMb2dnZXJPcHRpb25zLkVuYWJsZVNlbnRyeSl9IiwgKCFpc0xvY2FsT3JUZXN0KS5Ub1N0cmluZygpfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RzLlBhcmFsbGVsRm9yRWFjaEFzeW5jKHByb2R1Y3QgPT4geyBfc25zSW50ZWdyYXRpb25FdmVudCA9IG5ldyBTbnNJbnRlZ3JhdGlvbkV2ZW50KCk7IH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTbnNUb3BpY0FybiA9ICJhcm46YXdzOnNuczp1cy1lYXN0LTE6MDMyMjQxNTg5NDQ3OlByb2R1Y3QiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlcnZpY2VQcm92aWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVG9waWNBcm4gPSBBcHBTZXR0aW5ncy5FbnZpcm9ubWVudFZhbHVlLlNuc1RvcGljQXJuLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5ld0cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRXZlbnRNZXNzYWdlQXR0cmlidXRlID0gRXZlbnRUeXBlLkNyZWF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVG9waWNBcm4gPSBBcHBTZXR0aW5ncy5FbnZpcm9ubWVudFZhbHVlLlNuc1RvcGljQXJuLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmdW5jdGlvbiA9IG5ldyBGdW5jdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RzLlBhcmFsbGVsRm9yRWFjaEFzeW5jKHByb2R1Y3QgPT4geyBfc25zSW50ZWdyYXRpb25FdmVudCA9IG5ldyBTbnNJbnRlZ3JhdGlvbkV2ZW50KCk7IH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5vdEZpbml0ZU51bWJlckV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlcnZpY2VQcm92aWRlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXJ0dXAuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5ld0cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3BlLlNlcnZpY2VQcm92aWRlci5HZXRTZXJ2aWNlPElMPigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
