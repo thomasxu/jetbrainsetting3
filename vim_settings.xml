@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTbnNTdWJqZWN0XD4=</entry>
         <entry encoding="base64">XDxMb2NhbFN1YnNjcmliZXJTcXNOYW1lXD4=</entry>
         <entry encoding="base64">XDxFbnZpcm9ubWVudFZhbHVlXD4=</entry>
         <entry>set</entry>
@@ -29,6 +28,7 @@
         <entry encoding="base64">XDxfbG9nZ2VyXD4=</entry>
         <entry>)</entry>
         <entry encoding="base64">XDxDbG91ZGZsYXJlQ2xpZW50XD4=</entry>
+        <entry>FlushCache</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -155,21 +155,22 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" timestamp="1587966056204" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1587956141522">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="147" column="90" />
-        <mark key="." line="67" column="32" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" timestamp="1587966473450">
+        <mark key="'" line="238" column="15" />
+        <mark key="[" line="509" column="0" />
+        <mark key="]" line="526" column="9" />
+        <mark key="." line="238" column="50" />
+        <mark key="^" line="238" column="51" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/IShopService.cs" timestamp="1587959977676">
         <mark key="[" line="165" column="0" />
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1587965884018">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1587966770777">
         <mark key="'" line="1268" column="0" />
-        <mark key="[" line="662" column="15" />
-        <mark key="]" line="662" column="16" />
+        <mark key="[" line="1278" column="0" />
+        <mark key="]" line="1295" column="9" />
         <mark key="^" line="662" column="16" />
         <mark key="." line="662" column="15" />
       </file>
@@ -182,8 +183,17 @@
         <mark key="]" line="449" column="95" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1587966066952" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/CloudFlareAuthorizationHandler.cs" timestamp="1587954774002">
-        <mark key="k" line="26" column="0" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Shops/ShopService.cs" timestamp="1587966811447">
+        <mark key="[" line="279" column="17" />
+        <mark key="]" line="272" column="50" />
+        <mark key="." line="272" column="49" />
+        <mark key="^" line="272" column="50" />
+      </file>
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Hosting/DependencyFactory.cs" timestamp="1587966827596">
+        <mark key="[" line="40" column="81" />
+        <mark key="]" line="40" column="81" />
+        <mark key="^" line="40" column="81" />
+        <mark key="." line="40" column="80" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" timestamp="1587958977130">
         <mark key="'" line="74" column="66" />
@@ -201,8 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="50" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
-      <jump line="182" column="42" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="103" column="12" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
       <jump line="39" column="96" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
       <jump line="37" column="51" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
@@ -301,6 +309,8 @@
       <jump line="14" column="41" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A6C8D7F7-2E95-4C68-A2D5-58EF32A9C37D/1/HttpClientFactoryExtensions.cs" />
       <jump line="91" column="29" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/Events/ShopEventsHandler.cs" />
       <jump line="1250" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" />
+      <jump line="237" column="24" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" />
+      <jump line="238" column="15" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,47 +330,47 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>.</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTaG9wQ0xpZW50Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDbG91ZGZsYXJlQ2xpZW50XD4=</text>
+        <text>FlushCache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3VzdG9tSG9zdG5hbWVzID0gX3Nob3BTZXJ2aWNlLkRlbGV0ZUN1c3RvbUhvc3RuYW1lKEN1cnJlbnRVc2VyLkFjdG9yKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2sgRGVsZXRlQ29udGFjdHMoaW50IHNob3BJZCkKICAgICAgICB7CiAgICAgICAgICAgIHRyeQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgY29udGFjdHMgPSBfY29udGFjdFJlcG9zaXRvcnkuQ29sbGVjdGlvbi5GaW5kQXN5bmMoeCA9PiB4LlNob3BJZCA9PSBzaG9wSWQpLlJlc3VsdD8uVG9MaXN0KCk7CiAgICAgICAgICAgICAgICBpZiAoY29udGFjdHMgIT0gbnVsbCAmJiBjb250YWN0cy5BbnkoKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgY29udGFjdCBpbiBjb250YWN0cykKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGF3YWl0IF9jb250YWN0UmVwb3NpdG9yeS5EZWxldGVFbnRpdHlBc3luYyhjb250YWN0KS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZXgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nRXJyb3IoZXgsICJFcnJvciB3aGlsZSBkZWxldGluZyBjb250YWN0cyBmb3Igc2hvcCB7MH0iLCBzaG9wSWQpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zaG9wU2VydmljZS5EZWxldGVDdXN0b21Ib3N0bmFtZShhY3Rvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTaG9wQ0xpZW50Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zaG9wU2VydmljZS5EZWxldGVDdXN0b21Ib3N0bmFtZShhY3Rvcik7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBEZWxldGVDdXN0b21Ib3N0bmFtZShzdHJpbmcgaG9zdG5hbWUsIGJvb2wgcmVkaXJlY3RXd3csIEFjdG9yIGFjdG9yKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGNvcnJlbGF0aW9uSWQgPSBTZWx6Q29udGV4dC5HZXRPckdlbmVyYXRlQ29ycmVsYXRpb25JZCgpOwogICAgICAgICAgICB0cnkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gVGFzay5SdW4oKCkgPT4KICAgICAgICAgICAgICAgICAgICBfc2hvcENsaWVudC5EZWxldGVDdXN0b21Ib3N0bmFtZXNBc3luYyhjb3JyZWxhdGlvbklkLCBhY3Rvci5TaG9wSWQuVG9TdHJpbmcoKSwgYWN0b3IuVXNlcklkKSkuUmVzdWx0OwoKICAgICAgICAgICAgICAgIHJlc3BvbnNlLlZhbGlkYXRlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBleCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX2xvZ2dlci5Mb2dFcnJvcihleCwgIkVycm9yIGNyZWF0ZSBjdXN0b21Ib3N0bmFtZXMgdmlhIFNob3AgQVBJIHdpdGggaG9zdG5hbWUge2hvc3ROYW1lfS4iLCBob3N0bmFtZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIERlbGV0ZUN1c3RvbUhvc3RuYW1lKHN0cmluZyBob3N0bmFtZSwgYm9vbCByZWRpcmVjdFd3dywgQWN0b3IgYWN0b3IpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlbGV0ZVJlcXVlc3QgPSBuZXcgQ3VzdG9tSG9zdG5hbWVSZXF1ZXN0CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEhvc3RuYW1lID0gaG9zdG5hbWUsCiAgICAgICAgICAgICAgICBSZWRpcmVjdFd3dyA9IHJlZGlyZWN0V3d3CiAgICAgICAgICAgIH07Cgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBub3RpZmljYXRpb247Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdGlmaWNhdGlvbiA9IG5ldyBDdXN0b21Ib3N0bmFtZXMoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zaG9wU2VydmljZS5EZWxldGVDdXN0b21Ib3N0bmFtZShhY3Rvcik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zaG9wU2VydmljZS5EZWxldGVDdXN0b21Ib3N0bmFtZShhY3Rvcik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBEZWxldGVDdXN0b21Ib3N0bmFtZShzdHJpbmcgaG9zdG5hbWUsIGJvb2wgcmVkaXJlY3RXd3csIEFjdG9yIGFjdG9yKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGNvcnJlbGF0aW9uSWQgPSBTZWx6Q29udGV4dC5HZXRPckdlbmVyYXRlQ29ycmVsYXRpb25JZCgpOwogICAgICAgICAgICB0cnkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gVGFzay5SdW4oKCkgPT4KICAgICAgICAgICAgICAgICAgICBfc2hvcENsaWVudC5EZWxldGVDdXN0b21Ib3N0bmFtZXNBc3luYyhjb3JyZWxhdGlvbklkLCBhY3Rvci5TaG9wSWQuVG9TdHJpbmcoKSwgYWN0b3IuVXNlcklkKSkuUmVzdWx0OwoKICAgICAgICAgICAgICAgIHJlc3BvbnNlLlZhbGlkYXRlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBleCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX2xvZ2dlci5Mb2dFcnJvcihleCwgIkVycm9yIGNyZWF0ZSBjdXN0b21Ib3N0bmFtZXMgdmlhIFNob3AgQVBJIHdpdGggaG9zdG5hbWUge2hvc3ROYW1lfS4iLCBob3N0bmFtZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjdXN0b21Ib3N0bmFtZXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjdXN0b21Ib3N0bmFtZXMgPSBDdXN0b21Ib3N0bmFtZXMuTWFwKHJlc3BvbnNlLkNvbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2b2lkIERlbGV0ZUN1c3RvbUhvc3RuYW1lKHN0cmluZyBob3N0bmFtZSwgYm9vbCByZWRpcmVjdFd3dywgQWN0b3IgYWN0b3IpOwo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -372,9 +382,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDbG91ZGZsYXJlQ2xpZW50XD4=</last-search>
+      <last-search>FlushCache</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDbG91ZGZsYXJlQ2xpZW50XD4=</last-pattern>
+      <last-pattern>FlushCache</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
