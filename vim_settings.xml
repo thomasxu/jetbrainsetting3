@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2NhbFN1YnNjcmliZXJTcXNOYW1lXD4=</entry>
         <entry encoding="base64">XDxFbnZpcm9ubWVudFZhbHVlXD4=</entry>
         <entry>set</entry>
         <entry encoding="base64">XDxfaXNMb2NhbEluaXRcPg==</entry>
@@ -29,6 +28,7 @@
         <entry>)</entry>
         <entry encoding="base64">XDxDbG91ZGZsYXJlQ2xpZW50XD4=</entry>
         <entry>FlushCache</entry>
+        <entry encoding="base64">XDxEZWxldGVDdXN0b21Ib3N0bmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -150,58 +150,37 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587964807600">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.Development.json" timestamp="1587968622096" />
+      <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/appsettings-bts.json" timestamp="1587968639548">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="^" line="170" column="2" />
+        <mark key="." line="170" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" timestamp="1587966473450">
-        <mark key="'" line="238" column="15" />
-        <mark key="[" line="509" column="0" />
-        <mark key="]" line="526" column="9" />
-        <mark key="." line="238" column="50" />
-        <mark key="^" line="238" column="51" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/IShopService.cs" timestamp="1587959977676">
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1587966770777">
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1587969747036">
         <mark key="'" line="1268" column="0" />
         <mark key="[" line="1278" column="0" />
         <mark key="]" line="1295" column="9" />
         <mark key="^" line="662" column="16" />
         <mark key="." line="662" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBD605A9-5574-49E3-8E8D-BF8F0D55ABA0/53/2d61ba3f/MvcCoreServiceCollectionExtensions.cs" timestamp="1587957857669">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="141" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Options/IdentityServerOptions.cs" timestamp="1587968346272">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="45" />
       </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" timestamp="1587960156722">
-        <mark key="[" line="449" column="0" />
-        <mark key="]" line="449" column="95" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Shops/ShopService.cs" timestamp="1587969556576">
+        <mark key="'" line="275" column="8" />
+        <mark key="j" line="261" column="30" />
+        <mark key="[" line="270" column="59" />
+        <mark key="]" line="270" column="75" />
+        <mark key="." line="270" column="74" />
+        <mark key="^" line="270" column="75" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1587966066952" />
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Shops/ShopService.cs" timestamp="1587966811447">
-        <mark key="[" line="279" column="17" />
-        <mark key="]" line="272" column="50" />
-        <mark key="." line="272" column="49" />
-        <mark key="^" line="272" column="50" />
-      </file>
-      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Hosting/DependencyFactory.cs" timestamp="1587966827596">
-        <mark key="[" line="40" column="81" />
-        <mark key="]" line="40" column="81" />
-        <mark key="^" line="40" column="81" />
-        <mark key="." line="40" column="80" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" timestamp="1587958977130">
-        <mark key="'" line="74" column="66" />
-        <mark key="j" line="59" column="82" />
-        <mark key="[" line="87" column="12" />
-        <mark key="]" line="87" column="12" />
-        <mark key="." line="87" column="11" />
-        <mark key="^" line="87" column="12" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Shared/Selz.Api.Public.Core/Options/ServiceConfigOptions.cs" timestamp="1587968545867" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3B0B2457-FFEC-4CBE-8098-F0A54E0BBAA3/6B/ResolveOperation.cs" timestamp="1587969839703" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Startup.cs" timestamp="1587968716114">
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="237" column="103" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/Events/ShopEventsHandler.cs" timestamp="1587964714624">
         <mark key="'" line="91" column="29" />
@@ -209,10 +188,39 @@
         <mark key="]" line="158" column="0" />
         <mark key="." line="158" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1587969377334">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CA24420-6B09-49DF-B709-89224F07DD52/15/1e8170d3/SelzBuilderExtensions.cs" timestamp="1587966955658" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" timestamp="1587969742170">
+        <mark key="'" line="159" column="35" />
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="53" />
+        <mark key="." line="240" column="0" />
+        <mark key="^" line="158" column="27" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/Options/ServiceConfigOptions.cs" timestamp="1587968701810">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/Startup.cs" timestamp="1587968811263">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="162" column="103" />
+        <mark key="^" line="161" column="40" />
+        <mark key="." line="161" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1587966066952" />
+      <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Hosting/DependencyFactory.cs" timestamp="1587966891531">
+        <mark key="[" line="40" column="81" />
+        <mark key="]" line="40" column="81" />
+        <mark key="^" line="40" column="81" />
+        <mark key="." line="40" column="80" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="12" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
-      <jump line="39" column="96" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
       <jump line="37" column="51" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
       <jump line="140" column="22" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/2/LoggerConfiguration.cs" />
       <jump line="279" column="51" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
@@ -311,6 +319,8 @@
       <jump line="1250" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" />
       <jump line="237" column="24" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" />
       <jump line="238" column="15" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" />
+      <jump line="275" column="8" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Shops/ShopService.cs" />
+      <jump line="159" column="35" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,47 +340,47 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTaG9wQ0xpZW50Cg==</text>
+      <register name="+" type="4">
+        <text>contacts</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>contacts</text>
       </register>
       <register name="/" type="4">
-        <text>FlushCache</text>
+        <text encoding="base64">XDxEZWxldGVDdXN0b21Ib3N0bmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2sgRGVsZXRlQ29udGFjdHMoaW50IHNob3BJZCkKICAgICAgICB7CiAgICAgICAgICAgIHRyeQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgY29udGFjdHMgPSBfY29udGFjdFJlcG9zaXRvcnkuQ29sbGVjdGlvbi5GaW5kQXN5bmMoeCA9PiB4LlNob3BJZCA9PSBzaG9wSWQpLlJlc3VsdD8uVG9MaXN0KCk7CiAgICAgICAgICAgICAgICBpZiAoY29udGFjdHMgIT0gbnVsbCAmJiBjb250YWN0cy5BbnkoKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgY29udGFjdCBpbiBjb250YWN0cykKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIGF3YWl0IF9jb250YWN0UmVwb3NpdG9yeS5EZWxldGVFbnRpdHlBc3luYyhjb250YWN0KS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZXgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nRXJyb3IoZXgsICJFcnJvciB3aGlsZSBkZWxldGluZyBjb250YWN0cyBmb3Igc2hvcCB7MH0iLCBzaG9wSWQpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIERlbGV0ZSBDbG91ZGZsYXJlIGN1c3RvbSBob3N0bmFtZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTaG9wQ0xpZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBub3RpZmljYXRpb247Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdGlmaWNhdGlvbiA9IG5ldyBDdXN0b21Ib3N0bmFtZXMoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zaG9wU2VydmljZS5EZWxldGVDdXN0b21Ib3N0bmFtZShhY3Rvcik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zaG9wU2VydmljZS5EZWxldGVDdXN0b21Ib3N0bmFtZShhY3Rvcik7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBEZWxldGVDdXN0b21Ib3N0bmFtZShzdHJpbmcgaG9zdG5hbWUsIGJvb2wgcmVkaXJlY3RXd3csIEFjdG9yIGFjdG9yKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGNvcnJlbGF0aW9uSWQgPSBTZWx6Q29udGV4dC5HZXRPckdlbmVyYXRlQ29ycmVsYXRpb25JZCgpOwogICAgICAgICAgICB0cnkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gVGFzay5SdW4oKCkgPT4KICAgICAgICAgICAgICAgICAgICBfc2hvcENsaWVudC5EZWxldGVDdXN0b21Ib3N0bmFtZXNBc3luYyhjb3JyZWxhdGlvbklkLCBhY3Rvci5TaG9wSWQuVG9TdHJpbmcoKSwgYWN0b3IuVXNlcklkKSkuUmVzdWx0OwoKICAgICAgICAgICAgICAgIHJlc3BvbnNlLlZhbGlkYXRlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBleCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX2xvZ2dlci5Mb2dFcnJvcihleCwgIkVycm9yIGNyZWF0ZSBjdXN0b21Ib3N0bmFtZXMgdmlhIFNob3AgQVBJIHdpdGggaG9zdG5hbWUge2hvc3ROYW1lfS4iLCBob3N0bmFtZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBEZWxldGVDdXN0b21Ib3N0bmFtZShpbnQgc2hvcElkKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGNvcnJlbGF0aW9uSWQgPSBHdWlkLk5ld0d1aWQoKTsvL1NlbHpDb250ZXh0LkdldE9yR2VuZXJhdGVDb3JyZWxhdGlvbklkKCk7CiAgICAgICAgICAgIHRyeQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBUYXNrLlJ1bigoKSA9PgoKCiAgICAgICAgICAgICAgICBfc2hvcENsaWVudC5EZWxldGVDdXN0b21Ib3N0bmFtZXNBc3luYyhjb3JyZWxhdGlvbklkLCBzaG9wSWQsIEFjdG9yLlN5c3RlbVVzZXJJZCkpLlJlc3VsdDsKCiAgICAgICAgICAgICAgICByZXNwb25zZS5WYWxpZGF0ZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZXgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nRXJyb3IoZXgsICJFcnJvciBkZWxldGUgY3VzdG9tSG9zdG5hbWVzIHZpYSBTaG9wIEFQSSBmb3Igc2hvcCB7c2hvcElkfS4iLCBhY3Rvci5TaG9wSWQpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zaG9wQ2xpZW50Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBfc2hvcENsaWVudCA9IElTaG9wQ2xpZW5sdDsK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IHZhciBjb250YWN0cyA9IF9jb250YWN0UmVwb3NpdG9yeS5Db2xsZWN0aW9uLkZpbmRBc3luYyh4ID0+IHguU2hvcElkID09IHNob3BJZCkuUmVzdWx0Py5Ub0xpc3QoKTsKICAgICAgICAgICAgICAgIGlmIChjb250YWN0cyAhPSBudWxsICYmIGNvbnRhY3RzLkFueSgpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBjb250YWN0IGluIGNvbnRhY3RzKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgYXdhaXQgX2NvbnRhY3RSZXBvc2l0b3J5LkRlbGV0ZUVudGl0eUFzeW5jKGNvbnRhY3QpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIERlbGV0ZUN1c3RvbUhvc3RuYW1lKHN0cmluZyBob3N0bmFtZSwgYm9vbCByZWRpcmVjdFd3dywgQWN0b3IgYWN0b3IpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -382,9 +392,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>FlushCache</last-search>
+      <last-search encoding="base64">XDxEZWxldGVDdXN0b21Ib3N0bmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>FlushCache</last-pattern>
+      <last-pattern encoding="base64">XDxEZWxldGVDdXN0b21Ib3N0bmFtZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
