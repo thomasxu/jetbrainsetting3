@@ -151,11 +151,11 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.Development.json" timestamp="1587968622096" />
-      <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/appsettings-bts.json" timestamp="1587968639548">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="^" line="170" column="2" />
-        <mark key="." line="170" column="0" />
+      <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/appsettings-bts.json" timestamp="1587970779404">
+        <mark key="[" line="167" column="26" />
+        <mark key="]" line="167" column="52" />
+        <mark key="^" line="167" column="44" />
+        <mark key="." line="167" column="43" />
       </file>
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" timestamp="1587969747036">
         <mark key="'" line="1268" column="0" />
@@ -188,31 +188,33 @@
         <mark key="]" line="158" column="0" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587969377334">
+      <file name="/Dummy.txt" timestamp="1587970723332">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="0" column="53" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CA24420-6B09-49DF-B709-89224F07DD52/15/1e8170d3/SelzBuilderExtensions.cs" timestamp="1587966955658" />
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" timestamp="1587969742170">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/CustomHostnamesController.cs" timestamp="1587970674130" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" timestamp="1587971649669">
         <mark key="'" line="159" column="35" />
         <mark key="[" line="240" column="0" />
         <mark key="]" line="240" column="53" />
         <mark key="." line="240" column="0" />
         <mark key="^" line="158" column="27" />
       </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Sqs/SqsShopCloseJob.cs" timestamp="1587970460277" />
       <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/Options/ServiceConfigOptions.cs" timestamp="1587968701810">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/Startup.cs" timestamp="1587968811263">
+      <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/Startup.cs" timestamp="1587970817840">
         <mark key="[" line="161" column="0" />
         <mark key="]" line="162" column="103" />
         <mark key="^" line="161" column="40" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1587966066952" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1587970162514" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Hosting/DependencyFactory.cs" timestamp="1587966891531">
         <mark key="[" line="40" column="81" />
         <mark key="]" line="40" column="81" />
@@ -341,16 +343,16 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>contacts</text>
+        <text>api-internal.local-selz.com</text>
       </register>
       <register name="-" type="4">
-        <text>contacts</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEZWxldGVDdXN0b21Ib3N0bmFtZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIERlbGV0ZSBDbG91ZGZsYXJlIGN1c3RvbSBob3N0bmFtZXMK</text>
+      <register name="0" type="4">
+        <text>api-internal.local-selz.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
