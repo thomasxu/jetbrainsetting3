@@ -27,8 +27,8 @@
         <entry>audit</entry>
         <entry encoding="base64">XDxmdW5jdGlvbkhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxfY29udGludWVcPg==</entry>
-        <entry>)</entry>
         <entry encoding="base64">XDxfbG9nZ2VyXD4=</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -151,12 +151,12 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/Settings/IReckonSettingsClient.cs" timestamp="1587944755095" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1587949609818">
-        <mark key="'" line="39" column="105" />
-        <mark key="[" line="34" column="7" />
-        <mark key="]" line="34" column="7" />
-        <mark key="." line="34" column="6" />
-        <mark key="^" line="34" column="7" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1587950227116">
+        <mark key="'" line="53" column="97" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="53" column="31" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C04F0717-3146-45A9-BBC9-2CA34D975BC6/a5/7459ca74/LogHelper.cs" timestamp="1587944592144" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587948041540">
@@ -170,7 +170,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" timestamp="1587948130416">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" timestamp="1587950098832">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="168" column="83" />
       </file>
@@ -214,7 +214,7 @@
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" timestamp="1587947598335">
         <mark key="'" line="85" column="36" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587949543096">
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1587949655649">
         <mark key="'" line="24" column="52" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="70" />
@@ -227,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="39" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
-      <jump line="151" column="4" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="162" column="16" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="164" column="41" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="181" column="18" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
@@ -327,6 +325,8 @@
       <jump line="28" column="105" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" />
       <jump line="59" column="38" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="24" column="52" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
+      <jump line="49" column="98" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" />
+      <jump line="53" column="97" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,47 +346,47 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>.</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbG9nZ2VyXD4=</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2dEZWJ1ZygkIkxhc3QgdXBkYXRlZC9jcmVhdGVkIGRhdGV0aW1lIHt0aW1lfSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyT3B0aW9ucwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIG1pZ3JhdGVkU2hvcCBpbiBtaWdyYXRlZFNob3BzKQogICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNob3AgPSBhd2FpdCBfc2hvcFJlcG9zaXRvcnkuRmluZE9uZUJ5SWRBc3luYyhhY3Rvci5TaG9wSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvcFJlcG8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW1tdXRhYmxlTGlzdDw+LkJ1aWxkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9yaWdpbmFsQ2xvdWRmbGFyZUlkcyA9IHNob3AuQ2xvdWRmbGFyZT8uSWRzID8/IG5ldyBMaXN0PHN0cmluZz4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX29wdGlvbnMxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXV0aGVudGljYXRpb25IZWFkZXJWYWx1ZSgiQmVhcmVyIiwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhd2FpdCBfY2xvdWRmbGFyZUNsaWVudC5EZWxldGVBc3luYyhBcHBTZXR0aW5ncy5FbnZpcm9ubWVudFZhbHVlLlpvbmVJZCwgY2xvdWRmbGFyZUlkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXN0b21Ib3N0bmFtZQo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -398,9 +398,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfbG9nZ2VyXD4=</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbG9nZ2VyXD4=</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
