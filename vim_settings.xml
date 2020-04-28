@@ -9,8 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Env</entry>
-        <entry>defau</entry>
         <entry>defa</entry>
         <entry encoding="base64">XDxfaW50ZWdyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxMYW1iZGFDb250ZXh0XD4=</entry>
@@ -29,6 +27,8 @@
         <entry>client</entry>
         <entry encoding="base64">XDxjbG91ZGZsYXJlQ2xpZW50XD4=</entry>
         <entry>mongo</entry>
+        <entry encoding="base64">XDxfY2xvdWRmbGFyZUNsaWVudFw+</entry>
+        <entry>handler</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -150,36 +150,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1588051754462">
-        <mark key="'" line="27" column="62" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/Function.cs" timestamp="1588040080805" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/AppSettings.cs" timestamp="1588050534302">
-        <mark key="[" line="14" column="55" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" timestamp="1588053037988">
+        <mark key="'" line="12" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBD605A9-5574-49E3-8E8D-BF8F0D55ABA0/53/2d61ba3f/MvcCoreServiceCollectionExtensions.cs" timestamp="1588048991218">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="141" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Shops/ShopService.cs" timestamp="1588047962570">
-        <mark key="'" line="274" column="8" />
-        <mark key="j" line="262" column="30" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="34" column="12" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core.Tests/CustomHostnameTestBase.cs" timestamp="1588049731765">
-        <mark key="[" line="80" column="54" />
-        <mark key="]" line="83" column="16" />
-        <mark key="^" line="83" column="16" />
-        <mark key="." line="83" column="15" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/613C4F80-3C00-493E-9EB5-9C6509DE3BF6/35/b52e9ad7/ServiceCollectionExtensions.cs" timestamp="1588048820607" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" timestamp="1588050179698">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" timestamp="1588052426502">
+        <mark key="'" line="171" column="12" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
@@ -192,18 +171,6 @@
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1588050500946">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="59" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" timestamp="1588050528585">
-        <mark key="'" line="76" column="45" />
-        <mark key="[" line="67" column="61" />
-        <mark key="]" line="68" column="12" />
-        <mark key="." line="68" column="11" />
-        <mark key="^" line="68" column="12" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588049270434">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="53" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync.Test/ShopFixture.cs" timestamp="1588041792417">
         <mark key="'" line="43" column="63" />
@@ -218,12 +185,6 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="31" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/aws-lambda-tools-defaults.json" timestamp="1588047903580">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="14" column="9" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1588048670401">
         <mark key="'" line="148" column="16" />
         <mark key="[" line="177" column="22" />
@@ -237,13 +198,52 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="36" column="34" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/Program.cs" timestamp="1588039786129" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1588053141843">
+        <mark key="'" line="27" column="62" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/Function.cs" timestamp="1588040080805" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/AppSettings.cs" timestamp="1588050534302">
+        <mark key="[" line="14" column="55" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Shops/ShopService.cs" timestamp="1588047962570">
+        <mark key="'" line="274" column="8" />
+        <mark key="j" line="262" column="30" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="34" column="12" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core.Tests/CustomHostnameTestBase.cs" timestamp="1588052662891">
+        <mark key="[" line="80" column="57" />
+        <mark key="]" line="80" column="80" />
+        <mark key="^" line="80" column="80" />
+        <mark key="." line="80" column="79" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/613C4F80-3C00-493E-9EB5-9C6509DE3BF6/35/b52e9ad7/ServiceCollectionExtensions.cs" timestamp="1588048820607" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" timestamp="1588053096420">
+        <mark key="'" line="96" column="38" />
+        <mark key="[" line="79" column="33" />
+        <mark key="]" line="79" column="33" />
+        <mark key="." line="79" column="33" />
+        <mark key="^" line="79" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588049270434">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="0" column="53" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/aws-lambda-tools-defaults.json" timestamp="1588047903580">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/EAE91353-0634-4DB2-BBBE-FD923C33C724/292/ExceptionDispatchInfo.cs" timestamp="1588052743563" />
     </filemarks>
     <jumps>
-      <jump line="160" column="55" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
-      <jump line="150" column="35" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
-      <jump line="162" column="49" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
-      <jump line="147" column="15" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
       <jump line="151" column="0" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
       <jump line="156" column="0" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
       <jump line="210" column="0" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
@@ -340,6 +340,10 @@
       <jump line="148" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="76" column="45" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" />
       <jump line="27" column="62" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" />
+      <jump line="33" column="43" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" />
+      <jump line="171" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" />
+      <jump line="12" column="17" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" />
+      <jump line="96" column="38" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -359,14 +363,14 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIjA4YzZhMDY4LWRjMjEtNDVmMS04YmQ5LTQwYjdhMzNmMjQ2MiIK</text>
+      <register name="+" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>mongo</text>
+        <text>handler</text>
       </register>
       <register name="0" type="4">
         <text>mongodb://db.local.selz.com/drachma</text>
@@ -413,9 +417,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mongo</last-search>
+      <last-search>handler</last-search>
       <last-offset />
-      <last-pattern>mongo</last-pattern>
+      <last-pattern>handler</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
