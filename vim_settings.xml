@@ -150,12 +150,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/appsettings-bts.json" timestamp="1587970779404">
-        <mark key="[" line="167" column="26" />
-        <mark key="]" line="167" column="52" />
-        <mark key="^" line="167" column="44" />
-        <mark key="." line="167" column="43" />
-      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Controllers/ApiBaseController.cs" timestamp="1588029955157">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="113" />
@@ -172,13 +166,17 @@
         <mark key="[" line="12" column="64" />
         <mark key="]" line="12" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588029317221">
+      <file name="/Dummy.txt" timestamp="1588035363065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="53" />
         <mark key="." line="0" column="53" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync.Test/ShopFixture.cs" timestamp="1588033980503">
-        <mark key="'" line="29" column="63" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync.Test/ShopFixture.cs" timestamp="1588035511929">
+        <mark key="'" line="43" column="63" />
+        <mark key="[" line="57" column="207" />
+        <mark key="]" line="59" column="96" />
+        <mark key="^" line="59" column="96" />
+        <mark key="." line="59" column="95" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" timestamp="1588026135273">
         <mark key="'" line="159" column="35" />
@@ -186,6 +184,12 @@
         <mark key="]" line="241" column="53" />
         <mark key="." line="241" column="0" />
         <mark key="^" line="158" column="27" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync.Test/SearchSyncTests.cs" timestamp="1588035849549">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="31" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core.Hangfire/Jobs/Sqs/SqsShopCloseJob.cs" timestamp="1588026056350">
         <mark key="[" line="16" column="0" />
@@ -330,11 +334,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>dotnet-lambda-test-tool-2</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgS0sK</text>
       </register>
       <register name="-" type="4">
-        <text>wcocorr</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNb2NrU2hvcFJlcG9cPg==</text>
@@ -343,34 +347,34 @@
         <text>dotnet-lambda-test-tool-2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJNb2NrIExhbWJkYSBUZXN0IFRvb2wiOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgS0sK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBNb2NrPElTaG9wU2VydmljZT4gTW9jazsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRlc3RMYW1iZGFDb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgc3RyaW5nIENvcnJlbGF0aW9uSWQgPT4gSHR0cENvbnRleHQ/LkdldE9yR2VuZXJhdGVDb3JyZWxhdGlvbklkKCkgPz8gR3VpZC5OZXdHdWlkKCkuVG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX21vY2tTaG9wU2VydmljZS5TZXR1cChwID0+IHAuTG9hZFN5bmNEZXRhaWxzKCkpLlJldHVybnNBc3luYyhpbmRleGVyVGFza0RhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9uZ29EdXBsaWNhdGVLZXlFeGNlcHRpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9jazwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE1vYwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJNb2NrIExhbWJkYSBUZXN0IFRvb2wiOiB7Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
