@@ -188,7 +188,12 @@
         <mark key="." line="16" column="31" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/DomainController.cs" timestamp="1588031748356" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/aws-lambda-tools-defaults.json" timestamp="1588041842728" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/aws-lambda-tools-defaults.json" timestamp="1588043370864">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/Services/ShopService.cs" timestamp="1588041578688">
         <mark key="[" line="36" column="9" />
         <mark key="]" line="36" column="35" />
@@ -328,11 +333,13 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>arn:aws:sns:us-east-1:12431243214:Shop</text>
+      <register name="+" type="2">
+        <text>{
+  &quot;region&quot;
+}</text>
       </register>
       <register name="-" type="4">
-        <text>arn:aws:sns:us-east-1:12431243214:Shop</text>
+        <text>Region</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNb2NrU2hvcFJlcG9cPg==</text>
@@ -341,34 +348,36 @@
         <text>dotnet-lambda-test-tool-2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS0sK</text>
+        <text>{
+  &quot;region&quot;
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBNb2NrPElTaG9wU2VydmljZT4gTW9jazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgS0sK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBNb2NrPElTaG9wU2VydmljZT4gTW9jazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX21vY2tTaG9wU2VydmljZS5TZXR1cChwID0+IHAuTG9hZFN5bmNEZXRhaWxzKCkpLlJldHVybnNBc3luYyhpbmRleGVyVGFza0RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9uZ29EdXBsaWNhdGVLZXlFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX21vY2tTaG9wU2VydmljZS5TZXR1cChwID0+IHAuTG9hZFN5bmNEZXRhaWxzKCkpLlJldHVybnNBc3luYyhpbmRleGVyVGFza0RhdGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9jazwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9uZ29EdXBsaWNhdGVLZXlFeGNlcHRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IE1vYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9jazwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJNb2NrIExhbWJkYSBUZXN0IFRvb2wiOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE1vYwo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
