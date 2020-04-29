@@ -27,8 +27,8 @@
         <entry>handler</entry>
         <entry>cloud</entry>
         <entry>assembly</entry>
-        <entry>)</entry>
         <entry>refit</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -151,13 +151,19 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.Development.json" timestamp="1588131571903" />
-      <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/appsettings-bts.json" timestamp="1588132190836">
+      <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/appsettings-bts.json" timestamp="1588133381028">
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="0" />
         <mark key="^" line="170" column="0" />
         <mark key="." line="170" column="0" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.WhiteLabel.json" timestamp="1588131612310" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBD605A9-5574-49E3-8E8D-BF8F0D55ABA0/c6/fdfa9c60/GzipDecompressionHandler.cs" timestamp="1588141107944">
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="44" />
+        <mark key="." line="30" column="43" />
+        <mark key="^" line="30" column="44" />
+      </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.Staging.json" timestamp="1588131598676" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1588129747297">
         <mark key="[" line="56" column="0" />
@@ -173,7 +179,6 @@
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" timestamp="1588129849004" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.Production.json" timestamp="1588131734577" />
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.Local.json" timestamp="1588131498281" />
-      <file name="C:/dev/git/selz/API/src/Selz.Core.IZettle/Services/IProductSyncService.cs" timestamp="1588123494930" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/Settings/ShopSettingsController.cs" timestamp="1588127860018" />
       <file name="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" timestamp="1588129175362">
         <mark key="'" line="427" column="56" />
@@ -207,8 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Program.cs" />
-      <jump line="34" column="87" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Program.cs" />
       <jump line="61" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7377099D-91F7-42A7-BB89-6982E405EFBF/1/Log.cs" />
       <jump line="67" column="48" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Function.cs" />
       <jump line="45" column="27" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
@@ -307,6 +310,8 @@
       <jump line="28" column="61" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Cloudflare/CloudflareAuthorizationHandler.cs" />
       <jump line="427" column="56" filename="C:/dev/git/selz/drachma/src/Drachma.Web/Areas/Settings/Controllers/StoreController.cs" />
       <jump line="41" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Infrastructure/Hosting/DependencyFactory.cs" />
+      <jump line="29" column="45" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBD605A9-5574-49E3-8E8D-BF8F0D55ABA0/c6/fdfa9c60/GzipDecompressionHandler.cs" />
+      <jump line="34" column="61" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBD605A9-5574-49E3-8E8D-BF8F0D55ABA0/c6/fdfa9c60/GzipDecompressionHandler.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,51 +332,51 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>t</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>refit</text>
+        <text>)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9zdENvbnRhaW5lci5SZWdpc3RlcjxQcm9kdWN0U3luY1NlcnZpY2U+KCk7Cg==</text>
+      <register name="0" type="4">
+        <text>GzipDecompressionHandler</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiQ2xvdWRmbGFyZSI6IHsKICAgICJCYXNlVXJsIjogImh0dHBzOi8vYXBpLmNsb3VkZmxhcmUuY29tL2NsaWVudC92NCIKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgbmV3IEdaaXBTdHJlYW0oc3RyZWFtKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcmVzcG9uc2U/LkNvbnRlbnQ/LkhlYWRlcnMgIT0gbnVsbCAmJiByZXNwb25zZS5Db250ZW50LkhlYWRlcnMuVHJ5R2V0VmFsdWVzKCJDb250ZW50LUVuY29kaW5nIiwgb3V0IHZhciB2YWx1ZXMpICYmIHZhbHVlcy5Db250YWluczxzdHJpbmc+KCJnemlwIiwgU3RyaW5nQ29tcGFyZXIuT3JkaW5hbElnbm9yZUNhc2UpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmVzcG9uc2U/LkNvbnRlbnQuSGVhZGVycyAhPSBudWxsICYmIHJlc3BvbnNlLkNvbnRlbnQuSGVhZGVycy5UcnlHZXRWYWx1ZXMoIkNvbnRlbnQtRW5jb2RpbmciLCBvdXQgdmFsdWVzMSkgJiYgdmFsdWVzMS5Db250YWluczxzdHJpbmc+KCJnemlwIiwgU3RyaW5nQ29tcGFyZXIuT3JkaW5hbElnbm9yZUNhc2UpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICByZXNwb25zZS5Db250ZW50ID0gbmV3IFN0cmluZ0NvbnRlbnQoRW5jb2RpbmcuVVRGOC5HZXRTdHJpbmcobWVtb3J5U3RyZWFtLlRvQXJyYXkoKSkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICByZXNwb25zZS5Db250ZW50ID0gbmV3IFN0cmluZ0NvbnRlbnQoRW5jb2RpbmcuVVRGOC5HZXRTdHJpbmcobWVtb3J5U3RyZWFtLlRvQXJyYXkoKSkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdmFyIGh0dHBSZXNwb25zZU1lc3NhZ2UgPSBhd2FpdCBiYXNlLlNlbmRBc3luYyhyZXF1ZXN0LCBjYW5jZWxsYXRpb25Ub2tlbik7CiAgICAgIGlmICh0aGlzLlppcHBlZChodHRwUmVzcG9uc2VNZXNzYWdlKSkKICAgICAgewogICAgICAgIHVzaW5nICh2YXIgbWVtb3J5U3RyZWFtID0gbmV3IE1lbW9yeVN0cmVhbSgpKQogICAgICAgIHsKICAgICAgICAgIGF3YWl0IGh0dHBSZXNwb25zZU1lc3NhZ2UuQ29udGVudC5Db3B5VG9Bc3luYyhtZW1vcnlTdHJlYW0pOwogICAgICAgICAgbWVtb3J5U3RyZWFtLlNlZWsoMEwsIFNlZWtPcmlnaW4uQmVnaW4pOwogICAgICAgICAgdXNpbmcgKHZhciBnWmlwU3RyZWFtID0gbmV3IEdaaXBTdHJlYW0obWVtb3J5U3RyZWFtLCBDb21wcmVzc2lvbk1vZGUuRGVjb21wcmVzcykpCiAgICAgICAgICB7CiAgICAgICAgICAgIHVzaW5nICh2YXIgc3RyZWFtID0gbmV3IE1lbW9yeVN0cmVhbSgpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgZ1ppcFN0cmVhbS5Db3B5VG8obWVtb3J5U3RyZWFtKTsKICAgICAgICAgICAgICBodHRwUmVzcG9uc2VNZXNzYWdlLkNvbnRlbnQ9IG5ldyBTdHJpbmdDb250ZW50KEVuY29kaW5nLlVURjguR2V0U3RyaW5nKG1lbW9yeVN0cmVhbS5Ub0FycmF5KCkpKQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBodHRwUmVzcG9uc2VNZXNzYWdlOwogICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAiQ2xvdWRmbGFyZSI6IHsKICAgICJCYXNlVXJsIjogImh0dHBzOi8vYXBpLmNsb3VkZmxhcmUuY29tL2NsaWVudC92NCIKICB9LAo=</text>
+      </register>
+      <register name="9" type="4">
         <text>,
   &quot;Cloudflare&quot;: {
     &quot;BaseUrl&quot;: &quot;https://api.cloudflare.com/client/v4&quot;,
     &quot;Token&quot;: &quot;NlIRt7BO8FfvpkGDNaega108RdiW4yccwEwtxYWK&quot;,
     &quot;ZoneId&quot;: &quot;6443b597edb8bbec2d85a6d4daeb19e2&quot;
   }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAiQ2xvdWRmbGFyZSI6IHsKICAgICJCYXNlVXJsIjogImh0dHBzOi8vYXBpLmNsb3VkZmxhcmUuY29tL2NsaWVudC92NCIsCiAgICAiVG9rZW4iOiAiTmxJUnQ3Qk84RmZ2cGtHRE5hZWdhMTA4UmRpVzR5Y2N3RXd0eFlXSyIsCiAgICAiWm9uZUlkIjogIjY0NDNiNTk3ZWRiOGJiZWMyZDg1YTZkNGRhZWIxOWUyIgogIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9zdENvbnRhaW5lci5SZWdpc3RlcjxQcm9kdWN0U3luY1NlcnZpY2U+KCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZW1ibHlbXSBhc3NlbWJsaWVzID0gbmV3IEFzc2VtYmx5WzJdCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEFzc2VtYmx5LkdldEV4ZWN1dGluZ0Fzc2VtYmx5KCksCiAgICAgICAgICAgICAgICBBc3NlbWJseS5HZXRDYWxsaW5nQXNzZW1ibHkoKQogICAgICAgICAgICB9OwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRBdXRvTWFwcGVyKGNvbmZpZyA9PiBjb25maWcuQWxsb3dOdWxsQ29sbGVjdGlvbnMgPSB0cnVlLCBhc3NlbWJsaWVzKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZW1ibHlbXSBhc3NlbWJsaWVzID0gbmV3IEFzc2VtYmx5WzJdCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEFzc2VtYmx5LkdldEV4ZWN1dGluZ0Fzc2VtYmx5KCksCiAgICAgICAgICAgICAgICBBc3NlbWJseS5HZXRDYWxsaW5nQXNzZW1ibHkoKQogICAgICAgICAgICB9OwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRBdXRvTWFwcGVyKGNvbmZpZyA9PiBjb25maWcuQWxsb3dOdWxsQ29sbGVjdGlvbnMgPSB0cnVlLCBhc3NlbWJsaWVzKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2VydmljZXMuQWRkU2Vsek12Y0NvcmUoKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBjbG91ZGZsYXJlSWQgaW4gc2hvcC5DbG91ZGZsYXJlLklkcykKICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -383,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>refit</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern>refit</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
