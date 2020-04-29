@@ -158,11 +158,10 @@
         <mark key="." line="170" column="0" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.WhiteLabel.json" timestamp="1588131612310" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBD605A9-5574-49E3-8E8D-BF8F0D55ABA0/c6/fdfa9c60/GzipDecompressionHandler.cs" timestamp="1588141107944">
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="30" column="44" />
-        <mark key="." line="30" column="43" />
-        <mark key="^" line="30" column="44" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBD605A9-5574-49E3-8E8D-BF8F0D55ABA0/c6/fdfa9c60/GzipDecompressionHandler.cs" timestamp="1588141400642">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/appsettings.Staging.json" timestamp="1588131598676" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1588129747297">
@@ -331,52 +330,47 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>;</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>memoryStream</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
       <register name="0" type="4">
-        <text>GzipDecompressionHandler</text>
+        <text>J</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbmV3IEdaaXBTdHJlYW0oc3RyZWFtKQo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2U/LkNvbnRlbnQ/LkhlYWRlcnMgIT0gbnVsbCAmJiByZXNwb25zZS5Db250ZW50LkhlYWRlcnMuVHJ5R2V0VmFsdWVzKCJDb250ZW50LUVuY29kaW5nIiwgb3V0IHZhciB2YWx1ZXMpICYmIHZhbHVlcy5Db250YWluczxzdHJpbmc+KCJnemlwIiwgU3RyaW5nQ29tcGFyZXIuT3JkaW5hbElnbm9yZUNhc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2U/LkNvbnRlbnQuSGVhZGVycyAhPSBudWxsICYmIHJlc3BvbnNlLkNvbnRlbnQuSGVhZGVycy5UcnlHZXRWYWx1ZXMoIkNvbnRlbnQtRW5jb2RpbmciLCBvdXQgdmFsdWVzMSkgJiYgdmFsdWVzMS5Db250YWluczxzdHJpbmc+KCJnemlwIiwgU3RyaW5nQ29tcGFyZXIuT3JkaW5hbElnbm9yZUNhc2UpCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBvdmVycmlkZSBhc3luYyBUYXNrPEh0dHBSZXNwb25zZU1lc3NhZ2U+IFNlbmRBc3luYwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXNwb25zZS5Db250ZW50ID0gbmV3IFN0cmluZ0NvbnRlbnQoRW5jb2RpbmcuVVRGOC5HZXRTdHJpbmcobWVtb3J5U3RyZWFtLlRvQXJyYXkoKSkpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">KAogICAgICBIdHRwUmVxdWVzdE1lc3NhZ2UgcmVxdWVzdCwKICAgICAgQ2FuY2VsbGF0aW9uVG9rZW4gY2FuY2VsbGF0aW9uVG9rZW4pCiAgICB7CiAgICAgIHVzaW5nICh2YXIgbWVtb3J5U3RyZWFtMSA9IG5ldyBNZW1vcnlTdHJlYW0oKSkKICAgICAgewogICAgICAgIHJlcXVlc3QuQ29udGVudC5Db3B5VG9Bc3luYyhtZW1vcnlTdHJlYW0xKQogICAgICAgIG1lbW9yeVN0cmVhbTEuU2VlaygwTCwgU2Vla09yaWdpbi5CZWdpbik7CiAgICAgICAgCiAgICAgICAgdXNpbmcodmFyIG1lbW9yeVN0cmVhbSA9IG5ldyBNZW1vcnlTdHJlYW0oKSl7CiAgICAgICAgdXNpbmcgKHZhciBnWmlwU3RyZWFtID0gbmV3IEdaaXBTdHJlYW0obWVtb3J5U3RyZWFtMSwgQ29tcHJlc3Npb25Nb2RlLkRlY29tcHJlc3MpKQogICAgICAgIHsKICAgICAgICAgIGdaaXBTdHJlYW0uQ29weVRvKG1lbW9yeVN0cmVhbSk7CiAgICAgICAgICByZXNwb25zZS5Db250ZW50ID0gbmV3IFN0cmluZ0NvbnRlbnQoRW5jb2RpbmcuVVRGOC5HZXRTdHJpbmcobWVtb3J5U3RyZWFtLlRvQXJyYXkoKSksIEVuY29kaW5nLlVURjgpOwogICAgICAgICAgCiAgICAgICAgfQogICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXNwb25zZS5Db250ZW50ID0gbmV3IFN0cmluZ0NvbnRlbnQoRW5jb2RpbmcuVVRGOC5HZXRTdHJpbmcobWVtb3J5U3RyZWFtLlRvQXJyYXkoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIEh0dHBSZXNwb25zZU1lc3NhZ2UuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGh0dHBSZXNwb25zZU1lc3NhZ2UgPSBhd2FpdCBiYXNlLlNlbmRBc3luYyhyZXF1ZXN0LCBjYW5jZWxsYXRpb25Ub2tlbik7CiAgICAgIGlmICh0aGlzLlppcHBlZChodHRwUmVzcG9uc2VNZXNzYWdlKSkKICAgICAgewogICAgICAgIHVzaW5nICh2YXIgbWVtb3J5U3RyZWFtID0gbmV3IE1lbW9yeVN0cmVhbSgpKQogICAgICAgIHsKICAgICAgICAgIGF3YWl0IGh0dHBSZXNwb25zZU1lc3NhZ2UuQ29udGVudC5Db3B5VG9Bc3luYyhtZW1vcnlTdHJlYW0pOwogICAgICAgICAgbWVtb3J5U3RyZWFtLlNlZWsoMEwsIFNlZWtPcmlnaW4uQmVnaW4pOwogICAgICAgICAgdXNpbmcgKHZhciBnWmlwU3RyZWFtID0gbmV3IEdaaXBTdHJlYW0obWVtb3J5U3RyZWFtLCBDb21wcmVzc2lvbk1vZGUuRGVjb21wcmVzcykpCiAgICAgICAgICB7CiAgICAgICAgICAgIHVzaW5nICh2YXIgc3RyZWFtID0gbmV3IE1lbW9yeVN0cmVhbSgpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgZ1ppcFN0cmVhbS5Db3B5VG8obWVtb3J5U3RyZWFtKTsKICAgICAgICAgICAgICBodHRwUmVzcG9uc2VNZXNzYWdlLkNvbnRlbnQ9IG5ldyBTdHJpbmdDb250ZW50KEVuY29kaW5nLlVURjguR2V0U3RyaW5nKG1lbW9yeVN0cmVhbS5Ub0FycmF5KCkpKQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBodHRwUmVzcG9uc2VNZXNzYWdlOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFJlc29sdmVFdmVudEFyZ3MuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiQ2xvdWRmbGFyZSI6IHsKICAgICJCYXNlVXJsIjogImh0dHBzOi8vYXBpLmNsb3VkZmxhcmUuY29tL2NsaWVudC92NCIKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgdXNpbmcgKG1lbW9yeVN0cmVhbTEpCiAgICAgIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text>,
-  &quot;Cloudflare&quot;: {
-    &quot;BaseUrl&quot;: &quot;https://api.cloudflare.com/client/v4&quot;,
-    &quot;Token&quot;: &quot;NlIRt7BO8FfvpkGDNaega108RdiW4yccwEwtxYWK&quot;,
-    &quot;ZoneId&quot;: &quot;6443b597edb8bbec2d85a6d4daeb19e2&quot;
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdXNpbmcgKHZhciBzdHJlYW0gPSBuZXcgTWVtb3J5U3RyZWFtKCkpCiAgICAgIHsKICAgICAgICB1c2luZyAodmFyIGdaaXBTdHJlYW0gPSBuZXcgR1ppcFN0cmVhbShzdHJlYW0sIENvbXByZXNzaW9uTW9kZS5EZWNvbXByZXNzKSkKICAgICAgICB7CiAgICAgICAgICAKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
