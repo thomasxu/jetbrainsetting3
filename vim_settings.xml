@@ -20,7 +20,6 @@
         <entry encoding="base64">XDxEZWxldGVDdXN0b21Ib3N0bmFtZVw+</entry>
         <entry encoding="base64">XDxNb2NrU2hvcFJlcG9cPg==</entry>
         <entry encoding="base64">XDxjbG91ZGZsYXJlQmFzZVVybFw+</entry>
-        <entry>client</entry>
         <entry encoding="base64">XDxjbG91ZGZsYXJlQ2xpZW50XD4=</entry>
         <entry>mongo</entry>
         <entry encoding="base64">XDxfY2xvdWRmbGFyZUNsaWVudFw+</entry>
@@ -29,6 +28,7 @@
         <entry>assembly</entry>
         <entry>refit</entry>
         <entry>)</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -155,7 +155,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CA24420-6B09-49DF-B709-89224F07DD52/15/1e8170d3/SelzBuilderExtensions.cs" timestamp="1588202033048">
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CA24420-6B09-49DF-B709-89224F07DD52/15/1e8170d3/SelzBuilderExtensions.cs" timestamp="1588202244197">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
@@ -195,7 +195,8 @@
         <mark key="." line="45" column="3" />
         <mark key="^" line="45" column="4" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1588201789836">
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1588203151469">
+        <mark key="'" line="72" column="35" />
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="41" />
       </file>
@@ -214,10 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="48" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Function.cs" />
-      <jump line="45" column="27" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
-      <jump line="46" column="31" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
-      <jump line="107" column="116" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="76" column="42" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="139" column="27" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="155" column="64" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
@@ -314,6 +311,10 @@
       <jump line="29" column="45" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBD605A9-5574-49E3-8E8D-BF8F0D55ABA0/c6/fdfa9c60/GzipDecompressionHandler.cs" />
       <jump line="34" column="61" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBD605A9-5574-49E3-8E8D-BF8F0D55ABA0/c6/fdfa9c60/GzipDecompressionHandler.cs" />
       <jump line="74" column="17" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Startup.cs" />
+      <jump line="168" column="26" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
+      <jump line="69" column="28" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
+      <jump line="71" column="19" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
+      <jump line="72" column="35" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
