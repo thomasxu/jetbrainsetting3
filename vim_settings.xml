@@ -150,12 +150,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/tasks/main.yml" timestamp="1588327501865">
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/tasks/main.yml" timestamp="1588328695884">
         <mark key="'" line="0" column="2" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="16" />
+        <mark key="[" line="87" column="517" />
+        <mark key="]" line="89" column="23" />
+        <mark key="." line="89" column="22" />
+        <mark key="^" line="89" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1588288979227">
         <mark key="[" line="0" column="0" />
@@ -323,14 +323,10 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>210)
-            
-  PermissionForEventsToInvokeHandleCloudWatchEventTaskLambda:
-      Type: AWS::Lambda::Permission
-      Properties:</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>H</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTY2hlZHVsZWRSdWxlRm9ySGFuZGxlQ2F0YWxvZ1N5bmNUYXNrQ2xvdWRXYXRjaEV2ZW50VGFza1w+</text>
@@ -338,39 +334,39 @@
       <register name="0" type="4">
         <text>AWSTemplateFormatVersion</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">LAotCgo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>210)
             
   PermissionForEventsToInvokeHandleCloudWatchEventTaskLambda:
       Type: AWS::Lambda::Permission
       Properties:</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">awo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">bwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIFR5cGU6IEFXUzo6TGFtYmRhOjpQZXJtaXNzaW9uCiAgICBQcm9wZXJ0aWVzOgogICAgICBGdW5jdGlvbk5hbWU6IAogICAgICAgIFJlZjogJ0hhbmRsZUNhdGFsb2dTeW5jVGFzaycKICAgICAgQWN0aW9uOiAnbGFtYmRhOkludm9rZWZ1bmN0aW9uJwogICAgICBQcmluY2lwYWw6ICdldmVudHMuYW1hem9uYXdzLmNvbScKICAgICAgU291cmNlQXJuOgogICAgICAgIEZuOkdldEF0dDoKICAgICAgICAgIC0gJ1NjaGVkdWxlUnVsZUZvckhhbmRsZUNhdGFsb2dTeW5jVGFza0Nsb3VkV2F0Y2hFdmVudFRhc2snCiAgICAgICAgICAtICdBcm4nCiAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgUHJvcGVydGllczoKICAgICBGdW5jdGlvbk5hbWU6JwogICAgICBSZWY6ICdIYW5kbGVDYXRhbG9nU3luY1Rhc2snCiAgICBBY3Rpb246ICdsYW1iZGE6IEludm9rZUZ1bmN0aW9uJwogICAgICBQaW5jaXBhbDogJ2V2ZW50cy5hbWF6b25hd3MuY29tJwogICAgICBTb3VyY2VBcm46CiAgICAgICAgRm46IEdldEF0dDoKICAgICAgICAgICAgICAtICdTY2hlZHVsZVJ1bGVGb3JIYW5kbGVDYXRhbG9nU3luY1Rhc2tDbG91ZFdhdGNoRXZlbnRUYXNrJwogICAgICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBfaWQ6IE9iamVjdElkKCI6ICciKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBfaWQ6IE9iamVjdElkKCI6ICciKQo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
