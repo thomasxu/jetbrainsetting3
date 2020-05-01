@@ -150,12 +150,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/tasks/main.yml" timestamp="1588312054413">
-        <mark key="e" line="41" column="11" />
-        <mark key="[" line="45" column="65" />
-        <mark key="]" line="45" column="65" />
-        <mark key="^" line="45" column="65" />
-        <mark key="." line="45" column="64" />
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/tasks/main.yml" timestamp="1588327308343">
+        <mark key="e" line="69" column="11" />
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="160" column="48" />
+        <mark key="]" line="160" column="47" />
+        <mark key="^" line="160" column="47" />
+        <mark key="." line="160" column="46" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588288979227">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml" timestamp="1588291762722">
         <mark key="[" line="232" column="5" />
@@ -163,7 +169,6 @@
         <mark key="." line="232" column="4" />
         <mark key="^" line="232" column="5" />
       </file>
-      <file name="/pipeline.yml" timestamp="1588289069844" />
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" timestamp="1588309519464">
         <mark key="'" line="142" column="21" />
         <mark key="j" line="116" column="40" />
@@ -172,24 +177,6 @@
         <mark key="^" line="117" column="6" />
         <mark key="." line="117" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD307F23-97DC-43BD-B612-957B81552F6A/9c/09e3077b/WebHookEvent`1.cs" timestamp="1588282040876">
-        <mark key="'" line="142" column="57" />
-        <mark key="[" line="142" column="13" />
-        <mark key="]" line="142" column="31" />
-        <mark key="." line="142" column="30" />
-        <mark key="^" line="142" column="31" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" timestamp="1588280679678">
-        <mark key="[" line="30" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588288979227">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/reckon" timestamp="1588289111872" />
-      <file name="/template.yml.j2" timestamp="1588289107891" />
-      <file name="/main.yml" timestamp="1588289175910" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1588285688626">
         <mark key="'" line="51" column="8" />
         <mark key="[" line="265" column="44" />
@@ -202,15 +189,23 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/vars/main.yml" timestamp="1588309537318" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A6C8D7F7-2E95-4C68-A2D5-58EF32A9C37D/1/HttpClientFactoryExtensions.cs" timestamp="1588282575527">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD307F23-97DC-43BD-B612-957B81552F6A/9c/09e3077b/WebHookEvent`1.cs" timestamp="1588282040876">
+        <mark key="'" line="142" column="57" />
+        <mark key="[" line="142" column="13" />
+        <mark key="]" line="142" column="31" />
+        <mark key="." line="142" column="30" />
+        <mark key="^" line="142" column="31" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" timestamp="1588280679678">
+        <mark key="[" line="30" column="9" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="68" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="176" column="69" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="127" column="33" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="129" column="108" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
@@ -310,6 +305,7 @@
       <jump line="73" column="2" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
       <jump line="76" column="58" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
       <jump line="142" column="21" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
+      <jump line="0" column="2" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/tasks/main.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
