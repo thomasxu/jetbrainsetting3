@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>class</entry>
         <entry>audit</entry>
         <entry encoding="base64">XDxmdW5jdGlvbkhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxfY29udGludWVcPg==</entry>
@@ -29,6 +28,7 @@
         <entry>client</entry>
         <entry>)</entry>
         <entry encoding="base64">XDxIYW5kbGVDYXRhbG9nU3luY1Rhc2tcPg==</entry>
+        <entry encoding="base64">XDxTY2hlZHVsZWRSdWxlRm9ySGFuZGxlQ2F0YWxvZ1N5bmNUYXNrQ2xvdWRXYXRjaEV2ZW50VGFza1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -150,12 +150,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/tasks/main.yml" timestamp="1588288974235">
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/tasks/main.yml" timestamp="1588312054413">
         <mark key="e" line="41" column="11" />
-        <mark key="[" line="42" column="47" />
-        <mark key="]" line="42" column="54" />
-        <mark key="^" line="42" column="54" />
-        <mark key="." line="42" column="53" />
+        <mark key="[" line="45" column="65" />
+        <mark key="]" line="45" column="65" />
+        <mark key="^" line="45" column="65" />
+        <mark key="." line="45" column="64" />
       </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml" timestamp="1588291762722">
         <mark key="[" line="232" column="5" />
@@ -164,12 +164,13 @@
         <mark key="^" line="232" column="5" />
       </file>
       <file name="/pipeline.yml" timestamp="1588289069844" />
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" timestamp="1588308968200">
-        <mark key="'" line="76" column="58" />
-        <mark key="[" line="128" column="39" />
-        <mark key="]" line="128" column="39" />
-        <mark key="^" line="128" column="39" />
-        <mark key="." line="128" column="38" />
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" timestamp="1588309519464">
+        <mark key="'" line="142" column="21" />
+        <mark key="j" line="116" column="40" />
+        <mark key="[" line="116" column="58" />
+        <mark key="]" line="117" column="6" />
+        <mark key="^" line="117" column="6" />
+        <mark key="." line="117" column="5" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD307F23-97DC-43BD-B612-957B81552F6A/9c/09e3077b/WebHookEvent`1.cs" timestamp="1588282040876">
         <mark key="'" line="142" column="57" />
@@ -201,7 +202,7 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="35" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/vars/main.yml" timestamp="1588287923227" />
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/vars/main.yml" timestamp="1588309537318" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A6C8D7F7-2E95-4C68-A2D5-58EF32A9C37D/1/HttpClientFactoryExtensions.cs" timestamp="1588282575527">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -209,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="54" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="174" column="68" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="176" column="69" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="127" column="33" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
@@ -309,6 +309,7 @@
       <jump line="116" column="20" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
       <jump line="73" column="2" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
       <jump line="76" column="58" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
+      <jump line="142" column="21" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,47 +329,55 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBfaWQ6IE9iamVjdElkKCI6ICciKQo=</text>
+      <register name="+" type="4">
+        <text>210)
+            
+  PermissionForEventsToInvokeHandleCloudWatchEventTaskLambda:
+      Type: AWS::Lambda::Permission
+      Properties:</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>H</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIYW5kbGVDYXRhbG9nU3luY1Rhc2tcPg==</text>
+        <text encoding="base64">XDxTY2hlZHVsZWRSdWxlRm9ySGFuZGxlQ2F0YWxvZ1N5bmNUYXNrQ2xvdWRXYXRjaEV2ZW50VGFza1w+</text>
       </register>
       <register name="0" type="4">
         <text>AWSTemplateFormatVersion</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBfaWQ6IE9iamVjdElkKCI6ICciKQo=</text>
+      <register name="1" type="4">
+        <text>210)
+            
+  PermissionForEventsToInvokeHandleCloudWatchEventTaskLambda:
+      Type: AWS::Lambda::Permission
+      Properties:</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmCg==</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBTY2hlZHVsZWQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgego=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">bwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBQZXJtaXNzaW9uRm9yRXZlbnRzVG9JbnZva2VIYW5kbGVDbG91ZFdhdGNoRXZlbnRUYXNrTGFtYmRhOgogICAgVHlwZTogQVdTOjpMYW1iZGE6OlBlcm1pc3Npb24KICAgIFByb3BlcnRpZXM6CiAgICAgIEZ1bmN0aW9uTmFtZToKICAgICAgICBSZWY6ICdIYW5kbGVDYXRhbG9nU3luY1Rhc2snCiAgICAgIEFjdGlvbjogJ2xhbWJkYTpJbnZva2VGdW5jdGlvbicKICAgICAgUHJpbmNpcGFsOiAnZXZlbnRzLmFtYXpvbmF3cy5jb20nCiAgICAgIFNvdXJjZUFybjoKICAgICAgICBGbjpHZXRBdHQ6CiAgICAgICAgICAtICdTY2hlZHVsZVJ1bGVGb3JIYW5kbGVDYXRhbG9nU3luY1Rhc2tDbG91ZFdhdGNoRXZlbnRUYXNrJwogICAgICAgICAgLSAnQXJuJw==</text>
+        <text encoding="base64">ICAgIFR5cGU6IEFXUzo6TGFtYmRhOjpQZXJtaXNzaW9uCiAgICBQcm9wZXJ0aWVzOgogICAgICBGdW5jdGlvbk5hbWU6IAogICAgICAgIFJlZjogJ0hhbmRsZUNhdGFsb2dTeW5jVGFzaycKICAgICAgQWN0aW9uOiAnbGFtYmRhOkludm9rZWZ1bmN0aW9uJwogICAgICBQcmluY2lwYWw6ICdldmVudHMuYW1hem9uYXdzLmNvbScKICAgICAgU291cmNlQXJuOgogICAgICAgIEZuOkdldEF0dDoKICAgICAgICAgIC0gJ1NjaGVkdWxlUnVsZUZvckhhbmRsZUNhdGFsb2dTeW5jVGFza0Nsb3VkV2F0Y2hFdmVudFRhc2snCiAgICAgICAgICAtICdBcm4nCiAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlY3V0aXR5X3RvCg==</text>
+        <text encoding="base64">ICAgUHJvcGVydGllczoKICAgICBGdW5jdGlvbk5hbWU6JwogICAgICBSZWY6ICdIYW5kbGVDYXRhbG9nU3luY1Rhc2snCiAgICBBY3Rpb246ICdsYW1iZGE6IEludm9rZUZ1bmN0aW9uJwogICAgICBQaW5jaXBhbDogJ2V2ZW50cy5hbWF6b25hd3MuY29tJwogICAgICBTb3VyY2VBcm46CiAgICAgICAgRm46IEdldEF0dDoKICAgICAgICAgICAgICAtICdTY2hlZHVsZVJ1bGVGb3JIYW5kbGVDYXRhbG9nU3luY1Rhc2tDbG91ZFdhdGNoRXZlbnRUYXNrJwogICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBfaWQ6IE9iamVjdElkKCI6ICciKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">S0sK</text>
+        <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -380,9 +389,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxIYW5kbGVDYXRhbG9nU3luY1Rhc2tcPg==</last-search>
+      <last-search encoding="base64">XDxTY2hlZHVsZWRSdWxlRm9ySGFuZGxlQ2F0YWxvZ1N5bmNUYXNrQ2xvdWRXYXRjaEV2ZW50VGFza1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIYW5kbGVDYXRhbG9nU3luY1Rhc2tcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTY2hlZHVsZWRSdWxlRm9ySGFuZGxlQ2F0YWxvZ1N5bmNUYXNrQ2xvdWRXYXRjaEV2ZW50VGFza1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
