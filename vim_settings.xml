@@ -27,8 +27,8 @@
         <entry>assembly</entry>
         <entry>refit</entry>
         <entry>client</entry>
-        <entry encoding="base64">XDxIYW5kbGVDYXRhbG9nU3luY1Rhc2tcPg==</entry>
         <entry>)</entry>
+        <entry encoding="base64">XDxIYW5kbGVDYXRhbG9nU3luY1Rhc2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -164,12 +164,12 @@
         <mark key="^" line="232" column="5" />
       </file>
       <file name="/pipeline.yml" timestamp="1588289069844" />
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" timestamp="1588307827742">
-        <mark key="'" line="242" column="14" />
-        <mark key="[" line="258" column="8" />
-        <mark key="]" line="258" column="8" />
-        <mark key="^" line="258" column="8" />
-        <mark key="." line="258" column="7" />
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" timestamp="1588308968200">
+        <mark key="'" line="76" column="58" />
+        <mark key="[" line="128" column="39" />
+        <mark key="]" line="128" column="39" />
+        <mark key="^" line="128" column="39" />
+        <mark key="." line="128" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD307F23-97DC-43BD-B612-957B81552F6A/9c/09e3077b/WebHookEvent`1.cs" timestamp="1588282040876">
         <mark key="'" line="142" column="57" />
@@ -209,12 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="55" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Function.cs" />
-      <jump line="57" column="49" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Function.cs" />
-      <jump line="185" column="22" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/23A0D0FE-D68F-4BD2-9178-440E2223616A/c6/69b51bf4/LocalEventingService.cs" />
-      <jump line="50" column="32" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
-      <jump line="55" column="15" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
-      <jump line="60" column="26" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="170" column="54" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="174" column="68" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="176" column="69" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
@@ -307,8 +301,14 @@
       <jump line="276" column="18" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="191" column="20" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="51" column="8" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
-      <jump line="116" column="20" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
       <jump line="242" column="14" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
+      <jump line="106" column="21" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
+      <jump line="101" column="43" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
+      <jump line="108" column="29" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
+      <jump line="115" column="20" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
+      <jump line="116" column="20" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
+      <jump line="73" column="2" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
+      <jump line="76" column="58" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,47 +328,47 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>state</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBfaWQ6IE9iamVjdElkKCI6ICciKQo=</text>
       </register>
       <register name="-" type="4">
         <text>state</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text encoding="base64">XDxIYW5kbGVDYXRhbG9nU3luY1Rhc2tcPg==</text>
       </register>
       <register name="0" type="4">
         <text>AWSTemplateFormatVersion</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgego=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBfaWQ6IE9iamVjdElkKCI6ICciKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBQZXJtaXNzaW9uRm9yRXZlbnRzVG9JbnZva2VIYW5kbGVDbG91ZFdhdGNoRXZlbnRUYXNrTGFtYmRhOgogICAgVHlwZTogQVdTOjpMYW1iZGE6OlBlcm1pc3Npb24KICAgIFByb3BlcnRpZXM6CiAgICAgIEZ1bmN0aW9uTmFtZToKICAgICAgICBSZWY6ICdIYW5kbGVDYXRhbG9nU3luY1Rhc2snCiAgICAgIEFjdGlvbjogJ2xhbWJkYTpJbnZva2VGdW5jdGlvbicKICAgICAgUHJpbmNpcGFsOiAnZXZlbnRzLmFtYXpvbmF3cy5jb20nCiAgICAgIFNvdXJjZUFybjoKICAgICAgICBGbjpHZXRBdHQ6CiAgICAgICAgICAtICdTY2hlZHVsZVJ1bGVGb3JIYW5kbGVDYXRhbG9nU3luY1Rhc2tDbG91ZFdhdGNoRXZlbnRUYXNrJwogICAgICAgICAgLSAnQXJuJw==</text>
+        <text encoding="base64">ICBTY2hlZHVsZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlY3V0aXR5X3RvCg==</text>
+        <text encoding="base64">ICAgICAgego=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvZGUK</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">S0sK</text>
+        <text encoding="base64">ICBQZXJtaXNzaW9uRm9yRXZlbnRzVG9JbnZva2VIYW5kbGVDbG91ZFdhdGNoRXZlbnRUYXNrTGFtYmRhOgogICAgVHlwZTogQVdTOjpMYW1iZGE6OlBlcm1pc3Npb24KICAgIFByb3BlcnRpZXM6CiAgICAgIEZ1bmN0aW9uTmFtZToKICAgICAgICBSZWY6ICdIYW5kbGVDYXRhbG9nU3luY1Rhc2snCiAgICAgIEFjdGlvbjogJ2xhbWJkYTpJbnZva2VGdW5jdGlvbicKICAgICAgUHJpbmNpcGFsOiAnZXZlbnRzLmFtYXpvbmF3cy5jb20nCiAgICAgIFNvdXJjZUFybjoKICAgICAgICBGbjpHZXRBdHQ6CiAgICAgICAgICAtICdTY2hlZHVsZVJ1bGVGb3JIYW5kbGVDYXRhbG9nU3luY1Rhc2tDbG91ZFdhdGNoRXZlbnRUYXNrJwogICAgICAgICAgLSAnQXJuJw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlY3V0aXR5X3RvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QVcK</text>
+        <text encoding="base64">ICAgIGNvZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVcKCgpBV1NUZW1wbGF0ZUZvcm1hdFZlcnNpb246ICcyMDEwLTA5LTA5JwpEZXNjcmlwdGlvbjogTGFtYmRhIHN0YWNrIGZvciBDYXRhbG9nIFNlYXJjaCBTeW5jLgpQYXJhbWV0ZXJzOgogIFNlcnZpY2VOYW1lOgogICAgVHlwZTogU3RyaW5nCiAgICBEZXNjcmlwdGlvbjogQSBuYW1lIGZvciB0aGUgc2VydmljZQogIEVudmlyb25tZW50TmFtZToKICAgIFR5cGU6IFN0cmluZwogICAgRGVzY3JpcHRpb246IEVudmlyb25tZW50TmFtZQogIFJlcG9zaXRvcnlDb25uZWN0aW9uU3RyaW5nOgogICAgVHlwZTogU3RyaW5nCiAgICBEZXNjcmlwdGlvbjogREIgQ29ubmVjdGlvbiBTdHJpbmcKCk1hcHBpbmdzOgogIEVudmlyb25tZW50RGVzYzoKICAgIHNlbHotZGV2ZWxvcG1lbnQ6CiAgICAgIE5hbWU6IERldmVsb3BtZW50CiAgICBzZWx6LXN0YWdpbmc6CiAgICAgIE5hbWU6IFN0YWdpbmcKICAgIHNlbHotcHJvZHVjdGlvbjoKICAgICAgTmFtZTogUHJvZHVjdGlvbgogICAgc2Vsei13aGl0ZWxhYmVsOgogICAgICBOYW1lOiBXaGl0ZUxhYmVsCgpSZXNvdXJjZXM6CgogIExhbWJkYVJvbGU6CiAgICBUeXBlOiBBV1M6OklBTTo6Um9sZQogICAgUHJvcGVydGllczoKICAgICAgQXNzdW1lUm9sZVBvbGljeURvY3VtZW50OgogICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3JwogICAgICAgIFN0YXRlbWVudDoKICAgICAgICAtIEVmZmVjdDogQWxsb3cKICAgICAgICAgIFByaW5jaXBhbDoKICAgICAgICAgICAgU2VydmljZToKICAgICAgICAgICAgLSBsYW1iZGEuYW1hem9uYXdzLmNvbQogICAgICAgICAgICAtIGV2ZW50cy5hbWF6b25hd3MuY29tCiAgICAgICAgICBBY3Rpb246CiAgICAgICAgICAtIHN0czpBc3N1bWVSb2xlCiAgICAgIE1hbmFnZWRQb2xpY3lBcm5zOgogICAgICAgIC0gYXJuOmF3czppYW06OmF3czpwb2xpY3kvc2VydmljZS1yb2xlL0FXU0xhbWJkYVJvbGUKICAgICAgUGF0aDogIi8iCiAgICAgIFBvbGljaWVzOgogICAgICAtIFBvbGljeU5hbWU6IHJvb3QKICAgICAgICBQb2xpY3lEb2N1bWVudDoKICAgICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3JwogICAgICAgICAgU3RhdGVtZW50OgogICAgICAgICAgLSBFZmZlY3Q6IEFsbG93CiAgICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgICAgLSAiY2xvdWR3YXRjaDoqIgogICAgICAgICAgICAtICJsb2dzOioiCiAgICAgICAgICAgIC0gImVjMjpDcmVhdGVOZXR3b3JrSW50ZXJmYWNlIgogICAgICAgICAgICAtICJlYzI6RGVzY3JpYmVOZXR3b3JrSW50ZXJmYWNlcyIKICAgICAgICAgICAgLSAiZWMyOkRlbGV0ZU5ldHdvcmtJbnRlcmZhY2UiCiAgICAgICAgICAgIC0gInNuczoqIgogICAgICAgICAgICBSZXNvdXJjZTogIioiCgogIENhdGFsb2dTeW5jU2VjdXJpdHlHcm91cDoKICAgIFR5cGU6IEFXUzo6RUMyOjpTZWN1cml0eUdyb3VwCiAgICBQcm9wZXJ0aWVzIDoKICAgICAgR3JvdXBEZXNjcmlwdGlvbiA6IENhdGFsb2dTZWN1cml0eUdyb3VwCiAgICAgIEdyb3VwTmFtZSA6IENhdGFsb2dTZWN1cml0eUdyb3VwCiAgICAgIFNlY3VyaXR5R3JvdXBJbmdyZXNzIDoKICAgICAgICAtIENpZHJJcDogMTAuMC4wLjAvOAogICAgICAgICAgSXBQcm90b2NvbDogLTEKICAgICAgVGFncyA6CiAgICAgICAgLSBLZXk6IE5hbWUKICAgICAgICAgIFZhbHVlOiAhUmVmIEFXUzo6U3RhY2tOYW1lCiAgICAgIFZwY0lkIDogIUltcG9ydFZhbHVlIFZwY0lkCgojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCiAgSGFuZGxlQ2F0YWxvZ1N5bmNUYXNrOgogICAgICBUeXBlOiBBV1M6OkxhbWJkYTo6RnVuY3Rpb24KICAgICAgUHJvcGVydGllczoKICAgICAgICAgIEZ1bmN0aW9uTmFtZTogIUpvaW4gWyctJywgWyFSZWYgJ1NlcnZpY2VOYW1lJywgJ0hhbmRsZUNhdGFsb2dTeW5jVGFzayddXQogICAgICAgICAgRGVzY3JpcHRpb246ICdSZXNwb25zaWJsZSBmb3Igc3luY2luZyBjYXRhbG9nIHNlYXJjaCBkYXRhJwogICAgICAgICAgSGFuZGxlcjogU2Vsei5DYXRhbG9nLlRhc2tzLlNlYXJjaFN5bmM6OlNlbHouQ2F0YWxvZy5UYXNrcy5TZWFyY2hTeW5jLkZ1bmN0aW9uOjpIYW5kbGVTZWFyY2hTeW5jCiAgICAgICAgICBSdW50aW1lOiBkb3RuZXRjb3JlMi4xCiAgICAgICAgICBNZW1vcnlTaXplOiAyNTYKICAgICAgICAgIFRpbWVvdXQ6IDkwMAogICAgICAgICAgUm9sZTogIUdldEF0dCBMYW1iZGFSb2xlLkFybgogICAgICAgICAgQ29kZToKICAgICAgICAgICAgUzNCdWNrZXQ6CiAgICAgICAgICAgIFMzS2V5OgogICAgICAgICAgRW52aXJvbm1lbnQ6CiAgICAgICAgICAgIFZhcmlhYmxlczoKICAgICAgICAgICAgICAiQVNQTkVUQ09SRV9FTlZJUk9OTUVOVCI6ICFGaW5kSW5NYXAgW0Vudmlyb25tZW50RGVzYywgIVJlZiBFbnZpcm9ubWVudE5hbWUsIE5hbWVdCiAgICAgICAgICAgICAgIkVOVklST05NRU5UIjogIUZpbmRJbk1hcCBbRW52aXJvbm1lbnREZXNjLCAhUmVmIEVudmlyb25tZW50TmFtZSwgTmFtZV0KICAgICAgICAgICAgICAiUkVQT1NJVE9SWV9DT05ORUNUSU9OU1RSSU5HIjogIVJlZiBSZXBvc2l0b3J5Q29ubmVjdGlvblN0cmluZwogICAgICAgICAgVnBjQ29uZmlnOgogICAgICAgICAgICBTdWJuZXRJZHM6CiAgICAgICAgICAgICAgLSAhSW1wb3J0VmFsdWUgUHJpdmF0ZVN1Ym5ldDEKICAgICAgICAgICAgICAtICFJbXBvcnRWYWx1ZSBQcml2YXRlU3VibmV0MgogICAgICAgICAgICBTZWN1cml0eUdyb3VwSWRzOgogICAgICAgICAgICAgIC0gIVJlZiAnQ2F0YWxvZ1N5bmNTZWN1cml0eUdyb3VwJwoKICBTY2hlZHVsZWRSdWxlRm9ySGFuZGxlQ2F0YWxvZ1N5bmNUYXNrQ2xvdWRXYXRjaEV2ZW50VGFzazoKICAgICAgVHlwZTogQVdTOjpFdmVudHM6OlJ1bGUKICAgICAgUHJvcGVydGllczoKICAgICAgICAgIERlc2NyaXB0aW9uOiAnU2NoZWR1bGVkIHJ1bGUgZm9yIEhhbmRsZUNhdGFsb2dTeW5jVGFzaycKICAgICAgICAgIFNjaGVkdWxlRXhwcmVzc2lvbjogJ2Nyb24oKi8yMCAyMS0wOSA/ICogU1VOLVRIVSAqKScKICAgICAgICAgIFN0YXRlOiAnRU5BQkxFRCcKICAgICAgICAgIFRhcmdldHM6CiAgICAgICAgICAgICAgLQogICAgICAgICAgICAgICAgICBBcm46CiAgICAgICAgICAgICAgICAgICAgICBGbjo6R2V0QXR0OgogICAgICAgICAgICAgICAgICAgICAgICAgIC0gJ0hhbmRsZUNhdGFsb2dTeW5jVGFzaycKICAgICAgICAgICAgICAgICAgICAgICAgICAtICdBcm4nCiAgICAgICAgICAgICAgICAgIElkOiAnSURfUkFURV8yMF9NSU5TJwoKICBQZXJtaXNzaW9uRm9yRXZlbnRzVG9JbnZva2VIYW5kbGVDbG91ZFdhdGNoRXZlbnRUYXNrTGFtYmRhOgogICAgICBUeXBlOiBBV1M6OkxhbWJkYTo6UGVybWlzc2lvbgogICAgICBQcm9wZXJ0aWVzOgogICAgICAgICAgRnVuY3Rpb25OYW1lOgogICAgICAgICAgICAgIFJlZjogJ0hhbmRsZUNhdGFsb2dTeW5jVGFzaycKICAgICAgICAgIEFjdGlvbjogJ2xhbWJkYTpJbnZva2VGdW5jdGlvbicKICAgICAgICAgIFByaW5jaXBhbDogJ2V2ZW50cy5hbWF6b25hd3MuY29tJwogICAgICAgICAgU291cmNlQXJuOgogICAgICAgICAgICAgIEZuOjpHZXRBdHQ6CiAgICAgICAgICAgICAgICAgIC0gJ1NjaGVkdWxlZFJ1bGVGb3JIYW5kbGVDYXRhbG9nU3luY1Rhc2tDbG91ZFdhdGNoRXZlbnRUYXNrJwogICAgICAgICAgICAgICAgICAtICdBcm4nCg==</text>
+        <text encoding="base64">S0sK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -380,9 +380,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>)</last-search>
+      <last-search encoding="base64">XDxIYW5kbGVDYXRhbG9nU3luY1Rhc2tcPg==</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern encoding="base64">XDxIYW5kbGVDYXRhbG9nU3luY1Rhc2tcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
