@@ -9,9 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdW5jdGlvbkhhbmRsZXJcPg==</entry>
-        <entry encoding="base64">XDxfY29udGludWVcPg==</entry>
-        <entry encoding="base64">XDxfbG9nZ2VyXD4=</entry>
         <entry encoding="base64">XDxDbG91ZGZsYXJlQ2xpZW50XD4=</entry>
         <entry>FlushCache</entry>
         <entry encoding="base64">XDxEZWxldGVDdXN0b21Ib3N0bmFtZVw+</entry>
@@ -23,12 +20,15 @@
         <entry>handler</entry>
         <entry>cloud</entry>
         <entry>assembly</entry>
-        <entry>refit</entry>
         <entry>client</entry>
         <entry>)</entry>
         <entry encoding="base64">XDxIYW5kbGVDYXRhbG9nU3luY1Rhc2tcPg==</entry>
         <entry encoding="base64">XDxTY2hlZHVsZWRSdWxlRm9ySGFuZGxlQ2F0YWxvZ1N5bmNUYXNrQ2xvdWRXYXRjaEV2ZW50VGFza1w+</entry>
         <entry encoding="base64">XDxFbnZpcm9ubWVudERlc2NcPg==</entry>
+        <entry>addrefic</entry>
+        <entry>refit</entry>
+        <entry>addre</entry>
+        <entry encoding="base64">XDxfaGVhZGVyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -151,34 +151,50 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/tasks/main.yml" timestamp="1588381261676" />
-      <file name="C:/dev/git/selz/paas/ias/automation/k8s/roles/search-api/tasks/main.yml" timestamp="1588385462144">
-        <mark key="[" line="71" column="3" />
-        <mark key="]" line="71" column="3" />
-        <mark key="^" line="71" column="3" />
-        <mark key="." line="71" column="2" />
-      </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/group_vars/all/RegionMap.yaml" timestamp="1588387134069">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="11" column="22" />
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588288979227">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" timestamp="1588398986562" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1588399484230">
+        <mark key="[" line="55" column="26" />
+        <mark key="]" line="55" column="32" />
+        <mark key="." line="55" column="31" />
+        <mark key="^" line="55" column="32" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml" timestamp="1588291762722">
-        <mark key="[" line="232" column="5" />
-        <mark key="]" line="232" column="5" />
-        <mark key="." line="232" column="4" />
-        <mark key="^" line="232" column="5" />
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/group_vars/all/defaults.yml" timestamp="1588387117936" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBD605A9-5574-49E3-8E8D-BF8F0D55ABA0/cb/260d8fde/HealthCheckApplicationBuilderExtensions.cs" timestamp="1588396779733" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2AFFEC9C-4D44-4B24-A8FA-AFC1FD1BA154/d3/765e02d6/HttpClientHandler.cs" timestamp="1588397081897">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="53" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CA24420-6B09-49DF-B709-89224F07DD52/15/1e8170d3/SelzBuilderExtensions.cs" timestamp="1588396978620">
-        <mark key="[" line="43" column="52" />
-        <mark key="]" line="43" column="53" />
-        <mark key="." line="43" column="52" />
-        <mark key="^" line="43" column="53" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Startup.cs" timestamp="1588398144250">
+        <mark key="'" line="80" column="17" />
+        <mark key="[" line="254" column="82" />
+        <mark key="]" line="255" column="35" />
+        <mark key="." line="255" column="34" />
+        <mark key="^" line="255" column="35" />
+      </file>
+      <file name="C:/dev/git/selz/paas/ias/automation/k8s/roles/search-api/tasks/main.yml" timestamp="1588385462144">
+        <mark key="[" line="71" column="3" />
+        <mark key="]" line="71" column="3" />
+        <mark key="^" line="71" column="3" />
+        <mark key="." line="71" column="2" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ShopTestServer.cs" timestamp="1588398798664">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="22" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7CA24420-6B09-49DF-B709-89224F07DD52/15/1e8170d3/SelzBuilderExtensions.cs" timestamp="1588398340292">
+        <mark key="j" line="45" column="41" />
+        <mark key="[" line="45" column="62" />
+        <mark key="]" line="45" column="63" />
+        <mark key="." line="45" column="63" />
+        <mark key="^" line="45" column="95" />
       </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-cart-search_sync/tasks/main.yml" timestamp="1588387657121">
         <mark key="e" line="41" column="11" />
@@ -187,51 +203,27 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="17" />
       </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.UnitTests/Categories/CategoriesFixture.cs" timestamp="1588398134936">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/azure-linux-agent-cleanup/tasks/main.yml" timestamp="1588385598791" />
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" timestamp="1588309519464">
-        <mark key="'" line="139" column="21" />
-        <mark key="]" line="112" column="6" />
-        <mark key="^" line="112" column="6" />
-        <mark key="." line="112" column="5" />
-      </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/archived/ipredirect/templates/template.yml.j2" timestamp="1588385550388" />
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/group_vars/all/defaults.yml" timestamp="1588387117936" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBD605A9-5574-49E3-8E8D-BF8F0D55ABA0/cb/260d8fde/HealthCheckApplicationBuilderExtensions.cs" timestamp="1588396779733" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1588285688626">
-        <mark key="'" line="51" column="8" />
-        <mark key="[" line="265" column="44" />
-        <mark key="]" line="265" column="45" />
-        <mark key="." line="265" column="44" />
-        <mark key="^" line="265" column="45" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Events/BlogPostRepositoryEvent.cs" timestamp="1588281559553">
-        <mark key="]" line="9" column="35" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="35" />
-      </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/cloudformation.yml" timestamp="1588385745470">
         <mark key="]" line="55" column="27" />
         <mark key="^" line="55" column="27" />
         <mark key="." line="55" column="26" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/vars/main.yml" timestamp="1588367853801" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A6C8D7F7-2E95-4C68-A2D5-58EF32A9C37D/1/HttpClientFactoryExtensions.cs" timestamp="1588282575527">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/CategoryPactScenarios.cs" timestamp="1588398908371">
+        <mark key="'" line="29" column="12" />
       </file>
+      <file name="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/SearchPactScenarios.cs" timestamp="1588398842462" />
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-search_sync/templates/services-shop-search_sync.yml.j2" timestamp="1588387388981">
         <mark key="'" line="90" column="41" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BD307F23-97DC-43BD-B612-957B81552F6A/9c/09e3077b/WebHookEvent`1.cs" timestamp="1588282040876">
-        <mark key="'" line="142" column="57" />
-        <mark key="[" line="142" column="13" />
-        <mark key="]" line="142" column="31" />
-        <mark key="." line="142" column="30" />
-        <mark key="^" line="142" column="31" />
       </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-cart-search_sync/templates/services-cart-search_sync.yml.j2" timestamp="1588391211006">
         <mark key="[" line="158" column="89" />
@@ -241,8 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="108" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
-      <jump line="150" column="96" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="104" column="62" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="146" column="77" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="147" column="57" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
@@ -341,6 +331,8 @@
       <jump line="0" column="2" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/tasks/main.yml" />
       <jump line="89" column="52" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-search_sync/templates/services-shop-search_sync.yml.j2" />
       <jump line="90" column="41" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-search_sync/templates/services-shop-search_sync.yml.j2" />
+      <jump line="80" column="17" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Startup.cs" />
+      <jump line="29" column="12" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/CategoryPactScenarios.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -361,46 +353,46 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>settings</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>settings</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbnZpcm9ubWVudERlc2NcPg==</text>
+        <text encoding="base64">XDxfaGVhZGVyc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>services-catalog-search_sync-orig.yml</text>
+        <text>AutomaticDecompression</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2VydmljZXMuQWRkU2VselNlcnZpY2VDbGllbnQ8VD4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Nob3BTZXJ2aWNlLkNyZWF0ZUN1c3RvbUhvc3RuYW1lc0FzeW5jKG5ldyBBY3RvcihzaG9wLmlkKSwgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2VydmljZXMuQWRkUmVmaXRDbGllbnQ8VD4oc2V0dGluZ3MpLkNvbmZpZ3VyZVByaW1hcnlIdHRwTWVzc2FnZUhhbmRsZXIoKCkgPT4gbmV3IEh0dHBDbGllbnRIYW5kbGVyKCl7fSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3BzID0gbmV3IFtde25ldyBDb3JlLkRvbWFpbnMuU2hvcHMuU2hvcCgpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgSWQgPTM3NzM5CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBodHRwTWVzc2FnZUhhbmRsZXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVmZXJlbmNlRXF1YWxzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">S0sK</text>
+        <text encoding="base64">ICAgICAgICBrawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBNYXBwaWhuZyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzdFNlcnZpY2UuRm9yPElDYXRhbG9nQ2xpZW50PihDb25zdGFudHMuQXBpQmFzZVVybCwgc2V0dGluZ3MyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TWFwcGlobmcgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzdFNlcnZpY2UuRm9yPElDYXRhbG9nQ2xpZW50PihDb25zdGFudHMuQXBpQmFzZVVybCwgc2V0dGluZ3MzKQo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -412,9 +404,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxFbnZpcm9ubWVudERlc2NcPg==</last-search>
+      <last-search encoding="base64">XDxfaGVhZGVyc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbnZpcm9ubWVudERlc2NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfaGVhZGVyc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
