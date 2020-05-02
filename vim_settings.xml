@@ -20,7 +20,6 @@
         <entry>handler</entry>
         <entry>cloud</entry>
         <entry>assembly</entry>
-        <entry>client</entry>
         <entry>)</entry>
         <entry encoding="base64">XDxIYW5kbGVDYXRhbG9nU3luY1Rhc2tcPg==</entry>
         <entry encoding="base64">XDxTY2hlZHVsZWRSdWxlRm9ySGFuZGxlQ2F0YWxvZ1N5bmNUYXNrQ2xvdWRXYXRjaEV2ZW50VGFza1w+</entry>
@@ -29,6 +28,7 @@
         <entry>refit</entry>
         <entry>addre</entry>
         <entry encoding="base64">XDxfaGVhZGVyc1w+</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -157,10 +157,10 @@
         <mark key="." line="11" column="21" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" timestamp="1588398986562" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1588400804108">
-        <mark key="[" line="55" column="26" />
-        <mark key="]" line="55" column="32" />
-        <mark key="." line="55" column="31" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1588401124770">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
         <mark key="^" line="55" column="32" />
       </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/group_vars/all/defaults.yml" timestamp="1588387117936" />
@@ -176,12 +176,12 @@
         <mark key="." line="255" column="34" />
         <mark key="^" line="255" column="35" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Cloudflare/CloudflareAuthorizationHandler.cs" timestamp="1588400883071" />
-      <file name="C:/dev/git/selz/paas/ias/automation/k8s/roles/search-api/tasks/main.yml" timestamp="1588385462144">
-        <mark key="[" line="71" column="3" />
-        <mark key="]" line="71" column="3" />
-        <mark key="^" line="71" column="3" />
-        <mark key="." line="71" column="2" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Cloudflare/CloudflareAuthorizationHandler.cs" timestamp="1588401180513" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" timestamp="1588401416433">
+        <mark key="[" line="94" column="52" />
+        <mark key="]" line="95" column="52" />
+        <mark key="^" line="95" column="52" />
+        <mark key="." line="95" column="51" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Base/ShopTestServer.cs" timestamp="1588398798664">
         <mark key="[" line="22" column="9" />
@@ -209,7 +209,13 @@
         <mark key="." line="49" column="0" />
       </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/azure-linux-agent-cleanup/tasks/main.yml" timestamp="1588385598791" />
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/archived/ipredirect/templates/template.yml.j2" timestamp="1588385550388" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1588401531785">
+        <mark key="'" line="73" column="35" />
+        <mark key="[" line="150" column="21" />
+        <mark key="]" line="150" column="16" />
+        <mark key="^" line="150" column="16" />
+        <mark key="." line="150" column="15" />
+      </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/cloudformation.yml" timestamp="1588385745470">
         <mark key="]" line="55" column="27" />
         <mark key="^" line="55" column="27" />
@@ -233,9 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="62" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
-      <jump line="146" column="77" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
-      <jump line="147" column="57" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="48" column="36" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="38" column="54" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Function.cs" />
       <jump line="114" column="12" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Startup.cs" />
@@ -300,9 +303,7 @@
       <jump line="34" column="61" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EBD605A9-5574-49E3-8E8D-BF8F0D55ABA0/c6/fdfa9c60/GzipDecompressionHandler.cs" />
       <jump line="74" column="17" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Startup.cs" />
       <jump line="168" column="26" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
-      <jump line="69" column="28" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="71" column="19" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
-      <jump line="72" column="35" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="33" column="67" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/CustomHostnamesController.cs" />
       <jump line="29" column="34" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/CustomHostnamesController.cs" />
       <jump line="169" column="55" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" />
@@ -333,6 +334,11 @@
       <jump line="90" column="41" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-search_sync/templates/services-shop-search_sync.yml.j2" />
       <jump line="80" column="17" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public/Startup.cs" />
       <jump line="29" column="12" filename="C:/dev/git/selz/API.Public/Service/src/Api/Selz.Api.Public.PactTests/CategoryPactScenarios.cs" />
+      <jump line="39" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
+      <jump line="69" column="20" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
+      <jump line="70" column="28" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
+      <jump line="72" column="19" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
+      <jump line="73" column="35" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -352,47 +358,47 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>id</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlcXVpcmVIZWFkZXJTeW1tZXRyeSA9IGZhbHNlLAo=</text>
       </register>
       <register name="-" type="4">
         <text>id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaGVhZGVyc1w+</text>
+        <text>client</text>
       </register>
       <register name="0" type="4">
         <text>AutomaticDecompression</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3Nob3BTZXJ2aWNlLkNyZWF0ZUN1c3RvbUhvc3RuYW1lc0FzeW5jKG5ldyBBY3RvcihzaG9wLmlkKSwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlcXVpcmVIZWFkZXJTeW1tZXRyeSA9IGZhbHNlLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3BzID0gbmV3IFtde25ldyBDb3JlLkRvbWFpbnMuU2hvcHMuU2hvcCgpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgSWQgPTM3NzM5CiAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBodHRwTWVzc2FnZUhhbmRsZXIuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVmZXJlbmNlRXF1YWxzKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrawo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzdFNlcnZpY2UuRm9yPElDYXRhbG9nQ2xpZW50PihDb25zdGFudHMuQXBpQmFzZVVybCwgc2V0dGluZ3MyKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZVNlbHpSZXF1ZXN0UmVzcG9uc2VMb2dnaW5nKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZVNlbHpIZWFsdGhDaGVja3MoInNob3BzIik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgYXBwLlVzZVJlc3BvbnNlQ29tcHJlc3Npb24oKTsKICAgICAgICAgICAgaWYgKGVudi5Jc0xvY2FsKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGFwcC5Vc2VEZXZlbG9wZXJFeGNlcHRpb25QYWdlKCk7CiAgICAgICAgICAgICAgICBhcHAuVXNlSHR0cHNSZWRpcmVjdGlvbigpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAoIWVudi5Jc1Byb2R1Y3Rpb24oKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgYXBwLlVzZVN3YWdnZXIoYyA9PiBjLlJvdXRlVGVtcGxhdGUgPSAic2hvcHMvc3dhZ2dlci97ZG9jdW1lbnROYW1lfS9zd2FnZ2VyLmpzb24iKQogICAgICAgICAgICAgICAgYXBwLlVzZVN3YWdnZXJVSShjID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgYy5Td2FnZ2VyRW5kcG9pbnQoIi9zaG9wcy9zd2FnZ2VyL3YxL3N3YWdnZXIuanNvbiIsICJTZWx6IFNob3BzIEFwaSAtIFYxIik7CiAgICAgICAgICAgICAgICAgICAgYy5Sb3V0ZVByZWZpeCA9ICJzaG9wcy9zd2FnZ2VyIgogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0KCgogICAgICAgICAgICBhcHAuVXNlU2VsekhlYWx0aENoZWNrcygic2hvcHMiKTsKICAgICAgICAgICAgYXBwLlVzZVNlbHpSZXF1ZXN0UmVzcG9uc2VMb2dnaW5nKCk7CgogICAgICAgICAgICB2YXIgZm9yd2FyZGVkSGVhZGVyc09wdGlvbnMgPSBuZXcgRm9yd2FyZGVkSGVhZGVyc09wdGlvbnMoKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBSZXF1aXJlSGVhZGVyU3ltbWV0cnkgPWZhbHNlLAoKICAgICAgICAgICAgfTsKCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXV0b01hcHBlci5Db25maWd1cmF0aW9uUHJvdmlkZXIuQXNzZXJ0Q29uZmlndXJhdGlvbklzVmFsaWQoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzdFNlcnZpY2UuRm9yPElDYXRhbG9nQ2xpZW50PihDb25zdGFudHMuQXBpQmFzZVVybCwgc2V0dGluZ3MzKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZE9wdGlvbnMoKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkRGVmYXVsdEFXU09wdGlvbnMoQ29uZmlndXJhdGlvbi5HZXRBV1NPcHRpb25zKCkpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRBV1NTZXJ2aWNlPElBbWF6b25TZWNyZXRzTWFuYWdlcj4oKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkT3B0aW9ucygpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGREZWZhdWx0QVdTT3B0aW9ucyhDb25maWd1cmF0aW9uLkdldEFXU09wdGlvbnMoKSk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZEFXU1NlcnZpY2U8SUFtYXpvblNlY3JldHNNYW5hZ2VyPigpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRTZWx6U2VjcmV0c01hbmFnZXIoQ29uZmlndXJhdGlvbikKICAgICAgICAgICAgICAgIC5Db25maWd1cmU8UmVwb3NpdG9yeU9wdGlvbnM+KCkKICAgICAgICAgICAgICAgIC5Db25maWd1cmU8QXdzQ3JlZGVudGlhbE9wdGlvbnM+KCkKICAgICAgICAgICAgICAgIC5Db25maWd1cmU8Q2xvdWRmbGFyZU9wdGlvbnM+KCk7CgoKICAgICAgICAgICAgc2VydmljZXMuQWRkT3B0aW9ucygpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGREZWZhdWx0QVdTT3B0aW9ucyhDb25maWd1cmF0aW9uLkdldEFXU09wdGlvbnMoKSk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZEFXU1NlcnZpY2U8SUFtYXpvblNlY3JldHNNYW5hZ2VyPigpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRTZWx6U2VjcmV0c01hbmFnZXIoQ29uZmlndXJhdGlvbikKICAgICAgICAgICAgICAgIC5Db25maWd1cmU8UmVwb3NpdG9yeU9wdGlvbnM+KCkKICAgICAgICAgICAgICAgIC5Db25maWd1cmU8QXdzQ3JlZGVudGlhbE9wdGlvbnM+KCkKICAgICAgICAgICAgICAgIC5Db25maWd1cmU8Q2xvdWRmbGFyZU9wdGlvbnM+KCk7CgoKICAgICAgICAgICAgc2VydmljZXMuQWRkU2VselNlY3JldHNNYW5hZ2VyKENvbmZpZ3VyYXRpb24pCiAgICAgICAgICAgICAgICAuQ29uZmlndXJlPFJlcG9zaXRvcnlPcHRpb25zPigpCiAgICAgICAgICAgICAgICAuQ29uZmlndXJlPEF3c0NyZWRlbnRpYWxPcHRpb25zPigpCiAgICAgICAgICAgICAgICAuQ29uZmlndXJlPENsb3VkZmxhcmVPcHRpb25zPigpOwoKICAgICAgICAgICAgc2VydmljZXMuQWRkU2VselNlY3JldHNNYW5hZ2VyKENvbmZpZ3VyYXRpb24pCiAgICAgICAgICAgICAgICAuQ29uZmlndXJlPFJlcG9zaXRvcnlPcHRpb25zPigpCiAgICAgICAgICAgICAgICAuQ29uZmlndXJlPEF3c0NyZWRlbnRpYWxPcHRpb25zPigpCiAgICAgICAgICAgICAgICAuQ29uZmlndXJlPENsb3VkZmxhcmVPcHRpb25zPigpOwoKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZE9wdGlvbnMoKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkRGVmYXVsdEFXU09wdGlvbnMoQ29uZmlndXJhdGlvbi5HZXRBV1NPcHRpb25zKCkpCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNlbHpTZWNyZXRzTWFuYWdlcihDb25maWd1cmF0aW9uKQogICAgICAgICAgICAgICAgLkNvbmZpZ3VyZTxSZXBvc2l0b3J5T3B0aW9ucz4oKQogICAgICAgICAgICAgICAgLkNvbmZpZ3VyZTxBd3NDcmVkZW50aWFsT3B0aW9ucz4oKQogICAgICAgICAgICAgICAgLkNvbmZpZ3VyZTxDbG91ZGZsYXJlT3B0aW9ucz4oKTsKCgogICAgICAgICAgICBzZXJ2aWNlcy5BZGRPcHRpb25zKCk7CgogICAgICAgICAgICAvLyBBV1MKICAgICAgICAgICAgc2VydmljZXMuQWRkRGVmYXVsdEFXU09wdGlvbnMoQ29uZmlndXJhdGlvbi5HZXRBV1NPcHRpb25zKCkpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRBV1NTZXJ2aWNlPElBbWF6b25TZWNyZXRzTWFuYWdlcj4oKTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNlbHpTZWNyZXRzTWFuYWdlcihDb25maWd1cmF0aW9uKQogICAgICAgICAgICAgICAgLkNvbmZpZ3VyZTxSZXBvc2l0b3J5T3B0aW9ucz4oKQogICAgICAgICAgICAgICAgLkNvbmZpZ3VyZTxBd3NDcmVkZW50aWFsT3B0aW9ucz4oKQogICAgICAgICAgICAgICAgLkNvbmZpZ3VyZTxDbG91ZGZsYXJlT3B0aW9ucz4oKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2NvcGVkPENsb3VkZmxhcmVBdXRob3JpemF0aW9uSGFuZGxlcj4oKTsKICAgICAgICAgICAgc2VydmljZXMuQ29uZmlndXJlPENsb3VkZmxhcmVPcHRpb25zPihDb25maWd1cmF0aW9uLkdldFNlY3Rpb24oIkNsb3VkZmxhcmUiKSkKICAgICAgICAgICAgdmFyIGNsb3VkZmxhcmVCYXNlVXJsID0gQ29uZmlndXJhdGlvbi5HZXRTZWN0aW9uKCJDbG91ZGZsYXJlIikuR2V0VmFsdWU8c3RyaW5nPigiQmFzZVVybCIpOwogICAgICAgICAgICBDb25maWd1cmF0aW9uLkdldFNlY3Rpb24oIkNsb3VkZmxhcmUiKS5HZXRWYWx1ZTxzdHJpbmc+KG5hbWVvZihDbG91ZGZsYXJlT3B0aW9ucy5CYXNlVXJsKSk7CgoKCiAgICAgICAgICAgIC8vIFNlY3JldHMgbWFuYWdlcgogICAgICAgICAgICBzZXJ2aWNlcy5BZGRTZWx6U2VjcmV0c01hbmFnZXIoQ29uZmlndXJhdGlvbikKICAgICAgICAgICAgICAgIC5Db25maWd1cmU8UmVwb3NpdG9yeU9wdGlvbnM+KCkKICAgICAgICAgICAgICAgIC5Db25maWd1cmU8QXdzQ3JlZGVudGlhbE9wdGlvbnM+KCkKICAgICAgICAgICAgICAgIC5Db25maWd1cmU8Q2xvdWRmbGFyZU9wdGlvbnM+KCk7</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -404,9 +410,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfaGVhZGVyc1w+</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaGVhZGVyc1w+</last-pattern>
+      <last-pattern>client</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
