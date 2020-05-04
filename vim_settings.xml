@@ -150,10 +150,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-search-sync.yml" timestamp="1588581824822">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-search-sync.yml" timestamp="1588586669821">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="38" column="2" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/Selz.Shop.Tasks.SearchSync.csproj" timestamp="1588586100960" />
+      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-client-library.yml" timestamp="1588577979282" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync.Test/Selz.Shop.Tasks.SearchSync.Test.csproj" timestamp="1588586249585" />
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/tasks/main.yml" timestamp="1588556113969">
+        <mark key="'" line="68" column="46" />
+        <mark key="[" line="104" column="7" />
+        <mark key="]" line="105" column="28" />
+        <mark key="." line="105" column="27" />
+        <mark key="^" line="105" column="28" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-customhostnames_cleanup.yml" timestamp="1588586677267" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupTests.cs" timestamp="1588578709879">
+        <mark key="[" line="37" column="82" />
+        <mark key="]" line="38" column="17" />
+        <mark key="." line="38" column="16" />
+        <mark key="^" line="38" column="17" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" timestamp="1588546904690">
+        <mark key="[" line="151" column="66" />
+        <mark key="]" line="151" column="67" />
+        <mark key="^" line="151" column="67" />
+        <mark key="." line="151" column="66" />
       </file>
       <file name="/Dummy.txt" timestamp="1588578758699">
         <mark key="[" line="0" column="0" />
@@ -168,33 +192,19 @@
         <mark key="^" line="54" column="50" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/Function.cs" timestamp="1588545271008">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" timestamp="1588586438622" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupFixture.cs" timestamp="1588567724856">
         <mark key="[" line="59" column="107" />
         <mark key="]" line="59" column="127" />
         <mark key="^" line="59" column="127" />
         <mark key="." line="59" column="126" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" timestamp="1588493798298">
-        <mark key="[" line="12" column="37" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-client-library.yml" timestamp="1588577979282" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/aws-lambda-tools-defaults.json" timestamp="1588586068495" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1588568168976">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="0" />
         <mark key="^" line="109" column="5" />
         <mark key="." line="110" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/tasks/main.yml" timestamp="1588556113969">
-        <mark key="'" line="68" column="46" />
-        <mark key="[" line="104" column="7" />
-        <mark key="]" line="105" column="28" />
-        <mark key="." line="105" column="27" />
-        <mark key="^" line="105" column="28" />
       </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/templates/services-order-search_sync.yml.j2" timestamp="1588567688824">
         <mark key="[" line="91" column="10" />
@@ -202,17 +212,10 @@
         <mark key="^" line="72" column="25" />
         <mark key="." line="72" column="24" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupTests.cs" timestamp="1588578709879">
-        <mark key="[" line="37" column="82" />
-        <mark key="]" line="38" column="17" />
-        <mark key="." line="38" column="16" />
-        <mark key="^" line="38" column="17" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" timestamp="1588546904690">
-        <mark key="[" line="151" column="66" />
-        <mark key="]" line="151" column="67" />
-        <mark key="^" line="151" column="67" />
-        <mark key="." line="151" column="66" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/aws-lambda-tools-defaults.json" timestamp="1588586476137">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="4" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -336,7 +339,7 @@
         <text />
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICBXcml0ZS1Ib3N0ICIjIyIK</text>
+        <text encoding="base64">ICAiZnVuY3Rpb24taGFuZGxlciI6ICJTZWx6LlNob3AuVGFza3MuQ3VzdG9tSG9zdG5hbWVzQ2xlYW51cDo6U2Vsei5TaG9wLlRhc2tzLkN1c3RvbUhvc3RuYW1lc0NsZWFudXAuRnVuY3Rpb246OkhhbmRsZVNlYXJjaFN5bmMiLAo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -348,34 +351,34 @@
         <text>deleteCustomHostnameResult</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBXcml0ZS1Ib3N0ICIjIyIK</text>
+        <text encoding="base64">ICAiZnVuY3Rpb24taGFuZGxlciI6ICJTZWx6LlNob3AuVGFza3MuQ3VzdG9tSG9zdG5hbWVzQ2xlYW51cDo6U2Vsei5TaG9wLlRhc2tzLkN1c3RvbUhvc3RuYW1lc0NsZWFudXAuRnVuY3Rpb246OkhhbmRsZVNlYXJjaFN5bmMiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTZWx6LlNob3AuVGFza3MuQ3VzdG9tSG9zdG5hbWVzQ2xlYW51cAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhZ2VzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBXcml0ZS1Ib3N0ICIjIyIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1Y2Nlc3NJZHMgPSBuZXcgTGlzdDxzdHJpbmc+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVycm9ySWRzID0gbmV3IExpc3Q8c3RyaW5nPigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhciBzdWNjZXNzSWRzID0gbmV3IExpc3Q8c3RyaW5nPigpOyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1Y2Nlc3NJZHMgPSBuZXcgTGlzdDxzdHJpbmc+KCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
