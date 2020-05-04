@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxNb2NrU2hvcFJlcG9cPg==</entry>
         <entry encoding="base64">XDxjbG91ZGZsYXJlQmFzZVVybFw+</entry>
         <entry encoding="base64">XDxjbG91ZGZsYXJlQ2xpZW50XD4=</entry>
         <entry>mongo</entry>
@@ -25,10 +24,11 @@
         <entry>addre</entry>
         <entry encoding="base64">XDxfaGVhZGVyc1w+</entry>
         <entry>client</entry>
-        <entry>)</entry>
         <entry>custom</entry>
         <entry>izett</entry>
         <entry encoding="base64">XDxMYW1iZGFSb2xlXD4=</entry>
+        <entry>)</entry>
+        <entry encoding="base64">XDxzdHNfY3JlZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -188,18 +188,24 @@
         <mark key="." line="1215" column="39" />
         <mark key="^" line="1215" column="40" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/templates/services-order-search_sync.yml.j2" timestamp="1588496901604">
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/tasks/main.yml" timestamp="1588555986551">
+        <mark key="'" line="68" column="46" />
+        <mark key="[" line="104" column="7" />
+        <mark key="]" line="105" column="28" />
+        <mark key="." line="105" column="27" />
+        <mark key="^" line="105" column="28" />
+      </file>
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/templates/services-order-search_sync.yml.j2" timestamp="1588553459854">
         <mark key="'" line="82" column="24" />
         <mark key="[" line="31" column="30" />
         <mark key="]" line="31" column="32" />
         <mark key="^" line="31" column="32" />
         <mark key="." line="31" column="31" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupTests.cs" timestamp="1588551479023">
-        <mark key="[" line="11" column="95" />
-        <mark key="]" line="11" column="95" />
-        <mark key="." line="11" column="94" />
-        <mark key="^" line="11" column="95" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupTests.cs" timestamp="1588553293260">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" timestamp="1588546904690">
         <mark key="[" line="151" column="66" />
@@ -214,9 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="29" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F945CBB9-E1B7-4D56-AEC5-518EE30D7858/6d/e099e15d/LocalStackService.cs" />
-      <jump line="54" column="34" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F945CBB9-E1B7-4D56-AEC5-518EE30D7858/6d/e099e15d/LocalStackService.cs" />
-      <jump line="44" column="54" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F945CBB9-E1B7-4D56-AEC5-518EE30D7858/6d/e099e15d/LocalStackService.cs" />
       <jump line="20" column="32" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Function.cs" />
       <jump line="4" column="2" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Program.cs" />
       <jump line="31" column="4" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Program.cs" />
@@ -314,6 +317,9 @@
       <jump line="97" column="57" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E407D4BA-C36C-45DA-982B-FD389A659F31/16/Profile.cs" />
       <jump line="136" column="40" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="114" column="24" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/templates/services-order-search_sync.yml.j2" />
+      <jump line="21" column="61" filename="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupTests.cs" />
+      <jump line="44" column="36" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/tasks/main.yml" />
+      <jump line="63" column="46" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/tasks/main.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,47 +339,47 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>s</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgUmVwb3NpdG9yeUNvbm5lY3Rpb25TdHJpbmc6IHt7UkVQT1NUSVRPUllfQ09OTkVDVElPTlNUUklOR319Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>::</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMYW1iZGFSb2xlXD4=</text>
+        <text encoding="base64">XDxzdHNfY3JlZHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgTW9jazxJU2hvcFNlcnZpY2U+IE1vY2tTaG9wU2VydmljZSB7IGdldDsgcHJpdmF0ZSBzZXQ7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUmVwb3NpdG9yeUNvbm5lY3Rpb25TdHJpbmc6IHt7UkVQT1NUSVRPUllfQ09OTkVDVElPTlNUUklOR319Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvcHMgPSBuZXdbXQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuZXcgQ29yZS5Eb21haW5zLlNob3BzLlNob3AKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBJZCA9IDM3NzM5CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBHZXQgcm9sZSBjcmVkZW50aWFscyBmb3IgczMgc2hhcmVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBpaWknCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2sgVGVzdF9pbmRleGVyX2RhdGFfaWZfbm90X2V4aXN0cygpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIHZhciBzaG9wRml4dHVyZSA9IG5ldyBDdXN0b21Ib3N0bmFtZXNDbGVhbnVwRml4dHVyZSgpOwogICAgICAgICAgICB2YXIgY29udGFjdFNlcnZpY2UgPSBuZXcgU2hvcFNlcnZpY2Uoc2hvcEZpeHR1cmUuTW9ja1Nob3BSZXBvLk9iamVjdCwKICAgICAgICAgICAgICAgIHNob3BGaXh0dXJlLldpdGhTaG9wcygpLk9iamVjdCk7CgogICAgICAgICAgICAvLyBBY3QKICAgICAgICAgICAgdmFyIHJlc3VsdCA9IGF3YWl0IGNvbnRhY3RTZXJ2aWNlLkxvYWRTeW5jRGV0YWlscygpOwoKICAgICAgICAgICAgLy8gQXNzZXJ0CiAgICAgICAgICAgIHJlc3VsdC5TaG91bGQoKS5CZU51bGwoKTsKICAgICAgICB9CgogICAgICAgIFtGYWN0XQogICAgICAgIHB1YmxpYyBhc3luYyBUYXNrIFRlc3RfaW5kZXhlcl9kYXRhX2lmX2V4aXN0cygpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIHZhciBpbmRleERhdGFUaW1lID0gRGF0ZVRpbWUuTm93OwogICAgICAgICAgICB2YXIgc2hvcEZpeHR1cmUgPSBuZXcgQ3VzdG9tSG9zdG5hbWVzQ2xlYW51cEZpeHR1cmUoKTsKICAgICAgICAgICAgdmFyIGNvbnRhY3RTZXJ2aWNlID0gbmV3IFNob3BTZXJ2aWNlKHNob3BGaXh0dXJlLk1vY2tTaG9wUmVwby5PYmplY3QsCiAgICAgICAgICAgICAgICBzaG9wRml4dHVyZS5XaXRoSW5kZXhlclRhc2tEYXRhKGluZGV4RGF0YVRpbWUpLk9iamVjdCk7CgogICAgICAgICAgICAvLyBBY3QKICAgICAgICAgICAgdmFyIHJlc3VsdCA9IGF3YWl0IGNvbnRhY3RTZXJ2aWNlLkxvYWRTeW5jRGV0YWlscygpOwoKICAgICAgICAgICAgLy8gQXNzZXJ0CiAgICAgICAgICAgIHJlc3VsdC5TaG91bGQoKS5Ob3RCZU51bGwoKTsKICAgICAgICAgICAgcmVzdWx0Lkxhc3RVcGRhdGUuU2hvdWxkKCkuQmUoaW5kZXhEYXRhVGltZSk7CiAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNob3BTZXJ2aWNlID0gc2hvcEZpeHR1cmUuV2l0aFNob3BzKCk7Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBBbnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZXR1cm5zQXN5bmMoKCkgPT4gcmV0dXJuIG5ldyBTaG9wKCl7fSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvcEZpeHR1cmUuTW9ja1Nob3BSZXBvLlNldHVwKHJlcG9zaXRvcnkgPT4gcmVwb3NpdG9yeS5GaW5kQXN5bmMoSXQuSXNBbnk8RmlsdGVyRGVmaW5pdGlvbjxDb3JlLkRvbWFpbnMuU2hvcHMuU2hvcD4+KCksIEl0LklzQW55PEZpbmRPcHRpb25zPENvcmUuRG9tYWlucy5TaG9wcy5TaG9wLCBDb3JlLkRvbWFpbnMuU2hvcHMuU2hvcD4+KCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tSG9zdG5hbWVGaXh0dXJlLk1vY2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tSG9zdG5hbWVGaXh0dXJlLk1vY2tTaG9wU2VydmljZS5WZXJpZnkobW9jayA9PiBtb2NrLkRlbGV0ZUN1c3RvbUhvc3RuYW1lc0FzeW5jKEl0LklzQW55PEFjdG9yPigpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgY3VzdG9tSG9zdG5hbWVDbGVhbnVwU2VydmljZS5DbGVhbkNsb3VkZmxhcmVBc3luYygpOwo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -385,9 +391,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxMYW1iZGFSb2xlXD4=</last-search>
+      <last-search encoding="base64">XDxzdHNfY3JlZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMYW1iZGFSb2xlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdHNfY3JlZHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
