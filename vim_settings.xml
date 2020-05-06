@@ -185,15 +185,15 @@
         <mark key="]" line="10" column="85" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-api.yml" timestamp="1588802718925" />
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom_hostnames_cleanup.yml.j2" timestamp="1588807536490" />
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom_hostnames_cleanup.yml.j2" timestamp="1588808520153" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/Shops/ShopsProfile.cs" timestamp="1588741134285">
         <mark key="'" line="15" column="17" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1588807868474">
-        <mark key="[" line="66" column="20" />
-        <mark key="]" line="66" column="20" />
-        <mark key="." line="66" column="19" />
-        <mark key="^" line="66" column="20" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1588808781714">
+        <mark key="[" line="59" column="39" />
+        <mark key="]" line="60" column="10" />
+        <mark key="." line="60" column="10" />
+        <mark key="^" line="77" column="45" />
       </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-search_sync/tasks/main.yml" timestamp="1588742501579">
         <mark key="[" line="49" column="6" />
@@ -220,6 +220,7 @@
         <mark key="^" line="195" column="149" />
         <mark key="." line="195" column="148" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F82C6D44-EAD7-4CFB-BB7A-45A8DBC4351F/e0/c9aaad68/Shop.cs" timestamp="1588808722114" />
     </filemarks>
     <jumps>
       <jump line="34" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core.Tests/CustomHostnameTestBase.cs" />
@@ -342,10 +343,10 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>0</text>
+        <text encoding="base64">ICAgICAgLkluY2x1ZGUoeCA9PiB4LlN0YXR1cykKICAgICAgICAgICAgICAgIC5JbmNsdWRlKHggPT4geC5Vc2VyTmFtZSk7</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>shop</text>
       </register>
       <register name="/" type="4">
         <text>domain</text>
@@ -353,35 +354,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gU2VydmljZS9zcmMvVGFza3MvU2Vsei5TaG9wLlRhc2tzLkN1c3RvbUhvc3RuYW1lc0NsZWFudXAuVGVzdAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2tlbiA9ICJJcDV2SUZtd3lfTHJ0bmU5Y2wzVjNLOGFWR0toQUwzVEdiZVhJSUh1IiwK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgLkluY2x1ZGUoeCA9PiB4LlN0YXR1cykKICAgICAgICAgICAgICAgIC5JbmNsdWRlKHggPT4geC5Vc2VyTmFtZSk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjZl9zdGFjazogc2VydmljZXMtY3VzdG9taG9zdG5hbWVzX2NsZWFudXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text>Remove core.repository</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2tlbiA9ICJJcDV2SUZtd3lfTHJ0bmU5Y2wzVjNLOGFWR0toQUwzVEdiZVhJSUh1IiwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBzaG9wcyA9IG5ld1tdCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5ldyBDb3JlLkRvbWFpbnMuU2hvcHMuU2hvcAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIElkID0gMzc3MzkKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBuZXcgQ29yZS5Eb21haW5zLlNob3BzLlNob3AKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBJZCA9IDM3NzM5CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgbmV3IENvcmUuRG9tYWlucy5TaG9wcy5TaG9wCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgSWQgPSAzNzczOQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Ow==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjZl9zdGFjazogc2VydmljZXMtY3VzdG9taG9zdG5hbWVzX2NsZWFudXAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHNob3BzID0gbmV3W10KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmV3IENvcmUuRG9tYWlucy5TaG9wcy5TaG9wCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgSWQgPSAzNzczOQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIG5ldyBDb3JlLkRvbWFpbnMuU2hvcHMuU2hvcAogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIElkID0gMzc3MzkKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBuZXcgQ29yZS5Eb21haW5zLlNob3BzLlNob3AKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBJZCA9IDM3NzM5CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH07</text>
+      <register name="7" type="2">
+        <text>Remove core.repository</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
