@@ -157,10 +157,16 @@
         <mark key="." line="4" column="49" />
         <mark key="^" line="4" column="50" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/tasks/main.yml" timestamp="1588726497207" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/Function.cs" timestamp="1588669440304">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="85" />
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/tasks/main.yml" timestamp="1588729944639">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="69" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/Startup.cs" timestamp="1588729813718" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" timestamp="1588729907929">
+        <mark key="[" line="55" column="70" />
+        <mark key="]" line="55" column="70" />
+        <mark key="." line="55" column="70" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-customhostnames_cleanup.yml" timestamp="1588724725457">
         <mark key="[" line="12" column="2" />
@@ -175,10 +181,11 @@
         <mark key="." line="11" column="88" />
         <mark key="^" line="11" column="89" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" timestamp="1588729750708" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/AppSettings.cs" timestamp="1588716775872">
         <mark key="'" line="40" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588715105044">
+      <file name="/Dummy.txt" timestamp="1588730020891">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -205,7 +212,7 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom-hostnames-cleanup.yml.j2" timestamp="1588716677731" />
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom-hostnames-cleanup.yml.j2" timestamp="1588730114531" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/aws-lambda-tools-defaults.json" timestamp="1588670756557">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="27" />
@@ -332,17 +339,17 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>Search_Sync</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgUmVwb3NpdG9yeUNvbm5lY3Rpb25TdHJpbmc6ICJ7eyBSRVBPU0lUT1JZX0NPTk5FQ1RJT05TVFJJTkcgfX0iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Search_Sync</text>
+        <text>CLOUDFLARE_TOKEN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmFsRXJyb3JNc2dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W2Fzc2VtYmx5OiBMYW1iZGFTZXJpYWxpemVyKHR5cGVvZihBbWF6b24uTGFtYmRhLlNlcmlhbGl6YXRpb24uSnNvbi5Kc29uU2VyaWFsaXplcikpXQo=</text>
+        <text encoding="base64">ICAgICAgUmVwb3NpdG9yeUNvbm5lY3Rpb25TdHJpbmc6ICJ7eyBSRVBPU0lUT1JZX0NPTk5FQ1RJT05TVFJJTkcgfX0iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
