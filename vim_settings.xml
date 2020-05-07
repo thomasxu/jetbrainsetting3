@@ -150,23 +150,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/CustomHostnamesProfile.cs" timestamp="1588741288470">
-        <mark key="[" line="15" column="62" />
-        <mark key="]" line="17" column="73" />
-        <mark key="." line="17" column="72" />
-        <mark key="^" line="17" column="73" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/AppSettings.cs" timestamp="1588756432983">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588804308703">
+      <file name="/Dummy.txt" timestamp="1588811935024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-search-sync.yml" timestamp="1588804227380" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync.Test/ShopFixture.cs" timestamp="1588809292279" />
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/vars/main.yml" timestamp="1588805372704" />
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/tasks/main.yml" timestamp="1588806170414">
         <mark key="[" line="58" column="7" />
@@ -174,6 +169,7 @@
         <mark key="." line="58" column="6" />
         <mark key="^" line="58" column="7" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync.Test/SearchSyncTests.cs" timestamp="1588809279684" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" timestamp="1588807570156">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -185,21 +181,20 @@
         <mark key="]" line="10" column="85" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-api.yml" timestamp="1588802718925" />
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom_hostnames_cleanup.yml.j2" timestamp="1588808520153" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/Shops/ShopsProfile.cs" timestamp="1588741134285">
-        <mark key="'" line="15" column="17" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupFixture.cs" timestamp="1588811696388">
+        <mark key="'" line="156" column="16" />
+        <mark key="[" line="171" column="36" />
+        <mark key="]" line="171" column="37" />
+        <mark key="^" line="153" column="21" />
+        <mark key="." line="171" column="37" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1588808781714">
-        <mark key="[" line="59" column="39" />
-        <mark key="]" line="60" column="10" />
-        <mark key="." line="60" column="10" />
-        <mark key="^" line="77" column="45" />
-      </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-search_sync/tasks/main.yml" timestamp="1588742501579">
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="49" column="49" />
-        <mark key="." line="49" column="6" />
-        <mark key="^" line="49" column="6" />
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom_hostnames_cleanup.yml.j2" timestamp="1588811504596" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1588811775082">
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="55" column="73" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="63" column="94" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-customhostnames_cleanup.yml" timestamp="1588744660795">
         <mark key="[" line="11" column="36" />
@@ -207,12 +202,8 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="10" column="2" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom-hostnames-cleanup.yml.j2" timestamp="1588737613217">
-        <mark key="'" line="124" column="47" />
-        <mark key="[" line="129" column="43" />
-        <mark key="]" line="129" column="43" />
-        <mark key="^" line="81" column="30" />
-        <mark key="." line="129" column="64" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupTests.cs" timestamp="1588811826323">
+        <mark key="'" line="9" column="17" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" timestamp="1588807809742">
         <mark key="[" line="195" column="142" />
@@ -220,12 +211,9 @@
         <mark key="^" line="195" column="149" />
         <mark key="." line="195" column="148" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F82C6D44-EAD7-4CFB-BB7A-45A8DBC4351F/e0/c9aaad68/Shop.cs" timestamp="1588808722114" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F82C6D44-EAD7-4CFB-BB7A-45A8DBC4351F/e0/c9aaad68/Shop.cs" timestamp="1588809001695" />
     </filemarks>
     <jumps>
-      <jump line="34" column="12" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core.Tests/CustomHostnameTestBase.cs" />
-      <jump line="14" column="41" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A6C8D7F7-2E95-4C68-A2D5-58EF32A9C37D/1/HttpClientFactoryExtensions.cs" />
-      <jump line="91" column="29" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/Events/ShopEventsHandler.cs" />
       <jump line="1250" column="0" filename="C:/dev/git/selz/drachma/src/Drachma.Core/Services/Shops/ShopService.cs" />
       <jump line="237" column="24" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" />
       <jump line="238" column="15" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" />
@@ -323,6 +311,9 @@
       <jump line="116" column="56" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom-hostnames-cleanup.yml.j2" />
       <jump line="124" column="47" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom-hostnames-cleanup.yml.j2" />
       <jump line="15" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Mapping/Shops/ShopsProfile.cs" />
+      <jump line="159" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupFixture.cs" />
+      <jump line="20" column="21" filename="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" />
+      <jump line="9" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupTests.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -342,47 +333,50 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text encoding="base64">ICAgICAgLkluY2x1ZGUoeCA9PiB4LlN0YXR1cykKICAgICAgICAgICAgICAgIC5JbmNsdWRlKHggPT4geC5Vc2VyTmFtZSk7</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>shop</text>
+        <text>Ids</text>
       </register>
       <register name="/" type="4">
         <text>domain</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gU2VydmljZS9zcmMvVGFza3MvU2Vsei5TaG9wLlRhc2tzLkN1c3RvbUhvc3RuYW1lc0NsZWFudXAuVGVzdAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgQ2xvdWRmbGFyZSA9IG5ldyBDbG91ZGZsYXJlRGV0YWlsKCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBJZHMgPSBuZXcgTGlzdDxzdHJpbmc+KCkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICIxIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgLkluY2x1ZGUoeCA9PiB4LlN0YXR1cykKICAgICAgICAgICAgICAgIC5JbmNsdWRlKHggPT4geC5Vc2VyTmFtZSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2tlbiA9ICJJcDV2SUZtd3lfTHJ0bmU5Y2wzVjNLOGFWR0toQUwzVEdiZVhJSUh1IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjZl9zdGFjazogc2VydmljZXMtY3VzdG9taG9zdG5hbWVzX2NsZWFudXAK</text>
+      <register name="6" type="4">
+        <text>new CloudflareDetail()
+                {
+                    
+                }</text>
       </register>
-      <register name="7" type="2">
-        <text>Remove core.repository</text>
+      <register name="7" type="4">
+        <text encoding="base64">SWRzID0gbmV3IExpc3Q8c3RyaW5nPigpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAiMiIKICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
