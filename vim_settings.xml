@@ -151,7 +151,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-search-sync.yml" timestamp="1588812994136" />
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/vars/main.yml" timestamp="1588805372704" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Program.cs" timestamp="1588817942377">
         <mark key="[" line="33" column="31" />
         <mark key="]" line="33" column="49" />
@@ -164,21 +163,19 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync/Function.cs" timestamp="1588804590698">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="85" />
-      </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom_hostnames_cleanup.yml.j2" timestamp="1588817997089">
         <mark key="[" line="84" column="58" />
         <mark key="]" line="84" column="58" />
         <mark key="^" line="69" column="51" />
         <mark key="." line="84" column="58" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-custom-hostnames-cleanup.yml" timestamp="1588831015159">
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/RolesController.cs" timestamp="1588832662265" />
+      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-custom-hostnames-cleanup.yml" timestamp="1588832433206">
         <mark key="[" line="107" column="78" />
         <mark key="]" line="107" column="78" />
         <mark key="." line="107" column="78" />
       </file>
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Domains/Item.cs" timestamp="1588832534352" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupTests.cs" timestamp="1588811826323">
         <mark key="'" line="9" column="17" />
       </file>
@@ -201,7 +198,6 @@
         <mark key="]" line="22" column="42" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/DomainController.cs" timestamp="1588804489298" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupFixture.cs" timestamp="1588811696388">
         <mark key="'" line="156" column="16" />
         <mark key="[" line="171" column="36" />
@@ -224,6 +220,7 @@
         <mark key="." line="62" column="74" />
         <mark key="^" line="62" column="75" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/92F61C04-3CA6-4072-B64F-28581F724C09/33/98ce3619/IdentityUser.cs" timestamp="1588832602284" />
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/templates/services-order-search_sync.yml.j2" timestamp="1588816781928" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F82C6D44-EAD7-4CFB-BB7A-45A8DBC4351F/e0/c9aaad68/Shop.cs" timestamp="1588809001695" />
     </filemarks>
