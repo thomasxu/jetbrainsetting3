@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTY2hlZHVsZWRSdWxlRm9ySGFuZGxlQ2F0YWxvZ1N5bmNUYXNrQ2xvdWRXYXRjaEV2ZW50VGFza1w+</entry>
         <entry encoding="base64">XDxFbnZpcm9ubWVudERlc2NcPg==</entry>
         <entry>addrefic</entry>
         <entry>refit</entry>
@@ -29,6 +28,7 @@
         <entry>SecurityGroup</entry>
         <entry>ShopSync</entry>
         <entry>domain</entry>
+        <entry encoding="base64">XDxzZWx6Y2xvdWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -180,7 +180,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/NuGet.config" timestamp="1588889290787" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/NuGet.config" timestamp="1588893215906">
+        <mark key="'" line="4" column="80" />
+        <mark key="[" line="4" column="117" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-custom-hostnames-cleanup.yml" timestamp="1588889233509">
         <mark key="[" line="115" column="56" />
         <mark key="]" line="115" column="55" />
@@ -212,9 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="15" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" />
-      <jump line="275" column="8" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Shops/ShopService.cs" />
-      <jump line="159" column="35" filename="C:/dev/git/selz/API/src/Selz.Core/Services/Removal/RemovalService.cs" />
       <jump line="29" column="63" filename="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.SearchSync.Test/ShopFixture.cs" />
       <jump line="148" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="27" column="62" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" />
@@ -312,6 +314,9 @@
       <jump line="9" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupTests.cs" />
       <jump line="32" column="19" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" />
       <jump line="22" column="26" filename="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" />
+      <jump line="7" column="5" filename="C:/dev/git/selz/Services.Shop/Service/NuGet.config" />
+      <jump line="10" column="6" filename="C:/dev/git/selz/Services.Shop/Service/NuGet.config" />
+      <jump line="4" column="80" filename="C:/dev/git/selz/Services.Shop/Service/NuGet.config" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,49 +337,46 @@
         <text />
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICA8UHJvamVjdFJlZmVyZW5jZSBJbmNsdWRlPSIuLlwuLlxTaCIK</text>
+        <text encoding="base64">ICAgIDxhZGQga2V5PSJzZWx6Y2xvdWQiIHZhbHVlPSJodHRwczovL3BrZ3MuZGV2LmF6dXJlLmNvbS9zZWx6Y2xvdWQvX3BhY2thZ2luZy9zZWx6Y2xvdWQvbnVnZXQvdjMvaW5kZXguanNvbiIgLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>HandleCustomHostnamesCleanup</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>domain</text>
+        <text encoding="base64">XDxzZWx6Y2xvdWRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>HandleCleanupTask</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8UHJvamVjdFJlZmVyZW5jZSBJbmNsdWRlPSIuLlwuLlxTaCIK</text>
+        <text encoding="base64">ICAgIDxhZGQga2V5PSJzZWx6Y2xvdWQiIHZhbHVlPSJodHRwczovL3BrZ3MuZGV2LmF6dXJlLmNvbS9zZWx6Y2xvdWQvX3BhY2thZ2luZy9zZWx6Y2xvdWQvbnVnZXQvdjMvaW5kZXguanNvbiIgLz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8SXRlbUdyb3VwCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">S0sK</text>
+        <text encoding="base64">ICA8L3BhY2thZ2VNYW5hZ2VtZW50Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8cGFja2FnZU1hbmFnZW1lbnQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICA8cGFja2FnZU1hbmFnZW1lbnQ+CiAgICAKICA8L3BhY2thZ2VNYW5hZ2VtZW50PgogIDxwYWNrYWdlU291cmNlQ3JlZGVudGlhbHM+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8UHJvamVjdFJlZmVyZW5jZSBJbmNsdWRlPSIuLlwuLlxTaCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICA8SXRlbUdyb3VwCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>new CloudflareDetail()
-                {
-                    
-                }</text>
+      <register name="9" type="2">
+        <text encoding="base64">S0sK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -386,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>domain</last-search>
+      <last-search encoding="base64">XDxzZWx6Y2xvdWRcPg==</last-search>
       <last-offset />
-      <last-pattern>domain</last-pattern>
+      <last-pattern encoding="base64">XDxzZWx6Y2xvdWRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
