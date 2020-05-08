@@ -17,7 +17,6 @@
         <entry>client</entry>
         <entry>custom</entry>
         <entry>izett</entry>
-        <entry>)</entry>
         <entry encoding="base64">XDxzdHNfY3JlZHNcPg==</entry>
         <entry encoding="base64">XDxIYW5kbGVPcmRlclN5bmNUYXNrXD4=</entry>
         <entry encoding="base64">XDxTY2hlZHVsZVJ1bGVGb3JIYW5kbGVPcmRlclN5bmNUYXNrQ2xvdWRXYXRjaEV2ZW50VGFza1w+</entry>
@@ -29,6 +28,7 @@
         <entry>ShopSync</entry>
         <entry>domain</entry>
         <entry encoding="base64">XDxzZWx6Y2xvdWRcPg==</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -156,12 +156,6 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-search-sync.yml" timestamp="1588889088815" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Program.cs" timestamp="1588817942377">
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="49" />
-        <mark key="." line="33" column="48" />
-        <mark key="^" line="33" column="49" />
-      </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/tasks/main.yml" timestamp="1588830981260">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -187,7 +181,7 @@
         <mark key="." line="5" column="114" />
         <mark key="^" line="5" column="115" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-custom-hostnames-cleanup.yml" timestamp="1588909040482">
+      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-custom-hostnames-cleanup.yml" timestamp="1588913365446">
         <mark key="'" line="134" column="2" />
         <mark key="[" line="165" column="65" />
       </file>
@@ -218,10 +212,15 @@
         <mark key="." line="64" column="74" />
         <mark key="^" line="64" column="75" />
       </file>
+      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1588913286484">
+        <mark key="'" line="134" column="59" />
+        <mark key="[" line="135" column="13" />
+        <mark key="]" line="137" column="34" />
+        <mark key="^" line="137" column="34" />
+        <mark key="." line="137" column="33" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="16" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
-      <jump line="27" column="62" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" />
       <jump line="33" column="43" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Shops/ShopService.cs" />
       <jump line="12" column="17" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" />
       <jump line="96" column="38" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" />
@@ -320,6 +319,8 @@
       <jump line="10" column="6" filename="C:/dev/git/selz/Services.Shop/Service/NuGet.config" />
       <jump line="4" column="80" filename="C:/dev/git/selz/Services.Shop/Service/NuGet.config" />
       <jump line="127" column="2" filename="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-custom-hostnames-cleanup.yml" />
+      <jump line="130" column="28" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
+      <jump line="134" column="59" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,14 +340,14 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">cHAK</text>
+      <register name="+" type="4">
+        <text>.await</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.await</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWx6Y2xvdWRcPg==</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text>HandleCleanupTask</text>
@@ -391,9 +392,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZWx6Y2xvdWRcPg==</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWx6Y2xvdWRcPg==</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
