@@ -160,37 +160,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/tasks/main.yml" timestamp="1588830981260">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" timestamp="1588818598663">
-        <mark key="'" line="22" column="26" />
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="42" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom_hostnames_cleanup.yml.j2" timestamp="1588834902549">
-        <mark key="[" line="87" column="29" />
-        <mark key="]" line="87" column="30" />
-        <mark key="^" line="69" column="51" />
-        <mark key="." line="87" column="30" />
-      </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/cloudformation.yml" timestamp="1588916824338" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Selz.Shop.Tasks.CustomHostnamesCleanup.csproj" timestamp="1588887107518">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/NuGet.config" timestamp="1588895333407">
-        <mark key="'" line="4" column="80" />
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="115" />
-        <mark key="." line="5" column="114" />
-        <mark key="^" line="5" column="115" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-custom-hostnames-cleanup.yml" timestamp="1588917584413">
         <mark key="'" line="77" column="14" />
         <mark key="[" line="125" column="35" />
@@ -204,12 +173,31 @@
         <mark key="^" line="46" column="78" />
         <mark key="." line="46" column="77" />
       </file>
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/tasks/main.yml" timestamp="1588993067193">
+        <mark key="'" line="31" column="26" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1588883895944">
         <mark key="'" line="34" column="19" />
         <mark key="[" line="11" column="1" />
         <mark key="]" line="64" column="75" />
         <mark key="." line="64" column="74" />
         <mark key="^" line="64" column="75" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" timestamp="1588818598663">
+        <mark key="'" line="22" column="26" />
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="42" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom_hostnames_cleanup.yml.j2" timestamp="1588834902549">
+        <mark key="[" line="87" column="29" />
+        <mark key="]" line="87" column="30" />
+        <mark key="^" line="69" column="51" />
+        <mark key="." line="87" column="30" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1588913286484">
         <mark key="'" line="134" column="59" />
@@ -218,9 +206,20 @@
         <mark key="^" line="137" column="34" />
         <mark key="." line="137" column="33" />
       </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Selz.Shop.Tasks.CustomHostnamesCleanup.csproj" timestamp="1588887107518">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/NuGet.config" timestamp="1588895333407">
+        <mark key="'" line="4" column="80" />
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="115" />
+        <mark key="." line="5" column="114" />
+        <mark key="^" line="5" column="115" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="17" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" />
       <jump line="96" column="38" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" />
       <jump line="59" column="68" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" />
       <jump line="76" column="0" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" />
@@ -320,6 +319,7 @@
       <jump line="130" column="28" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="134" column="59" filename="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" />
       <jump line="77" column="14" filename="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-custom-hostnames-cleanup.yml" />
+      <jump line="31" column="26" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/tasks/main.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,7 +346,7 @@
         <text>.await</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>ot</text>
       </register>
       <register name="0" type="4">
         <text>HandleCleanupTask</text>
@@ -391,9 +391,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>)</last-search>
+      <last-search>ot</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>ot</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
