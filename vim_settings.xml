@@ -168,18 +168,11 @@
         <mark key="^" line="153" column="69" />
         <mark key="." line="153" column="68" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1589192014285">
-        <mark key="'" line="410" column="52" />
-        <mark key="[" line="422" column="16" />
-        <mark key="]" line="420" column="63" />
-        <mark key="." line="420" column="62" />
-        <mark key="^" line="420" column="63" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupFixture.cs" timestamp="1589182270476">
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="39" />
-        <mark key="." line="28" column="38" />
-        <mark key="^" line="28" column="39" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1589231812034">
+        <mark key="[" line="425" column="12" />
+        <mark key="]" line="425" column="19" />
+        <mark key="^" line="425" column="19" />
+        <mark key="." line="425" column="18" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1589185761228">
         <mark key="[" line="19" column="1" />
@@ -192,6 +185,18 @@
         <mark key="]" line="138" column="75" />
         <mark key="^" line="130" column="93" />
         <mark key="." line="130" column="92" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupFixture.cs" timestamp="1589182270476">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="38" />
+        <mark key="^" line="28" column="39" />
+      </file>
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom_hostnames_cleanup.yml.j2" timestamp="1589231063909">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="92" column="38" />
+        <mark key="^" line="92" column="38" />
+        <mark key="." line="92" column="37" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupTests.cs" timestamp="1589179284689">
         <mark key="[" line="39" column="95" />
@@ -215,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="18" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="191" column="20" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="51" column="8" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="242" column="14" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-catalog-search_sync/templates/services-catalog-search_sync.yml.j2" />
@@ -315,6 +319,7 @@
       <jump line="202" column="41" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="399" column="52" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="410" column="52" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="409" column="51" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,11 +339,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBtb2RlbDsK</text>
+      <register name="+" type="4">
+        <text>En</text>
       </register>
       <register name="-" type="4">
-        <text>.await</text>
+        <text>En</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
