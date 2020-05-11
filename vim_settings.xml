@@ -191,6 +191,13 @@
         <mark key="^" line="153" column="69" />
         <mark key="." line="153" column="68" />
       </file>
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1589180590258">
+        <mark key="'" line="202" column="41" />
+        <mark key="[" line="203" column="98" />
+        <mark key="]" line="203" column="114" />
+        <mark key="^" line="203" column="114" />
+        <mark key="." line="203" column="113" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupFixture.cs" timestamp="1589175507769">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="28" column="39" />
@@ -203,13 +210,12 @@
         <mark key="^" line="109" column="15" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/ClientsController.cs" timestamp="1589180058510">
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/ClientsController.cs" timestamp="1589180064609">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24426738-2697-4A82-BD95-F0E03C2A863A/ba/31df976c/MongoRepository`2.cs" timestamp="1589173769085" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B1AC316C-ABA2-4812-861E-6EFA3B76D0E8/ba/54f35974/Entity`1.cs" timestamp="1589172989042" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F82C6D44-EAD7-4CFB-BB7A-45A8DBC4351F/e0/c9aaad68/Shop.cs" timestamp="1589175320913">
         <mark key="[" line="245" column="11" />
         <mark key="]" line="245" column="26" />
@@ -217,7 +223,6 @@
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/IRepository.cs" timestamp="1589176811997" />
     </filemarks>
     <jumps>
-      <jump line="21" column="57" filename="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Cloudflare/CloudflareAuthorizationHandler.cs" />
       <jump line="242" column="55" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="52" column="8" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
       <jump line="276" column="18" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" />
@@ -317,6 +322,7 @@
       <jump line="64" column="74" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/ConsentController.cs" />
       <jump line="122" column="70" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/ConsentController.cs" />
       <jump line="153" column="53" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/ConsentController.cs" />
+      <jump line="202" column="41" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,11 +342,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBHZXQoc3RyaW5nIGlkKQogICAgICAgIHsKa2sKICAgICAgICB9Cg==</text>
+      <register name="+" type="4">
+        <text>ToPrettyString()</text>
       </register>
       <register name="-" type="4">
-        <text>IJ</text>
+        <text>ToPrettyString()</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
