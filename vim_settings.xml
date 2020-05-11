@@ -150,16 +150,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.Client/Selz.Shops.Api.Client.csproj" timestamp="1588887181839">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589155411662">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/services-shop-custom_hostnames_cleanup.yml.j2" timestamp="1589155052351" />
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/vars/main.yml" timestamp="1589100387011">
         <mark key="[" line="4" column="51" />
@@ -173,18 +163,6 @@
         <mark key="." line="87" column="30" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Selz.Shop.Tasks.CustomHostnamesCleanup.csproj" timestamp="1588887107518">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/NuGet.config" timestamp="1588895333407">
-        <mark key="'" line="4" column="80" />
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="115" />
-        <mark key="." line="5" column="114" />
-        <mark key="^" line="5" column="115" />
-      </file>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-custom-hostnames-cleanup.yml" timestamp="1589099317706">
         <mark key="'" line="79" column="14" />
         <mark key="[" line="3" column="0" />
@@ -192,18 +170,30 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Startup.cs" timestamp="1588908515892">
-        <mark key="[" line="46" column="78" />
-        <mark key="]" line="46" column="78" />
-        <mark key="^" line="46" column="78" />
-        <mark key="." line="46" column="77" />
+      <file name="/Dummy.cs" timestamp="1589160854441">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" timestamp="1588883895944">
-        <mark key="'" line="34" column="19" />
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="64" column="75" />
-        <mark key="." line="64" column="74" />
-        <mark key="^" line="64" column="75" />
+      <file name="C:/dev/git/selz/docker-compose.yml" timestamp="1589153262502" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/AppSettings.cs" timestamp="1589160419545" />
+      <file name="/Dummy.txt" timestamp="1589161636230">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" timestamp="1589160245892">
+        <mark key="'" line="22" column="26" />
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="42" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Helpers/PlanHelper.cs" timestamp="1589161022099" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" timestamp="1589161368263">
+        <mark key="[" line="57" column="39" />
+        <mark key="]" line="70" column="12" />
+        <mark key="^" line="70" column="12" />
+        <mark key="." line="70" column="11" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Tasks/Selz.Catalog.Tasks.SearchSync/Services/SearchSyncService.cs" timestamp="1588913286484">
         <mark key="'" line="134" column="59" />
@@ -212,7 +202,7 @@
         <mark key="^" line="137" column="34" />
         <mark key="." line="137" column="33" />
       </file>
-      <file name="C:/dev/git/selz/docker-compose.yml" timestamp="1589153262502" />
+      <file name="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/aws-lambda-tools-defaults.json" timestamp="1589160222740" />
     </filemarks>
     <jumps>
       <jump line="96" column="38" filename="C:/dev/git/selz/Services.Shop/Service/Selz.Shop.Tasks.CustomHostnamesCleanup/Startup.cs" />
@@ -335,10 +325,10 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>Shop Search Sync</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>Shop Search Sync</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>ot</text>
