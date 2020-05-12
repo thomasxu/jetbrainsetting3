@@ -166,11 +166,12 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-custom-hostnames-cleanup.yml" timestamp="1589263926112" />
-      <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" timestamp="1589317267610">
-        <mark key="[" line="64" column="38" />
-        <mark key="]" line="65" column="29" />
-        <mark key="^" line="65" column="29" />
-        <mark key="." line="65" column="28" />
+      <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" timestamp="1589319030571">
+        <mark key="'" line="61" column="36" />
+        <mark key="[" line="61" column="39" />
+        <mark key="]" line="61" column="45" />
+        <mark key="." line="61" column="44" />
+        <mark key="^" line="61" column="45" />
       </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" timestamp="1589256740252">
         <mark key="[" line="6" column="0" />
@@ -227,9 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="24" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/templates/services-order-search_sync.yml.j2" />
-      <jump line="21" column="61" filename="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupTests.cs" />
-      <jump line="44" column="36" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/tasks/main.yml" />
       <jump line="63" column="46" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/tasks/main.yml" />
       <jump line="233" column="20" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/templates/services-order-search_sync.yml.j2" />
       <jump line="134" column="2" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-order-search_sync/templates/services-order-search_sync.yml.j2" />
@@ -327,6 +325,9 @@
       <jump line="32" column="61" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
       <jump line="36" column="47" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
       <jump line="171" column="46" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="33" column="61" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
+      <jump line="58" column="62" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
+      <jump line="61" column="36" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,11 +347,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>Serilog.Core.Constants.</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Serilog.Core.Constants.</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -359,34 +360,34 @@
         <text encoding="base64">ICAgIFtCc29uSWdub3JlSWZOdWxsXQogICAgcHVibGljIHN0cmluZyBTaG9wRG9tYWluIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IENvbnN0YW50cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9hZERlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdGlvbi5CdWlsZFNlcnZpY2VQcm92aWRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZUNvbGxlY3Rpb24uYnVpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IHJlcG8uRGVsZXRlQXN5bmMoaWRlbnRpdHlVc2VyLklkKTtqago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlndXJhdGlvblJvb3QyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VyaWFsaXphYmxlQXR0cmlidXRlICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NvbmZpZ3VyYXRpb25Sb290LmJ1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VyaWFsaXphYmxlQXR0cmlidXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZGVuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZUNvbGxlY3Rpb24uQnVpbGRTZXJ2aWNlUHJvdmlkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvdmlkZXIuR2V0U2VydmljZTxJUmVwb3NpdG9yeTw+PigpCg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
