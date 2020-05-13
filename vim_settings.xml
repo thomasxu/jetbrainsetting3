@@ -155,11 +155,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Entities/IdentityResource.cs" timestamp="1589256676514">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Validation/ClientValidator.cs" timestamp="1589338493462">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -171,11 +166,16 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-custom-hostnames-cleanup.yml" timestamp="1589263926112" />
-      <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" timestamp="1589323866353">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="20" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ShopRoleProfile.cs" timestamp="1589338620049">
+        <mark key="[" line="41" column="48" />
+        <mark key="]" line="41" column="47" />
+        <mark key="^" line="41" column="48" />
+        <mark key="." line="41" column="47" />
+      </file>
+      <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" timestamp="1589338775100">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" timestamp="1589256740252">
         <mark key="[" line="6" column="0" />
@@ -348,10 +348,10 @@
         <text />
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNjb3BlID0+IElzVmFsaWRTY29wZXMoKS5hbGxJc1ZhbGlkU2NvcGVzKCkuQWxsKHMgPT4gQ2xpZW50RXh0ZW5zaW9uLlZhbGlkU2NvcGVzLkNvbnRhaW5zKHMuU2NvcGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvdmlkZXIuR2V0U2VydmljZTxJUmVwb3NpdG9yeTxJZGVudGl0eVVzZXI+PigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>scop</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -360,34 +360,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cHJlc3Npb24uQWRkUHJvZmlsZTxBcGlSZXNvdXJjZU1hcHBlclByb2ZpbGU+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNjb3BlID0+IElzVmFsaWRTY29wZXMoKS5hbGxJc1ZhbGlkU2NvcGVzKCkuQWxsKHMgPT4gQ2xpZW50RXh0ZW5zaW9uLlZhbGlkU2NvcGVzLkNvbnRhaW5zKHMuU2NvcGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvdmlkZXIuR2V0U2VydmljZTxJUmVwb3NpdG9yeTxJZGVudGl0eVVzZXI+PigpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSXNWYWxpZFNjb3BlcygpLkFsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSXNWYWxpZFNjb3BlcygpLkEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNjb3BlID0+IElzVmFsaWRTY29wZXMoKS5hbGxJc1ZhbGlkU2NvcGVzKCkuQWxsKHMgPT4gQ2xpZW50RXh0ZW5zaW9uLlZhbGlkU2NvcGVzLkNvbnRhaW5zKHMuU2NvcGUpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSXNWYWxpZFNjb3BlcygpLkFsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSXNWYWxpZFNjb3BlcygpLkEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuYWRkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkVHJhbnNpZW50PElNYXBwZXI+KHByb3ZpZGVyID0+CiAgICAgICAgICAgICAgICBuZXcgQXV0b01hcHBlcldyYXBwZXIoCiAgICAgICAgICAgICAgICAgICAgbmV3IEF1dG9NYXBwZXJXcmFwcGVyKG5ldyBBdXRvTWFwcGVyLk1hcHBlcihtYXBwZXJDb25maWd1cmF0aW9uMSwgcHJvdmlkZXIuR2V0U2VydmljZSkpKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
