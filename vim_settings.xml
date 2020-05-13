@@ -188,10 +188,11 @@
         <mark key="'" line="43" column="38" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Shared/Selz.Shops.Core/Services/Cloudflare/CloudflareAuthorizationHandler.cs" timestamp="1589257690354" />
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1589360647430">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1589362588849">
+        <mark key="[" line="238" column="35" />
+        <mark key="]" line="238" column="34" />
+        <mark key="." line="238" column="33" />
+        <mark key="^" line="238" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1589323995997">
         <mark key="[" line="0" column="0" />
@@ -344,11 +345,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+      <register name="+" type="4">
+        <text>SecurityRulesAttribute</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>SecurityRulesAttribute</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -357,34 +358,34 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkVHJhbnNpZW50PElSZXBvc2l0b3J5PENsaWVudD4+KHByb3ZpZGVyID0+IG5ldyBNb25nb1JlcG9zaXRvcnk8Q2xpZW50PihzdG9yZU9wdGlvbnMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpZ25JbiA9IGF3YWl0ICBCdWlsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpZ25JbiA9IGF3YWl0ICBCdWlsZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1vZGVsID0gbmV3IEFjY291bnRWaWV3TW9kZWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1vZGVsID0gbmV3IEFjY291bnRWaWV3TW9kZWwoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0VG9rZW5Db29raWUodG9rZW4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0VG9rZW5Db29raWUodG9rZW4pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGVtcERhdGFbIkVycm9yTWVzc2FnZSJdIGFzIHN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGVtcERhdGFbIkVycm9yTWVzc2FnZSJdIGFzIHN0Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
