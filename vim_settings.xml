@@ -160,6 +160,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Validation/ClientValidator.cs" timestamp="1589338493462">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ClientStore.cs" timestamp="1589323487831">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -176,11 +181,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Entities/Client.cs" timestamp="1589256674733">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" timestamp="1589256731288">
         <mark key="[" line="7" column="0" />
@@ -214,13 +214,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Entities/ApiResource.cs" timestamp="1589256671984">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/60C7208E-971E-4E2B-BFF0-F3388FEEDF37/1/IdentityServiceCollectionExtensions.cs" timestamp="1589258038524" />
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Extensions/IdentityServerMongoDbBuilderExtensions.cs" timestamp="1589256926161" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Domains/ApiClient.cs" timestamp="1589338318679">
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="30" />
+        <mark key="^" line="31" column="31" />
+      </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Entities/PersistedGrant.cs" timestamp="1589256700367">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -347,11 +347,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>)</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNjb3BlID0+IElzVmFsaWRTY29wZXMoKS5hbGxJc1ZhbGlkU2NvcGVzKCkuQWxsKHMgPT4gQ2xpZW50RXh0ZW5zaW9uLlZhbGlkU2NvcGVzLkNvbnRhaW5zKHMuU2NvcGUpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>scop</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -360,34 +360,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cHJlc3Npb24uQWRkUHJvZmlsZTxBcGlSZXNvdXJjZU1hcHBlclByb2ZpbGU+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuYWRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNjb3BlID0+IElzVmFsaWRTY29wZXMoKS5hbGxJc1ZhbGlkU2NvcGVzKCkuQWxsKHMgPT4gQ2xpZW50RXh0ZW5zaW9uLlZhbGlkU2NvcGVzLkNvbnRhaW5zKHMuU2NvcGUpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkVHJhbnNpZW50PElNYXBwZXI+KHByb3ZpZGVyID0+CiAgICAgICAgICAgICAgICBuZXcgQXV0b01hcHBlcldyYXBwZXIoCiAgICAgICAgICAgICAgICAgICAgbmV3IEF1dG9NYXBwZXJXcmFwcGVyKG5ldyBBdXRvTWFwcGVyLk1hcHBlcihtYXBwZXJDb25maWd1cmF0aW9uMSwgcHJvdmlkZXIuR2V0U2VydmljZSkpKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSXNWYWxpZFNjb3BlcygpLkFsbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSXNWYWxpZFNjb3BlcygpLkEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkVHJhbnNpZW50PElSZXBvc2l0b3J5PFBlcnNpc3RlZEdyYW50Pj4ocHJvdmlkZXIgPT4gbmV3IE1vbmdvUmVwb3NpdG9yeTxQZXJzaXN0ZWRHcmFudD4oKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuYWRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkVHJhbnNpZW50PElNYXBwZXI+KHByb3ZpZGVyID0+CiAgICAgICAgICAgICAgICBuZXcgQXV0b01hcHBlcldyYXBwZXIoCiAgICAgICAgICAgICAgICAgICAgbmV3IEF1dG9NYXBwZXJXcmFwcGVyKG5ldyBBdXRvTWFwcGVyLk1hcHBlcihtYXBwZXJDb25maWd1cmF0aW9uMSwgcHJvdmlkZXIuR2V0U2VydmljZSkpKSk7Cgo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
