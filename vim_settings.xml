@@ -219,19 +219,15 @@
       <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/src/AspNetIdentity.MongoDB/Extensions/IdentityMongoDbBuilderExtensions.cs" timestamp="1589262751876">
         <mark key="'" line="43" column="38" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1589430297785">
-        <mark key="'" line="354" column="68" />
-        <mark key="[" line="358" column="70" />
-        <mark key="]" line="358" column="69" />
-        <mark key="^" line="358" column="69" />
-        <mark key="." line="358" column="68" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1589431722487">
+        <mark key="'" line="687" column="64" />
+        <mark key="[" line="695" column="87" />
+        <mark key="]" line="695" column="87" />
+        <mark key="." line="695" column="86" />
+        <mark key="^" line="695" column="87" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" />
-      <jump line="40" column="27" filename="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/AppSettings.cs" />
-      <jump line="104" column="22" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom-hostnames-cleanup.yml.j2" />
-      <jump line="66" column="24" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom-hostnames-cleanup.yml.j2" />
       <jump line="67" column="20" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom-hostnames-cleanup.yml.j2" />
       <jump line="69" column="29" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom-hostnames-cleanup.yml.j2" />
       <jump line="94" column="21" filename="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom-hostnames-cleanup.yml.j2" />
@@ -328,6 +324,10 @@
       <jump line="335" column="148" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="144" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="354" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="392" column="62" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="438" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="474" column="86" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="687" column="64" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -347,11 +347,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>I</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>ExternalId</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -360,34 +360,34 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkVHJhbnNpZW50PElSZXBvc2l0b3J5PENsaWVudD4+KHByb3ZpZGVyID0+IG5ldyBNb25nb1JlcG9zaXRvcnk8Q2xpZW50PihzdG9yZU9wdGlvbnMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBra2trCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFeHRlcm5hbFByb3ZpZGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENhbGxlbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNhcHR1cmUgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBSZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2UuQ29va2llcy5EZWxldGUoQ29yZS5Db25zdGFudHMuSWRlbmRlbnRpdHlFeHRlcm5hbENvb2xpZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBSZXR1cm5VCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzZXRQYXNzd29yZCgpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBybFJlZGlyZWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpZ25pbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm0xLgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
