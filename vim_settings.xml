@@ -27,8 +27,8 @@
         <entry>class</entry>
         <entry encoding="base64">XDxSZWRpcmVjdEFmdGVyTG9naW5cPg==</entry>
         <entry encoding="base64">XDxIYW5kbGVTaWduSW5SZXN1bHRcPg==</entry>
-        <entry>)</entry>
         <entry encoding="base64">XDxleHRlcm5hbExvZ2luSW5mb1w+</entry>
+        <entry>)</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -172,8 +172,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/60C7208E-971E-4E2B-BFF0-F3388FEEDF37/7/ExternalLoginInfo.cs" timestamp="1589499973154" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/922D6808-1213-4148-970A-0DE66FE3C806/ed/dc460ec8/IdentityUser.cs" timestamp="1589500037507" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/ClientsController.cs" timestamp="1589357841500">
         <mark key="'" line="50" column="42" />
         <mark key="[" line="66" column="0" />
@@ -203,13 +201,11 @@
         <mark key="^" line="41" column="48" />
         <mark key="." line="41" column="47" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Helpers/AuthHelper.cs" timestamp="1589500026263" />
       <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" timestamp="1589344310939">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Constants.cs" timestamp="1589500027125" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Domains/ApiClient.cs" timestamp="1589338318679">
         <mark key="]" line="31" column="31" />
         <mark key="." line="31" column="30" />
@@ -223,18 +219,15 @@
       <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/src/AspNetIdentity.MongoDB/Extensions/IdentityMongoDbBuilderExtensions.cs" timestamp="1589262751876">
         <mark key="'" line="43" column="38" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1589500182820">
-        <mark key="[" line="1195" column="0" />
-        <mark key="]" line="1195" column="0" />
-        <mark key="." line="1195" column="0" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1589502873372">
+        <mark key="'" line="193" column="68" />
+        <mark key="[" line="206" column="16" />
+        <mark key="]" line="207" column="0" />
+        <mark key="^" line="207" column="23" />
+        <mark key="." line="205" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DC7049B7-9561-4CAE-A548-2B334B7B0EF7/8/AuthenticationToken.cs" timestamp="1589499977189" />
     </filemarks>
     <jumps>
-      <jump line="20" column="21" filename="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Services/ICustomHostnameCleanupService.cs" />
-      <jump line="9" column="17" filename="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup.Test/CustomHostnamesCleanupTests.cs" />
-      <jump line="32" column="19" filename="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Controllers/ShopsController.cs" />
-      <jump line="22" column="26" filename="C:/dev/git/selz/Services.Shop/Service/src/Tasks/Selz.Shop.Tasks.CustomHostnamesCleanup/Function.cs" />
       <jump line="7" column="5" filename="C:/dev/git/selz/Services.Shop/Service/NuGet.config" />
       <jump line="10" column="6" filename="C:/dev/git/selz/Services.Shop/Service/NuGet.config" />
       <jump line="4" column="80" filename="C:/dev/git/selz/Services.Shop/Service/NuGet.config" />
@@ -331,6 +324,10 @@
       <jump line="389" column="37" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="357" column="63" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="1250" column="16" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="149" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="215" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="191" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="193" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -351,48 +348,48 @@
         <text />
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEF1dGhIZWxwZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpZ25JbigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>isWhiteLabelProvider</text>
+        <text>authorizationContextAsync</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHRlcm5hbExvZ2luSW5mb1w+</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text>y</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEF1dGhIZWxwZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpZ25JbigpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpZ24oKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBTaWduSW4oKQogICAgICAgIHsKICAgICAgICAgICAgU2V0VG9rZW5Db29raWUoKTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEF1dGhIZWxwZXIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHUK</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>seExternalLocale = AuthHelper.IsWhiteLabelProvider(externalLoginInfo.LoginProvider);
                 useExternalLocale = AuthHelper.IsWhiteLabelProvider(externalLoginInfo.LoginProvider);
                 useExternalLocale = AuthHelper.IsWhiteLabelProvider(externalLoginInfo.LoginProvider);</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAiSWRlbnRpdHkuU2hvcEludml0ZVRva2VuIgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNobwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -404,9 +401,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxleHRlcm5hbExvZ2luSW5mb1w+</last-search>
+      <last-search>)</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHRlcm5hbExvZ2luSW5mb1w+</last-pattern>
+      <last-pattern>)</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
       <last-dir>1</last-dir>
