@@ -201,11 +201,12 @@
         <mark key="^" line="41" column="48" />
         <mark key="." line="41" column="47" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Helpers/AuthHelper.cs" timestamp="1589545100008">
-        <mark key="[" line="123" column="62" />
-        <mark key="]" line="123" column="60" />
-        <mark key="^" line="123" column="60" />
-        <mark key="." line="123" column="59" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Helpers/AuthHelper.cs" timestamp="1589619331340">
+        <mark key="'" line="93" column="47" />
+        <mark key="[" line="105" column="62" />
+        <mark key="]" line="109" column="72" />
+        <mark key="^" line="109" column="72" />
+        <mark key="." line="109" column="71" />
       </file>
       <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" timestamp="1589344310939">
         <mark key="[" line="4" column="0" />
@@ -225,20 +226,16 @@
       <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/src/AspNetIdentity.MongoDB/Extensions/IdentityMongoDbBuilderExtensions.cs" timestamp="1589262751876">
         <mark key="'" line="43" column="38" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1589535330617">
-        <mark key="'" line="658" column="48" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1589619711913">
+        <mark key="'" line="681" column="88" />
         <mark key="j" line="478" column="27" />
-        <mark key="[" line="677" column="104" />
-        <mark key="]" line="677" column="105" />
-        <mark key="." line="677" column="104" />
-        <mark key="^" line="677" column="105" />
+        <mark key="[" line="688" column="76" />
+        <mark key="]" line="688" column="88" />
+        <mark key="." line="688" column="87" />
+        <mark key="^" line="688" column="88" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="70" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/ConsentController.cs" />
-      <jump line="153" column="53" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/ConsentController.cs" />
-      <jump line="202" column="41" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="399" column="52" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="410" column="52" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="409" column="51" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="353" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -335,6 +332,10 @@
       <jump line="618" column="51" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="651" column="88" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="658" column="48" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="93" column="47" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Helpers/AuthHelper.cs" />
+      <jump line="664" column="88" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="677" column="44" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="681" column="88" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -355,10 +356,10 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>o</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
