@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxIYW5kbGVPcmRlclN5bmNUYXNrXD4=</entry>
         <entry encoding="base64">XDxTY2hlZHVsZVJ1bGVGb3JIYW5kbGVPcmRlclN5bmNUYXNrQ2xvdWRXYXRjaEV2ZW50VGFza1w+</entry>
         <entry encoding="base64">XDxMYW1iZGFSb2xlXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmFsRXJyb3JNc2dcPg==</entry>
@@ -28,6 +27,7 @@
         <entry encoding="base64">XDxleHRlcm5hbExvZ2luSW5mb1w+</entry>
         <entry>acr</entry>
         <entry encoding="base64">XDxGb3Jnb3RQYXNzd29yZEF0dGVtcHRcPg==</entry>
+        <entry encoding="base64">XDxCdWlsZEludml0ZVZpZXdNb2RlbEFzeW5jXD4=</entry>
         <entry>)</entry>
       </history-search>
       <history-cmd>
@@ -239,27 +239,15 @@
         <mark key="." line="299" column="0" />
         <mark key="^" line="299" column="28" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1589696117981">
-        <mark key="'" line="1439" column="59" />
-        <mark key="[" line="1504" column="12" />
-        <mark key="]" line="1509" column="37" />
-        <mark key="^" line="1509" column="37" />
-        <mark key="." line="1509" column="36" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1589699024310">
+        <mark key="'" line="1469" column="59" />
+        <mark key="[" line="1469" column="61" />
+        <mark key="]" line="1469" column="61" />
+        <mark key="^" line="1469" column="61" />
+        <mark key="." line="1469" column="60" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="40" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
-      <jump line="43" column="38" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/src/AspNetIdentity.MongoDB/Extensions/IdentityMongoDbBuilderExtensions.cs" />
-      <jump line="34" column="62" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/Stores/UserStoreTests.cs" />
-      <jump line="36" column="61" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/Stores/UserStoreTests.cs" />
-      <jump line="39" column="62" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/Stores/UserStoreTests.cs" />
-      <jump line="28" column="35" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/Stores/UserStoreTests.cs" />
-      <jump line="32" column="61" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
-      <jump line="36" column="47" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
-      <jump line="171" column="46" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="33" column="61" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
-      <jump line="61" column="36" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
-      <jump line="58" column="62" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
       <jump line="62" column="39" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
       <jump line="67" column="62" filename="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" />
       <jump line="77" column="55" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Extensions/IdentityServerMongoDbServiceCollectionExtensions.cs" />
@@ -303,7 +291,6 @@
       <jump line="148" column="92" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="152" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="1358" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
-      <jump line="1342" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="1355" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="1368" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="1391" column="61" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
@@ -348,6 +335,19 @@
       <jump line="201" column="54" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="1386" column="15" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="1439" column="59" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1342" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1370" column="74" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1378" column="77" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1352" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1305" column="44" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1603" column="31" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="196" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="198" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="203" column="54" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1312" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1328" column="64" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1415" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1469" column="59" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -368,10 +368,10 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>findInvitation</text>
+        <text>findEnabledClientByIdAsync</text>
       </register>
       <register name="-" type="4">
-        <text>findInvitation</text>
+        <text>findEnabledClientByIdAsync</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -380,34 +380,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRJbnZpdGVWaWV3TW9kZWxBc3luYygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoY29udGV4dD8uQ2xpZW50SWQgISkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpc3BsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4Z3QyPy5DbGllCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpc3Bvc2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGNvbnRleGd0Mj8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Ta2lwTGFzdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuRm9yZ290UGFzc3dvcmQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm0xLlJlbWVtYmVyTG9pbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm90U3VwcG9ydGVkRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRTaWduSW5WaWV3TW9kZWxBc3luYygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRJbnZpdGVWaWV3TW9kZWxBc3luYygpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">amoK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGF0dGVtcHRzID0gX3JlZGlzQ2FjaGVDbGllbnQuR2V0PHN0cmluZz4oa2V5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4Z3QyPy5DbGllCg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
