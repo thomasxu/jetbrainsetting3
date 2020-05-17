@@ -151,11 +151,10 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Services/ShopRoles/ShopRoleService.cs" timestamp="1589673465319">
-        <mark key="'" line="140" column="55" />
-        <mark key="[" line="142" column="52" />
-        <mark key="]" line="142" column="52" />
-        <mark key="^" line="142" column="52" />
-        <mark key="." line="142" column="51" />
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="13" column="52" />
+        <mark key="^" line="13" column="52" />
+        <mark key="." line="13" column="51" />
       </file>
       <file name="/Dummy.txt" timestamp="1589499724450">
         <mark key="[" line="0" column="0" />
@@ -219,10 +218,11 @@
         <mark key="." line="31" column="30" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Services/Constants.cs" timestamp="1589497668970">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Services/Constants.cs" timestamp="1589676811606">
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="23" column="53" />
+        <mark key="." line="23" column="53" />
+        <mark key="^" line="23" column="55" />
       </file>
       <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/src/AspNetIdentity.MongoDB/Extensions/IdentityMongoDbBuilderExtensions.cs" timestamp="1589262751876">
         <mark key="'" line="43" column="38" />
@@ -233,20 +233,15 @@
         <mark key="." line="299" column="0" />
         <mark key="^" line="299" column="28" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1589673884663">
-        <mark key="'" line="1226" column="45" />
-        <mark key="[" line="1227" column="16" />
-        <mark key="]" line="1228" column="30" />
-        <mark key="^" line="1228" column="30" />
-        <mark key="." line="1228" column="29" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" timestamp="1589676836599">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="1112" column="13" />
+        <mark key="]" line="1111" column="23" />
+        <mark key="^" line="1111" column="23" />
+        <mark key="." line="1111" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="141" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="148" column="54" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="149" column="55" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
-      <jump line="150" column="54" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="185" column="58" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="214" column="47" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="273" column="40" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -340,8 +335,13 @@
       <jump line="1612" column="47" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="1192" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="139" column="55" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Services/ShopRoles/ShopRoleService.cs" />
-      <jump line="1194" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="1226" column="45" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1194" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1202" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1204" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1432" column="12" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="1646" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
+      <jump line="38" column="0" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -362,10 +362,10 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>o</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
