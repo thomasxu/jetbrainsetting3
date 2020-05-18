@@ -156,12 +156,10 @@
         <mark key="^" line="13" column="52" />
         <mark key="." line="13" column="51" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ResourceStore.cs" timestamp="1589842419886">
-        <mark key="'" line="66" column="113" />
-        <mark key="[" line="69" column="123" />
-        <mark key="]" line="71" column="26" />
-        <mark key="^" line="71" column="26" />
-        <mark key="." line="71" column="25" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ResourceStore.cs" timestamp="1589844584690">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1589767625668">
         <mark key="[" line="0" column="0" />
@@ -173,6 +171,18 @@
         <mark key="]" line="27" column="30" />
         <mark key="." line="27" column="30" />
       </file>
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Services/CorsPolicyService.cs" timestamp="1589845032117">
+        <mark key="[" line="27" column="87" />
+        <mark key="]" line="29" column="62" />
+        <mark key="^" line="29" column="62" />
+        <mark key="." line="29" column="61" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BEBBCFDF-08A7-48F1-8003-C58757C0306D/12/Scope.cs" timestamp="1589844540876">
+        <mark key="'" line="87" column="22" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/ClientsController.cs" timestamp="1589357841500">
         <mark key="'" line="50" column="42" />
         <mark key="[" line="66" column="0" />
@@ -180,10 +190,11 @@
         <mark key="^" line="67" column="56" />
         <mark key="." line="67" column="55" />
       </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Validation/ClientValidator.cs" timestamp="1589338493462">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Options/StoreOptions.cs" timestamp="1589845763936">
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-task-custom-hostnames-cleanup.yml" timestamp="1589413888939">
         <mark key="[" line="0" column="0" />
@@ -247,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1485" column="12" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="1444" column="42" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="389" column="37" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="357" column="63" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
@@ -347,6 +357,7 @@
       <jump line="50" column="63" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" />
       <jump line="37" column="68" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" />
       <jump line="66" column="113" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ResourceStore.cs" />
+      <jump line="102" column="22" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BEBBCFDF-08A7-48F1-8003-C58757C0306D/12/Scope.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -367,10 +378,10 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>sl</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>sl</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -379,34 +390,34 @@
         <text>u</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHoK</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHp6Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTdG9yZU9wdGlvbnMyCiAgICB7CiAgICAgICAgcHVibGljIHN0cmluZyBDb25uZWN0aW9uU3RyaW5nIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgc3RyaW5nIENvbGxlY3Rpb25OYW1lUHJlZml4IHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgUmVhZFByZWZlcmVuY2UgUmVhZFByZWZlcmVuY2UgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFByb3BlcnR5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2dEZWJ1ZygicmVtb3ZlZCB7cGVyc2lzdGVkR3JhbnRDb3VudH0gcGVyc2lzdGVkIGdyYW50cyBmcm9tIGRhdGFiYXNlIGZvciBzdWIiKTsK</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2dEZWJ1ZygicmVtb3ZlZCB7cGVyc2lzdGVkRyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTdG9yZU9wdGlvbjIKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIENvbm5lY3Rpb25TdHJpbmcgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgQ29sbGVjdGlvbk5hbWVQcmVmaXggeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBSZWFkUHJlZmVyZW5jZSBSZWFkUHJlZmVyZW5jZSB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Db24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JpZ2luMS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIF9sb2dnZXIuTG9nRGVidWcoIkZvdW5kIHtzY29wZX0gQVBJIHNjb3BlcyBpbiBkYXRhYmFzZSIsIG1vZGVscy5TZWxlY3RNYW55KHggPT4geC5TY29wZXMpLlNlbGVjdCh4ID0+IHguTmFtZSkpOwoKICAgICAgICAgICAgcmV0dXJuIG1vZGVsczsKICAgICAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
