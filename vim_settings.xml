@@ -190,11 +190,11 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="21" column="11" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ClientStore.cs" timestamp="1589835348345">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="26" column="46" />
-        <mark key="." line="26" column="45" />
-        <mark key="^" line="26" column="46" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ClientStore.cs" timestamp="1589835463654">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="56" column="25" />
       </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ShopRoleProfile.cs" timestamp="1589344381417">
         <mark key="[" line="41" column="48" />
@@ -224,6 +224,11 @@
         <mark key="]" line="667" column="0" />
         <mark key="^" line="690" column="30" />
         <mark key="." line="667" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" timestamp="1589838899224">
+        <mark key="[" line="127" column="17" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Messaging/Templates/LiquidTemplateParser.cs" timestamp="1589673652467">
         <mark key="[" line="299" column="0" />
@@ -359,10 +364,10 @@
         <text />
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Db24K</text>
       </register>
       <register name="-" type="4">
-        <text>CPS</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -371,34 +376,34 @@
         <text>u</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Db24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1IHNhZGYK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1IHNhZGYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5TZXJ2aWNlcy5BZGRJZGVudGl0eVNlcnZlck1vbmdvRGJSZXBvc2l0b3JpZXMoc3RvcmVPcHRpb25zKS5BZGRJZGVudGl0eVNlcnZlck1vbmdvRGJSZXBvc2l0b3JpZXMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYnVpbGRlci5BZGRDb3JzUG9saWN5Q2FjaGU8PigpIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5TZXJ2aWNlcy5BZGRJZGVudGl0eVNlcnZlck1vbmdvRGJSZXBvc2l0b3JpZXMoc3RvcmVPcHRpb25zKS5BZGRJZGVudGl0eVNlcnZlck1vbmdvRGJSZXBvc2l0b3JpZXMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYnVpbGRlci5BZGRDb3JzUG9saWN5Q2FjaGU8PigpIAo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
