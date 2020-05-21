@@ -162,11 +162,11 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="25" column="37" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Services/CorsPolicyService.cs" timestamp="1590101461323">
-        <mark key="[" line="40" column="41" />
-        <mark key="]" line="40" column="41" />
-        <mark key="^" line="40" column="41" />
-        <mark key="." line="40" column="40" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Services/CorsPolicyService.cs" timestamp="1590101597492">
+        <mark key="'" line="42" column="101" />
+        <mark key="[" line="34" column="9" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Extensions/IdentityServerMongoDbServiceCollectionExtensions.cs" timestamp="1590100882824">
         <mark key="[" line="49" column="129" />
@@ -209,9 +209,11 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="22" />
       </file>
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/HostContainer.cs" timestamp="1590102814486">
+        <mark key="[" line="34" column="57" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="187" column="68" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="201" column="54" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="1386" column="15" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
@@ -311,6 +313,7 @@
       <jump line="144" column="60" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" />
       <jump line="153" column="87" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" />
       <jump line="155" column="87" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" />
+      <jump line="40" column="101" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Services/CorsPolicyService.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,11 +333,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5QCg==</text>
+      <register name="+" type="4">
+        <text>Get</text>
       </register>
       <register name="-" type="4">
-        <text>MapperConfiguration</text>
+        <text>Get</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -343,34 +346,34 @@
         <text>u</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5QCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5QCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlSgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlSgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5TZXJ2aWNlcy5BZGRUcmFuc2llbnQ8ST4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
