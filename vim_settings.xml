@@ -150,26 +150,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590224315369">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/MongoRepositoryBase.cs" timestamp="1590299140858">
-        <mark key="[" line="110" column="12" />
-        <mark key="]" line="109" column="28" />
-        <mark key="^" line="109" column="28" />
-        <mark key="." line="109" column="27" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Startup.cs" timestamp="1590229889140">
-        <mark key="[" line="108" column="54" />
-        <mark key="]" line="109" column="33" />
-        <mark key="^" line="109" column="33" />
-        <mark key="." line="109" column="32" />
-      </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Extensions/IdentityServerMongoDbServiceCollectionExtensions.cs" timestamp="1590356080883">
-        <mark key="[" line="70" column="64" />
-        <mark key="]" line="71" column="58" />
-        <mark key="." line="71" column="57" />
-        <mark key="^" line="71" column="58" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ResourceStore.cs" timestamp="1590358007124">
+        <mark key="[" line="69" column="15" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="23" />
+        <mark key="^" line="69" column="24" />
       </file>
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/Extensions/RepositoryExtensions.cs" timestamp="1590301043947">
         <mark key="[" line="246" column="20" />
@@ -177,26 +162,13 @@
         <mark key="." line="246" column="87" />
         <mark key="^" line="246" column="88" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Mappers/PersistedGrantMapperProfile.cs" timestamp="1590356732600" />
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A456C5B3-761C-433C-A25E-8D9294935408/44/2c0b76af/ServiceCollectionExtensions.cs" timestamp="1590276548188">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Options/StoreOptions.cs" timestamp="1590357685658">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2254925F-A632-4F31-B1D5-B3D82A28CAEE/C/IdentityResult.cs" timestamp="1590223831236">
-        <mark key="'" line="34" column="48" />
-      </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Mappers/ApiResourceMapperProfile.cs" timestamp="1590356704191">
-        <mark key="[" line="70" column="77" />
-        <mark key="]" line="70" column="78" />
-        <mark key="^" line="70" column="78" />
-        <mark key="." line="70" column="77" />
-      </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/HostContainerExtensions.cs" timestamp="1590229922868">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ClientStore.cs" timestamp="1590357770915" />
       <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" timestamp="1590277042338">
         <mark key="[" line="71" column="13" />
         <mark key="]" line="71" column="20" />
@@ -204,28 +176,42 @@
         <mark key="^" line="71" column="20" />
       </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Mappers/IMapper.cs" timestamp="1590356720259" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" timestamp="1590358504882">
+        <mark key="[" line="61" column="20" />
+        <mark key="]" line="61" column="46" />
+        <mark key="." line="61" column="45" />
+        <mark key="^" line="61" column="46" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/MongoRepositoryBase.cs" timestamp="1590299140858">
+        <mark key="[" line="110" column="12" />
+        <mark key="]" line="109" column="28" />
+        <mark key="^" line="109" column="28" />
+        <mark key="." line="109" column="27" />
+      </file>
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Mappers/PersistedGrantMapperProfile.cs" timestamp="1590356749884" />
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Entities/IEntity.cs" timestamp="1590300708453">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="8" column="19" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Extensions/IdentityServerMongoDbBuilderExtensions.cs" timestamp="1590277194461">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Framework/Hostings/HostStarter.cs" timestamp="1590229459674">
-        <mark key="[" line="58" column="40" />
-        <mark key="]" line="58" column="41" />
-        <mark key="^" line="58" column="41" />
-        <mark key="." line="58" column="40" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Extensions/IdentityServerMongoDbBuilderExtensions.cs" timestamp="1590357742685">
+        <mark key="[" line="67" column="23" />
+        <mark key="]" line="67" column="27" />
+        <mark key="." line="67" column="26" />
+        <mark key="^" line="67" column="27" />
       </file>
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/Extensions/ServiceCollectionExtensions.cs" timestamp="1590301107902">
         <mark key="[" line="15" column="81" />
         <mark key="]" line="15" column="91" />
         <mark key="." line="15" column="90" />
         <mark key="^" line="15" column="91" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BEBBCFDF-08A7-48F1-8003-C58757C0306D/E/PersistedGrant.cs" timestamp="1590358636846">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="8" />
+        <mark key="." line="15" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -348,11 +334,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZXZlcnNlTWFwKCkK</text>
+      <register name="+" type="4">
+        <text>TYPE</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>TYPE</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -361,34 +347,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKF90b2tlbkNsZWFudXBPcHRpb25zLkVuYWJsZVRva2VuQ2xlYW51cCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX3Rva2VuQ2xlYW51cC5TdGFydChjYW5jZWxsYXRpb25Ub2tlbik7CiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZXZlcnNlTWFwKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBHZXQgYnkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Db25zdHJ1Y3RVc2luZyhzcmMgPT4gbmV3IE1vZGVscy5BcGlSZXNvdXJjZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqZWMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5TZXJ2aWNlcy5BZGRTZWx6UmVwb3NpdG9yeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBvYmplYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5ndgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBTdG9yZUFzeW5jKFBlcnNpc3RlZEdyYW50IGdyYW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3BlcnNpc3RlZEdyYW50UmVwb3NpdG9yeS5Bc1F1ZXJ5YWJsZSgpLkZpcnN0KHggPT4geC5LZXkgPT0gVHJhbnNhY3Rpb24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKSAK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
