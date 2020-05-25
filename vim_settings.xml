@@ -25,10 +25,10 @@
         <entry>acr</entry>
         <entry encoding="base64">XDxGb3Jnb3RQYXNzd29yZEF0dGVtcHRcPg==</entry>
         <entry encoding="base64">XDxCdWlsZEludml0ZVZpZXdNb2RlbEFzeW5jXD4=</entry>
-        <entry>new</entry>
         <entry>{</entry>
         <entry>class</entry>
         <entry>)</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -156,11 +156,11 @@
         <mark key="." line="69" column="23" />
         <mark key="^" line="69" column="24" />
       </file>
-      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/Extensions/RepositoryExtensions.cs" timestamp="1590301043947">
-        <mark key="[" line="246" column="20" />
-        <mark key="]" line="246" column="88" />
-        <mark key="." line="246" column="87" />
-        <mark key="^" line="246" column="88" />
+      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/MongoRepository.cs" timestamp="1590368598626">
+        <mark key="[" line="15" column="125" />
+        <mark key="]" line="15" column="171" />
+        <mark key="^" line="15" column="171" />
+        <mark key="." line="15" column="170" />
       </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Options/StoreOptions.cs" timestamp="1590357685658">
         <mark key="[" line="15" column="16" />
@@ -168,27 +168,42 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="28" />
       </file>
+      <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/appsettings.Testing.json" timestamp="1590367456004">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="25" />
+      </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ClientStore.cs" timestamp="1590359077389" />
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Mappers/IMapper.cs" timestamp="1590356720259" />
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" timestamp="1590359058878">
         <mark key="[" line="125" column="65" />
         <mark key="]" line="124" column="43" />
         <mark key="." line="124" column="42" />
         <mark key="^" line="124" column="43" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/HostContainer.cs" timestamp="1590367367571" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/HostContainer.cs" timestamp="1590367740727">
+        <mark key="[" line="68" column="18" />
+        <mark key="]" line="68" column="19" />
+        <mark key="." line="68" column="18" />
+        <mark key="^" line="68" column="19" />
+      </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1590362159303" />
+      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/MongoRepositoryBase.cs" timestamp="1590368768593">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/542B3FFE-41D4-48D2-BB7F-D8ABCF87E962/da/254543d4/IHostedService.cs" timestamp="1590359396065">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Mappers/PersistedGrantMapperProfile.cs" timestamp="1590356749884" />
-      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/Extensions/ServiceCollectionExtensions.cs" timestamp="1590301107902">
-        <mark key="[" line="15" column="81" />
-        <mark key="]" line="15" column="91" />
-        <mark key="." line="15" column="90" />
-        <mark key="^" line="15" column="91" />
+      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/Options/RepositoryOptions.cs" timestamp="1590368576054">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BEBBCFDF-08A7-48F1-8003-C58757C0306D/E/PersistedGrant.cs" timestamp="1590358876842">
         <mark key="[" line="28" column="16" />
@@ -204,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1730" column="59" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/AccountController.cs" />
       <jump line="62" column="0" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Extensions/IdentityServerMongoDbServiceCollectionExtensions.cs" />
       <jump line="101" column="25" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Extensions/IdentityServerMongoDbServiceCollectionExtensions.cs" />
       <jump line="183" column="124" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" />
@@ -304,6 +318,7 @@
       <jump line="174" column="87" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" />
       <jump line="175" column="86" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" />
       <jump line="21" column="43" filename="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/Tokens/TokenCleanupTests.cs" />
+      <jump line="17" column="13" filename="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/MongoRepositoryBase.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,47 +338,47 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>op</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUYWdTZXRzID0geyBkZH0K</text>
       </register>
       <register name="-" type="4">
-        <text>op</text>
+        <text>va</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>new</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKF90b2tlbkNsZWFudXBPcHRpb25zLkVuYWJsZVRva2VuQ2xlYW51cCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX3Rva2VuQ2xlYW51cC5TdGFydChjYW5jZWxsYXRpb25Ub2tlbik7CiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb1N0cmluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUYWdTZXRzID0geyBkZH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlcnZpY2VzID0gbmV3IFNlcnZpY2VDb2xsZWN0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUYWdTZXRzID0geyBjfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vbmdvVXJsLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29ubmVjdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvY2NuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBUb2tlbkNsZWFudXBIb3N0OiBJSG9zdGVkU2VydmljZQogICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNaWNyb3NvZnQuRXh0ZW5zaW9ucy5PcHRpb25zLk9wdGlvbnMK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -375,12 +390,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>)</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>)</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
