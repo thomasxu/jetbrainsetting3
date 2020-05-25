@@ -156,6 +156,7 @@
         <mark key="^" line="15" column="171" />
         <mark key="." line="15" column="170" />
       </file>
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/Stores/ClientStoreTests.cs" timestamp="1590378963030" />
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Repositories/MongoRepository.cs" timestamp="1590375224896">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="108" />
@@ -181,13 +182,18 @@
         <mark key="." line="3" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3E8ED71A-D11D-4193-996A-1D37E3C63362/40/a9046b4a/MongoRepository`1.cs" timestamp="1590375367750" />
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/HostContainer.cs" timestamp="1590367740727">
-        <mark key="[" line="68" column="18" />
-        <mark key="]" line="68" column="19" />
-        <mark key="." line="68" column="18" />
-        <mark key="^" line="68" column="19" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/HostContainer.cs" timestamp="1590379549519">
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="41" column="72" />
+        <mark key="." line="41" column="71" />
+        <mark key="^" line="41" column="72" />
       </file>
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/appsettings.Local.json" timestamp="1590362159303" />
+      <file name="/Dummy.txt" timestamp="1590375921606">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/MongoRepositoryBase.cs" timestamp="1590375122791">
         <mark key="[" line="51" column="16" />
         <mark key="]" line="51" column="17" />
@@ -211,16 +217,16 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="20" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Extensions/IdentityServerMongoDbBuilderExtensions.cs" timestamp="1590375842023">
-        <mark key="[" line="63" column="28" />
-        <mark key="]" line="63" column="47" />
-        <mark key="." line="63" column="46" />
-        <mark key="^" line="63" column="47" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Extensions/IdentityServerMongoDbBuilderExtensions.cs" timestamp="1590379147157">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="64" column="55" />
       </file>
-      <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/src/AspNetIdentity.MongoDB/Entities/IdentityRole.cs" timestamp="1590374907113">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/src/AspNetIdentity.MongoDB/Entities/IdentityRole.cs" timestamp="1590379578078">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -343,11 +349,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>.AddIdentityServerMongoDbOperationalRepositories(storeOptions);</text>
+      <register name="+" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIElkZW50aXR5Um9sZTogRW50aXR5CnsKICAgIAp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.AddIdentityServerMongoDbOperationalRepositories(storeOptions);</text>
+        <text>CollectionNamePrefix</text>
       </register>
       <register name="/" type="4">
         <text>new</text>
@@ -356,34 +362,34 @@
         <text encoding="base64">ICAgIFtDb2xsZWN0aW9uTmFtZSgiaWRzX0FwaVJlc291cmNlIildCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIElkZW50aXR5Um9sZTogRW50aXR5CnsKICAgIAp9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIElTZXJ2aWNlQ29sbGVjdGlvbiBBZGRJZGVudGl0eVNlcnZlck1vbmdvRGJPcGVyYXRpb25hbFJlcG9zaXRvcmllcyh0aGlzIElTZXJ2aWNlQ29sbGVjdGlvbiBzZXJ2aWNlcywgU3RvcmVPcHRpb25zIHN0b3JlT3B0aW9ucykKICAgICAgICB7CiAgICAgICAgICAgIGlmIChzZXJ2aWNlcyA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKG5hbWVvZihzZXJ2aWNlcykpOwoKICAgICAgICAgICAgcmV0dXJuIHNlcnZpY2VzOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmVPcHRpb25zQWN0aW9uPy5JbnZva2Uoc3RvcmVPcHRpb25zKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkVHJhbnNpZW50PElSZXBvc2l0b3J5PFBlcnNpc3RlZEdyYW50Pj4ocHJvdmlkZXIgPT4gbmV3IE1vbmdvUmVwb3NpdG9yeTxQZXJzaXN0ZWRHcmFudD4oc3RvcmVPcHRpb25zKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0b3JlT3B0aW9ucyA9IG5ldyBTdG9yZU9wdGlvbnMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmVPcHRpb25zQWN0aW9uPy5JbnZva2Uoc3RvcmVPcHRpb25zKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIElTZXJ2aWNlQ29sbGVjdGlvbiBBZGRJZGVudGl0eVNlcnZlck1vbmdvRGJSZXBvc2l0b3JpZXModGhpcyBJU2VydmljZUNvbGxlY3Rpb24gc2VydmljZXMsIFN0b3JlT3B0aW9ucyBzdG9yZU9wdGlvbnMpCiAgICAgICAgewogICAgICAgICAgICBpZiAoc2VydmljZXMgPT0gbnVsbCkgdGhyb3cgbmV3IEFyZ3VtZW50TnVsbEV4Y2VwdGlvbihuYW1lb2Yoc2VydmljZXMpKTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFRyYW5zaWVudDxJUmVwb3NpdG9yeTxDbGllbnQ+Pihwcm92aWRlciA9PiBuZXcgTW9uZ29SZXBvc2l0b3J5PENsaWVudD4oc3RvcmVPcHRpb25zKSk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFRyYW5zaWVudDxJUmVwb3NpdG9yeTxBcGlSZXNvdXJjZT4+KHByb3ZpZGVyID0+IG5ldyBNb25nb1JlcG9zaXRvcnk8QXBpUmVzb3VyY2U+KHN0b3JlT3B0aW9ucykpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRUcmFuc2llbnQ8SVJlcG9zaXRvcnk8SWRlbnRpdHlSZXNvdXJjZT4+KHByb3ZpZGVyID0+IG5ldyBNb25nb1JlcG9zaXRvcnk8SWRlbnRpdHlSZXNvdXJjZT4oc3RvcmVPcHRpb25zKSk7CiAgICAgICAgICAgIHJldHVybiBzZXJ2aWNlczsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0b3JlT3B0aW9ucyA9IG5ldyBTdG9yZU9wdGlvbnMoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5TZXJ2aWNlcy5BZGRTZWx6UmVwb3NpdG9yeSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBBcGlSZXNvdXJjZTogRW50aXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBFbmFibGVkIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIElTZXJ2aWNlQ29sbGVjdGlvbiBBZGRJZGVudGl0eVNlcnZlck1vbmdvRGJPcGVyYXRpb25hbFJlcG9zaXRvcmllcyh0aGlzIElTZXJ2aWNlQ29sbGVjdGlvbiBzZXJ2aWNlcywgU3RvcmVPcHRpb25zIHN0b3JlT3B0aW9ucykKICAgICAgICB7CiAgICAgICAgICAgIGlmIChzZXJ2aWNlcyA9PSBudWxsKSB0aHJvdyBuZXcgQXJndW1lbnROdWxsRXhjZXB0aW9uKG5hbWVvZihzZXJ2aWNlcykpOwoKICAgICAgICAgICAgcmV0dXJuIHNlcnZpY2VzOwogICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
