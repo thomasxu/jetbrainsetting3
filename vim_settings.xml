@@ -150,7 +150,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/797C96F7-88A8-4CE1-8B80-7CACBA80FF0D/1/FileConfigurationExtensions.cs" timestamp="1590532843221">
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/797C96F7-88A8-4CE1-8B80-7CACBA80FF0D/1/FileConfigurationExtensions.cs" timestamp="1590542154184">
         <mark key="'" line="59" column="44" />
       </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/Stores/ClientStoreTests.cs" timestamp="1590537626591">
@@ -158,7 +158,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/Mappers/ApiResourceMapperProfileTests.cs" timestamp="1590537381761">
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/Mappers/ApiResourceMapperProfileTests.cs" timestamp="1590542237090">
         <mark key="[" line="59" column="17" />
         <mark key="]" line="66" column="14" />
         <mark key="^" line="66" column="14" />
@@ -167,7 +167,9 @@
       <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/appsettings.Testing.json" timestamp="1590532546216" />
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/Mappers/IdentityResourceMapperProfileTests.cs" timestamp="1590537392094" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.Testing.json" timestamp="1590528772714" />
-      <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" timestamp="1590532834437" />
+      <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/DataFixture.cs" timestamp="1590542165129">
+        <mark key="[" line="37" column="9" />
+      </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/IdentityServer4.MongoDB.Tests.csproj" timestamp="1590530249758" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/appsettings.TeamCity.json" timestamp="1590528785209" />
       <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/test/AspNetIdentity.MongoDB.Tests/AspNetIdentity.MongoDB.Tests.csproj" timestamp="1590532710230" />
@@ -191,11 +193,10 @@
         <mark key="." line="44" column="14" />
         <mark key="^" line="44" column="15" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/Stores/PersistedGrantStoreTests.cs" timestamp="1590537986051">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="7" />
-        <mark key="^" line="22" column="8" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/Stores/PersistedGrantStoreTests.cs" timestamp="1590542502815">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/appsettings.TeamCity.json" timestamp="1590530460603">
         <mark key="[" line="2" column="24" />
@@ -340,8 +341,8 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>iwTo</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2hvc3RDb250YWluZXIuQ29udGFpbmVyLlJlc29sdmU8SVBlcnNpc3RlZEdyYW50U3RvcmU+KCkK</text>
       </register>
       <register name="-" type="4">
         <text>iwTo</text>
@@ -353,34 +354,34 @@
         <text>test_identity_mongo_store</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTENvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2hvc3RDb250YWluZXIuQ29udGFpbmVyLlJlc29sdmU8SVBlcnNpc3RlZEdyYW50U3RvcmU+KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuQ29uZmlndXJhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTENvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuQ29uZmlndXJhdGlvbjsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkSWRlbnRpdHlXaXRoU3RvcmUoKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgIGNvbmZpZ1NlcnZpY2VzLkNvbmZpZ3VyZTxTdG9yZU9wdGlvbnM+KGNvbmZpZ3VyYXRpb24uR2V0U2VjdGlvbigiU3RvcmUiKSk7CgogICAgICAgICAgICBjb25maWdTZXJ2aWNlcy5Db25maWd1cmU8U3RvcmVPcHRpb25zPihjb25maWd1cmF0aW9uLkdldFNlY3Rpb24oIlN0b3JlIikpOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LAogICJSZXBvc2l0b3J5IjogewogICAgIkNvbm5lY3Rpb25TdHJpbmciOiAibW9uZ29kYjovL3NlbHpBZG1pbjpjUlFwQnJ6c0N1UExzeHdiQGNsdXN0ZXJzaGFyZWQtc2hhcmQtMDAtMDAtMGI1cDIubW9uZ29kYi5uZXQ6MjcwMTcsY2x1c3RlcnNoYXJlZC1zaGFyZC0wMC0wMS0wYjVwMi5tb25nb2RiLm5ldDoyNzAxNyxjbHVzdGVyc2hhcmVkLXNoYXJkLTAwLTAyLTBiNXAyLm1vbmdvZGIubmV0OjI3MDE3L3Rlc3RfaWRlbnRpdHlfbW9uZ29fc3RvcmU/YXV0aFNvdXJjZT1hZG1pbiZyZXBsaWNhU2V0PUNsdXN0ZXJTaGFyZWQtc2hhcmQtMCZzc2w9dHJ1ZSIKICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LAogICJSZXBvc2l0b3J5IjogewogICAgIkNvbm5lY3Rpb25TdHJpbmciOiAibW9uZ29kYjovL3NlbHpBZG1pbjpjUlFwQnJ6c0N1UExzeHdiQGNsdXN0ZXJzaGFyZWQtc2hhcmQtMDAtMDAtMGI1cDIubW9uZ29kYi5uZXQ6MjcwMTcsY2x1c3RlcnNoYXJlZC1zaGFyZC0wMC0wMS0wYjVwMi5tb25nb2RiLm5ldDoyNzAxNyxjbHVzdGVyc2hhcmVkLXNoYXJkLTAwLTAyLTBiNXAyLm1vbmdvZGIubmV0OjI3MDE3L3Rlc3RfYXNwbmV0X2lkZW50aXR5X21vbmdvX3N0b3JlP2F1dGhTb3VyY2U9YWRtaW4mcmVwbGljYVNldD1DbHVzdGVyU2hhcmVkLXNoYXJkLTAmc3NsPXRydWUiCiAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgTW9uZ29EQi5Ecml2ZXIuTGlucTsK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
