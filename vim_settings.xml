@@ -159,6 +159,12 @@
       </file>
       <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/Base/DataFixture.cs" timestamp="1590643586100" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/ClientsController.cs" timestamp="1590647316315" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/appsettings.Local.json" timestamp="1590647511748">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="4" />
+        <mark key="^" line="26" column="4" />
+        <mark key="." line="26" column="3" />
+      </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CatalogScenarioBase.cs" timestamp="1590634431355" />
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Entities/ClientCorsOrigin.cs" timestamp="1590641391170">
         <mark key="[" line="4" column="33" />
@@ -186,10 +192,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api.FunctionalTests/Shops/ShopScenarioBase.cs" timestamp="1590633843727">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="40" />
-      </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Services/CorsPolicyService.cs" timestamp="1590646439310">
         <mark key="[" line="35" column="114" />
         <mark key="]" line="35" column="115" />
@@ -213,10 +215,11 @@
         <mark key="." line="23" column="33" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/ClientsController.cs" timestamp="1590647434095" />
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/DataFixture.cs" timestamp="1590633907713">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" timestamp="1590647546320">
+        <mark key="[" line="42" column="109" />
+        <mark key="]" line="42" column="111" />
+        <mark key="^" line="42" column="111" />
+        <mark key="." line="42" column="110" />
       </file>
     </filemarks>
     <jumps>
@@ -339,11 +342,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text>Functional test</text>
+      <register name="+" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
