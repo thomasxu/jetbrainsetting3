@@ -165,7 +165,12 @@
         <mark key="." line="24" column="11" />
       </file>
       <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CatalogScenarioBase.cs" timestamp="1590634431355" />
-      <file name="C:/dev/git/selz/AspNetIdentity.MongoDB/src/AspNetIdentity.MongoDB/Extensions/IdentityMongoDbBuilderExtensions.cs" timestamp="1590623028711" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Entities/ClientCorsOrigin.cs" timestamp="1590641391170">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="39" />
+      </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/HostContainer.cs" timestamp="1590639798536">
         <mark key="'" line="63" column="8" />
         <mark key="[" line="54" column="12" />
@@ -196,11 +201,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="40" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Services/CorsPolicyService.cs" timestamp="1590633746925" />
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/DataFixture.cs" timestamp="1590634462201">
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="34" column="38" />
-        <mark key="." line="34" column="37" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Services/CorsPolicyService.cs" timestamp="1590641277883" />
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/DataFixture.cs" timestamp="1590640261043">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
         <mark key="^" line="34" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C57B9B74-CDA6-4F17-8E8C-A6DE29682446/bf/6225e52c/LogHelper.cs" timestamp="1590634126298" />
@@ -342,7 +347,7 @@
         <text />
       </register>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0QWNjZXNzb3JUZW1wID0gUHJvdmlkZXIuR2V0U2VydmljZTxJSHR0cENvbnRleHRBY2Nlc3Nvcj4oKTsK</text>
       </register>
       <register name="-" type="4">
         <text>httpContextAccessorTemp</text>
@@ -354,7 +359,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBDb250ZXh0QWNjZXNzb3IuSHR0cENvbnRleHQgPSBBLkZha2U8SHR0cENvbnRleHQ+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0QWNjZXNzb3JUZW1wID0gUHJvdmlkZXIuR2V0U2VydmljZTxJSHR0cENvbnRleHRBY2Nlc3Nvcj4oKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -363,25 +368,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0QWNjZXNzb3JUZW1wID0gc2VydmljZVByb3ZpZGVyLkdldFNlcnZpY2U8SUh0dHBDb250ZXh0QWNjZXNzb3I+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFzdHJpbmcuSXNOdWxsT3JFbXB0eShzdWIpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgcHJpbmNpcGFsID0gbmV3IEdlbmVyaWNQcmluY2lwYWwobmV3IENsYWltc0lkZW50aXR5KG5ld1tdIHtuZXcgQ2xhaW0oInN1YiIsIHN1Yil9KSwgbnVsbCk7CiAgICAgICAgICAgICAgICBBLkNhbGxUbygoKSA9PiBodHRwQ29udGV4dEFjY2Vzc29yVGVtcC5IdHRwQ29udGV4dC5Vc2VyKS5SZXR1cm5zKHByaW5jaXBhbCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0QWNjZXNzb3JUZW1wID0gc2VydmljZVByb3ZpZGVyLkdldFNlcnZpY2U8SUh0dHBDb250ZXh0QWNjZXNzb3I+KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlcnZpY2VQcm92aWRlciA9IHNlcnZpY2VzLkJ1aWxkU2VydmljZVByb3ZpZGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFzdHJpbmcuSXNOdWxsT3JFbXB0eShzdWIpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgcHJpbmNpcGFsID0gbmV3IEdlbmVyaWNQcmluY2lwYWwobmV3IENsYWltc0lkZW50aXR5KG5ld1tdIHtuZXcgQ2xhaW0oInN1YiIsIHN1Yil9KSwgbnVsbCk7CiAgICAgICAgICAgICAgICBBLkNhbGxUbygoKSA9PiBodHRwQ29udGV4dEFjY2Vzc29yVGVtcC5IdHRwQ29udGV4dC5Vc2VyKS5SZXR1cm5zKHByaW5jaXBhbCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQS5DYWxsVG8oKCkgPT4gaHR0cENvbnRleHRBY2Nlc3Nvci5IdHRwQ29udGV4dC5SZXF1ZXN0U2VydmljZXMpLlJldHVybnMoc2VydmljZVByb3ZpZGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlcnZpY2VQcm92aWRlciA9IHNlcnZpY2VzLkJ1aWxkU2VydmljZVByb3ZpZGVyKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQS5DYWxsVG8oKCkgPT4gaHR0cENvbnRleHRBY2Nlc3Nvci5IdHRwQ29udGV4dC5Db25uZWN0aW9uLlJlbW90ZUlwQWRkcmVzcykuUmV0dXJucyhpcEFkZHJlc3MpOwogICAgICAgICAgICBBLkNhbGxUbygoKSA9PiBodHRwQ29udGV4dEFjY2Vzc29yLkh0dHBDb250ZXh0LlVzZXIuSWRlbnRpdHkuSXNBdXRoZW50aWNhdGVkKS5SZXR1cm5zKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQS5DYWxsVG8oKCkgPT4gaHR0cENvbnRleHRBY2Nlc3Nvci5IdHRwQ29udGV4dC5SZXF1ZXN0U2VydmljZXMpLlJldHVybnMoc2VydmljZVByb3ZpZGVyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRhc2suQ29tcGxldGVkVGFzazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQS5DYWxsVG8oKCkgPT4gaHR0cENvbnRleHRBY2Nlc3Nvci5IdHRwQ29udGV4dC5Db25uZWN0aW9uLlJlbW90ZUlwQWRkcmVzcykuUmV0dXJucyhpcEFkZHJlc3MpOwogICAgICAgICAgICBBLkNhbGxUbygoKSA9PiBodHRwQ29udGV4dEFjY2Vzc29yLkh0dHBDb250ZXh0LlVzZXIuSWRlbnRpdHkuSXNBdXRoZW50aWNhdGVkKS5SZXR1cm5zKHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgQ3JlYXRlVGVzdERhdGEoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRhc2suQ29tcGxldGVkVGFzazsK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
