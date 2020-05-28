@@ -150,38 +150,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository/MongoRepository.cs" timestamp="1590646318164" />
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Startup.cs" timestamp="1590647391310">
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="246" column="0" />
-        <mark key="^" line="246" column="0" />
-        <mark key="." line="246" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/Base/DataFixture.cs" timestamp="1590643586100" />
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/ClientsController.cs" timestamp="1590647316315" />
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/appsettings.Local.json" timestamp="1590647511748">
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="26" column="4" />
-        <mark key="^" line="26" column="4" />
-        <mark key="." line="26" column="3" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api.FunctionalTests/Base/CatalogScenarioBase.cs" timestamp="1590634431355" />
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Entities/ClientCorsOrigin.cs" timestamp="1590641391170">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="39" />
-      </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/HostContainer.cs" timestamp="1590639798536">
-        <mark key="'" line="63" column="8" />
-        <mark key="[" line="54" column="12" />
-        <mark key="]" line="54" column="20" />
-        <mark key="^" line="54" column="20" />
-        <mark key="." line="54" column="19" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Program.cs" timestamp="1590634265583" />
-      <file name="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/Tests/DummyEntityRepositoryTests.cs" timestamp="1590646172765" />
-      <file name="/HostContainerExtensions.cs" timestamp="1590654688300" />
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/Services/CorsPolicyServiceTests.cs" timestamp="1590639774631">
         <mark key="'" line="22" column="32" />
         <mark key="[" line="56" column="0" />
@@ -193,14 +161,36 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1590658336298">
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1590705153252">
         <mark key="'" line="52" column="72" />
+        <mark key="[" line="83" column="27" />
+        <mark key="]" line="83" column="28" />
+        <mark key="^" line="83" column="28" />
+        <mark key="." line="83" column="27" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Startup.cs" timestamp="1590647391310">
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="^" line="246" column="0" />
+        <mark key="." line="246" column="0" />
       </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Services/CorsPolicyService.cs" timestamp="1590646439310">
         <mark key="[" line="35" column="114" />
         <mark key="]" line="35" column="115" />
         <mark key="." line="35" column="114" />
         <mark key="^" line="35" column="115" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/ClientsController.cs" timestamp="1590705053410">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="19" column="50" />
+        <mark key="^" line="19" column="50" />
+        <mark key="." line="19" column="49" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/appsettings.Local.json" timestamp="1590647511748">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="4" />
+        <mark key="^" line="26" column="4" />
+        <mark key="." line="26" column="3" />
       </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/DataFixture.cs" timestamp="1590643594177">
         <mark key="[" line="32" column="9" />
@@ -215,12 +205,24 @@
         <mark key="^" line="23" column="34" />
         <mark key="." line="27" column="73" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/ClientsController.cs" timestamp="1590647434095" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" timestamp="1590668608619">
         <mark key="[" line="42" column="109" />
         <mark key="]" line="42" column="111" />
         <mark key="^" line="42" column="111" />
         <mark key="." line="42" column="110" />
+      </file>
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Entities/ClientCorsOrigin.cs" timestamp="1590641391170">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="39" />
+      </file>
+      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/HostContainer.cs" timestamp="1590639798536">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="54" column="12" />
+        <mark key="]" line="54" column="20" />
+        <mark key="^" line="54" column="20" />
+        <mark key="." line="54" column="19" />
       </file>
     </filemarks>
     <jumps>
