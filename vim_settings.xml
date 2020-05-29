@@ -161,12 +161,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1590708707568">
-        <mark key="'" line="183" column="56" />
-        <mark key="[" line="183" column="59" />
-        <mark key="]" line="183" column="58" />
-        <mark key="." line="183" column="57" />
-        <mark key="^" line="183" column="58" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1590709964300">
+        <mark key="'" line="276" column="88" />
+        <mark key="[" line="276" column="90" />
+        <mark key="]" line="276" column="96" />
+        <mark key="^" line="276" column="96" />
+        <mark key="." line="276" column="95" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Startup.cs" timestamp="1590647391310">
         <mark key="[" line="243" column="0" />
@@ -226,18 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="77" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ClientStore.cs" />
-      <jump line="15" column="47" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" />
-      <jump line="22" column="80" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" />
-      <jump line="29" column="50" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" />
-      <jump line="34" column="53" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" />
-      <jump line="73" column="88" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" />
-      <jump line="83" column="86" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" />
-      <jump line="114" column="48" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/PersistedGrantStore.cs" />
-      <jump line="32" column="86" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ResourceStore.cs" />
-      <jump line="53" column="66" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ResourceStore.cs" />
-      <jump line="54" column="60" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Stores/ResourceStore.cs" />
-      <jump line="38" column="114" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Services/CorsPolicyService.cs" />
       <jump line="144" column="60" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" />
       <jump line="153" column="87" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" />
       <jump line="155" column="87" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" />
@@ -326,6 +314,18 @@
       <jump line="178" column="53" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="182" column="58" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="183" column="56" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="186" column="47" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="231" column="46" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="285" column="55" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="295" column="41" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="302" column="40" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="360" column="38" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="364" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="401" column="108" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="403" column="72" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="262" column="119" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="270" column="67" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="276" column="88" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,10 +346,10 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>.ResetPasswordAsync()</text>
+        <text>SupportsUserTwoFactorRecoveryCodes</text>
       </register>
       <register name="-" type="4">
-        <text>.ResetPasswordAsync()</text>
+        <text>SupportsUserTwoFactorRecoveryCodes</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -358,34 +358,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBDb250ZXh0QWNjZXNzb3IuSHR0cENvbnRleHQgPSBBLkZha2U8SHR0cENvbnRleHQ+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3QoInNldHBhc3N3b3JkIiwgTmFtZSA9ICJBdXRoLlNldFBhc3N3b3JkIildCiAgICAgICAgW1Byb2R1Y2VzUmVzcG9uc2VUeXBlKHR5cGVvZih2b2lkKSwgMjAwKV0KICAgICAgICBwdWJsaWMgIGFzeW5jIFRhc2s8SUFjdGlvblJlc3VsdD4gU2V0CgogICAgICAgIFtIdHRwUG9zdCgic2V0cGFzc3dvcmQiLCBOYW1lID0gIkF1dGguU2V0UGFzc3dvcmQiKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9kZWxTbmFwc2hvdC5lbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENUCg==</text>
       </register>
       <register name="4" type="2">
-        <text>Functional test</text>
+        <text encoding="base64">ICAgICAgICAgICAgQUMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVnaXN0ZXIgZmFrZSBIdHRwQ29udGV4dEFjY2Vzc29yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3QoInNldHBhc3N3b3JkIiwgTmFtZSA9ICJBdXRoLlNldFBhc3N3b3JkIildCiAgICAgICAgW1Byb2R1Y2VzUmVzcG9uc2VUeXBlKHR5cGVvZih2b2lkKSwgMjAwKV0KICAgICAgICBwdWJsaWMgIGFzeW5jIFRhc2s8SUFjdGlvblJlc3VsdD4gU2V0CgogICAgICAgIFtIdHRwUG9zdCgic2V0cGFzc3dvcmQiLCBOYW1lID0gIkF1dGguU2V0UGFzc3dvcmQiKV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8KICAgICAgICAvLyBwdWJsaWMgc3RhdGljIHZvaWQgUmVnaXN0ZXJIdHRwQ29udGV4dCh0aGlzIEhvc3RDb250YWluZXIgaG9zdENvbnRhaW5lciwgc3RyaW5nIHN1YiA9IG51bGwpCiAgICAgICAgLy8gewogICAgICAgIC8vICAgICAvLyByZWdpc3RlciBmYWtlIEh0dHBDb250ZXh0QWNjZXNzb3IKICAgICAgICAvLyAgICAgaG9zdENvbnRhaW5lci5SZWdpc3RlcjxIdHRwQ29udGV4dEFjY2Vzc29yLCBJSHR0cENvbnRleHRBY2Nlc3Nvcj4oKGNvbnRleHQsIHBhcmFtZXRlcnMpID0+IEEuRmFrZTxIdHRwQ29udGV4dEFjY2Vzc29yPigpKTsKICAgICAgICAvLwogICAgICAgIC8vICAgICB2YXIgaHR0cENvbnRleHRBY2Nlc3NvciA9IGhvc3RDb250YWluZXIuQ29udGFpbmVyLlJlc29sdmU8SUh0dHBDb250ZXh0QWNjZXNzb3I+KCk7CiAgICAgICAgLy8gICAgIGlmIChodHRwQ29udGV4dEFjY2Vzc29yLkh0dHBDb250ZXh0ICE9IG51bGwpIHJldHVybjsKICAgICAgICAvLwogICAgICAgIC8vICAgICAvLyBhc3NpZ24gaHR0cCBjb250ZXh0CiAgICAgICAgLy8gICAgIC8vIG5vdGU6IEh0dHBDb250ZXh0QWNjZXNzb3Igc3RvcmVzIGRhdGEgdXNpbmcgQ2FsbENvbnRleHQuTG9naWNhbFNldERhdGEgd2hlcmUgZGlmZmVyZW50IHRlc3QgY2FzZSAoZmFjdCkgaGFzIGRpZmZlcmVudCBjYWxsIGNvbnRleHQKICAgICAgICAvLyAgICAgLy8gc28gcmVhc3NpZ24gaXQgaWYgY3VycmVudCBodHRwIGNvbnRleHQgaXMgbnVsbAogICAgICAgIC8vICAgICBodHRwQ29udGV4dEFjY2Vzc29yLkh0dHBDb250ZXh0ID0gQS5GYWtlPEh0dHBDb250ZXh0PigpOwogICAgICAgIC8vICAgICBodHRwQ29udGV4dEFjY2Vzc29yLkh0dHBDb250ZXh0LlVzZXIgPSBBLkZha2U8Q2xhaW1zUHJpbmNpcGFsPigpOwogICAgICAgIC8vICAgICB2YXIgaXBBZGRyZXNzID0gSVBBZGRyZXNzLlBhcnNlKCIxMjcuMC4wLjEiKTsKICAgICAgICAvLyAgICAgQS5DYWxsVG8oKCkgPT4gaHR0cENvbnRleHRBY2Nlc3Nvci5IdHRwQ29udGV4dC5Db25uZWN0aW9uLlJlbW90ZUlwQWRkcmVzcykuUmV0dXJucyhpcEFkZHJlc3MpOwogICAgICAgIC8vICAgICBBLkNhbGxUbygoKSA9PiBodHRwQ29udGV4dEFjY2Vzc29yLkh0dHBDb250ZXh0LlVzZXIuSWRlbnRpdHkuSXNBdXRoZW50aWNhdGVkKS5SZXR1cm5zKHRydWUpOwogICAgICAgIC8vICAgICBBLkNhbGxUbygoKSA9PiBodHRwQ29udGV4dEFjY2Vzc29yLkh0dHBDb250ZXh0LlJlcXVlc3RTZXJ2aWNlcykuUmV0dXJucyhuZXcgQXV0b2ZhY1NlcnZpY2VQcm92aWRlcihob3N0Q29udGFpbmVyLkNvbnRhaW5lcikpOwogICAgICAgIC8vICAgICBpZiAoIXN0cmluZy5Jc051bGxPckVtcHR5KHN1YikpCiAgICAgICAgLy8gICAgIHsKICAgICAgICAvLyAgICAgICAgIHZhciBwcmluY2lwYWwgPSBuZXcgR2VuZXJpY1ByaW5jaXBhbChuZXcgQ2xhaW1zSWRlbnRpdHkobmV3W10ge25ldyBDbGFpbSgic3ViIiwgc3ViKX0pLCBudWxsKTsKICAgICAgICAvLyAgICAgICAgIEEuQ2FsbFRvKCgpID0+IGh0dHBDb250ZXh0QWNjZXNzb3IuSHR0cENvbnRleHQuVXNlcikuUmV0dXJucyhwcmluY2lwYWwpOwogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9hZERlcGVuZGVuY2llcygpOwo=</text>
+        <text>Functional test</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRhc2suQ29tcGxldGVkVGFzazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVnaXN0ZXIgZmFrZSBIdHRwQ29udGV4dEFjY2Vzc29yCg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
