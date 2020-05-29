@@ -161,12 +161,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1590712273397">
-        <mark key="'" line="410" column="52" />
-        <mark key="[" line="458" column="70" />
-        <mark key="]" line="458" column="86" />
-        <mark key="^" line="458" column="86" />
-        <mark key="." line="458" column="85" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1590713119471">
+        <mark key="'" line="323" column="71" />
+        <mark key="[" line="430" column="0" />
+        <mark key="]" line="430" column="0" />
+        <mark key="^" line="411" column="50" />
+        <mark key="." line="430" column="0" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Startup.cs" timestamp="1590647391310">
         <mark key="[" line="243" column="0" />
@@ -211,6 +211,11 @@
         <mark key="^" line="42" column="111" />
         <mark key="." line="42" column="110" />
       </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Security/SecurityService.cs" timestamp="1590712419985">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Entities/ClientCorsOrigin.cs" timestamp="1590641391170">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="40" />
@@ -226,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="100" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" />
-      <jump line="222" column="88" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" />
       <jump line="225" column="83" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Tokens/TokenCleanup.cs" />
       <jump line="87" column="60" filename="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/Services/CorsPolicyServiceTests.cs" />
       <jump line="39" column="134" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Services/CorsPolicyService.cs" />
@@ -326,6 +329,8 @@
       <jump line="352" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="344" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="410" column="52" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="313" column="40" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
+      <jump line="323" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -345,11 +350,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>url</text>
+      <register name="+" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIG5ldyBUd29GYWN0b3JNb2RlbCgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEVuYWJsZWQgPSB1c2VyLlR3b0ZhY3RvckVuYWJsZWQsCiAgICAgICAgICAgICAgICBIYXNBdXRoZW50aWNhdG9yID0gYXV0aEtleSAhPSBudWxsLAogICAgICAgICAgICAgICAgUmVjb3ZlcnlDb2Rlc0xlZnQgPSByZWNvdmVyeUNvZGVzLAogICAgICAgICAgICAgICAgU2hhcmVkS2V5ID0gYXV0aEtleSAhPSBudWxsID8gRm9ybWF0S2V5KGF1dGhLZXkpOiBudWxsLAogICAgICAgICAgICAgICAgQXV0aGVudGljYXRvclVyaSA9IGF1dGhLZXkgIT0gbnVsbCA/IEdlbmVyYXRlUXJDb2RlVXJpKHVzZXIuRW1haWwsIGF1dGhLZXkpOiBudWxsCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>Now</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -358,34 +363,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGh0dHBDb250ZXh0QWNjZXNzb3IuSHR0cENvbnRleHQgPSBBLkZha2U8SHR0cENvbnRleHQ+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGYK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIG5ldyBUd29GYWN0b3JNb2RlbCgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEVuYWJsZWQgPSB1c2VyLlR3b0ZhY3RvckVuYWJsZWQsCiAgICAgICAgICAgICAgICBIYXNBdXRoZW50aWNhdG9yID0gYXV0aEtleSAhPSBudWxsLAogICAgICAgICAgICAgICAgUmVjb3ZlcnlDb2Rlc0xlZnQgPSByZWNvdmVyeUNvZGVzLAogICAgICAgICAgICAgICAgU2hhcmVkS2V5ID0gYXV0aEtleSAhPSBudWxsID8gRm9ybWF0S2V5KGF1dGhLZXkpOiBudWxsLAogICAgICAgICAgICAgICAgQXV0aGVudGljYXRvclVyaSA9IGF1dGhLZXkgIT0gbnVsbCA/IEdlbmVyYXRlUXJDb2RlVXJpKHVzZXIuRW1haWwsIGF1dGhLZXkpOiBudWxsCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJNYW5hZ2VyLkZpbmRCeUlkQXN5bmMoSHR0cENvbnRleHQuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkF1dGhlbnRpY2F0ZWQ6IHswfSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9kZWxTbmFwc2hvdC5lbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICBlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENUCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJNYW5hZ2VyLkZpbmRCeUlkQXN5bmMoSHR0cENvbnRleHQuKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQUMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9kZWxTbmFwc2hvdC5lbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbSHR0cFBvc3QoInNldHBhc3N3b3JkIiwgTmFtZSA9ICJBdXRoLlNldFBhc3N3b3JkIildCiAgICAgICAgW1Byb2R1Y2VzUmVzcG9uc2VUeXBlKHR5cGVvZih2b2lkKSwgMjAwKV0KICAgICAgICBwdWJsaWMgIGFzeW5jIFRhc2s8SUFjdGlvblJlc3VsdD4gU2V0CgogICAgICAgIFtIdHRwUG9zdCgic2V0cGFzc3dvcmQiLCBOYW1lID0gIkF1dGguU2V0UGFzc3dvcmQiKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENUCg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
