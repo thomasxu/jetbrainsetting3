@@ -187,7 +187,12 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/docker-compose-api-local.yml" timestamp="1590893702781" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/docker-compose-api-local.yml" timestamp="1590901428079">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="7" column="15" />
+      </file>
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/HostContainerExtensions.cs" timestamp="1590875621685">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="27" column="73" />
@@ -333,11 +338,11 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>ASPNETCORE_HTTPS_PORT: 44703</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>ASPNETCORE_HTTPS_PORT: 44703</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJXD4=</text>
