@@ -179,7 +179,12 @@
         <mark key="." line="139" column="49" />
         <mark key="^" line="139" column="50" />
       </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Dockerfile.Dev" timestamp="1590893177259" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Dockerfile.Dev" timestamp="1590911794631">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="44" column="60" />
+        <mark key="." line="44" column="59" />
+        <mark key="^" line="44" column="60" />
+      </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/ClientsController.cs" timestamp="1590876062785" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/appsettings.Local.json" timestamp="1590647511748">
         <mark key="[" line="26" column="30" />
@@ -187,7 +192,7 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/docker-compose-api-local.yml" timestamp="1590910868859" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/docker-compose-api-local.yml" timestamp="1590911199816" />
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/HostContainerExtensions.cs" timestamp="1590875621685">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="27" column="73" />
@@ -334,10 +339,10 @@
         <text />
       </register>
       <register name="+" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">UlVOIGRvdG5ldCBidWlsZCBTZWx6LklkZW5pdHkuQXBpLmNzcHJvaiAtYyBEZWJ1ZyAtbyAvYXBwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJXD4=</text>
@@ -346,34 +351,34 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXI8a2tSZWRpc0NhY2hlQ2xpZW50Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">UlVOIGRvdG5ldCBidWlsZCBTZWx6LklkZW5pdHkuQXBpLmNzcHJvaiAtYyBEZWJ1ZyAtbyAvYXBwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">UlVOIGRvdG5ldCBidWlsZCBTZWx6LklkZW50aXR5LkFwaS5jc3Byb2ogLWMgRGVidWcgLW8gL2FwcAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnNlcnZpY2VzOgogIHNlbHouaWRlbnRpdHk6CiAgICB0dHk6IHRydWUKICAgIGltYWdlOiBzZWx6LWlkZW50aXR5LWFwaS1kZXYKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuLi8uLi8uLi8KICAgICAgZG9ja2VyZmlsZTogc3JjL0FwaS9TZWx6LklkZW50aXR5LkFwaS9Eb2NrZXJmaWxlLkRldgogICAgZW52aXJvbm1lbnQ6CiAgICAgIEFTUE5FVENPUkVfRU5WSVJPTk1FTlQ6IExvY2FsCiAgICAgIEFTUE5FVENPUkVfVVJMUzogaHR0cDovLys6NDQ3MDM7aHR0cHM6Ly8rNDQ3MDMKICAgICAgQVNQTkVUQ09SRV9IVFRQU19QT1JUOiA0NDcwMwogICAgcG9ydHM6CiAgICAgIC0gNDQ3MDM6NDQ3MDMKICAgIG5ldHdvcmtfbW9kZTogYnJpZGdlCiAgICBleHRyYV9ob3N0czoKICAgICAgLSAiZGIubG9jYWwuc2Vsei5jb206JHtET0NLRVJfSU5URVJOQUxfSE9TVDotMTcyLjE3LjAuMX0i</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
+        <text encoding="base64">CnNlcnZpY2VzOgogIHNlbHouaWRlbnRpdHk6CiAgICB0dHk6IHRydWUKICAgIGltYWdlOiBzZWx6LWlkZW50aXR5LWFwaS1kZXYKICAgIGJ1aWxkOgogICAgICBjb250ZXh0OiAuLi8uLi8uLi8KICAgICAgZG9ja2VyZmlsZTogc3JjL0FwaS9TZWx6LklkZW50aXR5LkFwaS9Eb2NrZXJmaWxlLkRldgogICAgZW52aXJvbm1lbnQ6CiAgICAgIEFTUE5FVENPUkVfRU5WSVJPTk1FTlQ6IExvY2FsCiAgICAgIEFTUE5FVENPUkVfVVJMUzogaHR0cDovLys6NDQ3MDM7aHR0cHM6Ly8rNDQ3MDMKICAgICAgQVNQTkVUQ09SRV9IVFRQU19QT1JUOiA0NDcwMwogICAgcG9ydHM6CiAgICAgIC0gNDQ3MDM6NDQ3MDMKICAgIG5ldHdvcmtfbW9kZTogYnJpZGdlCiAgICBleHRyYV9ob3N0czoKICAgICAgLSAiZGIubG9jYWwuc2Vsei5jb206JHtET0NLRVJfSU5URVJOQUxfSE9TVDotMTcyLjE3LjAuMX0i</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZWx6LmlkZW50aXR5Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VydmljZXM6Cg==</text>
+        <text encoding="base64">ICAgIHR0eTogdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIC0gImRiLmxvY2FsLnNlbHouY29tOiR7RE9DS0VSX0lOVEVSTkFMX0hPU1Q6LTE3Mi4xNy4wLjF9Igo=</text>
+        <text encoding="base64">ICBzZWx6LmlkZW50aXR5Ogo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
