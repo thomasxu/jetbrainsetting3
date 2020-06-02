@@ -151,12 +151,12 @@
     <globalmarks />
     <filemarks>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.Models/Users/ClientRequest.cs" timestamp="1591053464606" />
-      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-api.yml" timestamp="1591053985278">
+      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-api.yml" timestamp="1591075113299">
         <mark key="'" line="223" column="56" />
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="139" column="49" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
         <mark key="^" line="139" column="50" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom_hostnames_cleanup.yml.j2" timestamp="1591053834691" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Dockerfile.Dev" timestamp="1591049158566">
@@ -165,7 +165,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="9" column="16" />
       </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/ClientsController.cs" timestamp="1591069321652" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/ClientsController.cs" timestamp="1591075504346" />
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/catalog-api/vars/main.yml" timestamp="1591056820660">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -198,10 +198,11 @@
         <mark key="." line="459" column="22" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Services/ForeignExchange/ForeignExchangeService.cs" timestamp="1591074013440" />
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Cache/IRedisCacheClient.cs" timestamp="1591074026413">
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Cache/IRedisCacheClient.cs" timestamp="1591075909659">
+        <mark key="[" line="86" column="17" />
+        <mark key="]" line="86" column="17" />
+        <mark key="^" line="86" column="17" />
+        <mark key="." line="86" column="16" />
       </file>
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/catalog-api/templates/template.yml.j2" timestamp="1591068730767">
         <mark key="'" line="22" column="15" />
@@ -348,10 +349,10 @@
         <text />
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2V0VXNlclR3b0ZhY3Rvck1vZGVsKCkK</text>
+        <text encoding="base64">LSBzdGFnZTogU3RhZ2luZwogIC0ga2sK</text>
       </register>
       <register name="-" type="4">
-        <text>Scope</text>
+        <text encoding="base64">IC0gdGFzazogQW1hem9uV2Vi</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
@@ -360,7 +361,7 @@
         <text>TaskDefinition</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2V0VXNlclR3b0ZhY3Rvck1vZGVsKCkK</text>
+        <text encoding="base64">LSBzdGFnZTogU3RhZ2luZwogIC0ga2sK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -369,25 +370,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVW5sZXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2V0VXNlclR3b0ZhY3Rvck1vZGVsKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBUYXNrRGVmaW5pdGlvbjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFR5cGU6IEFXUzo6RUNTOjpUYXNrRGVmaW5pdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVW5sZXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBBdXRvU2NhbGluZ1RhcmdldFZhbHVlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBUYXNrRGVmaW5pdGlvbjoK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
