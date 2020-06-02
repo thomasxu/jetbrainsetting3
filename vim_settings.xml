@@ -150,7 +150,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/570051AD-D7C0-415D-B37A-51A85453F937/55/f3038a93/Client.cs" timestamp="1590876261761" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.Models/Users/ClientRequest.cs" timestamp="1591053464606" />
       <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-api.yml" timestamp="1591053985278">
         <mark key="'" line="223" column="56" />
@@ -172,13 +171,11 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/catalog-api/vars/main.yml" timestamp="1591054754184">
-        <mark key="[" line="35" column="2" />
-        <mark key="]" line="35" column="2" />
-        <mark key="." line="35" column="1" />
-        <mark key="^" line="35" column="2" />
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/catalog-api/vars/main.yml" timestamp="1591056053891">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/IdentityServer4.MongoDB.csproj" timestamp="1590876282890" />
       <file name="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Entities/Client.cs" timestamp="1590876343458" />
       <file name="C:/dev/git/selz/Services.Identity/Service/NuGet.config" timestamp="1591049202905">
         <mark key="[" line="5" column="33" />
@@ -203,12 +200,14 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/catalog-api/templates/template.yml.j2" timestamp="1591056283078" />
       <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/shops-api/vars/main.yml" timestamp="1591054548536">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="18" column="22" />
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="22" />
       </file>
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/catalog-api/tasks/main.yml" timestamp="1591056145352" />
       <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/docker-compose-api-local.yml" timestamp="1591053850603" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" timestamp="1591053160875">
         <mark key="[" line="51" column="0" />
@@ -341,7 +340,7 @@
         <text />
       </register>
       <register name="+" type="2">
-        <text encoding="base64">RG9tYWluOiAKICBzdGFnaW5nOiBhcGktaW50ZXJuYWwuCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>as</text>
@@ -353,31 +352,32 @@
         <text>APPLICATION</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RG9tYWluOiAKICBzdGFnaW5nOiBhcGktaW50ZXJuYWwuCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RG9tYWluOiAKICBzdGFnaW5nOiBhcGktaW50ZXJuYWwuCgpJbWFnZVVybDoK</text>
+        <text>ImageUrl:
+  staging: 009614288943.dkr.ecr.us-east-1.amazonaws.com/selz-catalog-api</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RG9tYWluOiAKICBzdGFnaW5nOiBhcGktaW50ZXJuYWwuCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RG9tYWluOiAKICBzdGFnaW5nOiBhcGktaW50ZXJuYWwuCgpJbWFnZVVybDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGFnbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U2VydmljZU5hbWU6IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGFnbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2VydmljZU5hbWU6IAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
