@@ -9,7 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>SecurityGroup</entry>
         <entry>ShopSync</entry>
         <entry>domain</entry>
         <entry encoding="base64">XDxzZWx6Y2xvdWRcPg==</entry>
@@ -29,6 +28,7 @@
         <entry>logger</entry>
         <entry encoding="base64">XDxJXD4=</entry>
         <entry>)</entry>
+        <entry>patch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -150,39 +150,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.Models/Users/ClientRequest.cs" timestamp="1591053464606" />
-      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-api.yml" timestamp="1591079585840">
-        <mark key="'" line="223" column="56" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="^" line="139" column="50" />
-        <mark key="." line="202" column="0" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/UsersController.cs" timestamp="1591157433193">
+        <mark key="'" line="33" column="21" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/services-shop-custom_hostnames_cleanup/templates/services-shop-custom_hostnames_cleanup.yml.j2" timestamp="1591053834691" />
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/ClientsController.cs" timestamp="1591082311101" />
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/RoleScenarios.cs" timestamp="1591100910741">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/catalog-api/vars/main.yml" timestamp="1591056820660">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" timestamp="1591069643726">
-        <mark key="[" line="250" column="45" />
-        <mark key="]" line="250" column="54" />
-        <mark key="^" line="250" column="54" />
-        <mark key="." line="250" column="53" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/NuGet.config" timestamp="1591049202905">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-        <mark key="^" line="5" column="33" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Models/Clients/ClientModel.cs" timestamp="1591053167263" />
       <file name="/Dummy.txt" timestamp="1591088587669">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -196,7 +166,13 @@
         <mark key="^" line="459" column="23" />
         <mark key="." line="459" column="22" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/ForeignExchange/ForeignExchangeService.cs" timestamp="1591074013440" />
+      <file name="C:/dev/git/selz/Services.Shop/pipeline-selz-shop-api.yml" timestamp="1591079585840">
+        <mark key="'" line="223" column="56" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="139" column="50" />
+        <mark key="." line="202" column="0" />
+      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Cache/IRedisCacheClient.cs" timestamp="1591094740843">
         <mark key="[" line="203" column="0" />
         <mark key="]" line="203" column="0" />
@@ -209,25 +185,28 @@
         <mark key="^" line="321" column="30" />
         <mark key="." line="321" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/22/f0576bf3/TestInvoker`1.cs" timestamp="1591069638285" />
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/shops-api/vars/main.yml" timestamp="1591054548536">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="22" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/RoleScenarios.cs" timestamp="1591100910741">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/catalog-api/tasks/main.yml" timestamp="1591066703084" />
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/docker-compose-api-local.yml" timestamp="1591053850603" />
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" timestamp="1591053160875">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="49" column="110" />
-        <mark key="." line="51" column="0" />
+      <file name="C:/dev/git/selz/paas/ias/automation/cloudformation/roles/catalog-api/vars/main.yml" timestamp="1591056820660">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/994B3E8D-1897-49FB-9B30-CDF43087CC78/6f/d8130709/Client.cs" timestamp="1591049533584" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Domains/Item.cs" timestamp="1591157727950">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="39" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.FunctionalTests/ClientScenarios.cs" timestamp="1591069643726">
+        <mark key="[" line="250" column="45" />
+        <mark key="]" line="250" column="54" />
+        <mark key="^" line="250" column="54" />
+        <mark key="." line="250" column="53" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="35" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BEBBCFDF-08A7-48F1-8003-C58757C0306D/10/Resource.cs" />
       <jump line="39" column="31" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BEBBCFDF-08A7-48F1-8003-C58757C0306D/7a/57409445/Resource.cs" />
       <jump line="22" column="30" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Extensions/IdentityServerMongoDbBuilderExtensions.cs" />
       <jump line="26" column="114" filename="C:/dev/git/selz/IdentityServer4.MongoDB/src/IdentityServer4.MongoDB/Services/CorsPolicyService.cs" />
@@ -327,6 +306,7 @@
       <jump line="150" column="46" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="417" column="52" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="210" column="58" filename="C:/dev/git/selz/API/src/Selz.Core/Cache/IRedisCacheClient.cs" />
+      <jump line="33" column="21" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/UsersController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,17 +326,17 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBSb2xlU2NlbmFyaW9zOiBJZGVudGl0eVNjZW5hcmlvQmFzZQogICAgewogICAgfQogICAgCg==</text>
+      <register name="+" type="4">
+        <text>ids_ApplicationUser</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC0gdGFzazogQW1hem9uV2Vi</text>
       </register>
       <register name="/" type="4">
-        <text>)</text>
+        <text>patch</text>
       </register>
       <register name="0" type="4">
-        <text>TaskDefinition</text>
+        <text>ids_ApplicationUser</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBSb2xlU2NlbmFyaW9zOiBJZGVudGl0eVNjZW5hcmlvQmFzZQogICAgewogICAgfQogICAgCg==</text>
@@ -398,9 +378,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>)</last-search>
+      <last-search>patch</last-search>
       <last-offset />
-      <last-pattern>)</last-pattern>
+      <last-pattern>patch</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxJXD4=</last-substitute>
       <last-dir>1</last-dir>
