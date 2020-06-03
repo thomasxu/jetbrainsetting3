@@ -150,17 +150,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/UsersController.cs" timestamp="1591160267067">
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/UsersController.cs" timestamp="1591161838927">
         <mark key="'" line="21" column="17" />
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="25" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1591160231481">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1591160074313">
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1591162019260">
         <mark key="a" line="127" column="38" />
         <mark key="'" line="417" column="52" />
         <mark key="[" line="423" column="53" />
@@ -216,6 +217,7 @@
         <mark key="^" line="250" column="54" />
         <mark key="." line="250" column="53" />
       </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Services/Security/SecurityService.cs" timestamp="1591162054810" />
       <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Controllers/HomeController.cs" timestamp="1591159603743" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.Models/Users/UserRequest.cs" timestamp="1591158885883">
         <mark key="[" line="9" column="0" />
@@ -342,8 +344,8 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>Microsoft.AspNetCore.Identity</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC0gdGFzazogQW1hem9uV2Vi</text>
@@ -355,31 +357,31 @@
         <text>Microsoft.AspNetCore.Identity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBSb2xlU2NlbmFyaW9zOiBJZGVudGl0eVNjZW5hcmlvQmFzZQogICAgewogICAgfQogICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIENvcnJlbGF0aW9uSWQgeyBnZXQ7IHNldDsgfSA9PiBHdWlkLk5ld0d1aWQoKS5Ub1N0cmluZygpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQoKICAgICAgICAgICAgYXdhaXQgX3JlZGlzQ2xpZW50LlJlcGxhY2VBc3luYyhrZXksIHZhbHVlLCBleHBpcmVzQXQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBTZXRBc3luYzxUPihzdHJpbmcga2V5LCBUIHZhbHVlLCBEYXRlVGltZSBleHBpcmVzQXQpCiAgICAgICAgewogICAgICAgICAgICBpZiAoZXhwaXJlc0F0LktpbmQgIT0gRGF0ZVRpbWVLaW5kLlV0YykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgZXhwaXJlc0F0ID0gZXhwaXJlc0F0LlRvVW5pdmVyc2FsVGltZSgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBSb2xlU2NlbmFyaW9zOiBJZGVudGl0eVNjZW5hcmlvQmFzZQogICAgewogICAgfQogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBzdGFnZTogU3RhZ2luZwogIC0ga2sK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIENvcnJlbGF0aW9uSWQgeyBnZXQ7IHNldDsgfSA9PiBHdWlkLk5ld0d1aWQoKS5Ub1N0cmluZygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQoKICAgICAgICAgICAgYXdhaXQgX3JlZGlzQ2xpZW50LlJlcGxhY2VBc3luYyhrZXksIHZhbHVlLCBleHBpcmVzQXQpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBTZXRBc3luYzxUPihzdHJpbmcga2V5LCBUIHZhbHVlLCBEYXRlVGltZSBleHBpcmVzQXQpCiAgICAgICAgewogICAgICAgICAgICBpZiAoZXhwaXJlc0F0LktpbmQgIT0gRGF0ZVRpbWVLaW5kLlV0YykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgZXhwaXJlc0F0ID0gZXhwaXJlc0F0LlRvVW5pdmVyc2FsVGltZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2V0VXNlclR3b0ZhY3Rvck1vZGVsKCkK</text>
+        <text encoding="base64">LSBzdGFnZTogU3RhZ2luZwogIC0ga2sK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
