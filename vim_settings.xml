@@ -150,21 +150,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591165318033">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1591315853861">
-        <mark key="[" line="472" column="9" />
-        <mark key="]" line="473" column="18" />
-        <mark key="^" line="473" column="18" />
-        <mark key="." line="473" column="17" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Models/Auth/TwoFactorModel.cs" timestamp="1591165988521">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="15" column="5" />
-      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core.Logging/SecurityLogEntity.cs" timestamp="1591315045960" />
       <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Startup.cs" timestamp="1591226884279">
         <mark key="'" line="186" column="96" />
@@ -173,53 +158,73 @@
         <mark key="." line="531" column="45" />
         <mark key="^" line="531" column="46" />
       </file>
-      <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/HostBuilderExtensions.cs" timestamp="1591249397816">
-        <mark key="[" line="9" column="123" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Cache/IRedisCacheClient.cs" timestamp="1591316268712">
-        <mark key="[" line="69" column="25" />
-        <mark key="]" line="69" column="53" />
-      </file>
       <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/LoggerOptions.cs" timestamp="1591249356595">
         <mark key="[" line="84" column="16" />
         <mark key="]" line="83" column="19" />
         <mark key="." line="83" column="18" />
         <mark key="^" line="83" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/922D6808-1213-4148-970A-0DE66FE3C806/ed/dc460ec8/IdentityUser.cs" timestamp="1591164579810">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="40" />
-      </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core/Testings/HostingEnvironmentExtensions.cs" timestamp="1591316614861">
         <mark key="[" line="74" column="44" />
         <mark key="]" line="74" column="53" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Domain/ApplicationUser.cs" timestamp="1591164405649">
-        <mark key="'" line="50" column="4" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/appsettings.Local.json" timestamp="1591318156238">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+        <mark key="." line="30" column="3" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/20C59619-BAE8-4823-ADC1-3F7C018DF07A/ec/576b1b84/StackExchangeRedisCacheClient.cs" timestamp="1591316607126">
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="44" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Api/appsettings-api.json" timestamp="1591318244280" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/45D20605-9EC8-44F8-8A47-1D6E18421912/2/LoggerExtensions.cs" timestamp="1591228020017">
+        <mark key="'" line="228" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3E8ED71A-D11D-4193-996A-1D37E3C63362/65/0cd6f8fd/RepositoryOptions.cs" timestamp="1591318211026">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="13" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/269CF0C2-EF4A-4923-8491-B824436D080C/52/d19d63f4/SerilogHostBuilderExtensions.cs" timestamp="1591249466084">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1591318449197">
+        <mark key="[" line="472" column="9" />
+        <mark key="]" line="473" column="18" />
+        <mark key="^" line="473" column="18" />
+        <mark key="." line="473" column="17" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/HostBuilderExtensions.cs" timestamp="1591249397816">
+        <mark key="[" line="9" column="123" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Cache/IRedisCacheClient.cs" timestamp="1591318056877">
+        <mark key="[" line="69" column="25" />
+        <mark key="]" line="69" column="53" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/89E901F5-02EC-4DB4-BBC5-F7BFEA24CDDA/3/HostingEnvironmentExtensions.cs" timestamp="1591317966025" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" timestamp="1591315783286">
         <mark key="'" line="128" column="31" />
         <mark key="[" line="296" column="0" />
         <mark key="]" line="305" column="9" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/20C59619-BAE8-4823-ADC1-3F7C018DF07A/ec/576b1b84/StackExchangeRedisCacheClient.cs" timestamp="1591316607126">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="44" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Models/Auth/PasswordModel.cs" timestamp="1591164063587">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="10" column="5" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Cache/IRedisCacheClient.cs" timestamp="1591316659923">
-        <mark key="[" line="104" column="36" />
-        <mark key="]" line="104" column="36" />
-        <mark key="." line="104" column="36" />
-        <mark key="^" line="101" column="51" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Cache/IRedisCacheClient.cs" timestamp="1591318020024">
+        <mark key="[" line="101" column="35" />
+        <mark key="]" line="101" column="36" />
+        <mark key="." line="101" column="35" />
+        <mark key="^" line="101" column="36" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core.Logging/LoggerExtensions.cs" timestamp="1591227360627">
         <mark key="[" line="10" column="60" />
         <mark key="]" line="10" column="76" />
+      </file>
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Startup.cs" timestamp="1591318395081">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/LogHelper.cs" timestamp="1591249502741">
         <mark key="[" line="22" column="25" />
@@ -229,14 +234,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/20735148-1523-4917-A5E8-F91B0B239405/5/JsonConvert.cs" timestamp="1591315281969">
         <mark key="'" line="527" column="29" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/45D20605-9EC8-44F8-8A47-1D6E18421912/2/LoggerExtensions.cs" timestamp="1591228020017">
-        <mark key="'" line="228" column="27" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/269CF0C2-EF4A-4923-8491-B824436D080C/52/d19d63f4/SerilogHostBuilderExtensions.cs" timestamp="1591249466084">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -359,8 +356,8 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>IsTestLocal</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>IsTestLocal</text>
@@ -368,38 +365,38 @@
       <register name="/" type="4">
         <text>)</text>
       </register>
-      <register name="0" type="4">
-        <text>WhiteLabel</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdWJsaWMgY2xhc3MgUmVwb3NpdG9yeU9wdGlvbnMKICB7CiAgICBwdWJsaWMgc3RyaW5nIENvbm5lY3Rpb25TdHJpbmcgeyBnZXQ7IHNldDsgfQoKICAgIHB1YmxpYyBzdHJpbmcgRGF0YWJhc2VOYW1lIHsgZ2V0OyBzZXQ7IH0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGNsYXNzIFJlcG9zaXRvcnlPcHRpb25zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2hvc3RpbmdFbnZpcm9ubWVudAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0cmluZyBHZW5lcmF0ZVFyQ29kZVVyaShzdHJpbmcgZW1haWwsIHN0cmluZyB1bmZvcm1hdHRlZEtleSkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBpc3N1ZXIgPSBfZW52LklzUHJvZHVjdGlvbigpID8gIlNlbHoiIDogJCJTZWx6LXtfZW52LiB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0cmluZyBHZW5lcmF0ZVFyQ29kZVVyaShzdHJpbmcgZW1haWwsIHN0cmluZyB1bmZvcm1hdHRlZEtleSkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBpc3N1ZXIgPSBfZW52LklzUHJvZHVjdGlvbigpID8gIlNlbHoiIDogJCJTZWx6LXtfZW52LiB9Cn0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyBzdHJpbmcgRGF0YWJhc2VOYW1lIHsgZ2V0OyBzZXQ7IH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2NsaWVudFN0b3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbUHJvZHVjZXNSZXNwb25zZVR5cGUodHlwZW9mKEF1dGhvcml6YXRpb25Db2RlTW9kZWwpLCAyMDApXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
