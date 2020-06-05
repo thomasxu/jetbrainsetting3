@@ -9,8 +9,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ShopSync</entry>
-        <entry>domain</entry>
         <entry encoding="base64">XDxzZWx6Y2xvdWRcPg==</entry>
         <entry>ot</entry>
         <entry encoding="base64">XDxfcm5nXD4=</entry>
@@ -29,6 +27,8 @@
         <entry>patch</entry>
         <entry>)</entry>
         <entry>{</entry>
+        <entry>Auh</entry>
+        <entry>Auth</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIHpGIDxGMTI+</entry>
@@ -150,87 +150,71 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591336389146">
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/45D20605-9EC8-44F8-8A47-1D6E18421912/0/ILogger.cs" timestamp="1591337712198">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Shared/Selz.Identity.Core/Extensions/RequestExtensions.cs" timestamp="1591338382845" />
+      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Logging/SecurityLogEntity.cs" timestamp="1591338319300">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Shared/Selz.Identity.Core/Extensions/StringExtensions.cs" timestamp="1591338499676">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" timestamp="1591338887272">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="381" column="0" />
+        <mark key="]" line="381" column="0" />
+        <mark key="." line="381" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Extensions/StringExtensions.cs" timestamp="1591338370947" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1D2EF1A7-7D30-481C-BE77-01312EB6C181/2/LoggerExtensions.cs" timestamp="1591338881175">
+        <mark key="'" line="149" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/45D20605-9EC8-44F8-8A47-1D6E18421912/2/LoggerExtensions.cs" timestamp="1591338868153">
+        <mark key="'" line="149" column="27" />
+      </file>
+      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api.Models/Auth/AuthorizationCodeModel.cs" timestamp="1591337929120">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="44" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591337024329">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1591324755859">
-        <mark key="[" line="472" column="9" />
-        <mark key="]" line="473" column="18" />
-        <mark key="^" line="473" column="18" />
-        <mark key="." line="473" column="17" />
+      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api.Models/Roles/AddRoleRequest.cs" timestamp="1591337897849" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8279F4B2-1DE1-4856-8FBF-2AE8C97AE28A/A/AuthorizeAttribute.cs" timestamp="1591338290103" />
+      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/ClientsController.cs" timestamp="1591338075183">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="31" />
       </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Logger/SecurityLogEntity.cs" timestamp="1591325325054">
-        <mark key="[" line="24" column="54" />
-        <mark key="]" line="24" column="64" />
-        <mark key="." line="2" column="0" />
+      <file name="C:/dev/git/selz/API/src/Selz.BackgroundTasks/Startup.cs" timestamp="1591338138584" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core.Logging/LoggerExtensions.cs" timestamp="1591338705872">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="50" />
+        <mark key="." line="1" column="22" />
       </file>
-      <file name="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/Stores/ClientStoreTests.cs" timestamp="1591335837640" />
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Cache/IRedisCacheClient.cs" timestamp="1591322345609">
-        <mark key="[" line="100" column="35" />
-        <mark key="]" line="100" column="35" />
-        <mark key="^" line="100" column="35" />
-        <mark key="." line="100" column="34" />
+      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Logging/LoggerExtensions.cs" timestamp="1591337733043">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="1" column="35" />
       </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api.Models/Auth/AuthorizationCodeModel.cs" timestamp="1591321726101">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="8" column="1" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="1" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.Core/Testings/HostingEnvironmentExtensions.cs" timestamp="1591325293933">
-        <mark key="[" line="39" column="44" />
-        <mark key="]" line="39" column="54" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/appsettings.Local.json" timestamp="1591318156238">
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="30" column="4" />
-        <mark key="^" line="30" column="4" />
-        <mark key="." line="30" column="3" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Shop/Service/src/Api/Selz.Shops.Api/Startup.cs" timestamp="1591322304007">
-        <mark key="[" line="58" column="40" />
-        <mark key="]" line="59" column="36" />
-        <mark key="^" line="59" column="36" />
-        <mark key="." line="59" column="35" />
-      </file>
-      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/ClientsController.cs" timestamp="1591335919604" />
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Cache/IRedisCacheClient.cs" timestamp="1591325296648">
-        <mark key="[" line="101" column="101" />
-        <mark key="]" line="101" column="112" />
-        <mark key="^" line="101" column="106" />
-        <mark key="." line="101" column="101" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Startup.cs" timestamp="1591318395081">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3E8ED71A-D11D-4193-996A-1D37E3C63362/65/0cd6f8fd/RepositoryOptions.cs" timestamp="1591318211026">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="13" column="3" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/RequestExtensions.cs" timestamp="1591325446702">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9C0A2157-BAC3-4F5A-8845-40EA133DCE79/35/b490d98a/HostingEnvironmentExtensions.cs" timestamp="1591324782906">
-        <mark key="'" line="20" column="4" />
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="49" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="28" />
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Cache/Controllers/AuthController.cs" timestamp="1591338203225" />
+      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" timestamp="1591336614948">
+        <mark key="[" line="42" column="109" />
+        <mark key="]" line="42" column="110" />
+        <mark key="^" line="42" column="110" />
+        <mark key="." line="42" column="109" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="32" filename="C:/dev/git/selz/IdentityServer4.MongoDB/test/IdentityServer4.MongoDB.Tests/Services/CorsPolicyServiceTests.cs" />
-      <jump line="46" column="17" filename="C:/dev/git/selz/Services.Catalog/Service/src/Api/Selz.Catalog.Api/Startup.cs" />
-      <jump line="34" column="37" filename="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/Tests/DummyEntityRepositoryTests.cs" />
-      <jump line="36" column="57" filename="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/Tests/DummyEntityRepositoryTests.cs" />
-      <jump line="39" column="38" filename="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/Tests/DummyEntityRepositoryTests.cs" />
       <jump line="41" column="42" filename="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/Tests/DummyEntityRepositoryTests.cs" />
       <jump line="43" column="37" filename="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/Tests/DummyEntityRepositoryTests.cs" />
       <jump line="58" column="82" filename="C:/dev/git/selz/Services.Core/Repository/src/Selz.Core.Repository.Test/Tests/DummyEntityRepositoryTests.cs" />
@@ -299,7 +283,6 @@
       <jump line="170" column="96" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Startup.cs" />
       <jump line="178" column="106" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Startup.cs" />
       <jump line="186" column="96" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Startup.cs" />
-      <jump line="149" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/45D20605-9EC8-44F8-8A47-1D6E18421912/2/LoggerExtensions.cs" />
       <jump line="228" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/45D20605-9EC8-44F8-8A47-1D6E18421912/2/LoggerExtensions.cs" />
       <jump line="87" column="42" filename="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/LoggerOptions.cs" />
       <jump line="196" column="67" filename="C:/dev/git/selz/Services.Core/Logging/src/Selz.Core.Logging/LoggerOptions.cs" />
@@ -326,6 +309,12 @@
       <jump line="73" column="43" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/RequestExtensions.cs" />
       <jump line="72" column="0" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/RequestExtensions.cs" />
       <jump line="74" column="8" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/RequestExtensions.cs" />
+      <jump line="111" column="78" filename="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" />
+      <jump line="23" column="0" filename="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" />
+      <jump line="211" column="8" filename="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" />
+      <jump line="0" column="0" filename="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" />
+      <jump line="149" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1D2EF1A7-7D30-481C-BE77-01312EB6C181/2/LoggerExtensions.cs" />
+      <jump line="149" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/45D20605-9EC8-44F8-8A47-1D6E18421912/2/LoggerExtensions.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,46 +335,46 @@
         <text />
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Db25maWd1cmU8UmVkaXNPcD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZy5FdmVudElkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>TestR</text>
+        <text>Microsoft.AspNetCore.Authorization.</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text>Auth</text>
       </register>
-      <register name="0" type="4">
-        <text>GetRemoteIp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgTG9nU2VjdXJpdHkodGhpcyBJTG9nZ2VyIGxvZ2dlciwgU2VjdXJpdHlMb2dFbnRpdHkgc2VjdXJpdHlMb2dFbnRpdHkpCiAgICAgICAgewogICAgICAgICAgICBsb2dnZXIuTG9nSW5mb3JtYXRpb24oU2VjdXJpdHlFdmVudElkLCBKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3Qoc2VjdXJpdHlMb2dFbnRpdHkpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Db25maWd1cmU8UmVkaXNPcD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZy5FdmVudElkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2Vsek12Y0NvcmUoKQo=</text>
+        <text encoding="base64">IHVzaW5nIE1pY3Jvc29mdC5FeHRlbnNpb25zLkxvZ2dpbmc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2Vsek12Y0NvcmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text>Auth Controller</text>
+      <register name="4" type="4">
+        <text encoding="base64">cHVibGljIHN0YXRpYyBzdHJpbmcgVG9QcmV0dHlTdHJpbmcodGhpcyBvYmplY3Qgb2JqKQogICAgICAgICB7CiAgICAgICAgICAgICB0cnkKICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICByZXR1cm4gSnNvbkNvbnZlcnQuU2VyaWFsaXplT2JqZWN0KG9iaiwgRm9ybWF0dGluZy5JbmRlbnRlZCk7CiAgICAgICAgICAgICB9CiAgICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uKQogICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIC8vIERvIG5vdGhpbmcKICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICByZXR1cm4gIkNhbm5vdCB3cml0ZW91dCB0aGUgb2JqZWN0IHN0YXRlIHRvIGEgc3RyaW5nIjsKICAgICAgICAgfQoKICAgICAgICAgcHVibGljIHN0YXRpYyBzdHJpbmcgR2V0Rmlyc3RXb3JkKHRoaXMgc3RyaW5nIGlucHV0KQogICAgICAgICB7CiAgICAgICAgICAgICBpZiAoc3RyaW5nLklzTnVsbE9yRW1wdHkoaW5wdXQpKQogICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIHJldHVybiBzdHJpbmcuRW1wdHk7CiAgICAgICAgICAgICB9CgogICAgICAgICAgICAgcmV0dXJuIGlucHV0LlNwbGl0KCcgJykuRmlyc3QoKTsKICAgICAgICAgfQoKICAgICAgICAgcHVibGljIHN0YXRpYyBzdHJpbmcgR2V0TGFzdFdvcmQodGhpcyBzdHJpbmcgaW5wdXQpCiAgICAgICAgIHsKICAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShpbnB1dCkpCiAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgcmV0dXJuIHN0cmluZy5FbXB0eTsKICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICByZXR1cm4gc3RyaW5nLklzTnVsbE9yRW1wdHkoaW5wdXQpID8gaW5wdXQgOiBpbnB1dC5TcGxpdCgnICcpLkxhc3QoKTsKICAgICAgICAgfQoKICAgICAgICAgcHVibGljIHN0YXRpYyBzdHJpbmcgU2FuaXRpemVIdG1sKHRoaXMgc3RyaW5nIGh0bWwsIHBhcmFtcyBzdHJpbmdbXSBhbGxvd1RhZ3MpCiAgICAgICAgIHsKICAgICAgICAgICAgIHZhciBzYW5pdGl6ZXIgPSBuZXcgSHRtbFNhbml0aXplcigpOwogICAgICAgICAgICAgc2FuaXRpemVyLkFsbG93ZWRBdHRyaWJ1dGVzLkFkZCgiY2xhc3MiKTsKCiAgICAgICAgICAgICBpZiAoYWxsb3dUYWdzICE9IG51bGwgJiYgYWxsb3dUYWdzLkFueSgpKQogICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBhbGxvd1RhZyBpbiBhbGxvd1RhZ3MpCiAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICBzYW5pdGl6ZXIuQWxsb3dlZFRhZ3MuQWRkKGFsbG93VGFnKTsKICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICB9CgogICAgICAgICAgICAgdmFyIHNhbml0aXplZCA9IHNhbml0aXplci5TYW5pdGl6ZShodG1sKTsKICAgICAgICAgICAgIHJldHVybiBzYW5pdGl6ZWQ7CiAgICAgICAgIH0KCiAgICAgICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIFN0cmlwSHRtbCh0aGlzIHN0cmluZyBodG1sKQogICAgICAgICB7CiAgICAgICAgICAgICB2YXIgc2FuaXRpemVyID0gbmV3IEh0bWxTYW5pdGl6ZXIobmV3IExpc3Q8c3RyaW5nPigpKTsKICAgICAgICAgICAgIHZhciBzYW5pdGl6ZWQgPSBzYW5pdGl6ZXIuU2FuaXRpemUoaHRtbCk7CiAgICAgICAgICAgICByZXR1cm4gc2FuaXRpemVkLlNhbml0aXplQmFzZTY0KCk7CiAgICAgICAgIH0KCiAgICAgICAgIC8vLyA8c3VtbWFyeT4KICAgICAgICAgLy8vIENvbnZlcnQgSFRNTCBpbnRvIGEgdGV4dCBzdHJpbmcKICAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAgcHVibGljIHN0YXRpYyBzdHJpbmcgUmVtb3ZlSHRtbCh0aGlzIHN0cmluZyBodG1sLCBib29sIHRyaW1OZXdMaW5lcyA9IGZhbHNlKQogICAgICAgICB7CiAgICAgICAgICAgICBpZiAoc3RyaW5nLklzTnVsbE9yV2hpdGVTcGFjZShodG1sKSkKICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICByZXR1cm4gc3RyaW5nLkVtcHR5OwogICAgICAgICAgICAgfQoKICAgICAgICAgICAgIGNvbnN0IHN0cmluZyBzcGFjZSA9ICIgIjsKCiAgICAgICAgICAgICAvLyBEZWZhdWx0IHRvIHVzZSBFbnZpcm9ubWVudCBuZXcgbGluZQogICAgICAgICAgICAgdmFyIG5ld0xpbmUgPSBFbnZpcm9ubWVudC5OZXdMaW5lICsgRW52aXJvbm1lbnQuTmV3TGluZTsKICAgICAgICAgICAgIGlmICh0cmltTmV3TGluZXMpCiAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgbmV3TGluZSA9IHNwYWNlOwogICAgICAgICAgICAgfQoKICAgICAgICAgICAgIC8vIENyZWF0ZSBuZXcgSFRNTCBkb2N1bWVudAogICAgICAgICAgICAgdmFyIGh0bWxEb2MgPSBuZXcgSHRtbERvY3VtZW50KCk7CgogICAgICAgICAgICAgLy8gTG9hZCBjb250ZW50IGludG8gZG9jdW1lbnQKICAgICAgICAgICAgIGh0bWxEb2MuTG9hZEh0bWwoaHRtbCk7CgogICAgICAgICAgICAgLy8gQmFpbCBpZiBlcnJvcnMKICAgICAgICAgICAgIGlmIChodG1sRG9jLlBhcnNlRXJyb3JzLkFueSgpKQogICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIHJldHVybiBzdHJpbmcuRW1wdHk7CiAgICAgICAgICAgICB9CgogICAgICAgICAgICAgLy8gUmVwbGFjZSBtdWx0aXBsZSBsaW5lIGJyZWFrcwogICAgICAgICAgICAgdmFyIHRleHQgPSBSZWdleC5SZXBsYWNlKGh0bWxEb2MuRG9jdW1lbnROb2RlLklubmVyVGV4dCwgQCIoXHJcbil7Mix9IiwgbmV3TGluZSk7CgogICAgICAgICAgICAgLy8gUmVwbGFjZSBhbnkgd2VpcmQgZW5jb2RlZCBIVE1MIGNyYXAgbGlrZSAmbmJzcDsgKGEgc3BhY2UpCiAgICAgICAgICAgICB0ZXh0ID0gV2ViVXRpbGl0eS5IdG1sRGVjb2RlKHRleHQpOwoKICAgICAgICAgICAgIC8vIFJlcGxhY2UgZG91YmxlIHNwYWNlcywgdGFicyBldGMKICAgICAgICAgICAgIGlmICh0cmltTmV3TGluZXMpCiAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgdGV4dCA9IFJlZ2V4LlJlcGxhY2UodGV4dCwgQCJccysiLCBzcGFjZSk7CiAgICAgICAgICAgICB9CgogICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPcldoaXRlU3BhY2UoaHRtbCkpCiAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgcmV0dXJuIHN0cmluZy5FbXB0eTsKICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICByZXR1cm4gdGV4dC5UcmltKCk7CiAgICAgICAgIH0KCiAgICAgICAgIC8vLyA8c3VtbWFyeT4KICAgICAgICAgLy8vIFJlcHJvZHVjdGlvbiBTdGVwcyBmb3IgdGhlIHJlYWwgeHNzOgogICAgICAgICAvLy8gUGxlYXNlIHVzZSB0aGUgTW96aWxsYSBGaXJlZm94IEJyb3dzZXIgdG8gdmVyaWZ5IHRoZSBpZGVudGlmaWVkIGlzc3VlIQogICAgICAgICAvLy8gMSAtIFZpc2l0IHNlbHouY29tIGFuZCBsb2dpbiB0byB5b3VyIGFjY291bnQKICAgICAgICAgLy8vIDIgLSBDbGljayBvbiB0aGUgUHJvZHVpdHMgbWVudSBhbmQgY2xpY2sgb24gXCJBZGQgYW4gYXJ0aWNsZVwiCiAgICAgICAgIC8vLzMgLSBjaG9vc2UgYW55IGl0ZW0gdHlwZQogICAgICAgICAvLy80IC0gTm93IGZvciB0aGUgVGl0bGUgdXNlIHRoaXMgUGF5bG9hZCA6CiAgICAgICAgIC8vLzsgdXJsPWRhdGE6dGV4dC9odG1sO2Jhc2U2NCxQSE5qY21sd2RENWhiR1Z5ZENnbmVITnpJRWhoYlhwaElDNUhKeWs4TDNOamNtbHdkRDQ9IkhUVFAtRVFVSVY9InJlZnJlc2giCiAgICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIFNhbml0aXplQmFzZTY0KHRoaXMgc3RyaW5nIGh0bWwpCiAgICAgICAgIHsKICAgICAgICAgICAgIGNvbnN0IHN0cmluZyBwYXR0ZXJuID0gQCJccyooOz8pKHVybD0pPyhkYXRhOikoW1x3XC9cK10rKTsoY2hhcnNldD1bXHctXSt8YmFzZTY0KSguKiwuKikiOwoKICAgICAgICAgICAgIGh0bWwgPSBSZWdleC5SZXBsYWNlKGh0bWwsIHBhdHRlcm4sICIiKTsKICAgICAgICAgICAgIGh0bWwgPSBodG1sLlJlcGxhY2UoIkhUVFAtRVFVSVY9IiwgIiIpOwoKICAgICAgICAgICAgIHZhciByZXN1bHQgPSBodG1sLlJlcGxhY2UoImJhc2U2NCIsICIiKTsKCiAgICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgICB9CgogICAgICAgICAvLyBDb252ZXJ0cyAiQ2FtZWxDYXNlIiB0byAiQ2FtZWwgQ2FzZSIKICAgICAgICAgLy8gaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL2EvNTc5NjQyNy8xMTkxMzE5CiAgICAgICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIFNwbGl0Q2FtZWxDYXNlKHRoaXMgc3RyaW5nIGlucHV0KQogICAgICAgICB7CiAgICAgICAgICAgICBpZiAoc3RyaW5nLklzTnVsbE9yRW1wdHkoaW5wdXQpKQogICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIHJldHVybiBpbnB1dDsKICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICByZXR1cm4gUmVnZXguUmVwbGFjZShpbnB1dCwgIihcXEJbQS1aXSkiLCAiICQxIik7CiAgICAgICAgIH0KCiAgICAgICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIFRvQ2FtZWxDYXNlKHN0cmluZyBzKQogICAgICAgICB7CiAgICAgICAgICAgICBpZiAoc3RyaW5nLklzTnVsbE9yRW1wdHkocykgfHwgIWNoYXIuSXNVcHBlcihzWzBdKSkKICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICByZXR1cm4gczsKICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICB2YXIgY2hhcnMgPSBzLlRvQ2hhckFycmF5KCk7CgogICAgICAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCBjaGFycy5MZW5ndGg7IGkrKykKICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICBpZiAoaSA9PSAxICYmICFjaGFyLklzVXBwZXIoY2hhcnNbaV0pKQogICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICB2YXIgaGFzTmV4dCA9IGkgKyAxIDwgY2hhcnMuTGVuZ3RoOwogICAgICAgICAgICAgICAgIGlmIChpID4gMCAmJiBoYXNOZXh0ICYmICFjaGFyLklzVXBwZXIoY2hhcnNbaSArIDFdKSkKICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgdmFyIGMgPSBjaGFyLlRvTG93ZXJJbnZhcmlhbnQoY2hhcnNbaV0pOwogICAgICAgICAgICAgICAgIGNoYXJzW2ldID0gYzsKICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICByZXR1cm4gbmV3IHN0cmluZyhjaGFycyk7CiAgICAgICAgIH0KCiAgICAgICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIFRvU25ha2VDYXNlKHRoaXMgc3RyaW5nIHMpCiAgICAgICAgIHsKICAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShzKSkKICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICByZXR1cm4gczsKICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICB2YXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICAgdmFyIHN0YXRlID0gU25ha2VDYXNlU3RhdGUuU3RhcnQ7CgogICAgICAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCBzLkxlbmd0aDsgaSsrKQogICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIGlmIChzW2ldID09ICcgJykKICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIGlmIChzdGF0ZSAhPSBTbmFrZUNhc2VTdGF0ZS5TdGFydCkKICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBTbmFrZUNhc2VTdGF0ZS5OZXdXb3JkOwogICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgIGVsc2UgaWYgKGNoYXIuSXNVcHBlcihzW2ldKSkKICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIHN3aXRjaCAoc3RhdGUpCiAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgU25ha2VDYXNlU3RhdGUuVXBwZXI6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGhhc05leHQgPSBpICsgMSA8IHMuTGVuZ3RoOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpID4gMCAmJiBoYXNOZXh0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG5leHRDaGFyID0gc1tpICsgMV07CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghY2hhci5Jc1VwcGVyKG5leHRDaGFyKSAmJiBuZXh0Q2hhciAhPSAnXycpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNiLkFwcGVuZCgnXycpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgU25ha2VDYXNlU3RhdGUuTG93ZXI6CiAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlIFNuYWtlQ2FzZVN0YXRlLk5ld1dvcmQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2IuQXBwZW5kKCdfJyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgIHZhciBjID0gY2hhci5Ub0xvd2VySW52YXJpYW50KHNbaV0pOwogICAgICAgICAgICAgICAgICAgICBzYi5BcHBlbmQoYyk7CgogICAgICAgICAgICAgICAgICAgICBzdGF0ZSA9IFNuYWtlQ2FzZVN0YXRlLlVwcGVyOwogICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICBlbHNlIGlmIChzW2ldID09ICdfJykKICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgIHNiLkFwcGVuZCgnXycpOwogICAgICAgICAgICAgICAgICAgICBzdGF0ZSA9IFNuYWtlQ2FzZVN0YXRlLlN0YXJ0OwogICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICBpZiAoc3RhdGUgPT0gU25ha2VDYXNlU3RhdGUuTmV3V29yZCkKICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgc2IuQXBwZW5kKCdfJyk7CiAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgIHNiLkFwcGVuZChzW2ldKTsKICAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBTbmFrZUNhc2VTdGF0ZS5Mb3dlcjsKICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICB9CgogICAgICAgICAgICAgcmV0dXJuIHNiLlRvU3RyaW5nKCk7CiAgICAgICAgIH0KCiAgICAgICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIFRvVXJpQ29tcG9uZW50KHRoaXMgc3RyaW5nIHRleHQpCiAgICAgICAgIHsKICAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eSh0ZXh0KSkKICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICByZXR1cm4gc3RyaW5nLkVtcHR5OwogICAgICAgICAgICAgfQoKICAgICAgICAgICAgIHZhciBzdHIgPSB0ZXh0LlJlbW92ZUFjY2VudCgpLlRvTG93ZXIoKTsKCiAgICAgICAgICAgICBzdHIgPSBSZWdleC5SZXBsYWNlKHN0ciwgQCJbXmEtejAtOVxzLV9dIiwgIiIpOyAvLyBpbnZhbGlkIGNoYXJzCiAgICAgICAgICAgICBzdHIgPSBSZWdleC5SZXBsYWNlKHN0ciwgQCJccysiLCAiICIpLlRyaW0oKTsgLy8gY29udmVydCBtdWx0aXBsZSBzcGFjZXMgaW50byBvbmUgc3BhY2UKICAgICAgICAgICAgIHN0ciA9IHN0ci5TdWJzdHJpbmcoMCwgc3RyLkxlbmd0aCA8PSA0NSA/IHN0ci5MZW5ndGggOiA0NSkuVHJpbSgpOyAvLyBjdXQgYW5kIHRyaW0gaXQKICAgICAgICAgICAgIHN0ciA9IFJlZ2V4LlJlcGxhY2Uoc3RyLCBAIltcc19dIiwgIi0iKTsgLy8gaHlwaGVucwoKICAgICAgICAgICAgIHJldHVybiBzdHI7CiAgICAgICAgIH0KCiAgICAgICAgIC8vLyA8c3VtbWFyeT4KICAgICAgICAgLy8vIFJlbW92ZSBhY2NlbnRzIGZyb20gc3RyaW5nIChlLmc6IOEg6SDtKQogICAgICAgICAvLy8gaHR0cDovL3d3dy5sZXZpYm90ZWxoby5jb20vZGV2ZWxvcG1lbnQvYy1yZW1vdmUtZGlhY3JpdGljcy1hY2NlbnRzLWZyb20tYS1zdHJpbmcvCiAgICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgIC8vLyA8cGFyYW0gbmFtZT0idHh0Ij48L3BhcmFtPgogICAgICAgICAvLy8gPHJldHVybnM+PC9yZXR1cm5zPgogICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBSZW1vdmVBY2NlbnQodGhpcyBzdHJpbmcgdHh0KQogICAgICAgICB7CiAgICAgICAgICAgICBpZiAoc3RyaW5nLklzTnVsbE9yRW1wdHkodHh0KSkKICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICByZXR1cm4gc3RyaW5nLkVtcHR5OwogICAgICAgICAgICAgfQoKICAgICAgICAgICAgIHR4dCA9IHR4dC5Ob3JtYWxpemUoTm9ybWFsaXphdGlvbkZvcm0uRm9ybUQpOwogICAgICAgICAgICAgdmFyIGNoYXJzID0gdHh0LldoZXJlKGMgPT4gQ2hhclVuaWNvZGVJbmZvLkdldFVuaWNvZGVDYXRlZ29yeShjKSAhPSBVbmljb2RlQ2F0ZWdvcnkuTm9uU3BhY2luZ01hcmspCiAgICAgICAgICAgICAgICAgLlRvQXJyYXkoKTsKICAgICAgICAgICAgIHJldHVybiBuZXcgc3RyaW5nKGNoYXJzKS5Ob3JtYWxpemUoTm9ybWFsaXphdGlvbkZvcm0uRm9ybUMpOwogICAgICAgICB9CgogICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgIC8vLyBWZXJpZnkgaWYgVVJMIGlzIFNTUkYgKChTZXJ2ZXIgU2lkZSBSZXF1ZXN0IEZvcmdlcnkpIFNhZmUgLSBodHRwczovL3RyZWxsby5jb20vYy9nMHd3Tlk5QgogICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InVybCI+PC9wYXJhbT4KICAgICAgICAgLy8vIDxyZXR1cm5zPjwvcmV0dXJucz4KICAgICAgICAgcHVibGljIHN0YXRpYyBib29sIElzVXJsU3NyZlNhZmUodGhpcyBzdHJpbmcgdXJsKQogICAgICAgICB7CiAgICAgICAgICAgICBpZiAoIVVyaS5UcnlDcmVhdGUodXJsLCBVcmlLaW5kLkFic29sdXRlLCBvdXQgdmFyIHVyaSkpCiAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgLy9DYW5ub3QgY3JlYXRlIGFuIFVyaQogICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAvLyBXZSBzaG91bGRuJ3QgYWNjZXB0IGFueSBJUCwgc3BlY2lhbGx5IHRoZSBJUCBsaXN0ZWQgYmVsb3cKICAgICAgICAgICAgIC8vIDEyNy4wLjAuMQogICAgICAgICAgICAgLy8gMTY5LjI1NC4xNzAuMgogICAgICAgICAgICAgLy8gMTY5LjI1NC4xNjkuMjU0CiAgICAgICAgICAgICBpZiAodXJpLkhvc3ROYW1lVHlwZSAhPSBVcmlIb3N0TmFtZVR5cGUuRG5zKQogICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICByZXR1cm4gIXN0cmluZy5FcXVhbHModXJpLkhvc3QsICJsb2NhbGhvc3QiLCBTdHJpbmdDb21wYXJpc29uLkludmFyaWFudEN1bHR1cmVJZ25vcmVDYXNlKTsKICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIHN0YXRpYyBzdHJpbmcgQmFzZTY0RW5jb2RlKHRoaXMgc3RyaW5nIGlucHV0KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGJ5dGVzID0gRW5jb2RpbmcuVVRGOC5HZXRCeXRlcyhpbnB1dCk7CiAgICAgICAgICAgIHJldHVybiBDb252ZXJ0LlRvQmFzZTY0U3RyaW5nKGJ5dGVzKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBzdGF0aWMgYm9vbCBJc0Fic29sdXRlVXJsKHRoaXMgc3RyaW5nIHVybCkKICAgICAgICB7CiAgICAgICAgICAgIFVyaSByZXN1bHQ7CiAgICAgICAgICAgIHJldHVybiBVcmkuVHJ5Q3JlYXRlKHVybCwgVXJpS2luZC5BYnNvbHV0ZSwgb3V0IHJlc3VsdCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBBZGRRdWVyeVBhcmFtZXRlcih0aGlzIHN0cmluZyB1cmwsIERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+IHBhcmFtZXRlcnMpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gcGFyYW1ldGVycy5BZ2dyZWdhdGUodXJsLCAoY3VycmVudCwgcGFyYW1ldGVyKSA9PiBjdXJyZW50LkFkZFF1ZXJ5UGFyYW1ldGVyKHBhcmFtZXRlci5LZXksIHBhcmFtZXRlci5WYWx1ZS5Ub1N0cmluZygpKSk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBBZGRRdWVyeVBhcmFtZXRlcih0aGlzIHN0cmluZyB1cmwsIHN0cmluZyBrZXksIHN0cmluZyB2YWx1ZSA9ICIiKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPckVtcHR5KHVybCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBzdHJpbmcuRW1wdHk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShrZXkpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gdXJsOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgcGFydHMgPSB1cmwuU3BsaXQoJyMnKTsKCiAgICAgICAgICAgIHJldHVybiAkIntwYXJ0c1swXX17KHBhcnRzWzBdLkNvbnRhaW5zKCI/IikgPyAiJiIgOiAiPyIpfXtrZXl9eyghc3RyaW5nLklzTnVsbE9yRW1wdHkodmFsdWUpID8gIj0iICsgdmFsdWUgOiAiIil9eyhwYXJ0cy5MZW5ndGggPiAxID8gIiMiICsgcGFydHNbMV0gOiAiIil9IjsKICAgICAgICB9CgogICAgICAgIC8vLyA8c3VtbWFyeT4KICAgICAgICAvLy8gQ2hlY2sgaWYgYSBzdHJpbmcgaXMgYSB2YWxpZCBVUkwKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0idXJsIj48L3BhcmFtPgogICAgICAgIC8vLyA8cmV0dXJucz48L3JldHVybnM+CiAgICAgICAgcHVibGljIHN0YXRpYyBib29sIElzVmFsaWRVcmwodGhpcyBzdHJpbmcgdXJsKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHVyaSA9IHVybC5Ub1VyaSgpOwogICAgICAgICAgICByZXR1cm4gdXJpICE9IG51bGwgJiYgKHVyaS5TY2hlbWUgPT0gVXJpLlVyaVNjaGVtZUh0dHAgfHwgdXJpLlNjaGVtZSA9PSBVcmkuVXJpU2NoZW1lSHR0cHMpOwogICAgICAgIH0KCiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBDb252ZXJ0IGEgc3RyaW5nIFVSTCBpbnRvIGEgVVJJIG9iamVjdAogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJ1cmwiPjwvcGFyYW0+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJraW5kIj48L3BhcmFtPgogICAgICAgIC8vLyA8cmV0dXJucz48L3JldHVybnM+CiAgICAgICAgcHVibGljIHN0YXRpYyBVcmkgVG9VcmkodGhpcyBzdHJpbmcgdXJsLCBVcmlLaW5kIGtpbmQgPSBVcmlLaW5kLkFic29sdXRlKQogICAgICAgIHsKICAgICAgICAgICAgVXJpLlRyeUNyZWF0ZSh1cmwsIGtpbmQsIG91dCB2YXIgdXJpKTsKICAgICAgICAgICAgcmV0dXJuIHVyaTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBzdGF0aWMgU2hvcEFjY291bnRUeXBlIFRvQWNjb3VudFR5cGUodGhpcyBzdHJpbmcgaW5wdXQpCiAgICAgICAgewogICAgICAgICAgICBFbnVtLlRyeVBhcnNlKGlucHV0LCB0cnVlLCBvdXQgU2hvcEFjY291bnRUeXBlIHR5cGUpOwoKICAgICAgICAgICAgcmV0dXJuIHR5cGU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBObFRvQnIodGhpcyBzdHJpbmcgaW5wdXQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gUmVnZXguUmVwbGFjZShpbnB1dCwgQCJcclxuP3xcbiIsICI8YnI+Iik7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBEZWNvZGVXaGl0ZXNwYWNlKHRoaXMgc3RyaW5nIGlucHV0KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIGlucHV0LlJlcGxhY2UoIiZuYnNwOyIsICIgIik7CiAgICAgICAgfQoKICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEVuY29kZSBzcGFjZXMgaW4gYSBVUkwKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iaW5wdXQiPjwvcGFyYW0+CiAgICAgICAgLy8vIDxyZXR1cm5zPjwvcmV0dXJucz4KICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBFbmNvZGVTcGFjZXModGhpcyBzdHJpbmcgaW5wdXQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gc3RyaW5nLklzTnVsbE9yRW1wdHkoaW5wdXQpID8gc3RyaW5nLkVtcHR5IDogaW5wdXQuUmVwbGFjZSgiICIsICIrIik7CiAgICAgICAgfQoKICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEZvcmNlIGEgc3RyaW5nIFVSTCB0byBiZSBIVFRQUwogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJpbnB1dCI+PC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+PC9yZXR1cm5zPgogICAgICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nIFRvU2VjdXJlVXJsKHRoaXMgc3RyaW5nIGlucHV0KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuICFzdHJpbmcuSXNOdWxsT3JFbXB0eShpbnB1dCkgPyBpbnB1dC5SZXBsYWNlKCJodHRwOiIsICJodHRwczoiKSA6IG51bGw7CiAgICAgICAgfQoKICAgICAgICBpbnRlcm5hbCBlbnVtIFNuYWtlQ2FzZVN0YXRlCiAgICAgICAgewogICAgICAgICAgICBTdGFydCwKICAgICAgICAgICAgTG93ZXIsCiAgICAgICAgICAgIFVwcGVyLAogICAgICAgICAgICBOZXdXb3JkCiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjZW5kcmVnaW9uCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU2Vsei5Db3JlLkRvbWFpbnMuU2hvcHM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgSHRtbEFnaWxpdHlQYWNrOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjZW5kcmVnaW9uCg==</text>
+      <register name="9" type="4">
+        <text>Microsoft.AspNetCore.</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIHZhciA=</text>
@@ -397,9 +386,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>{</last-search>
+      <last-search>Auth</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
+      <last-pattern>Auth</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxJXD4=</last-substitute>
       <last-dir>1</last-dir>
