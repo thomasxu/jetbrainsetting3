@@ -190,6 +190,10 @@
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="40" />
       </file>
+      <file name="C:/dev/git/selz/API/src/Selz.Core/Testings/HostingEnvironmentExtensions.cs" timestamp="1591316614861">
+        <mark key="[" line="74" column="44" />
+        <mark key="]" line="74" column="53" />
+      </file>
       <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Domain/ApplicationUser.cs" timestamp="1591164405649">
         <mark key="'" line="50" column="4" />
       </file>
@@ -199,7 +203,7 @@
         <mark key="]" line="305" column="9" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/20C59619-BAE8-4823-ADC1-3F7C018DF07A/ec/576b1b84/StackExchangeRedisCacheClient.cs" timestamp="1591316273043">
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/20C59619-BAE8-4823-ADC1-3F7C018DF07A/ec/576b1b84/StackExchangeRedisCacheClient.cs" timestamp="1591316607126">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="44" />
       </file>
@@ -207,11 +211,11 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="10" column="5" />
       </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Cache/IRedisCacheClient.cs" timestamp="1591316368269">
-        <mark key="[" line="70" column="25" />
-        <mark key="]" line="70" column="61" />
-        <mark key="." line="70" column="60" />
-        <mark key="^" line="70" column="61" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Cache/IRedisCacheClient.cs" timestamp="1591316659923">
+        <mark key="[" line="104" column="36" />
+        <mark key="]" line="104" column="36" />
+        <mark key="." line="104" column="36" />
+        <mark key="^" line="101" column="51" />
       </file>
       <file name="C:/dev/git/selz/API/src/Selz.Core.Logging/LoggerExtensions.cs" timestamp="1591227360627">
         <mark key="[" line="10" column="60" />
@@ -225,11 +229,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/20735148-1523-4917-A5E8-F91B0B239405/5/JsonConvert.cs" timestamp="1591315281969">
         <mark key="'" line="527" column="29" />
-      </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/NuGet.config" timestamp="1591163738842">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/45D20605-9EC8-44F8-8A47-1D6E18421912/2/LoggerExtensions.cs" timestamp="1591228020017">
         <mark key="'" line="228" column="27" />
@@ -361,16 +360,16 @@
         <text />
       </register>
       <register name="+" type="4">
-        <text>StackExchange.Redis.Extensions.Core</text>
+        <text>IsTestLocal</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogSURlcGVuZGVuY3k=</text>
+        <text>IsTestLocal</text>
       </register>
       <register name="/" type="4">
         <text>)</text>
       </register>
       <register name="0" type="4">
-        <text>StackExchange.Redis.Extensions.Core</text>
+        <text>WhiteLabel</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLAo=</text>
