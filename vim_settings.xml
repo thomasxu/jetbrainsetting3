@@ -150,11 +150,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Startup.cs" timestamp="1591673514357">
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Startup.cs" timestamp="1591674220684">
         <mark key="[" line="510" column="0" />
         <mark key="]" line="524" column="15" />
       </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Error.cs" timestamp="1591672148862" />
       <file name="C:/dev/git/selz/API/src/Selz.Core/Extensions/DateTimeExtensions.cs" timestamp="1591674005222">
         <mark key="'" line="64" column="9" />
       </file>
@@ -178,14 +177,17 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/45D20605-9EC8-44F8-8A47-1D6E18421912/2/LoggerExtensions.cs" timestamp="1591672927308">
         <mark key="'" line="141" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591673329488">
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2254925F-A632-4F31-B1D5-B3D82A28CAEE/1B/UserClaimsPrincipalFactory.cs" timestamp="1591674060281">
+        <mark key="'" line="101" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591674224508">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1591673795509">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="63" />
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1591674126989">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="73" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/03A4896F-2D59-44D6-B2B4-AD42C9CEE4A5/5/AuthorizationPolicyExtensions.cs" timestamp="1591673658995" />
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Shared/Selz.Identity.Core/Extensions/ShopRoleExtension.cs" timestamp="1591673752216">
@@ -211,12 +213,12 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" timestamp="1591674031738">
-        <mark key="'" line="216" column="42" />
-        <mark key="[" line="216" column="42" />
-        <mark key="]" line="216" column="103" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="386" column="4" />
+      <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" timestamp="1591674077357">
+        <mark key="'" line="219" column="42" />
+        <mark key="[" line="50" column="110" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="52" column="0" />
       </file>
       <file name="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Startup.cs" timestamp="1591673632045">
         <mark key="[" line="132" column="0" />
@@ -231,7 +233,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/03A4896F-2D59-44D6-B2B4-AD42C9CEE4A5/0/IdentityServerAuthenticationDefaults.cs" timestamp="1591673308093" />
     </filemarks>
     <jumps>
-      <jump line="295" column="41" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="302" column="40" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="360" column="38" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
       <jump line="364" column="71" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
@@ -329,8 +330,9 @@
       <jump line="141" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/45D20605-9EC8-44F8-8A47-1D6E18421912/2/LoggerExtensions.cs" />
       <jump line="161" column="40" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" />
       <jump line="195" column="34" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" />
-      <jump line="216" column="42" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" />
       <jump line="64" column="9" filename="C:/dev/git/selz/API/src/Selz.Core/Extensions/DateTimeExtensions.cs" />
+      <jump line="101" column="17" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2254925F-A632-4F31-B1D5-B3D82A28CAEE/1B/UserClaimsPrincipalFactory.cs" />
+      <jump line="216" column="42" filename="C:/dev/git/selz/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -350,8 +352,8 @@
       <register name="j" type="4">
         <text />
       </register>
-      <register name="+" type="4">
-        <text>_authorizationCodeStore.StoreAuthorizationCodeAsync(authCode);</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElBdXRob3JpemF0aW9uQ29kZVN0b3JlIF9hdXRob3JpemF0aW9uQ29kZVN0b3JlOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -359,8 +361,8 @@
       <register name="/" type="4">
         <text>Constatn</text>
       </register>
-      <register name="0" type="4">
-        <text>_authorizationCodeStore.StoreAuthorizationCodeAsync(authCode);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElBdXRob3JpemF0aW9uQ29kZVN0b3JlIF9hdXRob3JpemF0aW9uQ29kZVN0b3JlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgc3RhdGljIFNlbHouSWRlbnRpdHkuQ29yZS5Db25zdGFudHMuUm9sZTsK</text>
