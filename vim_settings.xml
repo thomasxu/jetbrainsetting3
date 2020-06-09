@@ -150,6 +150,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1591670922996">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1591659426972">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="63" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C5AF90E0-B279-40A2-88E6-DEA0FAB79598/0/IdentityServerConstants.cs" timestamp="1591658428311">
         <mark key="'" line="92" column="32" />
         <mark key="[" line="92" column="0" />
@@ -161,15 +170,25 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="25" />
       </file>
+      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/ObjectExtensions.cs" timestamp="1591409563182">
+        <mark key="[" line="34" column="41" />
+        <mark key="]" line="34" column="54" />
+      </file>
       <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Controllers/AuthController.cs" timestamp="1591659624932">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Shared/Selz.Identity.Core/Services/CustomUserClaimsFactory.cs" timestamp="1591671138918" />
       <file name="C:/dev/git/selz/API/src/Selz.Core/Constants.cs" timestamp="1591659162951">
         <mark key="'" line="621" column="31" />
         <mark key="[" line="621" column="0" />
         <mark key="]" line="642" column="0" />
         <mark key="^" line="624" column="32" />
         <mark key="." line="624" column="31" />
+      </file>
+      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Constants.cs" timestamp="1591659064953">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Shared/Selz.Identity.Core/Constants.cs" timestamp="1591659167722">
         <mark key="[" line="3" column="5" />
@@ -181,29 +200,6 @@
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591659852795">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" timestamp="1591659426972">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="63" />
-      </file>
-      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Error.cs" timestamp="1591658285392" />
-      <file name="C:/dev/git/selz/API/src/Selz.IdentityServer/Domain/ApplicationUser.cs" timestamp="1591659558875" />
-      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/ObjectExtensions.cs" timestamp="1591409563182">
-        <mark key="[" line="34" column="41" />
-        <mark key="]" line="34" column="54" />
-      </file>
-      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Shared/Selz.Identity.Core/Services/CustomUserClaimsFactory.cs" timestamp="1591659694896" />
-      <file name="C:/dev/git/selz/API/src/Selz.Core/ErrorMessages.cs" timestamp="1591658331284" />
-      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Constants.cs" timestamp="1591659064953">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="C:/dev/git/experiment_project/Services.Identity/Service/src/Api/Selz.Identity.Api/Mapping/ClientProfile.cs" timestamp="1591658431705" />
     </filemarks>
     <jumps>
       <jump line="173" column="69" filename="C:/dev/git/selz/API/src/Selz.IdentityServer/Areas/Api/Controllers/AuthController.cs" />
