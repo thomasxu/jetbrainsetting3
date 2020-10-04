@@ -4,7 +4,6 @@
       <option name="showLibraryStackFrames" value="false" />
       <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="150" />
-      <show-values-inline>false</show-values-inline>
     </data-views>
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
@@ -14,9 +13,9 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="groupNonPublicMembers" value="true" />
           <option name="showFullyQualifiedTypeNames" value="true" />
           <option name="showRunToPanel" value="false" />
-          <option name="smartStepIntoByDefault" value="false" />
         </configuration>
       </debugger>
       <debugger id="javascript">
