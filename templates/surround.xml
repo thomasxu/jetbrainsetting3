@@ -1,12 +1,12 @@
 <templateSet group="surround">
-  <template name="B" value="{$SELECTION$}" shortcut="NONE" description="Surround with {}" toReformat="true" toShortenFQNames="true">
+  <template name="B" value="{$SELECTION$}" shortcut="SPACE" description="Surround with {}" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="GROOVY" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
-  <template name="P" value="($SELECTION$)" shortcut="NONE" description="Surround with ()" toReformat="false" toShortenFQNames="true">
+  <template name="P" value="($SELECTION$)" description="Surround with ()" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
@@ -27,6 +27,14 @@
     <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
   </template>
   <template name="afs" value="($END$)=&gt;{$SELECTION$}" shortcut="NONE" description="Surround with {}" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="Q" value="&quot;$SELECTION$&quot;" shortcut="SPACE" description="Surround with &quot;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="GROOVY" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
