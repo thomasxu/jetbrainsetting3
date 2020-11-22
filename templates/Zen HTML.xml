@@ -1,4 +1,10 @@
 <templateSet group="Zen HTML">
+  <template name="a" value="&lt;a href=&quot;$VAR0$&quot;&gt;$END$&lt;/a&gt;" description="&lt;a href=&quot;...&quot;&gt;...&lt;/a&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
   <template name="c" value="&lt;!-- $END$ --&gt;" description="&lt;!-- --&gt;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
@@ -8,6 +14,12 @@
   </template>
   <template name="label" value="&lt;label for=&quot;$VAR0$&quot;&gt;$END$&lt;/label&gt;" description="&lt;label for=&quot;...&quot;&gt;...&lt;/label&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="button:d" value="&lt;button disabled&gt;$END$&lt;/button&gt;" description="&lt;button disabled&gt;...&lt;/button&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="btn:s" value="&lt;button type=&quot;submit&quot;&gt;$END$&lt;/button&gt;" description="&lt;button type=&quot;submit&quot;&gt;...&lt;/button&gt;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
 </templateSet>
