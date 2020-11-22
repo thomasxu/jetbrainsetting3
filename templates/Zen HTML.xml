@@ -8,31 +8,4 @@
   <template name="c" value="&lt;!-- $END$ --&gt;" description="&lt;!-- --&gt;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="form" value="&lt;form action=&quot;$VAR0$&quot;&gt;$END$&lt;/form&gt;" description="&lt;form action=&quot;...&quot;&gt;...&lt;/form&gt;" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="label" value="&lt;label for=&quot;$VAR0$&quot;&gt;$END$&lt;/label&gt;" description="&lt;label for=&quot;...&quot;&gt;...&lt;/label&gt;" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="input:image" value="&lt;input type=&quot;image&quot; src=&quot;$VAR0$&quot; alt=&quot;$VAR1$&quot;&gt;" description="&lt;input type=&quot;image&quot; src=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="input:i" value="&lt;input type=&quot;image&quot; src=&quot;$VAR0$&quot; alt=&quot;$VAR1$&quot;&gt;" description="&lt;input type=&quot;image&quot; src=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="command" value="&lt;command&gt;" description="&lt;command&gt;" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="button:d" value="&lt;button disabled&gt;$END$&lt;/button&gt;" description="&lt;button disabled&gt;...&lt;/button&gt;" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="btn:s" value="&lt;button type=&quot;submit&quot;&gt;$END$&lt;/button&gt;" description="&lt;button type=&quot;submit&quot;&gt;...&lt;/button&gt;" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
 </templateSet>
