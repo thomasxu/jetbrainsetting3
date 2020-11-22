@@ -26,6 +26,9 @@
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="command" value="&lt;command&gt;" description="&lt;command&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
   <template name="button:d" value="&lt;button disabled&gt;$END$&lt;/button&gt;" description="&lt;button disabled&gt;...&lt;/button&gt;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
