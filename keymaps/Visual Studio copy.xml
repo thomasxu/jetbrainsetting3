@@ -34,13 +34,12 @@
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="ActivateRunToolWindow" />
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt 2" />
-    <keyboard-shortcut first-keystroke="ctrl 2" />
-  </action>
+  <action id="ActivateStructureToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
     <keyboard-shortcut first-keystroke="alt 0" />
+    <keyboard-shortcut first-keystroke="alt 2" />
+    <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="ActivateUnitTestsToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 8" />
@@ -304,8 +303,8 @@
     <keyboard-shortcut first-keystroke="ctrl 4" />
   </action>
   <action id="Github.View.Pull.Request">
-    <keyboard-shortcut first-keystroke="alt 3" />
     <keyboard-shortcut first-keystroke="ctrl 3" />
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
