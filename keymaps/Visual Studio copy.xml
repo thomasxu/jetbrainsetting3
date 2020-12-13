@@ -39,7 +39,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
     <keyboard-shortcut first-keystroke="alt 0" />
     <keyboard-shortcut first-keystroke="alt 2" />
-    <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="ActivateUnitTestsToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 8" />
@@ -71,7 +70,10 @@
   </action>
   <action id="ChangesView.SetDefault" />
   <action id="ChangesView.ShelveSilently" />
-  <action id="CheckinProject" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl alt 8" />
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
   <action id="ChooseDebugConfiguration" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
