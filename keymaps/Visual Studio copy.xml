@@ -34,7 +34,9 @@
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="ActivateRunToolWindow" />
-  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 5" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
     <keyboard-shortcut first-keystroke="alt 0" />
@@ -316,6 +318,7 @@
   <action id="GotoBookmark2" />
   <action id="GotoBookmark3" />
   <action id="GotoBookmark4" />
+  <action id="GotoBookmark5" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
