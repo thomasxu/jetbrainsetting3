@@ -56,7 +56,7 @@
   <action id="AutoIndentLines" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
-    <mouse-shortcut keystroke="button5" />
+    <mouse-shortcut keystroke="alt button5" />
   </action>
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="alt b" />
@@ -121,7 +121,6 @@
   <action id="Console.TableResult.MaximizeEditingCell" />
   <action id="Console.TableResult.NavigateForeignAction">
     <keyboard-shortcut first-keystroke="f12" />
-    <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
@@ -273,6 +272,7 @@
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift alt period" />
+    <mouse-shortcut keystroke="shift alt button1" />
   </action>
   <action id="FindUsagesInFile" />
   <action id="ForceRunToCursor">
@@ -282,7 +282,7 @@
   <action id="ForceStepOver" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
-    <mouse-shortcut keystroke="button4" />
+    <mouse-shortcut keystroke="alt button4" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -326,6 +326,7 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
     <keyboard-shortcut first-keystroke="alt period" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
@@ -333,6 +334,7 @@
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="shift alt j" />
+    <mouse-shortcut keystroke="shift alt button142" />
   </action>
   <action id="GotoNextBookmark" />
   <action id="GotoNextError">
@@ -344,6 +346,7 @@
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="shift alt k" />
+    <mouse-shortcut keystroke="shift alt button143" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
@@ -393,7 +396,6 @@
   </action>
   <action id="Jdbc.OpenEditor.DDL">
     <keyboard-shortcut first-keystroke="f12" />
-    <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="Jdbc.RunSqlScript" />
@@ -429,10 +431,12 @@
   <action id="NewScratchFile" />
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="alt right" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="NextEditorTab" />
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="alt down" />
+    <mouse-shortcut keystroke="alt button142" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt page_down" />
@@ -459,10 +463,12 @@
   <action id="PopupHector" />
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="alt left" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="alt up" />
+    <mouse-shortcut keystroke="alt button143" />
   </action>
   <action id="PreviousProjectWindow" />
   <action id="PreviousTab">
