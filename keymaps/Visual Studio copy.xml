@@ -56,7 +56,7 @@
   <action id="AutoIndentLines" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
-    <mouse-shortcut keystroke="alt button5" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="alt b" />
@@ -282,7 +282,7 @@
   <action id="ForceStepOver" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
-    <mouse-shortcut keystroke="alt button4" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
