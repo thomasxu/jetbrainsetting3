@@ -51,6 +51,10 @@
   </action>
   <action id="ActivateWebToolWindow" />
   <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
+  </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
@@ -249,9 +253,12 @@
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -424,7 +431,11 @@
   <action id="MoveElementLeft" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
+  </action>
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
   </action>
   <action id="NewScratchFile" />
   <action id="NextDiff">
@@ -447,7 +458,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
   <action id="OpenExceptionSettings" />
-  <action id="OpenWinFormsCodeAction" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f8" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f6" />
+  </action>
+  <action id="OpenWinFormsCodeAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <mouse-shortcut keystroke="shift control button2" />
@@ -533,6 +551,9 @@
   <action id="RiderBackendAction-EncapsulateField">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
+  <action id="RiderNewSolution">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f7" />
+  </action>
   <action id="RiderNuGetQuickListPopupAction" />
   <action id="RiderRemoveAllLineBreakpoints" />
   <action id="RiderShowValueOrigin">
@@ -568,6 +589,7 @@
   <action id="RunClass" />
   <action id="RunDashboard.Run" />
   <action id="RunInspection" />
+  <action id="RunJsbtTask" />
   <action id="RunToCursor" />
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="alt delete" />
@@ -614,6 +636,7 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
+  <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUmlDiagram" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="shift alt f12" />
