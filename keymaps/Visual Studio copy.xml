@@ -41,6 +41,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
     <keyboard-shortcut first-keystroke="alt 0" />
     <keyboard-shortcut first-keystroke="alt 2" />
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="ActivateUnitTestsToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 8" />
@@ -120,7 +121,6 @@
   </action>
   <action id="Console.TableResult.MaximizeEditingCell" />
   <action id="Console.TableResult.NavigateForeignAction">
-    <keyboard-shortcut first-keystroke="f12" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
@@ -324,7 +324,6 @@
   </action>
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="f12" />
     <keyboard-shortcut first-keystroke="alt period" />
     <mouse-shortcut keystroke="control button1" />
   </action>
@@ -395,7 +394,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
   <action id="Jdbc.OpenEditor.DDL">
-    <keyboard-shortcut first-keystroke="f12" />
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="Jdbc.RunSqlScript" />
