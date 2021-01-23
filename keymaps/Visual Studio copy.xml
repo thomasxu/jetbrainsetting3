@@ -212,7 +212,6 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <keyboard-shortcut first-keystroke="alt p" />
-    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine" />
@@ -254,8 +253,8 @@
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFile">
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
   </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -291,10 +290,7 @@
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
-  <action id="Generate">
-    <keyboard-shortcut first-keystroke="alt insert" />
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
-  </action>
+  <action id="Generate" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
@@ -415,6 +411,10 @@
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="context_menu" />
   </action>
+  <action id="Macro.create_file">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
   </action>
@@ -435,7 +435,6 @@
   </action>
   <action id="NewElementSamePlace">
     <keyboard-shortcut first-keystroke="ctrl alt insert" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
   </action>
   <action id="NewScratchFile" />

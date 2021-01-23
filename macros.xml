@@ -6,5 +6,9 @@
       <shortuct text="ESCAPE" />
       <typing text-keycode="79:0">o</typing>
     </macro>
+    <macro name="create_file">
+      <action id="NewElement" />
+      <typing text-keycode="70:0">f</typing>
+    </macro>
   </component>
 </application>
