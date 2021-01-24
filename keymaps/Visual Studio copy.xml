@@ -290,7 +290,9 @@
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
-  <action id="Generate" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
@@ -412,7 +414,6 @@
     <keyboard-shortcut first-keystroke="context_menu" />
   </action>
   <action id="Macro.create_file">
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="MethodDown">
