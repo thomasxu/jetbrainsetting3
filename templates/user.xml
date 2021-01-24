@@ -22,8 +22,8 @@
     </context>
   </template>
   <template name="propg" value="public $type$ $property$ { get; }&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
+    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
@@ -46,8 +46,8 @@
     </context>
   </template>
   <template name="prope" value="public $type$ $property$ =&gt; $Exp$;&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
+    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <variable name="Exp" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
@@ -71,8 +71,8 @@
     </context>
   </template>
   <template name="propgi" value="$type$ $property$ { get; }&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
+    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
@@ -284,8 +284,8 @@
     </context>
   </template>
   <template name="propi" value="$type$ $property$ { get; set;}&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
+    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
@@ -308,8 +308,8 @@
     </context>
   </template>
   <template name="props" value="public static $type$ $property$ { get; set; }&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
+    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
@@ -332,8 +332,8 @@
     </context>
   </template>
   <template name="propgs" value="public static $type$ $property$ { get; }&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="string" alwaysStopAt="true" />
+    <variable name="property" expression="capitalize(String)" defaultValue="PropertyName" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
