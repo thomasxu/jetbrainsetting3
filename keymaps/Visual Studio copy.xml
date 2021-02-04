@@ -478,9 +478,8 @@
   </action>
   <action id="Pause" />
   <action id="PerforceDirect.Edit" />
-  <action id="PinActiveTab">
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
+  <action id="PinActiveEditorTab" />
+  <action id="PinToolwindowTab" />
   <action id="PopupHector" />
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="alt left" />
@@ -670,6 +669,9 @@
   <action id="ToggleBookmark" />
   <action id="ToggleBreakpointEnabled" />
   <action id="ToggleFullScreen" />
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="ToggleTemporaryLineBreakpoint" />
   <action id="TypeHierarchy" />
   <action id="UML.ActualSize">
