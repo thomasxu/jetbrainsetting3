@@ -382,6 +382,7 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="ImplementMethods" />
+  <action id="IncrementalSearch" />
   <action id="Inline" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="alt comma" />
@@ -559,6 +560,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt f7" />
   </action>
   <action id="RiderNuGetQuickListPopupAction" />
+  <action id="RiderNuGetToggleInfoExpanderAction" />
   <action id="RiderRemoveAllLineBreakpoints" />
   <action id="RiderShowValueOrigin">
     <keyboard-shortcut first-keystroke="shift ctrl alt period" />
@@ -668,10 +670,11 @@
   <action id="TableResult.UnselectPreviousOccurrence" />
   <action id="ToggleBookmark" />
   <action id="ToggleBreakpointEnabled" />
-  <action id="ToggleFullScreen" />
-  <action id="TogglePresentationMode">
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl i" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="ToggleFullScreen" />
   <action id="ToggleTemporaryLineBreakpoint" />
   <action id="TypeHierarchy" />
   <action id="UML.ActualSize">
