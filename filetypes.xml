@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="esources" type="PLAIN_TEXT" />
       <mapping ext="ahk" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping ext="liquid" type="Twig" />
     </extensionMap>
