@@ -881,8 +881,9 @@
         <entry key="*.ignore">
           <value>
             <plugin>
-              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
-              <option name="myPluginName" value=".ignore" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1168,6 +1169,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.log">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.ideolog" />
+              <option name="myPluginName" value="Ideolog" />
             </plugin>
           </value>
         </entry>
@@ -2907,6 +2916,16 @@
                   <entry key="XamarinMacProject">
                     <value>
                       <FeaturePluginData displayName="Xamarin.Mac" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="aws.ecs.cloud-debug">
+                    <value>
+                      <FeaturePluginData displayName="AWS ECS Service Cloud Debug (Beta)" pluginName="AWS Toolkit" pluginId="aws.toolkit" />
+                    </value>
+                  </entry>
+                  <entry key="aws.lambda">
+                    <value>
+                      <FeaturePluginData displayName="AWS Lambda" pluginName="AWS Toolkit" pluginId="aws.toolkit" />
                     </value>
                   </entry>
                   <entry key="cucumber.js">
